@@ -1,9 +1,8 @@
 {
-  "name": "gatsby-starter-default",
-  "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "name": "diy-bible",
+  "description": "DIY e-liquid information compendium",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "ayan4m1 <andrew@bulletlogic.com>",
   "dependencies": {
     "gatsby": "^2.13.70",
     "gatsby-image": "^2.2.9",
@@ -35,9 +34,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "git@github.com:ayan4m1/diy-bible.git"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/ayan4m1/diy-bible/issues"
   }
 }
