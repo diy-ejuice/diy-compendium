@@ -28,6 +28,20 @@ const Header = ({ siteTitle }) => (
             <Link to="/guides/videos">Videos</Link>
           </NavDropdown.Item>
         </NavDropdown>
+        <NavDropdown title="Vendors" id="dropdown-vendors">
+          <NavDropdown.Item>
+            <Link to="/vendors/tfa">The Flavor Apprentice</Link>
+          </NavDropdown.Item>
+          <NavDropdown.Item>
+            <Link to="/vendors/cap">Capella Flavors</Link>
+          </NavDropdown.Item>
+          <NavDropdown.Item>
+            <Link to="/vendors/flv">Flavorah</Link>
+          </NavDropdown.Item>
+          <NavDropdown.Item>
+            <Link to="/vendors/fw">Flavor West</Link>
+          </NavDropdown.Item>
+        </NavDropdown>
         <Nav.Link as={Link} to="/troubleshooting">
           Troubleshooting
         </Nav.Link>
