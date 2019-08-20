@@ -38,6 +38,7 @@ module.exports = {
         head: true,
         anonymize: true
       }
-    }
+    },
+    'gatsby-plugin-sass'
   ]
 };

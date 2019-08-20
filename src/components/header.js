@@ -1,34 +1,39 @@
+import React from 'react';
 import { Link } from 'gatsby';
 import PropTypes from 'prop-types';
-import React from 'react';
+import { Navbar, Nav } from 'react-bootstrap';
+import NavDropdown from 'react-bootstrap/NavDropdown';
 
 const Header = ({ siteTitle }) => (
-  <header
-    style={{
-      background: `rebeccapurple`,
-      marginBottom: `1.45rem`
-    }}
-  >
-    <div
-      style={{
-        margin: `0 auto`,
-        maxWidth: 960,
-        padding: `1.45rem 1.0875rem`
-      }}
-    >
-      <h1 style={{ margin: 0 }}>
-        <Link
-          to="/"
-          style={{
-            color: `white`,
-            textDecoration: `none`
-          }}
-        >
-          {siteTitle}
-        </Link>
-      </h1>
-    </div>
-  </header>
+  <Navbar variant="dark" bg="primary" expand="lg">
+    <Navbar.Brand>
+      <Link to="/">{siteTitle}</Link>
+    </Navbar.Brand>
+    <Navbar.Collapse>
+      <Nav>
+        <Nav.Link as={Link} to="/quick-start">
+          Quick Start
+        </Nav.Link>
+        <NavDropdown title="Guides" id="dropdown-guides">
+          <NavDropdown.Item>
+            <Link to="/guides/chemistry">Chemistry</Link>
+          </NavDropdown.Item>
+          <NavDropdown.Item>
+            <Link to="/guides/equipment">Equipment</Link>
+          </NavDropdown.Item>
+          <NavDropdown.Item>
+            <Link to="/guides/flavors">Flavors</Link>
+          </NavDropdown.Item>
+          <NavDropdown.Item>
+            <Link to="/guides/videos">Videos</Link>
+          </NavDropdown.Item>
+        </NavDropdown>
+        <Nav.Link as={Link} to="/troubleshooting">
+          Troubleshooting
+        </Nav.Link>
+      </Nav>
+    </Navbar.Collapse>
+  </Navbar>
 );
 
 Header.propTypes = {
