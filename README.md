@@ -6,6 +6,10 @@ This is a proof of concept for a Gatsby-based site with information about DIY e-
 
 - Latest stable [NodeJS](https://nodejs.org/en/download/current/)
 
+## Setup
+
+Run `npm install` from this directory.
+
 ## Usage
 
 You can use the following commands to develop, build, and deploy this project.
