@@ -3,10 +3,15 @@ import { graphql } from 'gatsby';
 import PropTypes from 'prop-types';
 import { Container, Row, Col } from 'react-bootstrap';
 
+import NotFoundPage from './404';
 import SEO from '../components/seo';
 import Layout from '../components/layout';
 
 const Content = ({ data }) => {
+  if (!data || !data.markdownRemark) {
+    return <NotFoundPage />;
+  }
+
   const {
     markdownRemark: {
       html,
