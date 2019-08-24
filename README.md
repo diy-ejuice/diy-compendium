@@ -4,7 +4,7 @@ This is a proof of concept for a Gatsby-based site with information about DIY e-
 
 ## Prerequisites
 
-- Latest stable [NodeJS](<(https://nodejs.org/en/download/current/)>)
+- Latest stable [NodeJS](https://nodejs.org/en/download/current/)
 
 ## Usage
 
