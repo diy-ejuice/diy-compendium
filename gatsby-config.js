@@ -13,6 +13,13 @@ module.exports = {
         path: `${__dirname}/src/images`
       }
     },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'docs',
+        path: `${__dirname}/src/docs`
+      }
+    },
     'gatsby-transformer-sharp',
     'gatsby-plugin-sharp',
     {
@@ -30,7 +37,6 @@ module.exports = {
       }
     },
     'gatsby-plugin-offline',
-    'gatsby-plugin-mdx',
     {
       resolve: 'gatsby-plugin-gtag',
       options: {
@@ -39,6 +45,8 @@ module.exports = {
         anonymize: true
       }
     },
-    'gatsby-plugin-sass'
+    'gatsby-plugin-sass',
+    'gatsby-transformer-remark',
+    'gatsby-plugin-eslint'
   ]
 };
