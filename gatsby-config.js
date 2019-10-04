@@ -26,10 +26,12 @@ module.exports = {
         baseUrl: process.env.WP_BASE_URL,
         protocol: 'http',
         useACF: false,
-        /* eslint-disable camelcase */
-        jwt_user: process.env.WP_JWT_USER,
-        jwt_pass: process.env.WP_JWT_PASSWORD
-        /* eslint-enable camelcase */
+        auth: {
+          /* eslint-disable camelcase */
+          jwt_user: process.env.WP_JWT_USER,
+          jwt_pass: process.env.WP_JWT_PASSWORD
+          /* eslint-enable camelcase */
+        }
       }
     },
     'gatsby-transformer-sharp',
