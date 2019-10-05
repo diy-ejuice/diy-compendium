@@ -8,15 +8,12 @@ import Layout from '../layout';
 import NotFoundPage from '../../pages/404';
 
 const WordPressContent = ({ data }) => {
-  if (!data || !data.WordPressRemark) {
+  if (!data || !data.WordpressPost) {
     return <NotFoundPage />;
   }
 
   const {
-    WordPressRemark: {
-      html,
-      frontmatter: { title }
-    }
+    WordpressPost: { content, title }
   } = data;
 
   return (
@@ -24,14 +21,14 @@ const WordPressContent = ({ data }) => {
       <SEO title={title} />
       <Container className="mt-5">
         <Row>
-          <Col md="12" dangerouslySetInnerHTML={{ __html: html }} />
+          <Col md="12" dangerouslySetInnerHTML={{ __html: content }} />
         </Row>
       </Container>
     </Layout>
   );
 };
 
-WordPressContent.displayName = 'Content';
+WordPressContent.displayName = 'WordPressContent';
 WordPressContent.propTypes = {
   data: PropTypes.object
 };

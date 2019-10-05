@@ -31,7 +31,7 @@ const MarkdownContent = ({ data }) => {
   );
 };
 
-MarkdownContent.displayName = 'Content';
+MarkdownContent.displayName = 'MarkdownContent';
 MarkdownContent.propTypes = {
   data: PropTypes.object
 };
