@@ -71,8 +71,7 @@ const createWordPressPages = async ({ actions, graphql, reporter }) => {
   result.data.allWordpressPost.edges.forEach(({ node }) => {
     const { content, id, path, slug, title } = node;
 
-    // eslint-disable-next-line
-    console.dir(path);
+    reporter.info(`Mapped ${id} to ${path}`);
     createPage({
       context: {
         content,
