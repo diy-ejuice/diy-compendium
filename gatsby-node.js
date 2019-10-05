@@ -69,14 +69,16 @@ const createWordPressPages = async ({ actions, graphql, reporter }) => {
   }
 
   result.data.allWordpressPost.edges.forEach(({ node }) => {
-    const { content, id, path, slug, title } = node;
+    const { id, date, slug, title, content, excerpt, path } = node;
 
     reporter.info(`Mapped ${id} to ${path}`);
     createPage({
       context: {
+        excerpt,
         content,
         title,
         slug,
+        date,
         id
       },
       component,
