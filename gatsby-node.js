@@ -46,7 +46,7 @@ const createWordPressPages = async ({ actions, graphql, reporter }) => {
   const { createPage } = actions;
   const result = await graphql(`
     {
-      allWordpressPost {
+      allWordpressPost(limit: 1000) {
         edges {
           node {
             id
