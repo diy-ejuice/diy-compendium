@@ -14,7 +14,12 @@ const WordPressContent = ({ data }) => {
   }
 
   const {
-    wordpressPost: { content, title, date: rawDate }
+    wordpressPost: {
+      content,
+      title,
+      date: rawDate,
+      author: { name }
+    }
   } = data;
 
   const parsed = parseISO(rawDate);
@@ -30,12 +35,17 @@ const WordPressContent = ({ data }) => {
           </Col>
         </Row>
         <Row>
-          <Col md="12" className="mt-2 mb-2 bt-1">
-            Posted on {date}
+          <Col md="12" className="mt-2 mb-2">
+            Posted on {date} by {name}
           </Col>
         </Row>
+        <hr />
         <Row>
-          <Col md="12" dangerouslySetInnerHTML={{ __html: content }} />
+          <Col
+            md="12"
+            className="mt-4"
+            dangerouslySetInnerHTML={{ __html: content }}
+          />
         </Row>
       </Container>
     </Layout>
@@ -55,6 +65,9 @@ export const pageQuery = graphql`
       date
       title
       content
+      author {
+        name
+      }
     }
   }
 `;
