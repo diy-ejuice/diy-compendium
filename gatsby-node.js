@@ -1,4 +1,5 @@
 const { resolve } = require('path');
+const omit = require('lodash.omit');
 
 const createMarkdownPages = async ({ actions, graphql, reporter }) => {
   const component = resolve('src/components/content/markdown.js');
@@ -69,18 +70,11 @@ const createWordPressPages = async ({ actions, graphql, reporter }) => {
   }
 
   result.data.allWordpressPost.edges.forEach(({ node }) => {
-    const { id, date, slug, title, content, excerpt, path } = node;
+    const { id, path } = node;
 
     reporter.info(`Mapped ${id} to ${path}`);
     createPage({
-      context: {
-        excerpt,
-        content,
-        title,
-        slug,
-        date,
-        id
-      },
+      context: omit(node, ['path']),
       component,
       path
     });
