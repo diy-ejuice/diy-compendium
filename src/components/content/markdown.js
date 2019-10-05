@@ -3,11 +3,11 @@ import { graphql } from 'gatsby';
 import PropTypes from 'prop-types';
 import { Container, Row, Col } from 'react-bootstrap';
 
-import SEO from './seo';
-import Layout from './layout';
-import NotFoundPage from '../pages/404';
+import SEO from '../seo';
+import Layout from '../layout';
+import NotFoundPage from '../../pages/404';
 
-const Content = ({ data }) => {
+const MarkdownContent = ({ data }) => {
   if (!data || !data.markdownRemark) {
     return <NotFoundPage />;
   }
@@ -31,12 +31,12 @@ const Content = ({ data }) => {
   );
 };
 
-Content.displayName = 'Content';
-Content.propTypes = {
+MarkdownContent.displayName = 'Content';
+MarkdownContent.propTypes = {
   data: PropTypes.object
 };
 
-export default Content;
+export default MarkdownContent;
 
 export const pageQuery = graphql`
   query($path: String!) {
