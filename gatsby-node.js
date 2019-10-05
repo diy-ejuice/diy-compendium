@@ -58,6 +58,15 @@ const createWordPressPages = async ({ actions, graphql, reporter }) => {
             excerpt
             date
             modified
+            author {
+              id
+              name
+              avatar_urls {
+                wordpress_24
+                wordpress_48
+                wordpress_96
+              }
+            }
           }
         }
       }
