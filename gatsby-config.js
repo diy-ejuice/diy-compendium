@@ -26,7 +26,7 @@ module.exports = {
       resolve: 'gatsby-source-wordpress',
       options: {
         baseUrl: process.env.WP_BASE_URL,
-        protocol: 'http',
+        protocol: 'https',
         useACF: false,
         auth: {
           /* eslint-disable camelcase */
