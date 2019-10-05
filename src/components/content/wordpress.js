@@ -2,24 +2,38 @@ import React from 'react';
 import { graphql } from 'gatsby';
 import PropTypes from 'prop-types';
 import { Container, Row, Col } from 'react-bootstrap';
+import { format, parseISO } from 'date-fns';
 
 import SEO from '../seo';
 import Layout from '../layout';
 import NotFoundPage from '../../pages/404';
 
 const WordPressContent = ({ data }) => {
-  if (!data || !data.WordpressPost) {
+  if (!data || !data.wordpressPost) {
     return <NotFoundPage />;
   }
 
   const {
-    WordpressPost: { content, title }
+    wordpressPost: { content, title, date: rawDate }
   } = data;
+
+  const parsed = parseISO(rawDate);
+  const date = format(parsed, "yyyy-MM-dd' at 'HH:mm:ss");
 
   return (
     <Layout>
       <SEO title={title} />
       <Container className="mt-5">
+        <Row>
+          <Col md="12" className="mt-4">
+            <h1>{title}</h1>
+          </Col>
+        </Row>
+        <Row>
+          <Col md="12" className="mt-2 mb-2 bt-1">
+            Posted on {date}
+          </Col>
+        </Row>
         <Row>
           <Col md="12" dangerouslySetInnerHTML={{ __html: content }} />
         </Row>
@@ -38,10 +52,9 @@ export default WordPressContent;
 export const pageQuery = graphql`
   query($path: String!) {
     wordpressPost(path: { eq: $path }) {
-      content
+      date
       title
-      slug
-      id
+      content
     }
   }
 `;
