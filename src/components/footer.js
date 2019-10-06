@@ -12,7 +12,7 @@ export default class Footer extends Component {
             <Col md="4">Copyright &copy; 2019 DIY Compendium</Col>
             <Col md="4">
               <a
-                href="https://github.com/ayan4m1/diy-compendium"
+                href="https://github.com/diy-ejuice/diy-compendium"
                 rel="noopener noreferer"
               >
                 GitHub
