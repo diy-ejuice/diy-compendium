@@ -133,3 +133,14 @@ exports.createPages = async options => {
   await createMarkdownPages(options);
   await createWordPressPages(options);
 };
+
+exports.onCreateWebpackConfig = ({ actions }) => {
+  actions.setWebpackConfig({
+    resolve: {
+      alias: {
+        '~components': resolve(__dirname, 'src/components'),
+        '~pages': resolve(__dirname, 'src/pages')
+      }
+    }
+  });
+};
