@@ -70,6 +70,30 @@ const createWordPressPages = async ({ actions, graphql, reporter }) => {
           }
         }
       }
+
+      allWordpressPage(limit: 1000) {
+        edges {
+          node {
+            id
+            path
+            title
+            status
+            content
+            excerpt
+            date
+            modified
+            author {
+              id
+              name
+              avatar_urls {
+                wordpress_24
+                wordpress_48
+                wordpress_96
+              }
+            }
+          }
+        }
+      }
     }
   `);
 
@@ -78,7 +102,7 @@ const createWordPressPages = async ({ actions, graphql, reporter }) => {
     return;
   }
 
-  result.data.allWordpressPost.edges.forEach(({ node }) => {
+  const pageFromNodes = ({ node }) => {
     const { id, path } = node;
 
     reporter.info(`Mapped ${id} to ${path}`);
@@ -87,7 +111,10 @@ const createWordPressPages = async ({ actions, graphql, reporter }) => {
       component,
       path
     });
-  });
+  };
+
+  result.data.allWordpressPost.edges.forEach(pageFromNodes);
+  result.data.allWordpressPage.edges.forEach(pageFromNodes);
 };
 
 exports.createPages = async options => {
