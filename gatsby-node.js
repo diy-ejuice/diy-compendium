@@ -43,7 +43,8 @@ const createMarkdownPages = async ({ actions, graphql, reporter }) => {
 };
 
 const createWordPressPages = async ({ actions, graphql, reporter }) => {
-  const component = resolve('src/components/content/wordpress.js');
+  const postComponent = resolve('src/components/content/wordpress-post.js');
+  const pageComponent = resolve('src/components/content/wordpress-page.js');
   const { createPage } = actions;
   const result = await graphql(`
     {
@@ -102,18 +103,29 @@ const createWordPressPages = async ({ actions, graphql, reporter }) => {
     return;
   }
 
+  const postFromNodes = ({ node }) => {
+    const { id, path } = node;
+
+    reporter.info(`Mapped ${id} to ${path}`);
+    createPage({
+      context: omit(node, ['path']),
+      component: postComponent,
+      path
+    });
+  };
+
   const pageFromNodes = ({ node }) => {
     const { id, path } = node;
 
     reporter.info(`Mapped ${id} to ${path}`);
     createPage({
       context: omit(node, ['path']),
-      component,
+      component: pageComponent,
       path
     });
   };
 
-  result.data.allWordpressPost.edges.forEach(pageFromNodes);
+  result.data.allWordpressPost.edges.forEach(postFromNodes);
   result.data.allWordpressPage.edges.forEach(pageFromNodes);
 };
 

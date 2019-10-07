@@ -2,28 +2,23 @@ import React from 'react';
 import { graphql } from 'gatsby';
 import PropTypes from 'prop-types';
 import { Container, Row, Col } from 'react-bootstrap';
-import { format, parseISO } from 'date-fns';
 
 import SEO from '../seo';
 import Layout from '../layout';
 import NotFoundPage from '../../pages/404';
 
-const WordPressContent = ({ data }) => {
-  if (!data || !data.wordpressPost) {
+const WordPressPageContent = ({ data }) => {
+  if (!data || !data.wordpressPage) {
     return <NotFoundPage />;
   }
 
   const {
-    wordpressPost: {
+    wordpressPage: {
       content,
       title,
-      date: rawDate,
       author: { name }
     }
   } = data;
-
-  const parsed = parseISO(rawDate);
-  const date = format(parsed, "yyyy-MM-dd' at 'HH:mm:ss");
 
   return (
     <Layout>
@@ -32,11 +27,7 @@ const WordPressContent = ({ data }) => {
         <Row>
           <Col md="12" className="mt-4">
             <h1>{title}</h1>
-          </Col>
-        </Row>
-        <Row>
-          <Col md="12" className="mt-2 mb-2">
-            Posted on {date} by {name}
+            <h4>by {name}</h4>
           </Col>
         </Row>
         <hr />
@@ -52,17 +43,16 @@ const WordPressContent = ({ data }) => {
   );
 };
 
-WordPressContent.displayName = 'WordPressContent';
-WordPressContent.propTypes = {
+WordPressPageContent.displayName = 'WordPressPageContent';
+WordPressPageContent.propTypes = {
   data: PropTypes.object
 };
 
-export default WordPressContent;
+export default WordPressPageContent;
 
 export const pageQuery = graphql`
   query($path: String!) {
-    wordpressPost(path: { eq: $path }) {
-      date
+    wordpressPage(path: { eq: $path }) {
       title
       content
       author {
