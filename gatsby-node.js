@@ -43,8 +43,8 @@ const createMarkdownPages = async ({ actions, graphql, reporter }) => {
 };
 
 const createWordPressPages = async ({ actions, graphql, reporter }) => {
-  const postComponent = resolve('src/components/content/wordpress-post.js');
-  const pageComponent = resolve('src/components/content/wordpress-page.js');
+  const postComponent = resolve('src/components/content/wordpress/post.js');
+  const pageComponent = resolve('src/components/content/wordpress/page.js');
   const { createPage } = actions;
   const result = await graphql(`
     {

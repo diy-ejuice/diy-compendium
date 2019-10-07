@@ -1,8 +1,8 @@
 import React from 'react';
-
-import Layout from '../components/layout';
-import SEO from '../components/seo';
 import { Container, Row, Col } from 'react-bootstrap';
+
+import SEO from '~components/seo';
+import Layout from '~components/layout';
 
 const IndexPage = () => (
   <Layout>
