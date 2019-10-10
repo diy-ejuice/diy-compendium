@@ -43,8 +43,8 @@ const createMarkdownPages = async ({ actions, graphql, reporter }) => {
 };
 
 const createWordPressPages = async ({ actions, graphql, reporter }) => {
-  const postComponent = resolve('src/components/content/wordpress-post.js');
-  const pageComponent = resolve('src/components/content/wordpress-page.js');
+  const postComponent = resolve('src/components/content/wordpress/post.js');
+  const pageComponent = resolve('src/components/content/wordpress/page.js');
   const { createPage } = actions;
   const result = await graphql(`
     {
@@ -132,4 +132,15 @@ const createWordPressPages = async ({ actions, graphql, reporter }) => {
 exports.createPages = async options => {
   await createMarkdownPages(options);
   await createWordPressPages(options);
+};
+
+exports.onCreateWebpackConfig = ({ actions }) => {
+  actions.setWebpackConfig({
+    resolve: {
+      alias: {
+        '~components': resolve(__dirname, 'src/components'),
+        '~pages': resolve(__dirname, 'src/pages')
+      }
+    }
+  });
 };

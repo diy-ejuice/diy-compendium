@@ -1,10 +1,10 @@
 import React from 'react';
-import { graphql, Link } from 'gatsby';
 import PropTypes from 'prop-types';
-
-import Layout from '../components/layout';
-import SEO from '../components/seo';
+import { graphql, Link } from 'gatsby';
 import { Container, Row, Col } from 'react-bootstrap';
+
+import SEO from '~components/seo';
+import Layout from '~components/layout';
 
 const FeaturedPage = ({ data }) => {
   if (!data || !data.allWordpressPost) {

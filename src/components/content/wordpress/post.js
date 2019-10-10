@@ -1,12 +1,13 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 import PropTypes from 'prop-types';
-import { Container, Row, Col } from 'react-bootstrap';
 import { format, parseISO } from 'date-fns';
+import { Container, Row, Col } from 'react-bootstrap';
 
-import SEO from '../seo';
-import Layout from '../layout';
-import NotFoundPage from '../../pages/404';
+import './post.scss';
+import SEO from '~components/seo';
+import NotFoundPage from '~pages/404';
+import Layout from '~components/layout';
 
 const WordPressPostContent = ({ data }) => {
   if (!data || !data.wordpressPost) {

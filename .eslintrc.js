@@ -172,6 +172,12 @@ module.exports = {
   settings: {
     react: {
       version: 'detect'
+    },
+    'import/resolver': {
+      alias: [
+        ["~components", "./src/components"],
+        ["~pages", "./src/pages"]
+      ]
     }
   }
 };
