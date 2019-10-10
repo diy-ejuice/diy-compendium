@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{287:function(e,t,a){"use strict";a.r(t);var n=a(0),l=a.n(n),c=a(279),m=a(280),r=a(281),o=a(134),u=a(136);t.default=function(){return l.a.createElement(u.a,null,l.a.createElement(o.a,{title:"Home"}),l.a.createElement(c.a,{className:"mt-5"},l.a.createElement(m.a,null,l.a.createElement(r.a,{md:"12"},l.a.createElement("h1",null,"Welcome to the DIY Compendium!"),l.a.createElement("p",null,"We need some content here.")))))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-46a80421e402dda3cb03.js.map
