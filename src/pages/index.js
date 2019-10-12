@@ -4,6 +4,8 @@ import { Container, Row, Col } from 'react-bootstrap';
 import SEO from '~components/seo';
 import Layout from '~components/layout';
 
+import '../index.scss';
+
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
