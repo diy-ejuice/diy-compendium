@@ -1,7 +1,6 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 import PropTypes from 'prop-types';
-import { format, parseISO } from 'date-fns';
 import { Container, Row, Col } from 'react-bootstrap';
 
 import './page.scss';
@@ -15,29 +14,16 @@ const WordPressPageContent = ({ data }) => {
   }
 
   const {
-    wordpressPage: {
-      content,
-      title,
-      modified: rawDate,
-      author: { name }
-    }
+    wordpressPage: { content, title }
   } = data;
-
-  const parsed = parseISO(rawDate);
-  const date = format(parsed, "yyyy-MM-dd' at 'HH:mm");
 
   return (
     <Layout>
       <SEO title={title} />
       <Container className="mt-5">
         <Row>
-          <Col md="8" className="mt-4">
+          <Col md="12" className="mt-4">
             <h1>{title}</h1>
-          </Col>
-          <Col md="4" className="mt-4">
-            <span>
-              Written by {name} on {date}
-            </span>
           </Col>
         </Row>
         <hr />
