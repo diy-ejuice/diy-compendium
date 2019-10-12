@@ -131,6 +131,22 @@ const Header = ({ siteTitle }) => (
         </NavDropdown>
       </Nav>
     </Navbar.Collapse>
+    <Nav className="justify-content-end">
+      <Nav.Link
+        href="https://github.com/diy-ejuice/diy-compendium"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        GitHub
+      </Nav.Link>
+      <Nav.Link
+        href="http://link.diyejuice.org/discord"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Discord
+      </Nav.Link>
+    </Nav>
   </Navbar>
 );
 
