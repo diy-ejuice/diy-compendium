@@ -133,6 +133,13 @@ const Header = ({ siteTitle }) => (
     </Navbar.Collapse>
     <Nav className="justify-content-end">
       <Nav.Link
+        href="https://reddit.com/r/DIY_eJuice"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        /r/DIY_eJuice
+      </Nav.Link>
+      <Nav.Link
         href="http://link.diyejuice.org/discord"
         target="_blank"
         rel="noopener noreferrer"
