@@ -1,14 +1,7 @@
 .diy-footer {
-  width: 100%;
-  position: absolute;
-  bottom: 0;
+  width: 60%;
 
-  > .container > .row {
-    width: 60%;
-    margin: 0 auto;
-
-    > div {
-      text-align: center;
-    }
+  > .container > .row > div {
+    text-align: center;
   }
 }
