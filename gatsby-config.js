@@ -48,6 +48,14 @@ module.exports = {
         anonymize: true
       }
     },
+    {
+      resolve: `gatsby-plugin-algolia-docsearch`,
+      options: {
+        apiKey: process.env.DOCUSEARCH_API_KEY,
+        indexName: process.env.DOCUSEARCH_INDEX_NAME,
+        inputSelector: '.dc-search'
+      }
+    },
     'gatsby-plugin-sass',
     'gatsby-transformer-remark',
     'gatsby-plugin-eslint',
