@@ -22,11 +22,13 @@ You should use a page **if**:
 1. Log in to the WordPress site at [https://juicebook.net/wp-admin](https://juicebook.net/wp-admin)
 2. Click on either "Pages" or "Posts"
 3. Click "Add New"
-4. Give your post/page a title and some content.
+4. Give your post/page a title and some content
 5. To change the permalink (the URL that is reserved for this post/page) left click once in the title field
 6. A tooltip labelled "Permalink" will appear
 7. Click the "Edit" button to the right
-7. Change the URL and click Save
+8. Change the URL and click Save
+9. Click "Publish..." in the upper right corner
+10. Click "Publish" again to confirm and publish the document
 
 ### Advanced Topics
 
