@@ -9,7 +9,7 @@ import '../index.scss';
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <Container className="mt-5">
+    <Container>
       <Row>
         <Col md="12">
           <h1>Welcome to the DIY Compendium!</h1>

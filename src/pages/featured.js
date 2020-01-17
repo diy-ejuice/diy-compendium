@@ -20,7 +20,7 @@ const FeaturedPage = ({ data }) => {
   return (
     <Layout>
       <SEO title="Home" />
-      <Container className="mt-5">
+      <Container>
         <Row>
           <Col md="12">
             <h1>Featured Posts</h1>

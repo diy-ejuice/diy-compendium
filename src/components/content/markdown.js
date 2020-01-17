@@ -22,7 +22,7 @@ const MarkdownContent = ({ data }) => {
   return (
     <Layout>
       <SEO title={title} />
-      <Container className="mt-5">
+      <Container>
         <Row>
           <Col md="12" dangerouslySetInnerHTML={{ __html: html }} />
         </Row>
