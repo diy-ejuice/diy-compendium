@@ -85,8 +85,14 @@ const Header = ({ siteTitle }) => (
           <NavDropdown.Item as={Link} to="/recipes/clones">
             Clones
           </NavDropdown.Item>
+          <NavDropdown.Item as={Link} to="/recipes/blessed-trinities">
+            Trinities
+          </NavDropdown.Item>
         </NavDropdown>
         <NavDropdown title="Flavors" id="dropdown-flavors">
+          <NavDropdown.Item as={Link} to="/flavors/first-order">
+            First Order
+          </NavDropdown.Item>
           <NavDropdown.Item as={Link} to="/flavors/flavor-of-the-week">
             Flavor of the Week
           </NavDropdown.Item>
