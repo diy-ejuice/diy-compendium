@@ -29,7 +29,7 @@ const WordPressPostContent = ({ data }) => {
   return (
     <Layout>
       <SEO title={title} />
-      <Container className="mt-5">
+      <Container>
         <Row>
           <Col md="12" className="mt-4">
             <h1>{title}</h1>

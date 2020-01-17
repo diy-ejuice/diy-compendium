@@ -7,7 +7,7 @@ import Layout from '~components/layout';
 const NotFoundPage = () => (
   <Layout>
     <SEO title="Not Found" />
-    <Container className="mt-5">
+    <Container>
       <Row>
         <Col md="12">
           <h1>Not Found</h1>

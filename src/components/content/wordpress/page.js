@@ -20,7 +20,7 @@ const WordPressPageContent = ({ data }) => {
   return (
     <Layout>
       <SEO title={title} />
-      <Container className="mt-3">
+      <Container>
         <Row>
           <Col md="12" className="mt-3">
             <h1>{title}</h1>
