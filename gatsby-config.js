@@ -4,7 +4,8 @@ module.exports = {
   siteMetadata: {
     title: 'DIY Compendium',
     description: 'A knowledge base with DIY e-liquid mixing information.',
-    author: '@ayan4m1'
+    author: '@ayan4m1',
+    siteUrl: 'https://diyejuice.org'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -63,6 +64,7 @@ module.exports = {
     },
     'gatsby-plugin-sass',
     'gatsby-transformer-remark',
-    'gatsby-plugin-eslint'
+    'gatsby-plugin-eslint',
+    'gatsby-plugin-sitemap'
   ]
 };
