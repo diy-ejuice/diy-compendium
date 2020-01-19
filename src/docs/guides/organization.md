@@ -1,6 +1,6 @@
 ---
-path: '/guides/reviews'
-slug: 'reviews'
+path: '/guides/organization'
+slug: 'organization'
 title: 'Guides - Organization'
 ---
 
