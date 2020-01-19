@@ -39,7 +39,11 @@ const Header = ({ siteTitle }) => (
           <NavDropdown.Item as={Link} to="/safety/nicotine">
             Nicotine Handling/Storage
           </NavDropdown.Item>
-          <NavDropdown.Item as={Link} to="/safety/flavors">
+          <NavDropdown.Item
+            href="https://safety.diyejuice.org/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Flavors of Concern
           </NavDropdown.Item>
         </NavDropdown>
