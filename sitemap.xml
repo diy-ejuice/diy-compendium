@@ -17,6 +17,7 @@
 <url> <loc>https://diyejuice.org/guides/bottles</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/guides/calculators</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/guides/labels</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://diyejuice.org/guides/organization</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/guides/reviews</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/media/podcasts</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/media/videos</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -37,28 +38,7 @@
 <url> <loc>https://diyejuice.org/vendors/the-flavor-apprentice-tfa-tpa</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/flavors/notes</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/2020/01/17/the-first-post/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diyejuice.org/recipes/blessed-trinities/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diyejuice.org/recipes/finding-recipes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diyejuice.org/guides/reviews/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diyejuice.org/flavors/rebranding/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diyejuice.org/flavors/flavor-of-the-week/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diyejuice.org/recipes/best-of/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diyejuice.org/recipes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diyejuice.org/flavors/reviews/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diyejuice.org/flavors/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diyejuice.org/guides/calculators/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diyejuice.org/quick-start/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diyejuice.org/guides/labels/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diyejuice.org/guides/bottles/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diyejuice.org/guides/additives-enhancers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diyejuice.org/guides/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diyejuice.org/faq/shake-and-vape/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diyejuice.org/faq/simple-recipes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diyejuice.org/faq/premixed-bases/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diyejuice.org/faq/weight-vs-volume/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diyejuice.org/faq/getting-started/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diyejuice.org/faq/why-diy/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diyejuice.org/faq/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://diyejuice.org/content/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/featured/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
