@@ -29,7 +29,6 @@
 <url> <loc>https://diyejuice.org/recipes/monthly-archive</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/recipes/profiles</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/recipes/suggestions</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diyejuice.org/safety/flavors</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/safety/nicotine</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/supplies/bottles</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/supplies/scales</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
