@@ -51,6 +51,12 @@ module.exports = {
     'gatsby-plugin-sass',
     'gatsby-transformer-remark',
     'gatsby-plugin-eslint',
-    'gatsby-plugin-sitemap'
+    'gatsby-plugin-sitemap',
+    {
+      resolve: 'gatsby-source-reddit-wiki',
+      options: {
+        subreddit: process.env.REDDIT_SUBREDDIT
+      }
+    }
   ]
 };

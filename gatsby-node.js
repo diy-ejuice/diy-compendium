@@ -8,11 +8,14 @@ const createMarkdownPages = async ({ actions, graphql, reporter }) => {
       allMarkdownRemark(limit: 1000) {
         edges {
           node {
-            html
             frontmatter {
               path
               title
             }
+            headings(depth: h1) {
+              value
+            }
+            html
           }
         }
       }
@@ -24,12 +27,25 @@ const createMarkdownPages = async ({ actions, graphql, reporter }) => {
     return;
   }
 
+  let counter = 0;
+
   result.data.allMarkdownRemark.edges.forEach(({ node }) => {
     const {
-      html,
-      frontmatter: { path, title }
+      frontmatter: { path, title },
+      headings,
+      html
     } = node;
 
+    if (!path) {
+      reporter.warn(
+        `Did not find a path in the frontmatter of ${
+          headings.length ? headings[0].value : 'unknown page'
+        }`
+      );
+      return;
+    }
+
+    counter++;
     createPage({
       context: {
         html,
@@ -39,6 +55,8 @@ const createMarkdownPages = async ({ actions, graphql, reporter }) => {
       path
     });
   });
+
+  reporter.info(`Created ${counter} markdown pages!`);
 };
 
 exports.createPages = async options => {
