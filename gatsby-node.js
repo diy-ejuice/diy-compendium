@@ -1,5 +1,4 @@
 const { resolve } = require('path');
-const omit = require('lodash.omit');
 
 const createMarkdownPages = async ({ actions, graphql, reporter }) => {
   const component = resolve('src/components/content/markdown.js');
@@ -9,11 +8,14 @@ const createMarkdownPages = async ({ actions, graphql, reporter }) => {
       allMarkdownRemark(limit: 1000) {
         edges {
           node {
-            html
             frontmatter {
               path
               title
             }
+            headings(depth: h1) {
+              value
+            }
+            html
           }
         }
       }
@@ -25,12 +27,25 @@ const createMarkdownPages = async ({ actions, graphql, reporter }) => {
     return;
   }
 
+  let counter = 0;
+
   result.data.allMarkdownRemark.edges.forEach(({ node }) => {
     const {
-      html,
-      frontmatter: { path, title }
+      frontmatter: { path, title },
+      headings,
+      html
     } = node;
 
+    if (!path) {
+      reporter.warn(
+        `Did not find a path in the frontmatter of ${
+          headings.length ? headings[0].value : 'unknown page'
+        }`
+      );
+      return;
+    }
+
+    counter++;
     createPage({
       context: {
         html,
@@ -40,98 +55,12 @@ const createMarkdownPages = async ({ actions, graphql, reporter }) => {
       path
     });
   });
-};
 
-const createWordPressPages = async ({ actions, graphql, reporter }) => {
-  const postComponent = resolve('src/components/content/wordpress/post.js');
-  const pageComponent = resolve('src/components/content/wordpress/page.js');
-  const { createPage } = actions;
-  const result = await graphql(`
-    {
-      allWordpressPost(limit: 1000) {
-        edges {
-          node {
-            id
-            path
-            title
-            status
-            content
-            excerpt
-            date
-            modified
-            author {
-              id
-              name
-              avatar_urls {
-                wordpress_24
-                wordpress_48
-                wordpress_96
-              }
-            }
-          }
-        }
-      }
-
-      allWordpressPage(limit: 1000) {
-        edges {
-          node {
-            id
-            path
-            title
-            status
-            content
-            excerpt
-            date
-            modified
-            author {
-              id
-              name
-              avatar_urls {
-                wordpress_24
-                wordpress_48
-                wordpress_96
-              }
-            }
-          }
-        }
-      }
-    }
-  `);
-
-  if (result.errors) {
-    reporter.panicOnBuild('Error while running GraphQL wordpress query.');
-    return;
-  }
-
-  const postFromNodes = ({ node }) => {
-    const { id, path } = node;
-
-    reporter.info(`Mapped ${id} to ${path}`);
-    createPage({
-      context: omit(node, ['path']),
-      component: postComponent,
-      path
-    });
-  };
-
-  const pageFromNodes = ({ node }) => {
-    const { id, path } = node;
-
-    reporter.info(`Mapped ${id} to ${path}`);
-    createPage({
-      context: omit(node, ['path']),
-      component: pageComponent,
-      path
-    });
-  };
-
-  result.data.allWordpressPost.edges.forEach(postFromNodes);
-  result.data.allWordpressPage.edges.forEach(pageFromNodes);
+  reporter.info(`Created ${counter} markdown pages!`);
 };
 
 exports.createPages = async options => {
   await createMarkdownPages(options);
-  await createWordPressPages(options);
 };
 
 exports.onCreateWebpackConfig = ({ actions }) => {

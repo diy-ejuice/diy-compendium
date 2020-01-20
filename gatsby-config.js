@@ -23,20 +23,6 @@ module.exports = {
         path: `${__dirname}/src/docs`
       }
     },
-    {
-      resolve: 'gatsby-source-wordpress',
-      options: {
-        baseUrl: process.env.WP_BASE_URL,
-        protocol: 'https',
-        useACF: false,
-        auth: {
-          /* eslint-disable camelcase */
-          jwt_user: process.env.WP_JWT_USER,
-          jwt_pass: process.env.WP_JWT_PASSWORD
-          /* eslint-enable camelcase */
-        }
-      }
-    },
     'gatsby-transformer-sharp',
     'gatsby-plugin-sharp',
     {
@@ -65,6 +51,12 @@ module.exports = {
     'gatsby-plugin-sass',
     'gatsby-transformer-remark',
     'gatsby-plugin-eslint',
-    'gatsby-plugin-sitemap'
+    'gatsby-plugin-sitemap',
+    {
+      resolve: 'gatsby-source-reddit-wiki',
+      options: {
+        subreddit: process.env.REDDIT_SUBREDDIT
+      }
+    }
   ]
 };
