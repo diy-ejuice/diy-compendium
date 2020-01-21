@@ -57,6 +57,18 @@ module.exports = {
       options: {
         subreddit: process.env.REDDIT_SUBREDDIT
       }
+    },
+    {
+      resolve: 'gatsby-plugin-algolia-docsearch-options',
+      options: {
+        apiKey: process.env.DOCSEARCH_API_KEY,
+        appId: process.env.DOCSEARCH_APP_ID,
+        indexName: process.env.DOCSEARCH_INDEX_NAME,
+        inputSelector: '.dc-search-input',
+        autocompleteOptions: {
+          minLength: 3
+        }
+      }
     }
   ]
 };
