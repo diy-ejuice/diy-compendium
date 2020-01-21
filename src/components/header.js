@@ -1,8 +1,8 @@
-import React from 'react';
+import React, { Component } from 'react';
 import { Link } from 'gatsby';
 import classNames from 'classnames';
 import PropTypes from 'prop-types';
-import { Navbar, Nav, FormControl, InputGroup } from 'react-bootstrap';
+import { Navbar, Nav, InputGroup } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faSearch } from '@fortawesome/free-solid-svg-icons';
 
@@ -36,7 +36,7 @@ const Safety = () => (
     <NavDropdown.Item as={Link} to="/safety/nicotine">
       Nicotine Handling/Storage
     </NavDropdown.Item>
-	<NavDropdown.Item
+    <NavDropdown.Item
       href="https://safety.diyejuice.org/"
       target="_blank"
       rel="noopener noreferrer"
@@ -153,7 +153,10 @@ const Supplies = () => (
 );
 
 const Search = props => {
-  const classes = classNames([props.mobile ? 'd-lg-none' : 'd-lg-block']);
+  const baseClass = 'dc-search';
+  const classes = classNames(baseClass, [
+    props.mobile ? 'd-lg-none' : 'd-lg-block'
+  ]);
 
   return (
     <Nav.Item className={classes}>
@@ -163,65 +166,69 @@ const Search = props => {
             <FontAwesomeIcon icon={faSearch} size="sm" />
           </InputGroup.Text>
         </InputGroup.Prepend>
-        <FormControl type="text" />
+        <input type="search" className="dc-search-input form-control" />
       </InputGroup>
     </Nav.Item>
   );
 };
 
+Search.displayName = 'Search';
 Search.propTypes = {
   mobile: PropTypes.bool
 };
 
-const Header = ({ siteTitle }) => (
-  <Navbar variant="dark" bg="primary" expand="lg">
-    <Navbar.Brand>
-      <Link to="/">{siteTitle}</Link>
-    </Navbar.Brand>
-    <Search mobile={true} />
-    <Navbar.Toggle />
-    <Navbar.Collapse>
-      <Nav>
-        <Nav.Link as={Link} to="/quick-start">
-          Quick Start
-        </Nav.Link>
-        <Faq />
-        <Safety />
-        <Guides />
-        <Recipes />
-        <Flavors />
-        <Media />
-        <Supplies />
-      </Nav>
-      <Nav className="ml-auto flex-row-reverse">
-        <Search />
-      </Nav>
-      <Nav>
-        <Nav.Link
-          href="https://reddit.com/r/DIY_eJuice"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          /r/DIY_eJuice
-        </Nav.Link>
-        <Nav.Link
-          href="http://link.diyejuice.org/discord"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Discord
-        </Nav.Link>
-      </Nav>
-    </Navbar.Collapse>
-  </Navbar>
-);
+export default class Header extends Component {
+  static propTypes = {
+    siteTitle: PropTypes.string
+  };
 
-Header.propTypes = {
-  siteTitle: PropTypes.string
-};
+  static defaultProps = {
+    siteTitle: ''
+  };
 
-Header.defaultProps = {
-  siteTitle: ``
-};
+  render() {
+    const { siteTitle } = this.props;
 
-export default Header;
+    return (
+      <Navbar variant="dark" bg="primary" expand="lg">
+        <Navbar.Brand>
+          <Link to="/">{siteTitle}</Link>
+        </Navbar.Brand>
+        <Navbar.Toggle />
+        <Navbar.Collapse>
+          <Nav>
+            <Nav.Link as={Link} to="/quick-start">
+              Quick Start
+            </Nav.Link>
+            <Faq />
+            <Safety />
+            <Guides />
+            <Recipes />
+            <Flavors />
+            <Media />
+            <Supplies />
+          </Nav>
+          <Nav className="ml-auto flex-row-reverse">
+            <Search />
+          </Nav>
+          <Nav>
+            <Nav.Link
+              href="https://reddit.com/r/DIY_eJuice"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              /r/DIY_eJuice
+            </Nav.Link>
+            <Nav.Link
+              href="http://link.diyejuice.org/discord"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Discord
+            </Nav.Link>
+          </Nav>
+        </Navbar.Collapse>
+      </Navbar>
+    );
+  }
+}
