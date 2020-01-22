@@ -35,5 +35,6 @@
 <url> <loc>https://diyejuice.org/supplies/bottles</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/supplies/scales</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/supplies/vendor-list</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://diyejuice.org/test</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
