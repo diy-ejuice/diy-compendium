@@ -5,6 +5,7 @@ import PropTypes from 'prop-types';
 import { Navbar, Nav, InputGroup } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faSearch } from '@fortawesome/free-solid-svg-icons';
+import { faDiscord, faRedditAlien } from '@fortawesome/free-brands-svg-icons';
 
 import NavDropdown from 'react-bootstrap/NavDropdown';
 
@@ -217,14 +218,14 @@ export default class Header extends Component {
               target="_blank"
               rel="noopener noreferrer"
             >
-              /r/DIY_eJuice
+              <FontAwesomeIcon icon={faRedditAlien} size="lg" /> /r/DIY_eJuice
             </Nav.Link>
             <Nav.Link
               href="http://link.diyejuice.org/discord"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Discord
+              <FontAwesomeIcon icon={faDiscord} size="lg" /> Discord
             </Nav.Link>
           </Nav>
         </Navbar.Collapse>
