@@ -1,11 +1,11 @@
 language: node_js
 os: linux
 node_js:
-  - 'stable'
+  - stable
 deploy:
   provider: pages
   skip-cleanup: true
-  github-token: $GITHUB_TOKEN
+  github-token: "$GITHUB_TOKEN"
   local_dir: public
   keep-history: true
   on:
@@ -14,4 +14,4 @@ cache:
   directories:
     - node_modules
 script:
-  - npm run deploy
+  - npm run build
