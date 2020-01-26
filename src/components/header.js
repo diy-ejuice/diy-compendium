@@ -35,14 +35,14 @@ const Faq = () => (
 const Safety = () => (
   <NavDropdown title="Safety" id="dropdown-safety">
     <NavDropdown.Item as={Link} to="/safety/nicotine">
-      Nicotine Handling/Storage
+      Nicotine
     </NavDropdown.Item>
     <NavDropdown.Item
       href="https://safety.diyejuice.org/"
       target="_blank"
       rel="noopener noreferrer"
     >
-      Flavors of Concern
+      Flavors
     </NavDropdown.Item>
   </NavDropdown>
 );
