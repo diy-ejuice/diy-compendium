@@ -1,8 +1,8 @@
-import React, { Component } from 'react';
 import { Link } from 'gatsby';
 import classNames from 'classnames';
 import PropTypes from 'prop-types';
-import { Navbar, Nav, InputGroup } from 'react-bootstrap';
+import React, { Component, Fragment } from 'react';
+import { Navbar, Nav, InputGroup, Row, Col } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faSearch } from '@fortawesome/free-solid-svg-icons';
 import { faDiscord, faRedditAlien } from '@fortawesome/free-brands-svg-icons';
@@ -191,45 +191,67 @@ export default class Header extends Component {
     const { siteTitle } = this.props;
 
     return (
-      <Navbar variant="dark" bg="primary" expand="lg">
-        <Navbar.Brand>
-          <Link to="/">{siteTitle}</Link>
-        </Navbar.Brand>
-        <Navbar.Toggle />
-        <Navbar.Collapse>
-          <Nav>
-            <Nav.Link as={Link} to="/quick-start">
-              Quick Start
-            </Nav.Link>
-            <Faq />
-            <Safety />
-            <Guides />
-            <Recipes />
-            <Flavors />
-            <Media />
-            <Supplies />
+      <Fragment>
+        <Navbar variant="light" bg="light">
+          <Navbar.Brand>
+            <Link to="/" className="text-dark">
+              {siteTitle}
+            </Link>
+          </Navbar.Brand>
+          <Nav as={Row} className="w-100 ml-5">
+            <Col>
+              <Nav.Link as={Link} to="/why-diy">
+                Why DIY?
+              </Nav.Link>
+            </Col>
+            <Col>
+              <Nav.Link as={Link} to="/about">
+                About
+              </Nav.Link>
+            </Col>
+            <Col>
+              <Nav.Link as={Link} to="/quick-start">
+                Quick Start
+              </Nav.Link>
+            </Col>
+            <Col>
+              <Nav.Link
+                href="https://reddit.com/r/DIY_eJuice"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <FontAwesomeIcon icon={faRedditAlien} size="lg" /> /r/DIY_eJuice
+              </Nav.Link>
+            </Col>
+            <Col>
+              <Nav.Link
+                href="http://link.diyejuice.org/discord"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <FontAwesomeIcon icon={faDiscord} size="lg" /> Discord
+              </Nav.Link>
+            </Col>
           </Nav>
-          <Nav className="ml-auto flex-row-reverse">
-            <Search />
-          </Nav>
-          <Nav>
-            <Nav.Link
-              href="https://reddit.com/r/DIY_eJuice"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <FontAwesomeIcon icon={faRedditAlien} size="lg" /> /r/DIY_eJuice
-            </Nav.Link>
-            <Nav.Link
-              href="http://link.diyejuice.org/discord"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <FontAwesomeIcon icon={faDiscord} size="lg" /> Discord
-            </Nav.Link>
-          </Nav>
-        </Navbar.Collapse>
-      </Navbar>
+        </Navbar>
+        <Navbar variant="dark" bg="primary" expand="lg">
+          <Navbar.Toggle />
+          <Navbar.Collapse>
+            <Nav>
+              <Faq />
+              <Safety />
+              <Guides />
+              <Recipes />
+              <Flavors />
+              <Media />
+              <Supplies />
+            </Nav>
+            <Nav className="ml-auto flex-row-reverse">
+              <Search />
+            </Nav>
+          </Navbar.Collapse>
+        </Navbar>
+      </Fragment>
     );
   }
 }
