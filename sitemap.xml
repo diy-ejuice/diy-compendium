@@ -5,6 +5,7 @@
 <url> <loc>https://diyejuice.org/faq/premixed-bases</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/faq/shake-and-vape</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/faq/simple-recipes</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://diyejuice.org/faq/weight-vs-volume</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/faq/why-diy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/flavors/best-of</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/flavors/facts</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -32,7 +33,6 @@
 <url> <loc>https://diyejuice.org/supplies/bottles</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/supplies/scales</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/supplies/vendor-list</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diyejuice.org/faq/weight-vs-volume</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/flavors/notes</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/safety/nicotine/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
