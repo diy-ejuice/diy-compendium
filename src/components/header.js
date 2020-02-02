@@ -4,16 +4,29 @@ import PropTypes from 'prop-types';
 import React, { Component, Fragment } from 'react';
 import { Navbar, Nav, InputGroup, Row, Col } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faSearch } from '@fortawesome/free-solid-svg-icons';
-import { faDiscord, faRedditAlien } from '@fortawesome/free-brands-svg-icons';
+import {
+  faSearch,
+  faListOl,
+  faHardHat,
+  faClipboardCheck,
+  faWeight,
+  faVial,
+  faBox
+} from '@fortawesome/free-solid-svg-icons';
+import {
+  faDiscord,
+  faRedditAlien,
+  faYoutube
+} from '@fortawesome/free-brands-svg-icons';
 
 import NavDropdown from 'react-bootstrap/NavDropdown';
+import TitleIcon from './titleIcon';
 
 const Faq = () => (
-  <NavDropdown title="FAQ" id="dropdown-faq">
-    <NavDropdown.Item as={Link} to="/faq/why-diy">
-      Why DIY?
-    </NavDropdown.Item>
+  <NavDropdown
+    title={<TitleIcon icon={faListOl} title="FAQ" />}
+    id="dropdown-faq"
+  >
     <NavDropdown.Item as={Link} to="/faq/getting-started">
       Getting Started
     </NavDropdown.Item>
@@ -33,7 +46,10 @@ const Faq = () => (
 );
 
 const Safety = () => (
-  <NavDropdown title="Safety" id="dropdown-safety">
+  <NavDropdown
+    title={<TitleIcon icon={faHardHat} title="Safety" />}
+    id="dropdown-safety"
+  >
     <NavDropdown.Item as={Link} to="/safety/nicotine">
       Nicotine
     </NavDropdown.Item>
@@ -48,7 +64,10 @@ const Safety = () => (
 );
 
 const Guides = () => (
-  <NavDropdown title="Guides" id="dropdown-guides">
+  <NavDropdown
+    title={<TitleIcon icon={faClipboardCheck} title="Guides" />}
+    id="dropdown-guides"
+  >
     <NavDropdown.Item as={Link} to="/guides/additives-enhancers">
       Additives &amp; Enhancers
     </NavDropdown.Item>
@@ -71,7 +90,10 @@ const Guides = () => (
 );
 
 const Recipes = () => (
-  <NavDropdown title="Recipes" id="dropdown-recipes">
+  <NavDropdown
+    title={<TitleIcon icon={faWeight} title="Recipes" />}
+    id="dropdown-recipes"
+  >
     <NavDropdown.Item as={Link} to="/recipes/best-of">
       Best of
     </NavDropdown.Item>
@@ -100,7 +122,10 @@ const Recipes = () => (
 );
 
 const Flavors = () => (
-  <NavDropdown title="Flavors" id="dropdown-flavors">
+  <NavDropdown
+    title={<TitleIcon icon={faVial} title="Flavors" />}
+    id="dropdown-flavors"
+  >
     <NavDropdown.Item as={Link} to="/flavors/first-order">
       First Order
     </NavDropdown.Item>
@@ -129,7 +154,10 @@ const Flavors = () => (
 );
 
 const Media = () => (
-  <NavDropdown title="Videos/Podcasts" id="dropdown-media">
+  <NavDropdown
+    title={<TitleIcon icon={faYoutube} title="Media" />}
+    id="dropdown-media"
+  >
     <NavDropdown.Item as={Link} to="/media/videos">
       Videos
     </NavDropdown.Item>
@@ -140,7 +168,10 @@ const Media = () => (
 );
 
 const Supplies = () => (
-  <NavDropdown title="Supplies" id="dropdown-supplies">
+  <NavDropdown
+    title={<TitleIcon icon={faBox} title="Supplies" />}
+    id="dropdown-supplies"
+  >
     <NavDropdown.Item as={Link} to="/supplies/vendor-list">
       Vendor List
     </NavDropdown.Item>
@@ -200,7 +231,7 @@ export default class Header extends Component {
           </Navbar.Brand>
           <Nav as={Row} className="w-100 ml-5">
             <Col>
-              <Nav.Link as={Link} to="/why-diy">
+              <Nav.Link as={Link} to="/faq/why-diy">
                 Why DIY?
               </Nav.Link>
             </Col>

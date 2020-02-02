@@ -1,27 +1,93 @@
 import React from 'react';
-import { Container, Row, Col } from 'react-bootstrap';
+import Img from 'gatsby-image';
+import { graphql } from 'gatsby';
+import PropTypes from 'prop-types';
+import { Container, Row, Col, Carousel } from 'react-bootstrap';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 import SEO from '~components/seo';
 import Layout from '~components/layout';
+import {
+  faArrowCircleRight,
+  faArrowCircleLeft
+} from '@fortawesome/free-solid-svg-icons';
 
-const IndexPage = () => (
+const IndexPage = ({ data }) => (
   <Layout>
     <SEO title="Home" />
     <Container>
-      <Row>
-        <Col md="12">
-          <h1>Welcome to the DIY Compendium!</h1>
-          <p>
-            This site attempts to compile the highest quality documentation
-            available for all aspects of DIY e-liquid mixing. It is managed and
-            features content contributed by volunteers from the DIY community.
-            We&apos;ll have featured content here soon, but for now you can
-            access all of the articles using the navbar above.
-          </p>
+      <h4 className="display-4">Featured Content</h4>
+      <Row className="justify-content-center">
+        <Col md={10}>
+          <Carousel
+            indicators={false}
+            className="mt-5"
+            nextIcon={
+              <FontAwesomeIcon icon={faArrowCircleRight} color="black" />
+            }
+            prevIcon={
+              <FontAwesomeIcon icon={faArrowCircleLeft} color="black" />
+            }
+          >
+            <Carousel.Item>
+              <Row>
+                <Col md={1}></Col>
+                <Col md={5}>
+                  <Img
+                    fixed={data.file.childImageSharp.fixed}
+                    className="float-left"
+                  />
+                </Col>
+                <Col md={5}>
+                  <div className="mt-5">
+                    <h5>Flavor Review</h5>
+                    <p>by forment_live</p>
+                    <p>Fo spouts some bullshit about a terrible apple pie.</p>
+                  </div>
+                </Col>
+                <Col md={1}></Col>
+              </Row>
+            </Carousel.Item>
+            <Carousel.Item>
+              <Row>
+                <Col md={1}></Col>
+                <Col md={5}>
+                  <Img
+                    fixed={data.file.childImageSharp.fixed}
+                    className="float-left"
+                  />
+                </Col>
+                <Col md={5}>
+                  <div className="mt-5">
+                    <h5>More Apple Pie?!</h5>
+                    <p>by apexipoo</p>
+                    <p>Why do we care?</p>
+                  </div>
+                </Col>
+                <Col md={1}></Col>
+              </Row>
+            </Carousel.Item>
+          </Carousel>
         </Col>
       </Row>
     </Container>
   </Layout>
 );
+
+IndexPage.propTypes = {
+  data: PropTypes.object.isRequired
+};
+
+export const query = graphql`
+  query {
+    file(relativePath: { eq: "apple-pie-v2.jpg" }) {
+      childImageSharp {
+        fixed(width: 300) {
+          ...GatsbyImageSharpFixed
+        }
+      }
+    }
+  }
+`;
 
 export default IndexPage;
