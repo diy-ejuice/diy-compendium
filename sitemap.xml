@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://diyejuice.org/quick-start</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/faq/getting-started</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/faq/premixed-bases</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/faq/shake-and-vape</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/faq/simple-recipes</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diyejuice.org/faq/weight-vs-volume</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/faq/why-diy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/flavors/best-of</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/flavors/facts</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/flavors/first-order</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/flavors/flavor-of-the-week</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diyejuice.org/flavors/notes</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/flavors/rebranding</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/flavors/reviews</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/flavors/sft</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -22,7 +21,6 @@
 <url> <loc>https://diyejuice.org/guides/reviews</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/media/podcasts</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/media/videos</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diyejuice.org/quick-start</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/recipes/1-2-3</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/recipes/best-of</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/recipes/blessed-trinities</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -34,7 +32,8 @@
 <url> <loc>https://diyejuice.org/supplies/bottles</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/supplies/scales</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/supplies/vendor-list</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diyejuice.org/test</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://diyejuice.org/faq/weight-vs-volume</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://diyejuice.org/flavors/notes</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/safety/nicotine/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
