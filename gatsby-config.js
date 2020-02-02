@@ -53,16 +53,6 @@ module.exports = {
     'gatsby-plugin-eslint',
     'gatsby-plugin-sitemap',
     {
-      resolve: 'gatsby-source-reddit-wiki',
-      options: {
-        username: process.env.REDDIT_USERNAME,
-        password: process.env.REDDIT_PASSWORD,
-        appId: process.env.REDDIT_APP_ID,
-        appSecret: process.env.REDDIT_APP_SECRET,
-        subreddit: process.env.REDDIT_SUBREDDIT
-      }
-    },
-    {
       resolve: 'gatsby-plugin-algolia-docsearch-options',
       options: {
         apiKey: process.env.DOCSEARCH_API_KEY,
