@@ -1,43 +1,52 @@
 # Contribution Guidelines
 
-## From Gatsby
+Please note that all contributors are bound to abide by the [Code of Conduct](https://github.com/diy-ejuice/diy-compendium/blob/master/CODE-OF-CONDUCT.md). If you do not agree with this policy, please do not open issues or pull requests against this repository.
 
-*TODO: Expand on README here*
+## Overview
 
-## From WordPress
+This project is only possible with the contributions of the community. If you have time, we need help with the following:
 
-There are two ways you can add content to the site. WordPress has the concept of "posts," and "pages." They both consist of a title and some content, but they are presented differently on the site.
+- Creation of new pages
+- Editing/revision of existing pages
+- Translation into other languages
 
-You should use a post **if**:
+## Markdown
 
-* You are writing a column or article series
-* You are writing about a point-in-time event or covering a new story
-* Your content will not change significantly over time
+This project formats its content using [Markdown](https://www.markdownguide.org/getting-started/). Specifically, it uses [gatsby-transformer-remark](https://www.gatsbyjs.org/packages/gatsby-transformer-remark/), which in turn uses [remark](https://remark.js.org/) to convert the Markdown into HTML. See markdownguide.org for [basic](https://www.markdownguide.org/basic-syntax/) and [extended](https://www.markdownguide.org/extended-syntax/) syntax guides.
 
-You should use a page **if**:
+There is one extra feature of Markdown that we use not normally covered in online guides. At the beginning of Markdown files, you may notice something like this near the top:
 
-* You are trying to end up with a specific URL (e.g. `/faq/then/another-path`)
-* You expect the content to change significantly or even entirely over the life of the page
+```
+---
+path: '/some/path'
+title: 'A Document'
+slug: 'sft'
+---
 
-1. Log in to the WordPress site at [https://juicebook.net/wp-admin](https://juicebook.net/wp-admin)
-2. Click on either "Pages" or "Posts"
-3. Click "Add New"
-4. Give your post/page a title and some content
-5. To change the permalink (the URL that is reserved for this post/page) left click once in the title field
-6. A tooltip labelled "Permalink" will appear
-7. Click the "Edit" button to the right
-8. Change the URL and click Save
-9. Click "Publish..." in the upper right corner
-10. Click "Publish" again to confirm and publish the document
+# Here's a Heading
+```
 
-### Advanced Topics
+This is referred to as ["front matter,"](https://jekyllrb.com/docs/front-matter/) metadata that goes "in front" of the content itself. You create front matter by adding a block of three dashes with [YAML](https://yaml.org/spec/1.2/spec.html#id2761803) inside to the beginning of your document. This is only necessary when creating a new page.
 
-#### Nested URLs
+Don't delete front matter from a document! It's required to build the page - any Markdown file without appropriate front matter will be skipped during the build. Adding multiple front matter sections to a document is also something to be avoided.
 
-To get a URL that looks like `/faq/sub-article`, do the following:
+## How to Contribute
 
-* Create a page called FAQ. Change its permalink to `/faq`
-* Create a page called Sub-article. Change its permalink to '/sub-article'
-* In the document properties on the right, look for a section called Page Attributes, and expand it
-* Select "FAQ" as the parent page for Sub-article.
-* Now the permalink for Sub-article is `/faq/sub-article`
+Each page on the site is rendered from a Markdown file that exists in this source code. The [docs directory](https://github.com/diy-ejuice/diy-compendium/tree/master/src/docs) is the home for these files.
+
+### Code
+
+- Fork this repository
+- Push feature branches to your fork
+- Open pull requests against this repository for your feature branches
+
+### Content
+
+- Click on the document you want to edit from the [docs directory](https://github.com/diy-ejuice/diy-compendium/tree/master/src/docs)
+- Click "Raw"
+- Select all and then copy to clipboard
+- Open [StackEdit](https://stackedit.io/app)
+- Paste document contents
+- Edit
+- Copy document contents
+- Send to an editor
