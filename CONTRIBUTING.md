@@ -47,6 +47,6 @@ Each page on the site is rendered from a Markdown file that exists in this sourc
 - Select all and then copy to clipboard
 - Open [StackEdit](https://stackedit.io/app)
 - Paste document contents
-- Edit
+- Make the desired changes
 - Copy document contents
 - Send to an editor
