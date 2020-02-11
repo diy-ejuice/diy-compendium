@@ -28,9 +28,9 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'gatsby-starter-default',
+        name: 'DIY Compendium',
         /* eslint-disable camelcase */
-        short_name: 'starter',
+        short_name: 'Compendium',
         start_url: '/',
         background_color: '#4582ec',
         theme_color: '#4582ec',
