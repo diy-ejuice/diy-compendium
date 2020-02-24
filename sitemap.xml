@@ -20,8 +20,6 @@
 <url> <loc>https://diyejuice.org/guides/labels</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/guides/organization</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/guides/reviews</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diyejuice.org/media/podcasts</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://diyejuice.org/media/videos</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/recipes/1-2-3</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/recipes/best-of</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/recipes/blessed-trinities</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -33,6 +31,8 @@
 <url> <loc>https://diyejuice.org/supplies/bottles</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/supplies/scales</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/supplies/vendor-list</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://diyejuice.org/media/podcasts</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://diyejuice.org/media/videos</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/flavors/notes</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://diyejuice.org/safety/nicotine/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
