@@ -1,7 +1,7 @@
 const { resolve } = require('path');
 
 const createMarkdownPages = async ({ actions, graphql, reporter }) => {
-  const component = resolve('src/components/content/markdown.js');
+  const component = resolve('src/components/markdown/page.js');
   const { createPage } = actions;
   const result = await graphql(`
     {
