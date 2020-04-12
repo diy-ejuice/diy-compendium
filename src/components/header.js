@@ -2,7 +2,7 @@ import { Link } from 'gatsby';
 import classNames from 'classnames';
 import PropTypes from 'prop-types';
 import React, { Component, Fragment } from 'react';
-import { Navbar, Nav, InputGroup, Row, Col } from 'react-bootstrap';
+import { Navbar, Nav, InputGroup, Row, Col, Button } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
   faSearch,
@@ -232,17 +232,17 @@ export default class Header extends Component {
           <Nav as={Row} className="w-100 ml-5">
             <Col>
               <Nav.Link as={Link} to="/faq/why-diy">
-                Why DIY?
+                <Button variant="secondary">Why DIY?</Button>
               </Nav.Link>
             </Col>
             <Col>
               <Nav.Link as={Link} to="/about">
-                About
+                <Button variant="secondary">About</Button>
               </Nav.Link>
             </Col>
             <Col>
               <Nav.Link as={Link} to="/quick-start">
-                Quick Start
+                <Button variant="secondary">Quick Start</Button>
               </Nav.Link>
             </Col>
             <Col>
@@ -251,7 +251,10 @@ export default class Header extends Component {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <FontAwesomeIcon icon={faRedditAlien} size="lg" /> /r/DIY_eJuice
+                <Button variant="secondary">
+                  <FontAwesomeIcon icon={faRedditAlien} size="lg" />{' '}
+                  /r/DIY_eJuice
+                </Button>
               </Nav.Link>
             </Col>
             <Col>
@@ -260,7 +263,9 @@ export default class Header extends Component {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <FontAwesomeIcon icon={faDiscord} size="lg" /> Discord
+                <Button variant="secondary">
+                  <FontAwesomeIcon icon={faDiscord} size="lg" /> Discord
+                </Button>
               </Nav.Link>
             </Col>
           </Nav>
