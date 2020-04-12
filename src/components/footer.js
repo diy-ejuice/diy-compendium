@@ -74,7 +74,7 @@ export default class Footer extends Component {
               <h5>About</h5>
               <ul className="list-unstyled text-small text-center">
                 <li>
-                  <Link to="/about-us" className="text-muted">
+                  <Link to="/about" className="text-muted">
                     About the site
                   </Link>
                 </li>
