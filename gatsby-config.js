@@ -23,6 +23,14 @@ module.exports = {
         path: `${__dirname}/src/docs`
       }
     },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'links',
+        path: `${__dirname}/src/links`
+      }
+    },
+    'gatsby-transformer-json',
     'gatsby-transformer-sharp',
     'gatsby-plugin-sharp',
     {
@@ -49,7 +57,20 @@ module.exports = {
       }
     },
     'gatsby-plugin-sass',
-    'gatsby-transformer-remark',
+    {
+      resolve: 'gatsby-transformer-remark',
+      options: {
+        plugins: [
+          {
+            resolve: 'gatsby-remark-external-links',
+            options: {
+              target: '_blank',
+              rel: 'noopener noreferrer'
+            }
+          }
+        ]
+      }
+    },
     'gatsby-plugin-eslint',
     'gatsby-plugin-sitemap',
     {

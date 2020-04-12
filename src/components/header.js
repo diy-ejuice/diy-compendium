@@ -1,19 +1,32 @@
-import React, { Component } from 'react';
 import { Link } from 'gatsby';
 import classNames from 'classnames';
 import PropTypes from 'prop-types';
-import { Navbar, Nav, InputGroup } from 'react-bootstrap';
+import React, { Component, Fragment } from 'react';
+import { Navbar, Nav, InputGroup, Row, Col, Button } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faSearch } from '@fortawesome/free-solid-svg-icons';
-import { faDiscord, faRedditAlien } from '@fortawesome/free-brands-svg-icons';
+import {
+  faSearch,
+  faListOl,
+  faHardHat,
+  faClipboardCheck,
+  faWeight,
+  faVial,
+  faBox
+} from '@fortawesome/free-solid-svg-icons';
+import {
+  faDiscord,
+  faRedditAlien,
+  faYoutube
+} from '@fortawesome/free-brands-svg-icons';
 
 import NavDropdown from 'react-bootstrap/NavDropdown';
+import TitleIcon from './titleIcon';
 
 const Faq = () => (
-  <NavDropdown title="FAQ" id="dropdown-faq">
-    <NavDropdown.Item as={Link} to="/faq/why-diy">
-      Why DIY?
-    </NavDropdown.Item>
+  <NavDropdown
+    title={<TitleIcon icon={faListOl} title="FAQ" />}
+    id="dropdown-faq"
+  >
     <NavDropdown.Item as={Link} to="/faq/getting-started">
       Getting Started
     </NavDropdown.Item>
@@ -33,7 +46,10 @@ const Faq = () => (
 );
 
 const Safety = () => (
-  <NavDropdown title="Safety" id="dropdown-safety">
+  <NavDropdown
+    title={<TitleIcon icon={faHardHat} title="Safety" />}
+    id="dropdown-safety"
+  >
     <NavDropdown.Item as={Link} to="/safety/nicotine">
       Nicotine
     </NavDropdown.Item>
@@ -48,7 +64,10 @@ const Safety = () => (
 );
 
 const Guides = () => (
-  <NavDropdown title="Guides" id="dropdown-guides">
+  <NavDropdown
+    title={<TitleIcon icon={faClipboardCheck} title="Guides" />}
+    id="dropdown-guides"
+  >
     <NavDropdown.Item as={Link} to="/guides/additives-enhancers">
       Additives &amp; Enhancers
     </NavDropdown.Item>
@@ -71,7 +90,10 @@ const Guides = () => (
 );
 
 const Recipes = () => (
-  <NavDropdown title="Recipes" id="dropdown-recipes">
+  <NavDropdown
+    title={<TitleIcon icon={faWeight} title="Recipes" />}
+    id="dropdown-recipes"
+  >
     <NavDropdown.Item as={Link} to="/recipes/best-of">
       Best of
     </NavDropdown.Item>
@@ -100,7 +122,10 @@ const Recipes = () => (
 );
 
 const Flavors = () => (
-  <NavDropdown title="Flavors" id="dropdown-flavors">
+  <NavDropdown
+    title={<TitleIcon icon={faVial} title="Flavors" />}
+    id="dropdown-flavors"
+  >
     <NavDropdown.Item as={Link} to="/flavors/first-order">
       First Order
     </NavDropdown.Item>
@@ -129,7 +154,10 @@ const Flavors = () => (
 );
 
 const Media = () => (
-  <NavDropdown title="Videos/Podcasts" id="dropdown-media">
+  <NavDropdown
+    title={<TitleIcon icon={faYoutube} title="Media" />}
+    id="dropdown-media"
+  >
     <NavDropdown.Item as={Link} to="/media/videos">
       Videos
     </NavDropdown.Item>
@@ -140,7 +168,10 @@ const Media = () => (
 );
 
 const Supplies = () => (
-  <NavDropdown title="Supplies" id="dropdown-supplies">
+  <NavDropdown
+    title={<TitleIcon icon={faBox} title="Supplies" />}
+    id="dropdown-supplies"
+  >
     <NavDropdown.Item as={Link} to="/supplies/vendor-list">
       Vendor List
     </NavDropdown.Item>
@@ -153,7 +184,7 @@ const Supplies = () => (
   </NavDropdown>
 );
 
-const Search = props => {
+const Search = (props) => {
   const baseClass = 'dc-search';
   const classes = classNames(baseClass, [
     props.mobile ? 'd-lg-none' : 'd-lg-block'
@@ -191,45 +222,72 @@ export default class Header extends Component {
     const { siteTitle } = this.props;
 
     return (
-      <Navbar variant="dark" bg="primary" expand="lg">
-        <Navbar.Brand>
-          <Link to="/">{siteTitle}</Link>
-        </Navbar.Brand>
-        <Navbar.Toggle />
-        <Navbar.Collapse>
-          <Nav>
-            <Nav.Link as={Link} to="/quick-start">
-              Quick Start
-            </Nav.Link>
-            <Faq />
-            <Safety />
-            <Guides />
-            <Recipes />
-            <Flavors />
-            <Media />
-            <Supplies />
+      <Fragment>
+        <Navbar variant="light" bg="light">
+          <Navbar.Brand>
+            <Link to="/" className="text-dark">
+              {siteTitle}
+            </Link>
+          </Navbar.Brand>
+          <Nav as={Row} className="w-100 ml-5">
+            <Col>
+              <Nav.Link as={Link} to="/faq/why-diy">
+                <Button variant="secondary">Why DIY?</Button>
+              </Nav.Link>
+            </Col>
+            <Col>
+              <Nav.Link as={Link} to="/about">
+                <Button variant="secondary">About</Button>
+              </Nav.Link>
+            </Col>
+            <Col>
+              <Nav.Link as={Link} to="/quick-start">
+                <Button variant="secondary">Quick Start</Button>
+              </Nav.Link>
+            </Col>
+            <Col>
+              <Nav.Link
+                href="https://reddit.com/r/DIY_eJuice"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <Button variant="secondary">
+                  <FontAwesomeIcon icon={faRedditAlien} size="lg" />{' '}
+                  /r/DIY_eJuice
+                </Button>
+              </Nav.Link>
+            </Col>
+            <Col>
+              <Nav.Link
+                href="http://link.diyejuice.org/discord"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <Button variant="secondary">
+                  <FontAwesomeIcon icon={faDiscord} size="lg" /> Discord
+                </Button>
+              </Nav.Link>
+            </Col>
           </Nav>
-          <Nav className="ml-auto flex-row-reverse">
-            <Search />
-          </Nav>
-          <Nav>
-            <Nav.Link
-              href="https://reddit.com/r/DIY_eJuice"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <FontAwesomeIcon icon={faRedditAlien} size="lg" /> /r/DIY_eJuice
-            </Nav.Link>
-            <Nav.Link
-              href="http://link.diyejuice.org/discord"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <FontAwesomeIcon icon={faDiscord} size="lg" /> Discord
-            </Nav.Link>
-          </Nav>
-        </Navbar.Collapse>
-      </Navbar>
+        </Navbar>
+        <Navbar variant="dark" bg="primary" expand="lg">
+          <Navbar.Toggle />
+          <Navbar.Collapse>
+            <Nav>
+              <Faq />
+              <Safety />
+              <Guides />
+              <Recipes />
+              <Flavors />
+              <Media />
+              <Supplies />
+            </Nav>
+            <Nav className="ml-auto flex-row-reverse">
+              <Search />
+            </Nav>
+          </Navbar.Collapse>
+        </Navbar>
+      </Fragment>
     );
   }
 }

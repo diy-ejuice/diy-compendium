@@ -5,7 +5,7 @@ import { Container, Row, Col, Table } from 'react-bootstrap';
 import SEO from '~components/seo';
 import Layout from '~components/layout';
 
-const Icon = props => {
+const Icon = (props) => {
   let icon = '',
     text = '';
   const label = props.variant;
@@ -204,17 +204,29 @@ const NicotineSafetyPage = () => (
           <h2>Additional Reading</h2>
           <ul>
             <li>
-              <a href="https://www.nicvape.com/Nicotine-Safety">
+              <a
+                href="https://www.nicvape.com/Nicotine-Safety"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 NicVape - Nicotine Safety
               </a>
             </li>
             <li>
-              <a href="https://www.caymanchem.com/msdss/16535m.pdf">
+              <a
+                href="https://www.caymanchem.com/msdss/16535m.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 Caymen Chemical - Nicotine Safety Data Sheet
               </a>
             </li>
             <li>
-              <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3880486/">
+              <a
+                href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3880486/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 Mayer B. &quot;How much nicotine kills a human?&quot; Arch
                 Toxicol 2014
               </a>

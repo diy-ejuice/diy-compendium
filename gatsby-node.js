@@ -1,7 +1,7 @@
 const { resolve } = require('path');
 
 const createMarkdownPages = async ({ actions, graphql, reporter }) => {
-  const component = resolve('src/components/content/markdown.js');
+  const component = resolve('src/components/markdown/page.js');
   const { createPage } = actions;
   const result = await graphql(`
     {
@@ -59,7 +59,7 @@ const createMarkdownPages = async ({ actions, graphql, reporter }) => {
   reporter.info(`Created ${counter} markdown pages!`);
 };
 
-exports.createPages = async options => {
+exports.createPages = async (options) => {
   await createMarkdownPages(options);
 };
 
