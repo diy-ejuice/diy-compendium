@@ -184,7 +184,7 @@ const Supplies = () => (
   </NavDropdown>
 );
 
-const Search = props => {
+const Search = (props) => {
   const baseClass = 'dc-search';
   const classes = classNames(baseClass, [
     props.mobile ? 'd-lg-none' : 'd-lg-block'

@@ -5,7 +5,7 @@ import { Container, Row, Col, Table } from 'react-bootstrap';
 import SEO from '~components/seo';
 import Layout from '~components/layout';
 
-const Icon = props => {
+const Icon = (props) => {
   let icon = '',
     text = '';
   const label = props.variant;
