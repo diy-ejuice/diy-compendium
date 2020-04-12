@@ -59,7 +59,7 @@ const createMarkdownPages = async ({ actions, graphql, reporter }) => {
   reporter.info(`Created ${counter} markdown pages!`);
 };
 
-exports.createPages = async options => {
+exports.createPages = async (options) => {
   await createMarkdownPages(options);
 };
 
