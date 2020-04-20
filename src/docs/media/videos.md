@@ -5,7 +5,7 @@ title: 'Video/Podcasts - DIY Videos'
 ---
 
 # DIY YouTube Channels
-
+- [Noted](https://link.diyejuice.org/noted)
 - [New Amsterdam Vape](https://www.youtube.com/channel/UCxsotC6eyf7ahIFI0eH54fA/videos)
 - [DIY or DIE](https://www.youtube.com/channel/UCFoe3PEb1_7sAY1ZgehNP3A/videos)
 - [Developed](https://www.youtube.com/channel/UCzB1igt2ymRFlP5Fd6HEq9Q/videos)

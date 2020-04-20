@@ -4,9 +4,20 @@ slug: 'reviews'
 title: 'Flavors - Reviews'
 ---
 
-If you would like to submit a flavor review please check out  [this template](http://link.diyejuice.org/revtemp) created by  [/u/TeslaDelMar](https://www.reddit.com/u/TeslaDelMar)
+If you would like to submit a flavor review please check out [this template](http://link.diyejuice.org/revtemp) created by /u/TeslaDelMar
 
-## CAP - Capella
+Not finding the flavor you're looking for? [**Flavor Notes**](https://link.diyejuice.org/notes) has notes/impressions/mini-reviews on over ***1,000*** flavors.
+
+-----
+
+###Discover more flavor profiles here -> [**Flavor Facts**](https://link.diyejuice.org/Facts000)
+> Is the most comprehensive flavor database with over 17,000 links to information on nearly 3,500 flavors. [Check it out](https://i.imgur.com/qMQMeRd.png).
+
+
+
+
+
+##CAP - Capella##
 
 [27 Bears SL](https://redd.it/763ksg)  
 [27 Fish SL](https://redd.it/75vlyo)  
@@ -14,13 +25,13 @@ If you would like to submit a flavor review please check out  [this template](ht
 [Anise](https://redd.it/5edbzc)  
 [Apple Snacks SL](https://redd.it/8i4rqe)  
 [Apricot](https://redd.it/7ijpnq)  
-[Biscuit SL](https://redd.it/74k1o1)  
+[Biscuit SL](https://redd.it/74k1o1)    
 [Blackberry](https://redd.it/5v2rn4)  
 [Blackcurrant SL](https://redd.it/75e93w)  
 [Blue Raspberry Cotton Candy](https://redd.it/5fkund)  
 [Blueberry Extra SL](https://redd.it/75n8ke)  
 [Bold Burley Tobacco](https://redd.it/7zmg7z)  
-[Bold Burley Tobacco](https://redd.it/d4fm6b)  new  
+[Bold Burley Tobacco](https://redd.it/d4fm6b) ^2  
 [Boston Cream Pie V2](https://redd.it/5xtw2o)  
 [Bubble Gum](https://redd.it/4vialj)  
 [Butter Cream](https://redd.it/5fybox)  
@@ -30,7 +41,7 @@ If you would like to submit a flavor review please check out  [this template](ht
 [Candied Watermelon](https://tasteofconcrete.com/2018/08/10/capella-silverline-candied-watermelon/)  
 [Cantaloupe](https://redd.it/5e5xqv)  
 [Cereal 27](https://redd.it/5plwxg)  
-[Chocolate Glazed Donut](https://redd.it/587gfm)  
+[Chocolate Glazed Donut](https://redd.it/587gfm)   
 [Churro](https://redd.it/4ndydm)  
 [Cinnamon Danish Swirl V1](https://redd.it/5gnqz0)  
 [Cinnamon Sugar SL](https://redd.it/76hw6p)  
@@ -71,7 +82,8 @@ If you would like to submit a flavor review please check out  [this template](ht
 [Original Blend Tobacco](https://redd.it/7ylse9)  
 [Passionfruit](https://redd.it/4nrhdq)  
 [Peppermint](https://redd.it/5eivmy)  
-[Powerful Sour](https://tasteofconcrete.com/2019/02/08/capella-powerful-sour/)  [[2]](https://redd.it/a1xt8y)  
+[Powerful Sour](https://tasteofconcrete.com/2019/02/08/capella-powerful-sour/)  
+[Powerful Sour](https://redd.it/a1xt8y) ^2  
 [Pralines and Cream](https://redd.it/5x1vlm)  
 [Rainbow Candy SL](https://redd.it/76ap1e)  
 [Raspberry V2](https://redd.it/5tjbkb)  
@@ -81,7 +93,8 @@ If you would like to submit a flavor review please check out  [this template](ht
 [Sweet Currant](https://redd.it/bkejjb)  
 [Sweet Guava](https://redd.it/5dsxqk)  
 [Sweet Mango](https://redd.it/5evnjd)  
-[Sweet Tangerine](https://redd.it/aldt3m)  [[2]](https://redd.it/4nzn4o)  
+[Sweet Tangerine](https://redd.it/aldt3m)  
+[Sweet Tangerine](https://redd.it/4nzn4o) ^2  
 [Sweet Watermelon](https://redd.it/5x1tqg)  
 [Tangy Orange](https://tasteofconcrete.com/2019/02/05/capella-tangy-orange/)  
 [Tart Cherry](https://tasteofconcrete.com/2019/02/06/capella-tart-cherry/)  
@@ -93,24 +106,24 @@ If you would like to submit a flavor review please check out  [this template](ht
 [Vanilla Whipped Cream](https://redd.it/5f70za)  
 [Waffle](https://redd.it/5fdtpf)  
 [Whipped Marshmallow SL](https://redd.it/76uepw)  
-[Yellow Cake](https://redd.it/5vffe1)
+[Yellow Cake](https://redd.it/5vffe1)  
 
-## CC - Chef's Choice
+##CC - Chef's Choice##
 
 [Devon Cream](https://redd.it/750jyb)  
-[Waffle](https://redd.it/74tk4j)
+[Waffle](https://redd.it/74tk4j)  
 
-## CF - Chef's Flavours
+##CF - Chef's Flavours##
 
 [Nice Custard Cream](https://redd.it/5resev)  
 [The Doughnut King](https://redd.it/5rldfb)  
-[Welsh Custard](https://redd.it/5relb1)
+[Welsh Custard](https://redd.it/5relb1)  
 
-## CN - ChemNic
+##CN - ChemNic##
 
-[Yellow Cake](https://redd.it/4vi08m)
+[Yellow Cake](https://redd.it/4vi08m)  
 
-## DF - Delosi Flavors
+##DF - Delosi Flavors##
 
 [Bananas Foster](https://redd.it/ajhhn6)  
 [Black Licorice](https://redd.it/6274l4)  
@@ -118,17 +131,20 @@ If you would like to submit a flavor review please check out  [this template](ht
 [Glazed Donut](https://redd.it/ajb3r6)  
 [Ice -- Original](https://redd.it/6rb32z)  
 [Lychee](https://redd.it/b87oo6)  
-[Marshmallow Cereal](https://redd.it/b87m4p)  [Pecan Pie](https://redd.it/anfeaz)  
+[Marshmallow Cereal](https://redd.it/b87m4p)
+[Pecan Pie](https://redd.it/anfeaz)  
 [Pink Lemonade](https://redd.it/b87w0x)  
 [Strawberry Cream](https://redd.it/alunwv)  
-[Watermelon](https://redd.it/b883q0)
+[Watermelon](https://redd.it/b883q0)  
 
-## DIYFS - DIY Flavor Shack
+##DIYFS - DIY Flavor Shack##
 
 [Angel Food Cake](https://redd.it/5pyvrv)  
 [Chocolate Cookie Rounds](https://redd.it/5pz07l)  
-[Holy Holy Grail RY4](https://redd.it/5rxh3x)  [[2]](https://redd.it/828zgh)  
-[Holy Holy Grail RY4](https://redd.it/d1kdn5)  new  
+[Holy Holy Grail RY4](https://redd.it/5rxh3x)  
+[Holy Holy Grail RY4](https://redd.it/828zgh) ^2  
+[Holy Holy Grail RY4](https://redd.it/d1kdn5)  ^3  
+[Holy Holy Grail RY4](https://redd.it/einssk) ^new  
 [Holy Holy Grail RY4 v2](https://redd.it/d1kdn5)  
 [Holy Vanilla](https://redd.it/5krwcz)  
 [Kulolo](https://redd.it/99e8mf)  
@@ -137,25 +153,27 @@ If you would like to submit a flavor review please check out  [this template](ht
 [Nutella](https://redd.it/5p6f96)  
 [Pomegranate](https://redd.it/5p78y0)  
 [Pound Cake](https://redd.it/5x0wkc)  
-[Sugar Cream](https://redd.it/5p6bfg)
+[Sugar Cream](https://redd.it/5p6bfg)  
 
-## DM - DouMei
+##DM - DouMei##
 
 [Cheesecake](https://redd.it/7fhz3p)  
 [Mochi](https://redd.it/7fi1jz)  
 [Pandan](https://redd.it/7fi3p2)  
 [Rice](https://redd.it/7fi4ym)  
 [Ube Yam (Purple Yam)](https://redd.it/7fi6qw)  
-[Yam](https://redd.it/99e7px)
+[Yam](https://redd.it/99e7px)  
 
-## DS - DuraSmoke
-
+##DS - DuraSmoke##
+[Black Cherry](https://redd.it/esad7t)  
 [Blackberry Champagne](https://redd.it/ech62a)  
+[Blue Berry Yogurt](https://redd.it/eqw1ei)  
+[Coffee Cream](https://redd.it/eqw9b3)  
 [Fireball](https://redd.it/eellmo)  
 [Fruit Smoothie](https://redd.it/e90jbg)  
-[Vanilla Ice Cream](https://redd.it/e9urhw)
+[Vanilla Ice Cream](https://redd.it/e9urhw)  
 
-## DV - Decadent Vapours
+##DV - Decadent Vapours##
 
 [Absinthe](https://redd.it/5snr4p)  
 [Blue Limey](https://redd.it/8251fw)  
@@ -181,23 +199,25 @@ If you would like to submit a flavor review please check out  [this template](ht
 [Rhubarb](https://redd.it/8530wz)  
 [Rhubarb Cuddle](https://redd.it/5rwn19)  
 [Sasparilla](https://redd.it/5s56bv)  
-[Sherbet Lemon](https://redd.it/5rj667)  [Toffy](https://redd.it/8b6u6a)  
+[Sherbet Lemon](https://redd.it/5rj667)
+[Toffy](https://redd.it/8b6u6a)  
 [Vanilla Custard](https://redd.it/8ddtha)  
-[Welsh Pipe](https://redd.it/8c6ymr)
+[Welsh Pipe](https://redd.it/8c6ymr)  
 
-## EF - Euro Flavor
+##EF - Euro Flavor##
 
 [Blue Raspberry](https://redd.it/9vlzvg)  
 [Fresh Blueberry](https://redd.it/9vnx8r)  
 [Graham Cracker](https://redd.it/9vva7a)  
-[Vanilla Cheesecake](https://redd.it/a432r2)
+[Vanilla Cheesecake](https://redd.it/a432r2)  
 
-## FA - Flavour Art
+
+##FA - Flavour Art##
 
 [7 Leaves Ultimate](https://redd.it/5iybf2)  
-[Almond](https://redd.it/4z2ihf)  
+[Almond](https://redd.it/4z2ihf)   
 [Anise](https://redd.it/5lpfzd)  
-[Anise](https://redd.it/cg4iot)  new  
+[Anise](https://redd.it/cg4iot) ^new  
 [Apricot](https://redd.it/5wr34t)  
 [Aurora](https://redd.it/5m9777)  
 [Banana](https://redd.it/51mhtr)  
@@ -256,11 +276,12 @@ If you would like to submit a flavor review please check out  [this template](ht
 [Labyrinth](https://redd.it/4w32s8)  
 [Latakia](https://redd.it/6a84f5)  
 [Lavender](https://redd.it/5uh6wb)  
-[Lemon Sicily](https://redd.it/4p6dgf)  
+[Lemon Sicily] (https://redd.it/4p6dgf)  
 [Liquid Amber](https://redd.it/4se9aa)  
 [Lychee](https://redd.it/5zp312)  
 [Mandarin](https://redd.it/5turda)  
-[Mangosteen](https://redd.it/54i557)  
+[Mango Indian Special](https://redd.it/ezzqa5)  
+[Mangosteen](https://redd.it/54i557)   
 [Maple Syrup](https://redd.it/5or06m)  
 [Marshmallow](https://redd.it/4vzxc9)  
 [Marzipan](https://redd.it/4vg7pb)  
@@ -280,7 +301,8 @@ If you would like to submit a flavor review please check out  [this template](ht
 [Pear](https://redd.it/4qcmic)  
 [Perique Black](https://redd.it/5whbhd)  
 [Peppermint](https://redd.it/5b9d95)  
-[Potato Boiled](https://redd.it/99e1fc)  [Potato Fried](https://redd.it/99e1sg)  
+[Potato Boiled](https://redd.it/99e1fc)
+[Potato Fried](https://redd.it/99e1sg)  
 [Raspberry](https://redd.it/5vszgi)  
 [Red Bean](https://redd.it/7gitwi)  
 [Red Summer](https://redd.it/5shsy2)  
@@ -310,13 +332,14 @@ If you would like to submit a flavor review please check out  [this template](ht
 [White Peach](https://redd.it/4rgyg8)  
 [Wow](https://redd.it/5n3yy5)  
 [Zen Garden](https://redd.it/4v29qg)  
-[Zeppola](https://redd.it/5oy7qd)  [[2]](https://redd.it/7ukjyp)
+[Zeppola](https://redd.it/5oy7qd)  [[2]](https://redd.it/7ukjyp)    
 
-[FA Tobaccos compilation post](https://redd.it/5s7oaz)
+[FA Tobaccos compilation post](https://redd.it/5s7oaz)  
 
-## FE - Flavor Express
+##FE - Flavor Express##
 
-[Avocado](https://redd.it/6j29c3)  [French Toast](https://redd.it/ajhjpp)  
+[Avocado](https://redd.it/6j29c3)
+[French Toast](https://redd.it/ajhjpp)  
 [Guava](https://redd.it/7pvtw7)  
 [Oak Milk](https://redd.it/6fpeta)  [[2]](https://redd.it/6a7at8)  
 [Passion Fruit](https://redd.it/7qrxad)  
@@ -326,9 +349,10 @@ If you would like to submit a flavor review please check out  [this template](ht
 [Sweet Grape](https://redd.it/7pebe1)  
 [Sweet Orange](https://redd.it/7qiizm)  
 [Sweet Rice](https://redd.it/6dku24)  
-[Taro](https://redd.it/7g7bj6)
+[Taro](https://redd.it/7g7bj6)  
 
-## FLV - Flavorah
+
+##FLV - Flavorah##
 
 [Acai](https://redd.it/6354fh)  
 [Alpine Strawberry](https://redd.it/5q75tx)  
@@ -348,6 +372,7 @@ If you would like to submit a flavor review please check out  [this template](ht
 [Berry Cheesecake](https://redd.it/63chjh)  
 [Biscotti](https://redd.it/64bp1m)  
 [Black Cherry](https://redd.it/63yxkf)  
+[Black Currant](https://redd.it/f3feny)  
 [Black Tea](https://redd.it/86sbt1)  
 [Blackberry Blossom](https://redd.it/6x0jys)  
 [Blueberry](https://redd.it/5hs4bd)  
@@ -375,7 +400,8 @@ If you would like to submit a flavor review please check out  [this template](ht
 [Coconut](https://redd.it/4kaiua)  
 [Coffee](https://redd.it/66m0o0)  
 [Commercial Cigarette](https://redd.it/5uvgb7)  
-[Connecticut Shade](https://redd.it/55wme1)  [[2]](https://redd.it/59s8p4)  
+[Connecticut Shade](https://redd.it/55wme1)  
+[Connecticut Shade](https://redd.it/59s8p4) ^2   
 [Cookie](https://redd.it/5wlu0i)  
 [Cookie Dough](https://redd.it/60e5yo)  
 [Cool Menthol](https://redd.it/65g1id)  
@@ -425,6 +451,7 @@ If you would like to submit a flavor review please check out  [this template](ht
 [Lemon Tea](https://redd.it/6d6vh0)  
 [Lemonade](https://redd.it/4oae32)  
 [Lemon Grass](https://redd.it/4khftt)  
+[Lemon Grass](https://redd.it/exba1y) ^2  
 [Lime](https://redd.it/5hg8o1)  
 [Lime Wedge](https://redd.it/6agcs2)  
 [Lovage](https://redd.it/5ko0w1)  
@@ -456,6 +483,8 @@ If you would like to submit a flavor review please check out  [this template](ht
 [Persimmon](https://redd.it/64p02r)  
 [Persimmon Spice](https://redd.it/6cxo8r)  
 [Pineapple](https://redd.it/5bapjs)  
+[Pink Fruit](https://redd.it/ej6r3j)   
+[Pink Fruit](https://redd.it/elz4hg) ^2  
 [Pink Guava](https://redd.it/6kl3bn)  
 [Pistachio](https://redd.it/5auunc)  
 [Popcorn](https://redd.it/6xzdbt)  
@@ -503,15 +532,16 @@ If you would like to submit a flavor review please check out  [this template](ht
 [Wild Melon](https://redd.it/4n9yyn)  
 [Wood Spice](https://redd.it/69d0oq)  
 [Yakima Hops](https://redd.it/4v5ujy)  
-[Yam](https://redd.it/7qzzol)
+[Yam](https://redd.it/7qzzol)  
 
-## FM - Flavour Monks
+##FM - Flavour Monks##
 
 [Blackberry](https://redd.it/7crthe)  
 [Divine Raspberry](https://redd.it/5rad9y)  
 [Drop (Black Licorice)](https://redd.it/5r3qvl)  
 [Gin Orange](https://redd.it/5qp9zn)  
-[Gin in Paris](https://redd.it/5qjhic)  [[2]](https://redd.it/7cx5sj)  
+[Gin in Paris](https://redd.it/5qjhic)  
+[Gin in Paris](https://redd.it/7cx5sj) ^2  
 [Gin &amp; Tonic](https://redd.it/5qyje4)  
 [Green Apple](https://redd.it/84rfgy)  
 [Mango](https://redd.it/5h294l)  
@@ -521,9 +551,9 @@ If you would like to submit a flavor review please check out  [this template](ht
 [Pure Gin](https://redd.it/5pr9b3)  
 [Red Gin](https://redd.it/5qcp7s)  
 [Sweet Betsy Cookie](https://redd.it/7fsh9u)  
-[Vero Gin](https://redd.it/5q5bjc)
+[Vero Gin](https://redd.it/5q5bjc)  
 
-## FR - Flavor Revolution
+##FR - Flavor Revolution##
 
 [Cream](https://redd.it/7wkal0)  
 [Custard](https://redd.it/7xcujp)  
@@ -536,9 +566,10 @@ If you would like to submit a flavor review please check out  [this template](ht
 [Tobacco Mega Thread](https://redd.it/6zcj0n)  
 [Vanilla Cream](https://redd.it/7wwjc7)  
 [Vanilla Custard](https://redd.it/7xnnds)  
-[Woody Tobacco](https://redd.it/7438mw)
+[Woody Tobacco](https://redd.it/7438mw)  
 
-## FW - Flavor West
+
+##FW - Flavor West##
 
 [Bavarian Cream](https://redd.it/4n6whn)  
 [Beetle Juice](https://redd.it/6v1rh5)  
@@ -560,7 +591,8 @@ If you would like to submit a flavor review please check out  [this template](ht
 [Cranberry](https://redd.it/4un4xh)  
 [Cream Soda Type](https://redd.it/4p8yqe)  
 [Creamy Chocolate Cake](https://redd.it/6pt0u8)  
-[Creamy Sponge Cake](https://redd.it/6pwjh7)  [Creme de Menthe](https://redd.it/5be30l)  
+[Creamy Sponge Cake](https://redd.it/6pwjh7)
+[Creme de Menthe](https://redd.it/5be30l)  
 [Crunch Berries](https://redd.it/5h19al)  
 [Cucumber Mint](https://redd.it/5yrnlx)  
 [Double Dutch Chocolate](https://redd.it/5ave6g)  
@@ -595,7 +627,7 @@ If you would like to submit a flavor review please check out  [this template](ht
 [Peach](https://redd.it/5b1ef9)  
 [Pineapple Peach](https://redd.it/5reakc)  
 [Pralines &amp; Cream](https://redd.it/4onmrh)  
-[Pumpkin Spice](https://redd.it/5akd70)  
+[Pumpkin Spice](https://redd.it/5akd70)   
 [Raspberry](https://redd.it/6tr3hu)  
 [Razzleberry](https://redd.it/4o5ruz)  
 [Reindeer Poop](https://redd.it/6nr8m6)  
@@ -621,26 +653,27 @@ If you would like to submit a flavor review please check out  [this template](ht
 [Vanilla Butternut](https://redd.it/4ykjrd)  
 [Waffle](https://redd.it/58pnkw)  
 [Waffle Cone](https://redd.it/6quhca)  
-[Whipped Cream](https://redd.it/4o3x8e)  
+[Whipped Cream] (https://redd.it/4o3x8e)  
 [Whiskey](https://redd.it/5xxbg7)  
 [White Cake](https://redd.it/6pmbk3)  
 [White Chocolate](https://redd.it/4ll7l2)  
-[Wild Berry Cobbler](https://redd.it/6r2com)
+[Wild Berry Cobbler](https://redd.it/6r2com)  
 
-## GF - German Flavors
+
+##GF - German Flavors##
 
 [Mulled Wine](https://redd.it/4rpu4n)  
-[Toffee](https://redd.it/4q4mvj)
+[Toffee](https://redd.it/4q4mvj)  
 
-## GLF - Great Lakes Flavor Co
+##GLF - Great Lakes Flavor Co##
 
-[Watermelon](https://redd.it/7fkw1w)
+[Watermelon](https://redd.it/7fkw1w)  
 
-## GS - Get Suckered
+##GS - Get Suckered##
 
-[Taro](https://redd.it/99e5lk)
+[Taro](https://redd.it/99e5lk)  
 
-## HC - Health Cabin
+##HC - Health Cabin##
 
 [Chocolate White](https://redd.it/7gnwmm)  
 [Condensed Milk](https://redd.it/alume0)  
@@ -651,9 +684,9 @@ If you would like to submit a flavor review please check out  [this template](ht
 [Purple Potato](https://redd.it/99e2vk)  
 [Sweet Corn](https://redd.it/7fg40b)  
 [Taro](https://redd.it/7g7f3l)  
-[Yam](https://redd.it/7ffxs4)
+[Yam](https://redd.it/7ffxs4)  
 
-## HL - HiLIQ
+##HL - HiLIQ##
 
 [Green Tea](https://redd.it/aq3rdj)  
 [Jade Tea](https://redd.it/aq3s9w)  
@@ -661,18 +694,18 @@ If you would like to submit a flavor review please check out  [this template](ht
 [Pomegranate](https://redd.it/aq3svl)  
 [Red Wine](https://redd.it/aq3tk9)  
 [Rice](https://redd.it/ajhj4l)  
-[Watermelon](https://redd.it/dznnt7)
+[Watermelon](https://redd.it/dznnt7)  
 
-## HS - Hangsen
+##HS - Hangsen##
 
 [Apple Mix](https://redd.it/5lctab)  
 [Arabic Tobacco](https://redd.it/5qoz7m)  
 [Australian Chocolate](https://redd.it/4x149d)  
 [Banana](https://redd.it/5ln2eq)  
 [Beer](https://redd.it/5iq3j0)  
-[Blueberry](https://redd.it/4picwn)  
+[Blueberry] (https://redd.it/4picwn)  
 [Chocolate Cream](https://redd.it/60sjrd)  
-[Churchill](https://redd.it/5nup3i)  
+[Churchill](https://redd.it/5nup3i)    
 [Coconut](https://redd.it/4nxi7m)  
 [Deluxe Tobacco](https://redd.it/66fovt)  
 [Dirty Neutral Base (DNB)](https://redd.it/670w5w)  
@@ -691,13 +724,15 @@ If you would like to submit a flavor review please check out  [this template](ht
 [Red Energy](https://redd.it/5ljgvb)  
 [Red USA](https://redd.it/6jpjo9)  
 [Tab Blended](https://redd.it/7f4hnn)  
-[Watermelon](https://redd.it/5tpa13)
+[Watermelon](https://redd.it/5tpa13)  
 
-## INW - Inawera
+
+##INW - Inawera##
 
 [555 Gold](https://redd.it/6mifi9)  
 [Am4a](https://redd.it/5s4r83)  
-[Anton Apple](https://redd.it/5hgqvy)  [[2]](https://redd.it/84rbrs)  
+[Anton Apple](https://redd.it/5hgqvy)  
+[Anton Apple](https://redd.it/84rbrs) ^2  
 [Biscuit](https://redd.it/4tdla5)  
 [Black Cat for Pipe](https://redd.it/c94ezt)  
 [Black for Pipe](https://redd.it/5rjoja)  
@@ -711,7 +746,7 @@ If you would like to submit a flavor review please check out  [this template](ht
 [Cherries in Liqueur](https://redd.it/757zv4)  
 [Cherry Concentrate](https://redd.it/5wys09)  
 [Cocopilada](https://redd.it/55sl6z)  
-[Cola](https://redd.it/4wlwav)  
+[Cola](https://redd.it/4wlwav)    
 [Creme Brulee](https://redd.it/50j7iy)  
 [Cultcumber](https://redd.it/c6iuba)  
 [Custard](https://redd.it/5qpztf)  
@@ -743,8 +778,8 @@ If you would like to submit a flavor review please check out  [this template](ht
 [Liquorice](https://redd.it/cg4iot)  
 [Little Space Drop](https://redd.it/5mqxv5)  
 [Mango](https://redd.it/4unk0m)  
-[Marzipan](https://redd.it/4p38iy)  
-[Melon](https://redd.it/5pzgif)  
+[Marzipan](https://redd.it/4p38iy)   
+[Melon](https://redd.it/5pzgif)   
 [Milk Chocolate](https://redd.it/4n09je)  
 [Miss Cream](https://redd.it/873koh)  
 [Mix Mint](https://redd.it/5xcyqu)  
@@ -772,7 +807,7 @@ If you would like to submit a flavor review please check out  [this template](ht
 [Sesame Sweets](https://redd.it/6w4rw7)  
 [Shisha Apple](https://redd.it/7478ha)  
 [Shisha Bilberry](https://redd.it/69c7qs)  
-[Shisha Chili &amp; Hot Spice](https://tasteofconcrete.com/2018/07/02/inawera-shisha-chili-hot-spice/)  
+[Shisha Chili & Hot Spice](https://tasteofconcrete.com/2018/07/02/inawera-shisha-chili-hot-spice/)  
 [Shisha Chili](https://tasteofconcrete.com/2018/07/03/inawera-shisha-chili/)  
 [Shisha Coconut](https://redd.it/74j2ze)  
 [Shisha Lemon](https://redd.it/68zlpk)  
@@ -780,13 +815,13 @@ If you would like to submit a flavor review please check out  [this template](ht
 [Shisha Mango](https://redd.it/5gwubu)  
 [Shisha Orange](https://redd.it/6e975f)  
 [Shisha Pineapple](https://redd.it/4rh1wx)  
-[Shisha PineappleNEW](https://redd.it/e8tu0m)  
+[Shisha Pineapple^NEW](https://redd.it/e8tu0m)  
 [Shisha Punch](https://redd.it/5jr7zt)  
 [Shisha Raspberry](https://redd.it/68wc2a)  
 [Shisha Rosemary](https://redd.it/4qntgz)  
 [Shisha Strawberry](https://redd.it/4q2blg)  
 [Shisha Vanilla](https://redd.it/4q2cqx)  
-[Smoked Plum](https://redd.it/4rjznh)  
+[Smoked Plum] (https://redd.it/4rjznh)    
 [Sparkling Wine](https://redd.it/4rea9b)  
 [Summer Feelings](https://redd.it/5ro6v7)  
 [Tobacco Absolute Cuban Cigar WG](https://redd.it/6fq5pi)  
@@ -802,9 +837,9 @@ If you would like to submit a flavor review please check out  [this template](ht
 [Wild S. Ice Cream](https://redd.it/9zy128)  
 [Wunder Waffle](https://redd.it/bghtkn)  
 [Yes, We Cheesecake](https://redd.it/873koh)  
-[Zwei Peanuts](https://redd.it/75vpfd)
+[Zwei Peanuts](https://redd.it/75vpfd)  
 
-## JF - Jungle Flavors (ECX)
+##JF - Jungle Flavors (ECX)##
 
 [Biscuit](https://redd.it/5w1416)  
 [Boysenberry](https://redd.it/5jlogw)  
@@ -824,17 +859,17 @@ If you would like to submit a flavor review please check out  [this template](ht
 [RY4 Double](https://redd.it/7oi4rs)  
 [Strawberry Harvest](https://redd.it/7fgf6j)  
 [Sweet Strawberry](https://redd.it/5x1z63)  
-[Yellow Cake](https://redd.it/57ncf9)
+[Yellow Cake](https://redd.it/57ncf9)  
 
-## LA - LorAnn
+##LA - LorAnn##
 
-[Banana Cream](https://redd.it/4ueea9)  
+[Banana Cream](https://redd.it/4ueea9)   
 [Blackberry](https://redd.it/4rgunt)  
 [Coconut](https://redd.it/4ze7rw)  
 [Cream Cheese Icing](https://redd.it/58tokn)  
-[Lemonade](https://redd.it/591soz)
+[Lemonade](https://redd.it/591soz)  
 
-## LB - Liquid Barn
+##LB - Liquid Barn##
 
 [Banana](https://redd.it/78trrq)  
 [Baked Cinnamon Roll](https://redd.it/7bshkp)  
@@ -854,7 +889,7 @@ If you would like to submit a flavor review please check out  [this template](ht
 [Green Apple](https://redd.it/7991or)  
 [Honeydew](https://redd.it/7aak99)  
 [Lava Cake](https://redd.it/72wbyy)  
-[Lava Cake](https://redd.it/dqmwzx)  new  
+[Lava Cake](https://redd.it/dqmwzx) ^2  
 [Lava Cake v2](https://redd.it/dqmwzx)  
 [Orange Banana](https://redd.it/7d303n)  
 [Pacific Cooler](https://redd.it/7ds9im)  
@@ -874,9 +909,9 @@ If you would like to submit a flavor review please check out  [this template](ht
 [Vanilla Ice Cream](https://redd.it/7hwecx)  
 [Vanilla Mint](https://redd.it/7faoet)  
 [Vienna Cream](https://redd.it/7h1ogx)  
-[White Chocolate Peppermint](https://redd.it/7fl63v)
+[White Chocolate Peppermint](https://redd.it/7fl63v)  
 
-## LNW - Liquid Nicotine Wholesale
+##LNW - Liquid Nicotine Wholesale##
 
 [Blueberry](https://redd.it/68to7y)  
 [Grape](https://redd.it/68ju8d)  
@@ -884,9 +919,9 @@ If you would like to submit a flavor review please check out  [this template](ht
 [Pineapple](https://redd.it/68c6hx)  
 [Rainbow Sherbet](https://redd.it/6a2khf)  
 [Strawberry Banana](https://redd.it/69roeq)  
-[Vanilla Ice Cream](https://redd.it/69j26r)
+[Vanilla Ice Cream](https://redd.it/69j26r)  
 
-## MB - MolinBerry
+##MB - MolinBerry##
 
 [Anise Star](https://redd.it/cg4iot)  
 [Custard](https://redd.it/84rgab)  
@@ -894,35 +929,37 @@ If you would like to submit a flavor review please check out  [this template](ht
 [Melty Caramel](https://redd.it/84rwli)  
 [Mexican Cactus](https://tasteofconcrete.com/2018/06/28/molinberry-mexican-cactus/)  
 [Pink Lady](https://redd.it/4d4ikk)  
-Raspberry Revolution:  [Soda Berry](https://redd.it/9tyc2h),  [Honey Berry](https://redd.it/9u43dy), and  [Spicy White](https://redd.it/9tyeu4)  
+Raspberry Revolution:  [Soda Berry](https://redd.it/9tyc2h), [Honey Berry](https://redd.it/9u43dy), and [Spicy White](https://redd.it/9tyeu4)  
 [Red Cherry](https://redd.it/84navg)  
-[Tropical Mango](https://tasteofconcrete.com/2018/06/30/molinberry-tropical-mango/)
+[Tropical Mango](https://tasteofconcrete.com/2018/06/30/molinberry-tropical-mango/)  
 
-## MF - Medicine Flower
+##MF - Medicine Flower##
 
-[Black Cherry](https://redd.it/5z9r0r)
+[Black Cherry](https://redd.it/5z9r0r)  
 
-## NF - Nature's Flavors
+##NF - Nature's Flavors##
 
 [Corn (Organic)](https://redd.it/7gfelv)  
 [Ginger](https://redd.it/7w94dl)  
 [Malt](https://redd.it/7w0v9i)  
-[Sweet Corn (Organic)](https://redd.it/7gfhr4)
+[Sweet Corn (Organic)](https://redd.it/7gfhr4)  
 
-## NN - Nude Nicotine
+##NN - Nude Nicotine##
 
 [OMFG It's Chocolate](https://redd.it/4nmfma)  
-[Strawberry Raspberry Rhubarb Pie Filling](https://redd.it/4nph6q)
+[Strawberry Raspberry Rhubarb Pie Filling](https://redd.it/4nph6q)  
 
-## NR - NicRiver
+##NR - NicRiver##
 
-[Yuzu](https://redd.it/eckxhg)
+[Yuzu](https://redd.it/eckxhg)  
 
-## NV - NicVape
+##NV - NicVape##
 
-[Old Fashioned Donut](https://redd.it/aldne0)
+[Old Fashioned Donut](https://redd.it/aldne0)  
 
-## OOO - One On One
+##OOO - One On One##
+
+- [OoO Mango Mega-Review by ID10-T](https://redd.it/61fvir)  
 
 [Avocado](https://redd.it/7fflug)  
 [Bacon](https://redd.it/7jno7f)  
@@ -931,22 +968,22 @@ Raspberry Revolution:  [Soda Berry](https://redd.it/9tyc2h),  [Honey Berry](http
 [Corn Puffs Cereal](https://redd.it/7fia3t)  
 [Creme Brulee](https://redd.it/7fjknp)  
 [Fried Chicken](https://redd.it/782w75)  
-[Mango mega-review by ID10-T](https://redd.it/61fvir)  
 [Marshmallow](https://redd.it/60lspu)  
 [Pancake](https://redd.it/7fj5d7)  
 [Powdered Sugar](https://redd.it/60lvbb)  
+[Smokey Bacon](https://redd.it/er0u30)  
 [Sugar Cone](https://redd.it/5wmtvt)  
 [Sweet Potato](https://redd.it/99e0vg)  
 [Taro](https://redd.it/7g7i8c)  
-[Vanilla Custard Cheesecake](https://redd.it/676qcc)
+[Vanilla Custard Cheesecake](https://redd.it/676qcc)  
 
-## OSDIY - One Stop DIY
+##OSDIY - One Stop DIY##
 
 [Blue Raspberry Slush](https://redd.it/5grjam)  
 [Choco-Yum Cake](https://redd.it/6kxpjb)  
-[Lucky Shot](https://redd.it/5n3m7j)
+[Lucky Shot](https://redd.it/5n3m7j)  
 
-## PUR - Purilum (Nicotine River)
+##PUR - Purilum (Nicotine River)##
 
 [Acai Berry](https://redd.it/6s4rl2)  
 [Ambrosia](https://redd.it/75ek7u)  
@@ -977,7 +1014,8 @@ Raspberry Revolution:  [Soda Berry](https://redd.it/9tyc2h),  [Honey Berry](http
 [Cream Dream](https://redd.it/5rtq7u)  
 [Dragon Fruit](https://redd.it/62rain)  
 [Fresh Coconut](https://redd.it/5mwv1d)  
-[Fruit Circles](https://redd.it/66ncuj)  [[2]](https://redd.it/62r4e4)  
+[Fruit Circles](https://redd.it/66ncuj)  
+[Fruit Circles](https://redd.it/62r4e4) ^2  
 [Fruit Circles with Milk](https://redd.it/62rg8j)  
 [Grape Soda](https://redd.it/6s4rq2)  
 [Grapefruit Mojito](https://redd.it/6wpul2)  
@@ -1014,7 +1052,8 @@ Raspberry Revolution:  [Soda Berry](https://redd.it/9tyc2h),  [Honey Berry](http
 [Strawberry Taffy](https://redd.it/5mx8e7)  
 [Strawnana Smoothie](https://redd.it/6dkphu)  
 [Sweet Strawberry](https://redd.it/5n37en)  
-[Sweet Tobacco](https://redd.it/bdxff3)  [[2]](https://redd.it/5q9dlq)  
+[Sweet Tobacco](https://redd.it/bdxff3)  
+[Sweet Tobacco](https://redd.it/5q9dlq) ^2  
 [Toasted Coconut Cheesecake](https://redd.it/6dkqb8)  
 [Toasted Coconut Mango Sherbet](https://redd.it/767s7k)  
 [Tobacco Bourbon](https://redd.it/5q9gqp)  
@@ -1028,30 +1067,30 @@ Raspberry Revolution:  [Soda Berry](https://redd.it/9tyc2h),  [Honey Berry](http
 [White Grapes](https://redd.it/5qaomz)  
 [White Peach](https://redd.it/5qau65)  
 [Wild Berry Harvest](https://redd.it/6dkqy6)  
-[Yellow Cake](https://redd.it/5r590m)
+[Yellow Cake](https://redd.it/5r590m)  
 
-## RF - Real Flavors
+##RF - Real Flavors##
 
-[Mega Review Thread](https://redd.it/4rfw2d)  by  [/u/mysticrosell](https://www.reddit.com/u/mysticrosell)
+- [RF Mega Review Thread](https://redd.it/4rfw2d) by /u/mysticrosell
 
 [Apple SC](https://redd.it/60sf64)  
 [Baja Soda SC](https://redd.it/6fgeem)  
 [Baklava SC](https://redd.it/628fqv)  
 [Blue Moon Ice Cream SC](https://redd.it/6ddjz5)  
-[Blue Raz  _VG Version_](https://redd.it/4rhiy9)  
+[Blue Raz *VG Version*](https://redd.it/4rhiy9)  
 [Blueberry SC](https://redd.it/60wu8z)  
 [Blueberry Lemonade Slushie SC](https://redd.it/6dyqbv)  
 [Brandy SC](https://redd.it/6dp6c1)  
-[Bread Pudding  _VG Version_](https://redd.it/4rhgvy)  
+[Bread Pudding *VG Version*](https://redd.it/4rhgvy)   
 [Bread Pudding SC](https://redd.it/6637nw)  
 [Brown Sugar SC](https://redd.it/6h8oep)  
 [Brownie SC](https://redd.it/55shdd)  
 [Bourbon SC](https://redd.it/6dig9s)  
 [Butter Crisp Candy Bar Type SC](https://redd.it/6gurhy)  
-[Butterscotch Pudding  _VG Version_](https://redd.it/4rh5ke)  
-[Butter Toffee  _VG Version_](https://redd.it/55sjwp)  
+[Butterscotch Pudding *VG Version*](https://redd.it/4rh5ke)  
+[Butter Toffee *VG Version*](https://redd.it/55sjwp)  
 [Butter Toffee SC](https://redd.it/6gnrzy)  
-[Cake Batter  _VG Version_](https://redd.it/4rhl0v)  
+[Cake Batter *VG Version*](https://redd.it/4rhl0v)  
 [Candy Base SC](https://redd.it/6ejyyq)  
 [Caramel SC](https://redd.it/6e23hs)  
 [Caramel Apple SC](https://redd.it/6g4bi7)  
@@ -1059,66 +1098,66 @@ Raspberry Revolution:  [Soda Berry](https://redd.it/9tyc2h),  [Honey Berry](http
 [Carrot Cake SC](https://redd.it/6eaje5)  
 [Cherry Cola Type SC](https://redd.it/6fnetd)  
 [Cherry Limeade SC](https://redd.it/6f9ql4)  
-[Cherry Pie  _VG Version_](https://redd.it/4oggzn)  
+[Cherry Pie *VG Version*](https://redd.it/4oggzn)  
 [Chocolate Chip Cookie SC](https://redd.it/6dx4zs)  
-[Cinnamon Custard  _VG Version_](https://redd.it/4rhepj)  
-[Coconut Cream Pie  _VG Version_](https://redd.it/4rhjyy)  
+[Cinnamon Custard *VG Version*](https://redd.it/4rhepj)  
+[Coconut Cream Pie *VG Version*](https://redd.it/4rhjyy)  
 [Cola SC](https://redd.it/55sjh4)  
 [Condensed Milk SC](https://redd.it/6fvjty)  
 [Cookie Dough SC](https://redd.it/6h2wme)  
-[Cookies and Cream  _VG Version_](https://redd.it/4p0bg5)  
+[Cookies and Cream *VG Version*](https://redd.it/4p0bg5)  
 [Cream SC](https://redd.it/55shxk)  
-[Cream Cheese  _VG Version_](https://redd.it/4rhb06)  
-[Cream Soda  _VG Version_](https://redd.it/4rh9lp)  
+[Cream Cheese *VG Version*](https://redd.it/4rhb06)  
+[Cream Soda *VG Version*](https://redd.it/4rh9lp)  
 [Cucumber SC](https://redd.it/65erin)  
 [Deep Fried Spongecake SC](https://redd.it/6ghbgu)  
-[Dreamsicle  _VG Version_](https://redd.it/55sjp9)  
+[Dreamsicle *VG Version*](https://redd.it/55sjp9)  
 [French Toast SC](https://redd.it/644zst)  
 [French Vanilla SC](https://redd.it/55sbvb)  
 [Fried Chicken SC](https://redd.it/6dwfyf)  
 [Frosted Animal Cookie](https://redd.it/ajbpjk)  
 [Funnel Cake SC](https://redd.it/55sgmh)  
-[Ginger Ale  _VG Version_](https://redd.it/4ls0k5)  
+[Ginger Ale *VG Version*](https://redd.it/4ls0k5)  
 [Grape SC](https://redd.it/6i0w7m)  
-[Lemon Cake  _VG Version_](https://redd.it/4rhmzb)  
-[Lemon Meringue  _VG Version_](https://redd.it/55sdbf)  
+[Lemon Cake *VG Version*](https://redd.it/4rhmzb)  
+[Lemon Meringue *VG Version*](https://redd.it/55sdbf)  
 [Lemon Tea SC](https://redd.it/642nn3)  
 [Mango SC](https://redd.it/651pjz)  
 [Marshmallow SC](https://redd.it/55sj2r)  
 [Marshmallow Candy SC](https://redd.it/75jllc)  
 [Masala Chai SC](https://redd.it/61hs1w)  
-[Mocha  _VG Version_](https://redd.it/72sthl)  
-[Orange Cream  _VG Version_](https://redd.it/4rho23)  
+[Mocha *VG Version*](https://redd.it/72sthl)  
+[Orange Cream *VG Version*](https://redd.it/4rho23)  
 [Paczki SC](https://redd.it/6gai1c)  
-[Peanut Butter Cookie  _VG Version_](https://redd.it/4rh6pw)  
+[Peanut Butter Cookie *VG Version*](https://redd.it/4rh6pw)  
 [Pineapple SC](https://redd.it/60wybv)  
-[Pineapple Upside Down Cake  _VG Version_](https://redd.it/4rhfu1)  
+[Pineapple Upside Down Cake *VG Version*](https://redd.it/4rhfu1)  
 [Pistachio SC](https://redd.it/64ftjw)  
 [Pomegranate SC](https://redd.it/600gro)  
-[Red Hot Cinnamon  _VG Version_](https://redd.it/72sdu4)  
-[Rice Crispy Treat  _VG Version_](https://redd.it/55sgxv)  
+[Red Hot Cinnamon *VG Version*](https://redd.it/72sdu4)  
+[Rice Crispy Treat *VG Version*](https://redd.it/55sgxv)  
 [Rice Pudding SC](https://redd.it/6hhrr8)  
 [Rose SC](https://redd.it/6f27xl)  
-[Shamrock Shake  _VG Version_](https://redd.it/4rhhy9)  
+[Shamrock Shake *VG Version*](https://redd.it/4rhhy9)  
 [Soda Base SC](https://redd.it/6oqn2g)  
-[Soda Base  _VG Version_](https://redd.it/5w0kjg)  
+[Soda Base *VG Version*](https://redd.it/5w0kjg)  
 [Spearmint SC](https://redd.it/6evtqn)  
 [Sriracha SC](https://redd.it/6i31zd)  
-[Strawberry Kiwi  _VG Version_](https://redd.it/715n40)  
+[Strawberry Kiwi *VG Version*](https://redd.it/715n40)  
 [Strawberry SC](https://redd.it/6ebj1j)  
 [Sugar Cookie SC](https://redd.it/6ebahw)  
 [Sweet Potato SC](https://redd.it/61lvkx)  
-[Sweetened Condensed Milk  _VG Version_](https://redd.it/4rhdol)  
+[Sweetened Condensed Milk *VG Version*](https://redd.it/4rhdol)  
 [Taffy Base SC](https://redd.it/6eo61z)  
 [Tomato SC](https://redd.it/6htz2n)  
-[Vanilla Custard  _VG Version_](https://redd.it/4rhci0)  
+[Vanilla Custard *VG Version*](https://redd.it/4rhci0)  
 [Vanilla Custard SC](https://redd.it/680w74)  
 [Vanilla Ice Cream SC](https://redd.it/6hvle5)  
-[Vanilla Ice Cream  _VG Version_](https://redd.it/5n3w5k)  
+[Vanilla Ice Cream *VG Version*](https://redd.it/5n3w5k)  
 [Watermelon SC](https://redd.it/5zum53)  
-[Yumberry SC](https://redd.it/55sipy)
+[Yumberry SC](https://redd.it/55sipy)  
 
-## SA - Solub Arome
+##SA - Solub Arome##
 
 [Apricot Tart](https://redd.it/6jwmnp)  
 [Brazilian Blood Orange](https://redd.it/6i8ebc)  
@@ -1129,9 +1168,9 @@ Raspberry Revolution:  [Soda Berry](https://redd.it/9tyc2h),  [Honey Berry](http
 [Lime Rum](https://redd.it/6k2r67)  
 [Madeline](https://redd.it/6ljdcc)  
 [Speculoos](https://redd.it/6lqcn9)  
-[Waffle](https://redd.it/6krkll)
+[Waffle](https://redd.it/6krkll)  
 
-## SC - Super Concentrated (Bull City, Vaping Zone, diy flavours in Canada)
+##SC - Super Concentrated (Bull City, Vaping Zone, diy flavours in Canada)##
 
 [Black Mile](https://redd.it/5qqvjo)  
 [Blackberry](https://redd.it/5x8q6j)  
@@ -1148,21 +1187,21 @@ Raspberry Revolution:  [Soda Berry](https://redd.it/9tyc2h),  [Honey Berry](http
 [Raspberry](https://redd.it/6ny63u)  
 [Red Apple](https://redd.it/5ofh6q)  
 [Seven](https://redd.it/6u8mgm)  
-[Tropical Fruit](https://redd.it/6oac49)
+[Tropical Fruit](https://redd.it/6oac49)  
 
-## SCF - Sterling Cloud Flavors
+## SCF - Sterling Cloud Flavors##
 
 [Sweet Potato Pie](https://redd.it/99e44f)  
-[Ube](https://redd.it/99e4rv)
+[Ube](https://redd.it/99e4rv)  
 
-## SI - Sasami (Chef's Flavors, EU)
+##SI - Sasami (Chef's Flavors, EU)##
 
 [Gooseberry](https://redd.it/6m9fd9)  
-[Sweet Blackberry](https://redd.it/6m3aaq)
+[Sweet Blackberry](https://redd.it/6m3aaq)  
 
-## SM - Stixx Mixx
+##SM - Stixx Mixx
 
-[Aged Burley](https://redd.it/ci2je7)  
+[Aged Burley](https://redd.it/ci2je7)   
 [American Virginian](https://redd.it/ci2je7)  
 [Black Cavendish](https://redd.it/d5vteo)  
 [Brazilian Viso](https://redd.it/ci2je7)  
@@ -1175,12 +1214,12 @@ Raspberry Revolution:  [Soda Berry](https://redd.it/9tyc2h),  [Honey Berry](http
 [The Supreme](https://redd.it/ci2je7)  
 [Turkish Oriental](https://redd.it/d5vteo)  
 [Whiskey Cavendish](https://redd.it/ci2je7)  
-[Wild Strawberry Tea](https://redd.it/ci2je7)
+[Wild Strawberry Tea](https://redd.it/ci2je7)  
 
-## TFA - The Flavor Apprentice
+##TFA - The Flavor Apprentice##
 
-[Absinthe](https://redd.it/5lppmx)  
-[Absinthe](https://redd.it/cg4iot)  new  
+[Absinthe](https://redd.it/5lppmx)   
+[Absinthe](https://redd.it/cg4iot) ^2  
 [Apple (Tart Green)](https://redd.it/6ym7zv)  
 [Apple Pie](https://redd.it/4qcd5q)  
 [Apricot](https://redd.it/7i5gko)  
@@ -1191,7 +1230,8 @@ Raspberry Revolution:  [Soda Berry](https://redd.it/9tyc2h),  [Honey Berry](http
 [Berry Cereal](https://redd.it/5p1lfe)  
 [Berry Mix](https://redd.it/60c5zb)  
 [Bittersweet Chocolate Extra](https://redd.it/4t0mu6)  
-[Black Honey](https://redd.it/5wttvn)  [[2]](https://redd.it/5d723e)  
+[Black Honey](https://redd.it/5wttvn)   
+[Black Honey](https://redd.it/5d723e) ^2  
 [Blue Raspberry](https://redd.it/aqwmpr)  
 [Blueberry Extra](https://redd.it/4ozpms)  
 [Blueberry Wild](https://redd.it/4qcwxe)  
@@ -1218,7 +1258,7 @@ Raspberry Revolution:  [Soda Berry](https://redd.it/9tyc2h),  [Honey Berry](http
 [Espresso](https://redd.it/5xh8nj)  
 [Flue Cured Tobacco](https://redd.it/5d711a)  
 [French Vanilla Crème](https://redd.it/4nwp6h)  
-[French Vanilla Deluxe](https://redd.it/5rm8r9)  
+[French Vanilla Deluxe](https://redd.it/5rm8r9)   
 [Frosted Donut](https://redd.it/4o4j1y)  
 [Fruit Smoothie](https://redd.it/7rx8oj)  
 [Fudge Brownie](https://redd.it/4llf93)  
@@ -1227,7 +1267,8 @@ Raspberry Revolution:  [Soda Berry](https://redd.it/9tyc2h),  [Honey Berry](http
 [Graham Cracker Clear](https://redd.it/5vwc5r)  
 [Graham Cracker DX](https://redd.it/6ix4ps)  
 [Grape Soda](https://redd.it/7tc8wd)  
-[Honey](https://redd.it/4dkiej)  [[2]](https://redd.it/5lvwqh)  
+[Honey](https://redd.it/4dkiej)  
+[Honey](https://redd.it/5lvwqh) ^2  
 [Honeydew](https://redd.it/4kudhk)  
 [Horchata Smooth](https://redd.it/5s010c)  
 [Horehound](https://redd.it/cg4iot)  
@@ -1237,7 +1278,7 @@ Raspberry Revolution:  [Soda Berry](https://redd.it/9tyc2h),  [Honey Berry](http
 [Kentucky Bourbon](https://redd.it/4nyw0h)  
 [Kettle Corn](https://redd.it/5n3ihw)  
 [Key Lime](https://redd.it/4tthxz)  
-[Kiwi Double](https://redd.it/4o51wy)  
+[Kiwi Double](https://redd.it/4o51wy)   
 [Koolada](https://redd.it/4p8m3l)  
 [Malted Milk](https://redd.it/5qox01)  
 [Mango](https://redd.it/4qss5o)  
@@ -1253,16 +1294,19 @@ Raspberry Revolution:  [Soda Berry](https://redd.it/9tyc2h),  [Honey Berry](http
 [Pineapple (Juicy)](https://redd.it/7rlr17)  
 [Pomegranate](https://redd.it/4q0iqz)  
 [Popcorn (Movie Theater)](https://redd.it/7uqrrr)  
-[Quince](https://redd.it/4wfe3f)  [[2]](https://redd.it/33ij81)  
+[Quince](https://redd.it/4wfe3f)  
+[Quince](https://redd.it/33ij81) ^2  
 [Raisin](https://redd.it/60iqhx)  
-[Red Licorice](https://redd.it/5wj9qc)  [[2]](https://redd.it/6atf6f)  
+[Red Licorice](https://redd.it/5wj9qc)  
+[Red Licorice](https://redd.it/6atf6f) ^2  
 [Ruby Chocolate](https://redd.it/7u0c1k)  
+[RY4 Double](https://redd.it/einssk)  
 [Smooth](https://redd.it/4r4p7t)  
 [Strawberry](https://redd.it/4lcy8v)  
 [Strawberry Ripe](https://redd.it/4m2t12)  
 [Sweet &amp; Tart](https://redd.it/541vzc)  
 [Sweet Cereal Flakes](https://redd.it/7tr9kf)  
-[Sweet Cream](https://redd.it/4ub907)  
+[Sweet Cream](https://redd.it/4ub907)    
 [Taro](https://redd.it/4nmnzj)  
 [Toasted Almond](https://redd.it/614ci4)  
 [Toasted Marshmallow](https://redd.it/4ye6ha)  
@@ -1271,25 +1315,29 @@ Raspberry Revolution:  [Soda Berry](https://redd.it/9tyc2h),  [Honey Berry](http
 [Vanilla Swirl](https://redd.it/4p6p40)  
 [Western](https://redd.it/bt175y)  
 [Whipped Cream](https://redd.it/4o40oq)  
-[Yam](https://redd.it/5c53ci)
+[Yam](https://redd.it/5c53ci)  
 
-## TFW - The Flavor Wizard
+##TFW - The Flavor Wizard##
 
-[Strawberry Lemonade](https://redd.it/6a0oyh)
+[Strawberry Lemonade](https://redd.it/6a0oyh)  
 
-## VT - Vape Train
-
-[Apollo Feijoa](https://redd.it/871m7e)  [[2]](https://tasteofconcrete.com/2018/07/21/vape-train-apollo-feijoa/)  
+##VT - Vape Train##
+[Apollo Feijoa](https://redd.it/871m7e)  
+[Apollo Feijoa](https://tasteofconcrete.com/2018/07/21/vape-train-apollo-feijoa/) ^2  
 [Apricot](https://tasteofconcrete.com/2018/08/07/vape-train-apricot/)  
-[Arabica Coffee](https://redd.it/8fs3ks)  [[2]](https://tasteofconcrete.com/2018/08/28/vape-train-arabica-coffee/)  
+[Arabica Coffee](https://redd.it/8fs3ks)  
+[Arabica Coffee](https://tasteofconcrete.com/2018/08/28/vape-train-arabica-coffee/) ^2  
 [Avocado Cream](https://tasteofconcrete.com/2018/08/15/vape-train-avocado-cream/)  
 [Bakery Spice Blend](https://tasteofconcrete.com/2018/09/02/vape-train-bakery-spice-blend/)  
 [Banana Custard](https://tasteofconcrete.com/2018/08/21/vape-train-banana-custard/)  
 [Bergamot](https://tasteofconcrete.com/2018/09/06/vape-train-bergamot/)  
 [Biscuit Base](https://tasteofconcrete.com/2018/07/25/vape-train-biscuit-base/)  
 [Blackberry](https://redd.it/85319m)  
-[Blood Orange Champagne](https://redd.it/82e203)  [[2]](https://tasteofconcrete.com/2018/10/10/vape-train-blood-orange-champagne/)  
-[Blood Plum](https://tasteofconcrete.com/2018/08/07/vape-train-blood-plum/)  [Blueberry Jam](https://redd.it/8gbrrz)  [Botanical Gin](https://tasteofconcrete.com/2018/06/25/vape-train-botanical-gin/)  
+[Blood Orange Champagne](https://redd.it/82e203)  
+[Blood Orange Champagne](https://tasteofconcrete.com/2018/10/10/vape-train-blood-orange-champagne/) ^2   
+[Blood Plum](https://tasteofconcrete.com/2018/08/07/vape-train-blood-plum/)  
+[Blueberry Jam](https://redd.it/8gbrrz)  
+[Botanical Gin](https://tasteofconcrete.com/2018/06/25/vape-train-botanical-gin/)   
 [Bourbon](https://redd.it/843261)  
 [Boysenberry](https://redd.it/86amem)  
 [Brandy](https://redd.it/84l3y5)  
@@ -1300,16 +1348,18 @@ Raspberry Revolution:  [Soda Berry](https://redd.it/9tyc2h),  [Honey Berry](http
 [Chocolate Base (Clear)](https://tasteofconcrete.com/2018/09/14/vape-train-chocolate-base-clear/)  
 [Chocolate Mousse](https://redd.it/8essem)  
 [Coffee Liqueur](https://tasteofconcrete.com/2018/08/30/vape-train-coffee-liqueur/)  
-[Coffee Milk Froth](https://redd.it/89rbbq)  [[2]](https://tasteofconcrete.com/2018/08/29/vape-train-coffee-milk-froth/)  
+[Coffee Milk Froth](https://redd.it/89rbbq)  
+[Coffee Milk Froth](https://tasteofconcrete.com/2018/08/29/vape-train-coffee-milk-froth/) ^2  
 [Cognac](https://redd.it/84l3q8)  
 [Cola](https://tasteofconcrete.com/2018/08/02/vape-train-cola/)  
-[Cookies &amp; Cream](https://tasteofconcrete.com/2018/10/16/vape-train-cookies-cream/)  
+[Cookies & Cream](https://tasteofconcrete.com/2018/10/16/vape-train-cookies-cream/)  
 [Creaming Soda](https://tasteofconcrete.com/2018/08/02/vape-train-creaming-soda/)  
 [Creamy Custard](https://tasteofconcrete.com/2018/08/22/vape-train-creamy-custard/)  
 [Dark Chocolate](https://tasteofconcrete.com/2018/09/15/vape-train-dark-chocolate/)  
 [Devon Cream](https://redd.it/88hppd)  
 [English Marmalade](https://tasteofconcrete.com/2018/10/10/vape-train-english-marmalade/)  
-[English Toffee](https://tasteofconcrete.com/2019/01/29/vape-train-english-toffee/)  [[2]](https://redd.it/8fs6of)  
+[English Toffee](https://tasteofconcrete.com/2019/01/29/vape-train-english-toffee/)  
+[English Toffee](https://redd.it/8fs6of) ^2  
 [Fizzy Sherbet](https://tasteofconcrete.com/2018/07/26/vape-train-fizzy-sherbet/)  
 [Fuji Red Apple](https://redd.it/88hph8)  
 [Gold Rum](https://tasteofconcrete.com/2018/06/27/vape-train-rum/)  
@@ -1318,7 +1368,8 @@ Raspberry Revolution:  [Soda Berry](https://redd.it/9tyc2h),  [Honey Berry](http
 [Guava](https://redd.it/80c0q1)  
 [Hard Crack Toffee](https://tasteofconcrete.com/2019/01/26/vape-train-hard-crack-toffee/)  
 [Honey Pomelo](https://redd.it/8gg1en)  
-[Honeycomb](https://tasteofconcrete.com/2019/01/30/vape-train-honeycomb/)  [[2]](https://redd.it/88vwm5)  
+[Honeycomb](https://tasteofconcrete.com/2019/01/30/vape-train-honeycomb/)  
+[Honeycomb](https://redd.it/88vwm5) ^2  
 [Ice Coffee](https://tasteofconcrete.com/2018/08/29/vape-train-ice-coffee/)  
 [Jackfruit](https://redd.it/e98k62)  
 [Jam It](https://redd.it/ahkuoe)  
@@ -1339,9 +1390,12 @@ Raspberry Revolution:  [Soda Berry](https://redd.it/9tyc2h),  [Honey Berry](http
 [Parano Carrot](https://tasteofconcrete.com/2018/08/15/vape-train-parano-carrot/)  
 [Persian Lime](https://redd.it/824rdy)  
 [Red Dates](https://tasteofconcrete.com/2018/08/14/vape-train-red-dates/)  
-[Russian Vodka](https://redd.it/8gbvbe)  [[2]](https://tasteofconcrete.com/2018/08/04/vape-train-russian-vodka/)  
-[Scotch Whiskey](https://redd.it/8fsa3z)  [[2]](https://tasteofconcrete.com/2018/08/04/vape-train-scotch-whiskey/)  
-[Shisha Blackcurrant](https://redd.it/85lgg3)  [[2]](https://tasteofconcrete.com/2018/07/20/vape-train-shisha-blackcurrant/)  
+[Russian Vodka](https://redd.it/8gbvbe)   
+[Russian Vodka](https://tasteofconcrete.com/2018/08/04/vape-train-russian-vodka/) ^2  
+[Scotch Whiskey](https://redd.it/8fsa3z)   
+[Scotch Whiskey](https://tasteofconcrete.com/2018/08/04/vape-train-scotch-whiskey/) ^2  
+[Shisha Blackcurrant](https://redd.it/85lgg3)  
+[Shisha Blackcurrant](https://tasteofconcrete.com/2018/07/20/vape-train-shisha-blackcurrant/) ^2   
 [Shisha Mango](https://redd.it/8ahdha)  
 [Shisha Melon](https://redd.it/8gg12s)  
 [Shisha Peach](https://tasteofconcrete.com/2018/08/08/vape-train-shisha-peach/)  
@@ -1353,7 +1407,8 @@ Raspberry Revolution:  [Soda Berry](https://redd.it/9tyc2h),  [Honey Berry](http
 [Sweet Musk](https://tasteofconcrete.com/2018/08/16/vape-train-sweet-musk/)  
 [Sweet Raspberry](https://redd.it/8esrxd)  
 [Swiss Chocolate](https://tasteofconcrete.com/2018/09/14/vape-train-swiss-chocolate/)  
-[Toffee Ice Cream](https://tasteofconcrete.com/2019/01/31/vape-train-toffee-ice-cream/)  [[2]](https://redd.it/871sjk)  
+[Toffee Ice Cream](https://tasteofconcrete.com/2019/01/31/vape-train-toffee-ice-cream/)  
+[Toffee Ice Cream](https://redd.it/871sjk) ^2  
 [Tonic Water](https://tasteofconcrete.com/2018/07/01/vape-train-tonic-water/)  
 [Vanilla Buttercream Frosting](https://tasteofconcrete.com/2018/10/06/vape-train-vanilla-buttercream-frosting/)  
 [Vanilla Cream](https://tasteofconcrete.com/2018/10/03/vape-train-vanilla-cream/)  
@@ -1361,12 +1416,16 @@ Raspberry Revolution:  [Soda Berry](https://redd.it/9tyc2h),  [Honey Berry](http
 [Walnut](https://redd.it/anfcj8)  
 [Warm Custard](https://tasteofconcrete.com/2018/08/20/vape-train-warm-custard/)  
 [Watermelon](https://tasteofconcrete.com/2018/07/22/vape-train-watermelon/)  
-[White Chocolate Base](https://redd.it/89qr55)  [[2]](https://tasteofconcrete.com/2018/09/12/vape-train-white-chocolate-base/)  
-[Yoghurt Drink](https://tasteofconcrete.com/2018/10/24/vape-train-yoghurt-drink/)
+[White Chocolate Base](https://redd.it/89qr55)  
+[White Chocolate Base](https://tasteofconcrete.com/2018/09/12/vape-train-white-chocolate-base/) ^2  
+[Yoghurt Drink](https://tasteofconcrete.com/2018/10/24/vape-train-yoghurt-drink/)  
+  
 
-## WF - Wonder Flavors
+
+##WF - Wonder Flavors##
 
 [African Horned Cucumber](https://redd.it/b8a01j)  
+[Blueberry Gummy Candy](https://redd.it/elpyvc)  
 [Blueberry Jam](https://redd.it/ajo91a)  
 [Bumbleberry](https://redd.it/alcc6j)  
 [Butter Pecan Pie](https://redd.it/5pldd9)  
@@ -1377,9 +1436,9 @@ Raspberry Revolution:  [Soda Berry](https://redd.it/9tyc2h),  [Honey Berry](http
 [Caramel Rice Crispy Treats](https://redd.it/5mbcco)  
 [Chocolate Cookie Crust](https://redd.it/ajb65v)  
 [Cream Puff](https://redd.it/b8i29e)  
-[Crepe SC](https://redd.it/7fe1ub)  
+[Crepe](https://redd.it/7fe1ub)  
 [Crispy Wafer](https://redd.it/7i3ons)  
-[Croissant SC](https://redd.it/7g9yi7)  
+[Croissant](https://redd.it/7g9yi7)  
 [Deep Fried Pastry Dough](https://redd.it/84s9cu)  
 [Deep Fried Plantain](https://redd.it/ais71s)  
 [Flapper Pie](https://redd.it/ajhoet)  
@@ -1393,45 +1452,48 @@ Raspberry Revolution:  [Soda Berry](https://redd.it/9tyc2h),  [Honey Berry](http
 [Papaya](https://redd.it/b89vv5)  
 [Passionfruit](https://redd.it/b8axmp)  
 [Picarones](https://redd.it/99e7px)  
-[Pretzel Dough SC](https://redd.it/7ga3yf)  
-[Sesame Dough SC](https://redd.it/7fdyc6)  
+[Pretzel Dough](https://redd.it/7ga3yf)  
+[Sesame Dough](https://redd.it/7fdyc6)  
 [Shortbread Cookies](https://redd.it/7i3kxo)  
 [Sour Watermelon Candy](https://redd.it/5iv84e)  
 [Strawberry Gummy Candy](https://redd.it/ais8ss)  
 [Tahitian Vanilla Cream](https://redd.it/5pk53y)  
 [Vanilla Ice Cream](https://redd.it/alq2f0)  
-[Walnut SC](https://redd.it/7huh00)  
-[White Fudge SC](https://redd.it/7hv2xz)  
-[Yangmei Berry](https://redd.it/ais9vc)
+[Walnut](https://redd.it/7huh00)  
+[White Fudge](https://redd.it/7hv2xz)  
+[Yangmei Berry](https://redd.it/ais9vc)  
 
-## WRK - Wrecka/Reka
+##WRK - Wrecka/Reka##
 
 [Japanese Aloe Vera](https://redd.it/78m5m0)  
 [Sexy Mango](https://redd.it/78e8y3)  
 [Sparkling Mango](https://redd.it/785zzo)  
-[Sparkling Orange](https://redd.it/77z4ky)
+[Sparkling Orange](https://redd.it/77z4ky)  
 
-## Miscellaneous
+
+##Miscellaneous##
 
 [Erythritol](https://redd.it/4u1wfm)  
 [Ethyl Maltol](https://redd.it/4ows0l)  
 [Monk Fruit](https://redd.it/4scv9j)  
 [Pyure](https://redd.it/4oradw)  
 [Relacsin](https://redd.it/4go2wj)  
+[Saline](https://redd.it/end2wj)  
 [Stevia](https://redd.it/4sfekc)  
-[Unflavored](https://redd.it/4ory8d)
+[Unflavored](https://redd.it/4ory8d)  
 
-## Compilations (Multi-Flavor Reviews)
-
-[Anise/Licorice Mega Review](https://redd.it/cg4iot)  [A Tale of Two Cucumbers](https://redd.it/6obn7r)  
+##Compilations (Multi-Flavor Reviews)##
+[Anise/Licorice Mega Review](https://redd.it/cg4iot)
+[A Tale of Two Cucumbers](https://redd.it/6obn7r)  
 [Alfred's New Flavorah Notes (Part 1)](https://redd.it/aykg7j)  
 [Alfred's New Flavorah Notes (Part 2)](https://redd.it/aykhxn)  
 [Berry Tasting Notes](https://redd.it/3px1r6)  
 [Botboy141 Master List](https://redd.it/2ehekc)  
 [Commi's FLV Tasting Notes](https://redd.it/49mwyx)  
+[Hangsen [12]](https://redd.it/226bzz)  
 [Kegg's FLV Tasting Notes](https://redd.it/3pz2wh)  
 [Kindground's Blueberry Round Up](https://redd.it/agsxm4)  
-[Kindground's Boysenberry Roundup](https://redd.it/bhh648)  
+[Kindground's Boysenberry Roundup](https://redd.it/bhh648)   
 [Kindground's Lemon Round Up](https://redd.it/b8en1a)  
 [Kopel's Floral Notes](https://redd.it/4t7z6g)  
 [Mango Mega-Review (NEW)](https://redd.it/b4bmu2)  

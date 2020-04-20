@@ -3,6 +3,7 @@ path: '/flavors/best-of'
 slug: 'best-of'
 title: 'Flavors - BEST Flavors'
 ---
+# BEST Flavors
 
 BEST isn’t very easy to quantify but I’ll try anyway because this is definitely a Frequently Asked Question. If you ask someone here what’s the BEST cookie, they’ll probably ask “For what?”
 
@@ -30,9 +31,9 @@ I won’t be able to hit every data point that he did because I’m not using a 
 
 &gt; | For pricing I went with [BCF](https://www.bullcityflavors.com/) and picked the smallest available sizes. 
 
-&amp;nbsp;
+&nbsp;
 
-**Starting from the Top Flavors**
+### **Starting from the Top Flavors**
 
   
 
@@ -46,16 +47,16 @@ Not a bad start. And with one of the coolest features of ATF [“What can I make
 
 And if you were really ambitious and bought all 100 of the top flavors, you’d be able to mix up 350 recipes and 21 of the top 50 recipes. You’d also be +1 flavor away from 1159 recipes but let’s be honest, you just spent $215 on flavors, maybe it’s time to take a break. 
 
-&amp;nbsp;
+&nbsp;
   
 
-**The Top 50 recipes**
+### **The Top 50 recipes**
 
-&amp;nbsp;
+&nbsp;
 
 In order to make all 50 of the top rated recipes you would need 132 different flavors. 74 of those flavors would only be used once, leaving 58 flavors that are used in 2 or more recipes. But just having those 58 flavors would allow you to make 10 of the top 50 recipes. 
 
-&amp;nbsp;
+&nbsp;
 
 - [God Milk](https://alltheflavors.com/recipes/15504#god_milk_by_skiddlzninja) 
 - [Sweet Strawberry Cream](https://alltheflavors.com/recipes/3600#sweet_strawberry_cream_by_cheebasteeba) 
@@ -75,15 +76,15 @@ In order to make all 50 of the top rated recipes you would need 132 different fl
 
 [**Here’s a list**](https://docs.google.com/spreadsheets/d/18Lvxxn8j0mJBpjDJRhakIyO7GueRb8EW3nAJUOHSPnA/edit?usp=sharing) of all the flavors you would need for those recipes.
 
-&amp;nbsp;
+&nbsp;
 
-**The DIY_eJuice BEST**
+### **The DIY_eJuice BEST**
 
-&amp;nbsp;
+&nbsp;
 
 “[My First Order](http://www.reddit.com/r/DIY_eJuice/wiki/first_order_flavors)” Flavors from the sidebar gives you 20 flavors voted on by all of us here as the best way to start and even includes a few recipes that you can make with them. ATF returns  a solid but not quite astonishing 48 recipes with those flavors in your stash. But if you want to make the most upvoted recipes from the monthly recipe threads, you’re gonna need a bigger flavor stash.
 
-&amp;nbsp;
+&nbsp;
 
 - [Tropical Lemonade](https://www.reddit.com/r/DIY_eJuice/comments/89kev4/april_2018_recipe_thread/dwug27b/) by /u/jengamaster345 
 - [Two Kentuckies](https://alltheflavors.com/recipes/90550) by /u/ID10-T 
@@ -102,9 +103,9 @@ In order to make all 50 of the top rated recipes you would need 132 different fl
 Those 12 recipes require 62 flavors and only 9 of those are shared by more than 1 recipe. In order to get all those flavors you would need to spend at least $169 between 3-4 vendors and in the end, you’d regret having OOO Pickle. 
 
   
-&amp;nbsp;
+&nbsp;
 
-**The Conclusion**
+### **The Conclusion**
 
 All the data in the world isn’t going to come up with a list of flavors that will cater perfectly to your palate. I was hoping to put together a more definitive list that could maximize flavor buying efficiency but every which way you look at it you end up 1 or more flavors short of making the next best thing. 
 
@@ -112,7 +113,7 @@ Making the most top rated recipes while buying the fewest flavors is still possi
 
 I realized you need to be a pro member to favorite recipes so I decided to ask /u/queuetue (5 minutes ago) if he would do a **[Memorial Day free month of ATF](https://alltheflavors.com/go_pro)** and he said yes. So if you’re not already a member and you want to try it out for free you can use the coupon **FAQ-MD-2018** for a free month of ATF. The code will work until Tuesday morning and is good for the first 100 people who use it. 
 
-&amp;nbsp;
+&nbsp;
   
  If you’re interested here are the spreadsheets I made to “analyze” the data. 
 
@@ -124,7 +125,5 @@ I realized you need to be a pro member to favorite recipes so I decided to ask /
 
 With the top 100 flavors you can sort the data to see things like which flavors are the cheapest when used at their average percentage or which flavors are in recipes with the most reviews, etc. Trivial but interesting stuff, I think.
 
-
-Hopefully this can help you pick a few new flavors or help kick off your first order from one the the vendors doing [Memorial Day Sales](https://redd.it/8ly79u).
 
 ***

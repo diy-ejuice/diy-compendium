@@ -26,7 +26,7 @@ There’s a recipe for all of those things and more.
 
 It’s actually pretty common to see descriptions and notes in recipes but far more common to see recipes that either have no description at all or just something that’s trying to sell you on the idea with a bunch of adjectives. And that’s fine for buying juice (I guess) but not so helpful when buying ingredients to mix your own. What you want to look for is why; why do these flavors work in the recipe and why should you buy them? If they’re using one strawberry out of the hundred strawberries available and it’s one you don’t have, why buy it if they aren’t describing its role in the recipe? The same applies to all the other flavors.
 
-#### [My First Order Flavors](http://diyejuice.org/l/6)
+#### [My First Order Flavors](http://link.diyejuice.org/6)
 
 &gt; Probably the safest bet for flavors to buy outside of finding recipes first. Luckily you can still check out some of the recipes that can be made with those flavors to make sure it lines up with
 
@@ -159,14 +159,14 @@ Next up is the ubiquitous simple recipes. Two flavors? Three flavors? Some peopl
 
 Forget about subjectivity, bias, circle-jerking reviews, antiquity, and the fact that [/u/juthinc](https://www.reddit.com/u/juthinc)[+183] probably doesn’t like them and these are the BEST recipes (and how to find them)
 
--   [The BEST of ELR](http://diyejuice.org/l/elrbest)
--   [The BEST of ATF](http://diyejuice.org/l/atfbest)
+-   [The BEST of ELR](http://link.diyejuice.org/elrbest)
+-   [The BEST of ATF](http://link.diyejuice.org/atfbest)
 -   [2018 Best Recipe](https://redd.it/abv7ea)
 -   [2017 Best Recipe](https://redd.it/7nbohj)
 
 ## Finding Recipes Here
 
-[Monthly Recipe Threads](http://diyejuice.org/l/monthly)
+[Monthly Recipe Threads](http://link.diyejuice.org/monthly)
 
 ## But wait, there’s more!
 
@@ -174,7 +174,7 @@ So now that you’ve picked out some recipes, purchased a bunch of flavors, prob
 
 You made a few small bottles and while one was really good, a couple were OK and one of them needs to steep for 6 months. The really good one is great and all, but you didn’t get into this for one recipe and you still have 15 other flavors for the OK recipes. You looked at a bunch more recipes but you’re coming up 2-10 flavors short. What now?
 
-### [Suggest a recipe for my flavors!](http://diyejuice.org/l/suggest)
+### [Suggest a recipe for my flavors!](http://link.diyejuice.org/suggest)
 
 &gt; This is a thread posted every week on Friday where you can drop the whole list of your flavors or even just a selection of your stash that you’re interested in getting suggestions for.
 
