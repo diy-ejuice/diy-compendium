@@ -18,11 +18,11 @@ The two most logical methods of organization are alphabetical and by profile/cat
 
 [Carousel ](http://a.co/hzv7R3F)
 
-[Tiered Acrylic Rack](http://a.co/7EbAHW4)
+[Tiered Acrylic Rack](https://www.amazon.com/dp/B06ZZ2GGXD/ref=cm_sw_r_tw_dp_U_x_tleBEbA2RSDD5)
 
 [Acrylic Wall Rack](https://www.ebay.com/itm/102-Bottles-Black-Acrylic-6-Shelf-Wall-Mounted-Salon-Style-Nail-Polish-Rack/222817312078?epid=1837574264&amp;hash=item33e0f25d4e:g:GOwAAOSwE8dacOXt)
   
-&amp;nbsp;
+
   
 **Keeping base flavors separate and easily accessible**
 
@@ -38,7 +38,7 @@ Some flavors just lend themselves to more use. Those flavors I buy in larger bot
 
 All The Flavors also allows you to add flavors to your stash by forwarding your order emails from several of the popular vendors and automagically fills out the price and quantity for you. 
 
-&amp;nbsp;
+
 
 **Shelf life**
 
@@ -52,7 +52,7 @@ Some flavors degrade and others degrade with style. Bavarian Cream, in my experi
 
 [Advice from TFA on Storage/Shelf Life](https://redd.it/275drd)
 
-&amp;nbsp;  
+
 
 ***
 
