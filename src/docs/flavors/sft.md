@@ -8,7 +8,7 @@ title: 'Flavors - Single Flavors Tested'
 
 This weekly topic is to see how well received different flavor concentrates taste as a stand alone. Everyone's going to have different interpretations. Yet discussing it, we might find how our palates relate or maybe even be food for thought. It's always interesting to learn what people are trying and how they liked it!! This may work out to be a good resource for newer mixers.
 
-### [Week XLIV ](http://redd.it/epr3s0)
+### [Week XLIV](http://redd.it/epr3s0)
 
 ### [Week XLIII](http://redd.it/emi3o9)
 

@@ -20,5 +20,5 @@ title: 'Video/Podcasts - DIY Videos'
 - [Flavor-Pro Jennifer Jarvis](https://www.youtube.com/channel/UCA6gV-5vxieuG2_TcIKpYCg/videos)
 - [MixLife](https://www.youtube.com/channel/UCi-1CgoitSnlqAJEAzJWXuQ/videos)
 - [ConcreteRiver](https://www.youtube.com/channel/UCvuovsBhUIocpwTTnXoJMng/videos)
-- [DIY E-Juice University](https://www.youtube.com/channel/UCmeXLtDpJAsSJIBRyxctxvg/videos) 
+- [DIY E-Juice University](https://www.youtube.com/channel/UCmeXLtDpJAsSJIBRyxctxvg/videos)
 - [DIY Clones Juice Recipes](https://www.youtube.com/channel/UCL9BKolJCVp_aNClIpW-M_Q/videos)

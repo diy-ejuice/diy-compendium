@@ -3,14 +3,15 @@ import {
   faArrowCircleLeft
 } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { graphql, Link } from 'gatsby';
-import Img from 'gatsby-image';
+import { graphql } from 'gatsby';
 import PropTypes from 'prop-types';
 import React from 'react';
 import { Container, Row, Col, Carousel } from 'react-bootstrap';
 
 import SEO from '~components/seo';
 import Layout from '~components/layout';
+import FeaturedPoll from '~components/featured/poll';
+import FeaturedPost from '~components/featured/post';
 
 const IndexPage = ({ data }) => {
   const {
@@ -22,11 +23,33 @@ const IndexPage = ({ data }) => {
     Boolean(node.frontmatter.featured)
   );
   const findImage = (url) =>
-    images.find((image) =>
-      image.childImageSharp.fluid.src.endsWith(
-        url.substring(url.lastIndexOf('/') + 1)
-      )
-    ).childImageSharp.fluid;
+    url
+      ? images.find((image) =>
+          image.childImageSharp.fluid.src.endsWith(
+            url.substring(url.lastIndexOf('/') + 1)
+          )
+        ).childImageSharp.fluid
+      : {};
+
+  const featured = [];
+
+  featured.push.apply(
+    featured,
+    filteredNodes.map((node) => ({
+      ...node.frontmatter,
+      type: 'post',
+      image: findImage(node.frontmatter.image)
+    }))
+  );
+
+  featured.push.apply(
+    featured,
+    polls.map((poll) => ({
+      ...poll,
+      type: 'poll',
+      image: findImage('/diy-poll.png')
+    }))
+  );
 
   return (
     <Layout>
@@ -45,58 +68,25 @@ const IndexPage = ({ data }) => {
                 <FontAwesomeIcon icon={faArrowCircleLeft} color="black" />
               }
             >
-              {filteredNodes.map((node) => {
-                const {
-                  frontmatter: { author, image, path, title, headline }
-                } = node;
+              {featured.map((node) => {
+                const { type } = node;
 
-                return (
-                  <Carousel.Item key={path}>
-                    <Row>
-                      <Col md={1}></Col>
-                      <Col md={5}>
-                        <Img fluid={findImage(image)} />
-                      </Col>
-                      <Col md={5}>
-                        <div className="mt-5">
-                          <Link to={path}>
-                            <h5>{title}</h5>
-                          </Link>
-                          <p>by {author}</p>
-                          <p>{headline}</p>
-                        </div>
-                      </Col>
-                      <Col md={1}></Col>
-                    </Row>
-                  </Carousel.Item>
-                );
-              })}
-              {polls.map((poll) => {
-                const { url, title } = poll;
-
-                return (
-                  <Carousel.Item key={url}>
-                    <Row>
-                      <Col md={1}></Col>
-                      <Col md={{ offset: 5, size: 5 }}>
-                        <div className="mt-5">
-                          <a
-                            href={url}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                          >
-                            <h5>{title} Poll</h5>
-                          </a>
-                          <p>
-                            Check out the DIY Poll site for info on your
-                            favorite profiles!
-                          </p>
-                        </div>
-                      </Col>
-                      <Col md={1}></Col>
-                    </Row>
-                  </Carousel.Item>
-                );
+                switch (type) {
+                  case 'post':
+                    return (
+                      <Carousel.Item key={node.title}>
+                        <FeaturedPost {...node} />
+                      </Carousel.Item>
+                    );
+                  case 'poll':
+                    return (
+                      <Carousel.Item key={node.title}>
+                        <FeaturedPoll {...node} />
+                      </Carousel.Item>
+                    );
+                  default:
+                    return null;
+                }
               })}
             </Carousel>
           </Col>
@@ -136,7 +126,7 @@ export const query = graphql`
       nodes {
         childImageSharp {
           fluid(maxWidth: 600) {
-            ...GatsbyImageSharpFluid_withWebp_tracedSVG
+            ...GatsbyImageSharpFluid
           }
         }
       }

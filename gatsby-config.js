@@ -67,7 +67,16 @@ module.exports = {
               target: '_blank',
               rel: 'noopener noreferrer'
             }
-          }
+          },
+          {
+            resolve: 'gatsby-remark-classes',
+            options: {
+              classMap: {
+                table: 'table table-striped'
+              }
+            }
+          },
+          'gatsby-remark-autolink-headers'
         ]
       }
     },

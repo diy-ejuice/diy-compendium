@@ -6,15 +6,15 @@ title: 'Flavors - Notes'
 
 # Brief Flavor Notes/Impressions
 
-While these are usually far less than you can expect from a full  [Flavor Review](http://link.diyejuice.org/8)  they occasionally get close. Most of the flavors linked here will at least give you a short subjective impression and sometimes a conversation about the flavor that elicits more details. Often times people will just say they like it or dislike it; but when someone asks them a question, they'll have more to say. If you come across a comment for a flavor you're interested in, asking for more details will benefit not only you, but anyone else that comes along searching for the same flavor.
+While these are usually far less than you can expect from a full [Flavor Review](http://link.diyejuice.org/8) they occasionally get close. Most of the flavors linked here will at least give you a short subjective impression and sometimes a conversation about the flavor that elicits more details. Often times people will just say they like it or dislike it; but when someone asks them a question, they'll have more to say. If you come across a comment for a flavor you're interested in, asking for more details will benefit not only you, but anyone else that comes along searching for the same flavor.
 
-----------
+---
 
-### Amoretti
+## Amoretti
 
 [Lychee](https://www.reddit.com/r/DIY_eJuice/comments/cqser5/tested_any_single_flavors_recently/ex3xs10/)
 
-### Bickford
+## Bickford
 
 [Grape](https://www.reddit.com/r/DIY_eJuice/comments/ed2hng/single_flavors_youve_tried/fbi3h5t/)  
 [Lemon Pound Cake](https://www.reddit.com/r/DIY_eJuice/comments/dmnxvu/results_of_concentrates_of_a_single_flavor_variety/f55rm0g/)  
@@ -22,11 +22,11 @@ While these are usually far less than you can expect from a full  [Flavor Review
 [Plum](https://www.reddit.com/r/DIY_eJuice/comments/bxhl76/singleflavors_that_made_an_impression/eq7p9fg/)  
 [Strawberry Shortcake](https://www.reddit.com/r/DIY_eJuice/comments/d9su57/your_thoughts_on_single_concentrates/f1o3ggd/)
 
-### Baker Flavors
+## Baker Flavors
 
 [Vanilla Sponge Cake](https://www.reddit.com/r/DIY_eJuice/comments/dptzzi/solo_flavor_concentrates/f60dlqq/)
 
-### Capella
+## Capella
 
 [27 Bears](https://www.reddit.com/r/DIY_eJuice/comments/b6jcns/weekly_single_flavors_you_enjoyed/ejlcnp5/)  
 [27 Bears](https://www.reddit.com/r/DIY_eJuice/comments/bml9lw/results_of_single_flavors_tried/en1u5pb/)  
@@ -91,11 +91,11 @@ While these are usually far less than you can expect from a full  [Flavor Review
 [Yellow Cake](https://www.reddit.com/r/DIY_eJuice/comments/dmnxvu/results_of_concentrates_of_a_single_flavor_variety/f55rm0g/)  
 [Yellow Peach](https://www.reddit.com/r/DIY_eJuice/comments/d6iyfn/single_flavor_test_runs/f0tpy48/)
 
-### Chemnovatic
+## Chemnovatic
 
 [Sponge Cake](https://www.reddit.com/r/DIY_eJuice/comments/dptzzi/solo_flavor_concentrates/f60dlqq/)
 
-### Chef's
+## Chef's
 
 [Jam Roly Poly](https://www.reddit.com/r/DIY_eJuice/comments/ejimo4/your_single_flavor_interpretations/fcz38bg/)  
 [Jam Roly Poly &amp; Custard](https://www.reddit.com/r/DIY_eJuice/comments/dzndrg/oneshot_and_single_flavor_thoughts/f8b52mf/)  
@@ -106,7 +106,7 @@ While these are usually far less than you can expect from a full  [Flavor Review
 [Welsh Custard](https://www.reddit.com/r/DIY_eJuice/comments/dzndrg/oneshot_and_single_flavor_thoughts/f8b52mf/)  
 [Purple](https://www.reddit.com/r/DIY_eJuice/comments/ed2hng/single_flavors_youve_tried/fbi3h5t/)
 
-### Delosi
+## Delosi
 
 [Black Licorice](https://www.reddit.com/r/DIY_eJuice/comments/bs4utw/singleflavor_discoveries_from_the_past_few_days/eoj1u4p/)  
 [Custard](https://www.reddit.com/r/DIY_eJuice/comments/dwi4ry/testing_out_solo_concentrates/f7l69gz/)  
@@ -116,7 +116,7 @@ While these are usually far less than you can expect from a full  [Flavor Review
 [Strawberry Cream](https://www.reddit.com/r/DIY_eJuice/comments/d031s1/what_single_flavor_discoveries_did_you_make/ez5vzdr/)  
 [Strawberry Milk](https://www.reddit.com/r/DIY_eJuice/comments/d031s1/what_single_flavor_discoveries_did_you_make/ez5vzdr/)
 
-### DIY Flavor Shack
+## DIY Flavor Shack
 
 [Holy Holy Grail RY4 v2](https://www.reddit.com/r/DIY_eJuice/comments/c36med/singleflavor_results/erp3uzr/)  
 [Holy Vanilla](https://www.reddit.com/r/DIY_eJuice/comments/c36med/singleflavor_results/erp7v0d/)  
@@ -127,11 +127,11 @@ While these are usually far less than you can expect from a full  [Flavor Review
 [Red Passionfruit](https://www.reddit.com/r/DIY_eJuice/comments/c68op8/singleflavor_discussion/es7cx6p/)  
 [Paw Paw](https://www.reddit.com/r/DIY_eJuice/comments/e9xef0/solo_concentrate_testing/fanw4vq/)
 
-### DIY or Die One Shots
+## DIY or Die One Shots
 
 [King's Custard](https://www.reddit.com/r/DIY_eJuice/comments/dwi4ry/testing_out_solo_concentrates/f7l69gz/)
 
-### Euro Flavors
+## Euro Flavors
 
 [Cherimoya](https://www.reddit.com/r/DIY_eJuice/comments/e9xef0/solo_concentrate_testing/fanw4vq/)  
 [Energy Green](https://www.reddit.com/r/DIY_eJuice/comments/d9su57/your_thoughts_on_single_concentrates/f1mz2ts/)  
@@ -142,7 +142,7 @@ While these are usually far less than you can expect from a full  [Flavor Review
 [Tobacco Vanilla Custard](https://www.reddit.com/r/DIY_eJuice/comments/dzndrg/oneshot_and_single_flavor_thoughts/f8b52mf/)  
 [Vanilla Custard](https://www.reddit.com/r/DIY_eJuice/comments/dzndrg/oneshot_and_single_flavor_thoughts/f8b52mf/)
 
-### FlavourArt
+## FlavourArt
 
 [Ace [Pazzo]](https://www.reddit.com/r/DIY_eJuice/comments/bjyg4v/singleflavors_youve_tried_exciting_or_no/emdep28/)  
 [Anise](https://www.reddit.com/r/DIY_eJuice/comments/bs4utw/singleflavor_discoveries_from_the_past_few_days/eoj1u4p/)  
@@ -200,7 +200,7 @@ While these are usually far less than you can expect from a full  [Flavor Review
 [Walnut](https://www.reddit.com/r/DIY_eJuice/comments/bpg9m2/recent_results_from_single_flavors_youve_tried/enwr4c7/)  
 [White Grape](https://www.reddit.com/r/DIY_eJuice/comments/ed2hng/single_flavors_youve_tried/fbi3h5t/)
 
-### Flavor Express
+## Flavor Express
 
 [Angelica](https://www.reddit.com/r/DIY_eJuice/comments/bpg9m2/recent_results_from_single_flavors_youve_tried/entq2l0/)  
 [Apricot](https://www.reddit.com/r/DIY_eJuice/comments/cx5fzw/new_single_flavor_tests_how_was_itwere_they/eyivldq/)  
@@ -217,11 +217,11 @@ While these are usually far less than you can expect from a full  [Flavor Review
 [Sweet Strawberry](https://www.reddit.com/r/DIY_eJuice/comments/d6iyfn/single_flavor_test_runs/f0u465o/)  
 [Win Churchill](https://www.reddit.com/r/DIY_eJuice/comments/bpg9m2/recent_results_from_single_flavors_youve_tried/entq2l0/)
 
-### Fairies Finest
+## Fairies Finest
 
 [Grape](https://www.reddit.com/r/DIY_eJuice/comments/ed2hng/single_flavors_youve_tried/fbi3h5t/)
 
-### Flavorah
+## Flavorah
 
 [Amaretto Sour](https://www.reddit.com/r/DIY_eJuice/comments/c36med/singleflavor_results/erpp5fr/)  
 [Apline Strawberry](https://www.reddit.com/r/DIY_eJuice/comments/d031s1/what_single_flavor_discoveries_did_you_make/ez5vzdr/)  
@@ -283,16 +283,16 @@ While these are usually far less than you can expect from a full  [Flavor Review
 [Watermelon](https://www.reddit.com/r/DIY_eJuice/comments/cewluk/single_flavors_youve_tried_recently/eu5oq6j/)  
 [Wild Melon](https://www.reddit.com/r/DIY_eJuice/comments/bva0h3/singleflavors_as_stand_alones/epojsx7/)
 
-### Flavormonks
+## Flavormonks
 
 [Strawberry](https://www.reddit.com/r/DIY_eJuice/comments/d3b48a/thoughts_on_single_flavors/f01geue/)  
 [Sweet Betsy Strawberry](https://www.reddit.com/r/DIY_eJuice/comments/d3b48a/thoughts_on_single_flavors/f01geue/)
 
-### Flavor Revolution
+## Flavor Revolution
 
 [Pumpkin Cake](https://www.reddit.com/r/DIY_eJuice/comments/cu353o/single_flavor_sensations/ey6par2/)
 
-### Flavor West
+## Flavor West
 
 [Absinthe](https://www.reddit.com/r/DIY_eJuice/comments/bs4utw/singleflavor_discoveries_from_the_past_few_days/eoj1u4p/)  
 [Anise](https://www.reddit.com/r/DIY_eJuice/comments/bs4utw/singleflavor_discoveries_from_the_past_few_days/eoj1u4p/)  
@@ -357,17 +357,17 @@ While these are usually far less than you can expect from a full  [Flavor Review
 [Yellow Cake](https://www.reddit.com/r/DIY_eJuice/comments/c09rii/singleflavor_trials_and_tribulations/er3gpa6/)  
 [Yellow Cake](https://www.reddit.com/r/DIY_eJuice/comments/dmnxvu/results_of_concentrates_of_a_single_flavor_variety/f55rm0g/)
 
-### Great Lakes
+## Great Lakes
 
 [Cherry](https://www.reddit.com/r/DIY_eJuice/comments/chuugn/what_single_flavor_concentrates_did_you_trytest/ev2xdam/)
 
-### Get Suckered
+## Get Suckered
 
 [Anise](https://www.reddit.com/r/DIY_eJuice/comments/bs4utw/singleflavor_discoveries_from_the_past_few_days/eoj1u4p/)  
 [Macadamia](https://www.reddit.com/r/DIY_eJuice/comments/bpg9m2/recent_results_from_single_flavors_youve_tried/enwr4c7/)  
 [Plum](https://www.reddit.com/r/DIY_eJuice/comments/bxhl76/singleflavors_that_made_an_impression/eq7p9fg/)
 
-### Health Cabin
+## Health Cabin
 
 [Cake](https://www.reddit.com/r/DIY_eJuice/comments/dptzzi/solo_flavor_concentrates/f60dlqq/)  
 [Chocolate Cake](https://www.reddit.com/r/DIY_eJuice/comments/dt6yw4/single_flavor_concentrate_testing/f6wdnnk/)  
@@ -378,12 +378,12 @@ While these are usually far less than you can expect from a full  [Flavor Review
 [Pound Cake](https://www.reddit.com/r/DIY_eJuice/comments/dmnxvu/results_of_concentrates_of_a_single_flavor_variety/f55rm0g/)  
 [Strawberry &amp; Cream](https://www.reddit.com/r/DIY_eJuice/comments/d6iyfn/single_flavor_test_runs/f0u465o/)
 
-### HiLIQ
+## HiLIQ
 
 [Birthday Cake](https://www.reddit.com/r/DIY_eJuice/comments/dzndrg/oneshot_and_single_flavor_thoughts/f8r588e/)  
 [Red Lychee](https://www.reddit.com/r/DIY_eJuice/comments/cqser5/tested_any_single_flavors_recently/ex3xs10/)
 
-### Hangsen
+## Hangsen
 
 [Australian Chocolate](https://www.reddit.com/r/DIY_eJuice/comments/bxhl76/singleflavors_that_made_an_impression/eq7ke85/)  
 [Blueberry](https://www.reddit.com/r/DIY_eJuice/comments/dptzzi/solo_flavor_concentrates/f5zdy8b/)  
@@ -399,7 +399,7 @@ While these are usually far less than you can expect from a full  [Flavor Review
 [Strawberry](https://www.reddit.com/r/DIY_eJuice/comments/d6iyfn/single_flavor_test_runs/f0u465o/)  
 [Tobacco](https://www.reddit.com/r/DIY_eJuice/comments/b6jcns/weekly_single_flavors_you_enjoyed/ejlmlh5/)
 
-### Inawera
+## Inawera
 
 [Apricots](https://www.reddit.com/r/DIY_eJuice/comments/cx5fzw/new_single_flavor_tests_how_was_itwere_they/eyivldq/)  
 [Biscuit](https://www.reddit.com/r/DIY_eJuice/comments/bharid/single_flavors_youve_sampled_recently/elrgwoc/)  
@@ -451,7 +451,7 @@ While these are usually far less than you can expect from a full  [Flavor Review
 [Woodruff](https://www.reddit.com/r/DIY_eJuice/comments/bemb2q/single_flavor_tests_and_tastes/elojnqg/)  
 [Wunder Waffle](https://www.reddit.com/r/DIY_eJuice/comments/bharid/single_flavors_youve_sampled_recently/em2o6u8/)
 
-### Jungle Flavors
+## Jungle Flavors
 
 [Boysenberry](https://www.reddit.com/r/DIY_eJuice/comments/bharid/single_flavors_youve_sampled_recently/elrdwwf/)  
 [Churro](https://www.reddit.com/r/DIY_eJuice/comments/emi3o9/your_single_aroma_interpretations/fdpybbb/)  
@@ -461,14 +461,14 @@ While these are usually far less than you can expect from a full  [Flavor Review
 [Yellow Cake](https://www.reddit.com/r/DIY_eJuice/comments/b9j3bf/weekly_single_flavors_you_tried/ek5annz/)  
 [Yellow Cake](https://www.reddit.com/r/DIY_eJuice/comments/dmnxvu/results_of_concentrates_of_a_single_flavor_variety/f55rm0g/)
 
-### LorAnn
+## LorAnn
 
 [Grape (colorless)](https://www.reddit.com/r/DIY_eJuice/comments/ed2hng/single_flavors_youve_tried/fbi3h5t/)  
 [Pina Colada](https://www.reddit.com/r/DIY_eJuice/comments/c36med/singleflavor_results/erpofvo/)  
 [Plum](https://www.reddit.com/r/DIY_eJuice/comments/bxhl76/singleflavors_that_made_an_impression/eq7p9fg/)  
 [Strawberry](https://www.reddit.com/r/DIY_eJuice/comments/d031s1/what_single_flavor_discoveries_did_you_make/ez5vzdr/)
 
-### Liquid Barn
+## Liquid Barn
 
 [Blue Raspberry](https://www.reddit.com/r/DIY_eJuice/comments/c09rii/singleflavor_trials_and_tribulations/er48k0l/)  
 [Cappuccino](https://www.reddit.com/r/DIY_eJuice/comments/bml9lw/results_of_single_flavors_tried/emxqtnq/)  
@@ -477,12 +477,12 @@ While these are usually far less than you can expect from a full  [Flavor Review
 [Strawberry](https://www.reddit.com/r/DIY_eJuice/comments/d031s1/what_single_flavor_discoveries_did_you_make/ez5vzdr/)  
 [Strawberry Shortcake](https://www.reddit.com/r/DIY_eJuice/comments/d031s1/what_single_flavor_discoveries_did_you_make/ez5vzdr/)
 
-### Liquid Nicotine Wholesalers
+## Liquid Nicotine Wholesalers
 
 [Rice Crispy Treats](https://www.reddit.com/r/DIY_eJuice/comments/e9xef0/solo_concentrate_testing/fan2iwb/)  
 [Tiger's Blood](https://www.reddit.com/r/DIY_eJuice/comments/e9xef0/solo_concentrate_testing/fan2iwb/)
 
-### Molinberry
+## Molinberry
 
 [American Bubblegum](https://www.reddit.com/r/DIY_eJuice/comments/cqser5/tested_any_single_flavors_recently/ex32bty/)  
 [American Bubblegum](https://www.reddit.com/r/DIY_eJuice/comments/b6jcns/weekly_single_flavors_you_enjoyed/ejlcnp5/)  
@@ -509,14 +509,14 @@ While these are usually far less than you can expect from a full  [Flavor Review
 [Twister](https://www.reddit.com/r/DIY_eJuice/comments/cqser5/tested_any_single_flavors_recently/ex32bty/)  
 [Wild Strawberry](https://www.reddit.com/r/DIY_eJuice/comments/d3b48a/thoughts_on_single_flavors/f01geue/)
 
-### Natures Flavors
+## Natures Flavors
 
 [Japanese Plum](https://www.reddit.com/r/DIY_eJuice/comments/bxhl76/singleflavors_that_made_an_impression/eq7p9fg/)  
 [Passion Fruit](https://www.reddit.com/r/DIY_eJuice/comments/c68op8/singleflavor_discussion/es7cx6p/)  
 [Passion Orange](https://www.reddit.com/r/DIY_eJuice/comments/c68op8/singleflavor_discussion/es7cx6p/)  
 [Strawberry Daiquiri](https://www.reddit.com/r/DIY_eJuice/comments/c36med/singleflavor_results/erpp5fr/)
 
-### Nicotine River
+## Nicotine River
 
 [Arnold Palmer](https://www.reddit.com/r/DIY_eJuice/comments/bemb2q/single_flavor_tests_and_tastes/ele0kd4/)  
 [Arnold Palmer](https://www.reddit.com/r/DIY_eJuice/comments/bharid/single_flavors_youve_sampled_recently/elt1ftp/)  
@@ -531,17 +531,17 @@ While these are usually far less than you can expect from a full  [Flavor Review
 [Ocean Myst](https://www.reddit.com/r/DIY_eJuice/comments/bjyg4v/singleflavors_youve_tried_exciting_or_no/emdep28/)  
 [Rainbow Sherbet](https://www.reddit.com/r/DIY_eJuice/comments/c36med/singleflavor_results/erp164c/)
 
-### NicVape
+## NicVape
 
 [Energy Drink Beast](https://www.reddit.com/r/DIY_eJuice/comments/d9su57/your_thoughts_on_single_concentrates/f1mz2ts/)  
 [Grape](https://www.reddit.com/r/DIY_eJuice/comments/ed2hng/single_flavors_youve_tried/fbi3h5t/)
 
-### One Drop
+## One Drop
 
 [Pineapple](https://www.reddit.com/r/DIY_eJuice/comments/c09rii/singleflavor_trials_and_tribulations/er3lcgm/)  
 [Strawberry](https://www.reddit.com/r/DIY_eJuice/comments/d031s1/what_single_flavor_discoveries_did_you_make/ez5vzdr/)
 
-### One on One
+## One on One
 
 [Blue Raspberry Candy](https://www.reddit.com/r/DIY_eJuice/comments/dzndrg/oneshot_and_single_flavor_thoughts/f8a1bwr/)  
 [Boysenberry](https://www.reddit.com/r/DIY_eJuice/comments/bharid/single_flavors_youve_sampled_recently/elrdwwf/)  
@@ -575,18 +575,18 @@ While these are usually far less than you can expect from a full  [Flavor Review
 [Vanilla Custard Cheesecake](https://www.reddit.com/r/DIY_eJuice/comments/dwi4ry/testing_out_solo_concentrates/f7l69gz/)  
 [Yellow Cake](https://www.reddit.com/r/DIY_eJuice/comments/dmnxvu/results_of_concentrates_of_a_single_flavor_variety/f55rm0g/)
 
-### One Pound
+## One Pound
 
 [Sherbet](https://www.reddit.com/r/DIY_eJuice/comments/cqser5/tested_any_single_flavors_recently/ex230ni/)
 
-### One Stop DIY
+## One Stop DIY
 
 [Blue Raspberry Slush](https://www.reddit.com/r/DIY_eJuice/comments/dzndrg/oneshot_and_single_flavor_thoughts/f88uuds/)  
 [Choco Yum Cake](https://www.reddit.com/r/DIY_eJuice/comments/dt6yw4/single_flavor_concentrate_testing/f6wdnnk/)  
 [Licorice Torpedoes](https://www.reddit.com/r/DIY_eJuice/comments/bs4utw/singleflavor_discoveries_from_the_past_few_days/eoj1u4p/)  
 [Margarita](https://www.reddit.com/r/DIY_eJuice/comments/c36med/singleflavor_results/erpp5fr/)
 
-### Purilum
+## Purilum
 
 [Boysenberry](https://www.reddit.com/r/DIY_eJuice/comments/bharid/single_flavors_youve_sampled_recently/elrdwwf/)  
 [Boysenberry Preserves](https://www.reddit.com/r/DIY_eJuice/comments/ejimo4/your_single_flavor_interpretations/fcz38bg/)  
@@ -602,11 +602,11 @@ While these are usually far less than you can expect from a full  [Flavor Review
 [Vanilla Custard](https://www.reddit.com/r/DIY_eJuice/comments/dwi4ry/testing_out_solo_concentrates/f7l69gz/)  
 [Yellow Cake](https://www.reddit.com/r/DIY_eJuice/comments/dmnxvu/results_of_concentrates_of_a_single_flavor_variety/f55rm0g/)
 
-### Reka
+## Reka
 
 [Sparkling Lemonade](https://www.reddit.com/r/DIY_eJuice/comments/bharid/single_flavors_youve_sampled_recently/elzsn1x/)
 
-### Real Flavors
+## Real Flavors
 
 [Baja](https://www.reddit.com/r/DIY_eJuice/comments/b6jcns/weekly_single_flavors_you_enjoyed/ejlcnp5/)  
 [Boysenberry](https://www.reddit.com/r/DIY_eJuice/comments/bharid/single_flavors_youve_sampled_recently/elrdwwf/)  
@@ -625,7 +625,7 @@ While these are usually far less than you can expect from a full  [Flavor Review
 [Strawberry Taffy](https://www.reddit.com/r/DIY_eJuice/comments/d031s1/what_single_flavor_discoveries_did_you_make/ez5vzdr/)  
 [Sweet Tart Candy](https://www.reddit.com/r/DIY_eJuice/comments/dcydsy/single_flavor_concentrates_recommend_any_to_use/f2eiznf/)
 
-### Solub Arome
+## Solub Arome
 
 [Banana Custard](https://www.reddit.com/r/DIY_eJuice/comments/dzndrg/oneshot_and_single_flavor_thoughts/f8b52mf/)  
 [Beignet](https://www.reddit.com/r/DIY_eJuice/comments/bemb2q/single_flavor_tests_and_tastes/el8v4m3/)  
@@ -641,16 +641,16 @@ While these are usually far less than you can expect from a full  [Flavor Review
 
 [Western](https://www.reddit.com/r/DIY_eJuice/comments/b6jcns/weekly_single_flavors_you_enjoyed/ejlmlh5/)
 
-### Silver Cloud
+## Silver Cloud
 
 [Chocolate Cake](https://www.reddit.com/r/DIY_eJuice/comments/dt6yw4/single_flavor_concentrate_testing/f6wdnnk/)  
 [Pound Cake](https://www.reddit.com/r/DIY_eJuice/comments/dmnxvu/results_of_concentrates_of_a_single_flavor_variety/f55rm0g/)
 
-### Stixx Mixx
+## Stixx Mixx
 
 [Italian Roast](https://www.reddit.com/r/DIY_eJuice/comments/bc1g80/weekly_singleflavor_taste_testing_results/ekpe0ae/)
 
-### The Flavor Apprentice
+## The Flavor Apprentice
 
 [Absinthe](https://www.reddit.com/r/DIY_eJuice/comments/bs4utw/singleflavor_discoveries_from_the_past_few_days/eoj1u4p/)  
 [Acai](https://www.reddit.com/r/DIY_eJuice/comments/bva0h3/singleflavors_as_stand_alones/epp7jxo/)  
@@ -738,7 +738,7 @@ While these are usually far less than you can expect from a full  [Flavor Review
 [Western](https://www.reddit.com/r/DIY_eJuice/comments/cu353o/single_flavor_sensations/exrpmd6/)  
 [Western](https://www.reddit.com/r/DIY_eJuice/comments/bpg9m2/recent_results_from_single_flavors_youve_tried/entq2l0/)
 
-### Tasty Puff
+## Tasty Puff
 
 [Apple Cinnamon Custard](https://www.reddit.com/r/DIY_eJuice/comments/dwi4ry/testing_out_solo_concentrates/f7l69gz/)  
 [Awesome Apple](https://www.reddit.com/r/DIY_eJuice/comments/bharid/single_flavors_youve_sampled_recently/eluj7zy/)  
@@ -749,7 +749,7 @@ While these are usually far less than you can expect from a full  [Flavor Review
 [Powerplant Pomegranate](https://www.reddit.com/r/DIY_eJuice/comments/bharid/single_flavors_youve_sampled_recently/eluj7zy/)  
 [Sweet Fish](https://www.reddit.com/r/DIY_eJuice/comments/dmnxvu/results_of_concentrates_of_a_single_flavor_variety/f55s6sf/)
 
-### Vape Train
+## Vape Train
 
 [Anise](https://www.reddit.com/r/DIY_eJuice/comments/bs4utw/singleflavor_discoveries_from_the_past_few_days/eoj1u4p/)  
 [Apollo Feijoa](https://www.reddit.com/r/DIY_eJuice/comments/cbyvev/discoveries_regarding_single_flavors/etjk0fl/)  
@@ -820,7 +820,7 @@ While these are usually far less than you can expect from a full  [Flavor Review
 [Yellow Passionfruit](https://www.reddit.com/r/DIY_eJuice/comments/c36med/singleflavor_results/erv4twb/)  
 [Yogurt Drink](https://www.reddit.com/r/DIY_eJuice/comments/bva0h3/singleflavors_as_stand_alones/epoai8r/)
 
-### Wonder Flavors
+## Wonder Flavors
 
 [African Horned Cucumber](https://www.reddit.com/r/DIY_eJuice/comments/bharid/single_flavors_youve_sampled_recently/elt1ftp/)  
 [Almond Custard](https://www.reddit.com/r/DIY_eJuice/comments/dwi4ry/testing_out_solo_concentrates/f7l69gz/)  
