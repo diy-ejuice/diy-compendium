@@ -37,11 +37,11 @@ The premixed base I see the most regret over purchasing has to be 50/50. It's ra
 
 [ELR](http://e-liquid-recipes.com/) has made the process exceedingly easy thanks to the "Use vape-ready nicotine base" option; Simply enter the specs of your premix base [like this](https://i.imgur.com/TKybPcT.png):
 
-![](https://juicebook.net/wp-content/uploads/2019/10/premix2.png)
+![first step](https://juicebook.net/wp-content/uploads/2019/10/premix2.png)
 
 add in your recipe/one shot and it will output your final recipe and the resulting ratios [like this](https://i.imgur.com/ia9AC9K.png):
 
-![](https://juicebook.net/wp-content/uploads/2019/10/premix3.png)
+![second step](https://juicebook.net/wp-content/uploads/2019/10/premix3.png)
 
 ### DIY Premix
 
@@ -67,14 +67,14 @@ One Shots are mostly the same concept&mdash;-a recipe in a bottle, the main diff
 
 Both ELR &amp; ATF have this option available. You simply pick the recipe you want to turn into a one shot&hellip; on ELR click the blue wrench and select ["Make one shot/concentrate"](https://i.imgur.com/2PdRXXx.png)
 
-![](https://juicebook.net/wp-content/uploads/2019/10/premix.png)
+![first step](https://juicebook.net/wp-content/uploads/2019/10/premix.png)
 
 or on ATF once you click "Mix" on the recipe page there is an option with a checkbox next to it ["Mix as flavor base"](https://i.imgur.com/gECnyL0.png)
-![](https://juicebook.net/wp-content/uploads/2019/10/flavorbase.png)
+![second step](https://juicebook.net/wp-content/uploads/2019/10/flavorbase.png)
 
 They both give you the option of how much flavor base/one shot to make but ELR also has the option to change your [desired mixing percentage](https://i.imgur.com/HNGtWMg.png), which will allow you to add PG to your flavor base in order to round the percentage you add to your base for convenience.
 
-![](https://juicebook.net/wp-content/uploads/2019/10/premix4.png)
+![third step](https://juicebook.net/wp-content/uploads/2019/10/premix4.png)
 
 ## Final Thoughts
 
