@@ -4,6 +4,8 @@ slug: 'first-order'
 title: 'Flavors - First Order'
 ---
 
+<!-- markdownlint-disable no-duplicate-heading -->
+
 ## Newest Results
 
 These are the latest flavors most recommended by fellow DIY-ers for a first order. In general they should be considered some of the tastiest, but also in most cases versatile for mixing beginner recipes. This is the result of a contest post in September 2019.
