@@ -51,11 +51,11 @@ To do this just create a recipe in your preferred recipe calculator and leave ou
 
 _[Example](https://i.imgur.com/L2drZx7.png) (using 100mg/ml nicotine in PG) for 500ml of 80/20 VG/PG @ 3.5mg_
 
-| Ingredient | mL   | Grams | %    |
-| ---------- | ---- | ----- | ---- |
-| Nicotine   | 17.5 | 18.3  | 3.5  |
+| Ingredient |   mL | Grams |    % |
+| :--------- | ---: | ----: | ---: |
+| Nicotine   | 17.5 |  18.3 |  3.5 |
 | PG         | 82.5 | 85.47 | 16.5 |
-| VG         | 400  | 504.4 | 80   |
+| VG         |  400 | 504.4 |   80 |
 
 #### So I heard you like premix in your premix&hellip;
 

@@ -10,40 +10,40 @@ title: 'Flavors - First Order'
 
 These are the latest flavors most recommended by fellow DIY-ers for a first order. In general they should be considered some of the tastiest, but also in most cases versatile for mixing beginner recipes. This is the result of a contest post in September 2019.
 
-|         Flavoring          | Votes |
-| :------------------------: | :---: |
-|         INW Cactus         |  48   |
-|       FLV Red Burley       |  29   |
-|           WS-23            |  27   |
-|          FA Fuji           |  27   |
-|   INW Shisha Strawberry    |  23   |
-|        INW Custard         |  23   |
-|      CAP Sweet Guava       |  21   |
-|    LB Vanilla Ice Cream    |  20   |
-|    CAP Sugar Cookie V1     |  20   |
-|        LA Lemonade         |  15   |
-|      TFA Marshmallow       |  13   |
-|     TFA Vanilla Swirl      |  13   |
-|      VT Fizzy Sherbet      |  12   |
-|          FA Pear           |  12   |
-|      FA Forest Fruit       |  12   |
-|   INW Yes We Cheesecake    |  11   |
-|     VT Banana Custard      |  10   |
-|      CAP Super Sweet       |  10   |
-|          FE Lemon          |   9   |
-|        INW Biscuit         |   9   |
-|       INW Raspberry        |   9   |
-|     INW Shisha Vanilla     |   8   |
-|     FLV Rich Cinnamon      |   8   |
-|     INW Black for Pipe     |   7   |
-|       FA Polar Blast       |   7   |
-|        FW Blueberry        |   7   |
-|          INW DNB           |   6   |
-| CAP Green Apple Hard Candy |   6   |
-|     FA Custard Premium     |   6   |
-|      TFA Honeysuckle       |   5   |
-|      TFA Banana Cream      |   5   |
-|      FLV Milk & Honey      |   5   |
+| Flavoring                  | Votes |
+| :------------------------- | ----: |
+| INW Cactus                 |    48 |
+| FLV Red Burley             |    29 |
+| WS-23                      |    27 |
+| FA Fuji                    |    27 |
+| INW Shisha Strawberry      |    23 |
+| INW Custard                |    23 |
+| CAP Sweet Guava            |    21 |
+| LB Vanilla Ice Cream       |    20 |
+| CAP Sugar Cookie V1        |    20 |
+| LA Lemonade                |    15 |
+| TFA Marshmallow            |    13 |
+| TFA Vanilla Swirl          |    13 |
+| VT Fizzy Sherbet           |    12 |
+| FA Pear                    |    12 |
+| FA Forest Fruit            |    12 |
+| INW Yes We Cheesecake      |    11 |
+| VT Banana Custard          |    10 |
+| CAP Super Sweet            |    10 |
+| FE Lemon                   |     9 |
+| INW Biscuit                |     9 |
+| INW Raspberry              |     9 |
+| INW Shisha Vanilla         |     8 |
+| FLV Rich Cinnamon          |     8 |
+| INW Black for Pipe         |     7 |
+| FA Polar Blast             |     7 |
+| FW Blueberry               |     7 |
+| INW DNB                    |     6 |
+| CAP Green Apple Hard Candy |     6 |
+| FA Custard Premium         |     6 |
+| TFA Honeysuckle            |     5 |
+| TFA Banana Cream           |     5 |
+| FLV Milk & Honey           |     5 |
 
 ## What can I make with these flavors?
 
@@ -99,38 +99,38 @@ Add FW Blood Orange + FA Lime Tahity Cold Pressed + CAP Sweet Tangerine [Sunshin
 
 These are the latest flavors most recommended by fellow DIY-ers for a first order. In general they should be considered some of the tastiest, but also in most cases versatile for mixing beginner recipes. This is the result of a contest post in November 2018.
 
-|         Flavoring          | Votes |
-| :------------------------: | :---: |
-|     TFA Vanilla Swirl      |  29   |
-|         INW Cactus         |  25   |
-|     TFA Bavarian Cream     |  25   |
-|          FA Fuji           |  23   |
-|    TFA Strawberry Ripe     |  23   |
-|      CAP Sweet Guava       |  22   |
-|    CAP Sugar Cookie V1     |  22   |
-|      FA Forest Fruit       |  22   |
-|   INW Shisha Strawberry    |  20   |
-|     INW Shisha Vanilla     |  20   |
-|        LA Lemonade         |  17   |
-|   CAP Vanilla Custard V1   |  16   |
-|      FA Lemon Sicily       |  15   |
-| TFA Vanilla Bean Ice Cream |  15   |
-|         FLV Cream          |  15   |
-|      TFA Dragonfruit       |  14   |
-|       FA Cream Fresh       |  14   |
-|      TFA Marshmallow       |  11   |
-|      TFA Honeysuckle       |  10   |
-| DIYFS Holy Holy Grail RY4  |  10   |
-|       FLV Pink Guava       |   9   |
-|    TFA Raspberry Sweet     |   9   |
-|   FW Butterscotch Ripple   |   9   |
-|    TFA Kentucky Bourbon    |   9   |
-|      CAP Double Apple      |   9   |
-|       FLV Red Burley       |   8   |
-|    CAP Sweet Tangerine     |   8   |
-|       TFA Strawberry       |   8   |
-|     FLV Kentucky Blend     |   8   |
-|         INW Grapes         |   8   |
+| Flavoring                  | Votes |
+| :------------------------- | ----: |
+| TFA Vanilla Swirl          |    29 |
+| INW Cactus                 |    25 |
+| TFA Bavarian Cream         |    25 |
+| FA Fuji                    |    23 |
+| TFA Strawberry Ripe        |    23 |
+| CAP Sweet Guava            |    22 |
+| CAP Sugar Cookie V1        |    22 |
+| FA Forest Fruit            |    22 |
+| INW Shisha Strawberry      |    20 |
+| INW Shisha Vanilla         |    20 |
+| LA Lemonade                |    17 |
+| CAP Vanilla Custard V1     |    16 |
+| FA Lemon Sicily            |    15 |
+| TFA Vanilla Bean Ice Cream |    15 |
+| FLV Cream                  |    15 |
+| TFA Dragonfruit            |    14 |
+| FA Cream Fresh             |    14 |
+| TFA Marshmallow            |    11 |
+| TFA Honeysuckle            |    10 |
+| DIYFS Holy Holy Grail RY4  |    10 |
+| FLV Pink Guava             |     9 |
+| TFA Raspberry Sweet        |     9 |
+| FW Butterscotch Ripple     |     9 |
+| TFA Kentucky Bourbon       |     9 |
+| CAP Double Apple           |     9 |
+| FLV Red Burley             |     8 |
+| CAP Sweet Tangerine        |     8 |
+| TFA Strawberry             |     8 |
+| FLV Kentucky Blend         |     8 |
+| INW Grapes                 |     8 |
 
 ## What can I make with these flavors?
 
@@ -158,39 +158,39 @@ Here are just a few of the recipes you can make using these suggested "first ord
 
 These are flavors recommended by fellow DIY-ers for a first order. In general they should be considered some of the tastiest, but also in most cases versatile for mixing beginner recipes. This is the result of a contest post in December 2016.
 
-|          Flavoring          | Votes |
-| :-------------------------: | :---: |
-|     TFA STRAWBERRY RIPE     |  152  |
-|      TFA DRAGON FRUIT       |  92   |
-|     TFA BAVARIAN CREAM      |  91   |
-|      TFA VANILLA SWIRL      |  83   |
-|       TFA STRAWBERRY        |  70   |
-| TFA VANILLA BEAN ICE CREAM  |  67   |
-|   CAP VANILLA CUSTARD V1    |  58   |
-| TFA CHEESECAKE GRAHAM CRUST |  57   |
-|       TFA MARSHMALLOW       |  52   |
-|           FA FUJI           |  49   |
-|       FA CREAM FRESH        |  46   |
-|     TFA RASPBERRY SWEET     |  45   |
-|     CAP SUGAR COOKIE V1     |  42   |
-|         INW CACTUS          |  40   |
-|         LA LEMONADE         |  39   |
-|       FA LEMON SICILY       |  39   |
-|    CAP SWEET STRAWBERRY     |  39   |
-|         FA MERINGUE         |  38   |
-|       FA FOREST FRUIT       |  36   |
-|  LA WATERMELON (COLORLESS)  |  34   |
-|       LA BANANA CREAM       |  29   |
-|  CAP CINNAMON DANISH SWIRL  |  26   |
-|   CAP NEW YORK CHEESECAKE   |  23   |
-|       TFA JUICY PEACH       |  22   |
-|     CAP GRAHAM CRACKER      |  22   |
-|          TFA PEAR           |  21   |
-|       FA WHITE PEACH        |  17   |
-|           FA KIWI           |  16   |
-|      TFA BANANA CREAM       |  15   |
-|        TFA PINEAPPLE        |  14   |
-|    CAP GOLDEN PINEAPPLE     |  14   |
+| Flavoring                   | Votes |
+| :-------------------------- | ----: |
+| TFA STRAWBERRY RIPE         |   152 |
+| TFA DRAGON FRUIT            |    92 |
+| TFA BAVARIAN CREAM          |    91 |
+| TFA VANILLA SWIRL           |    83 |
+| TFA STRAWBERRY              |    70 |
+| TFA VANILLA BEAN ICE CREAM  |    67 |
+| CAP VANILLA CUSTARD V1      |    58 |
+| TFA CHEESECAKE GRAHAM CRUST |    57 |
+| TFA MARSHMALLOW             |    52 |
+| FA FUJI                     |    49 |
+| FA CREAM FRESH              |    46 |
+| TFA RASPBERRY SWEET         |    45 |
+| CAP SUGAR COOKIE V1         |    42 |
+| INW CACTUS                  |    40 |
+| LA LEMONADE                 |    39 |
+| FA LEMON SICILY             |    39 |
+| CAP SWEET STRAWBERRY        |    39 |
+| FA MERINGUE                 |    38 |
+| FA FOREST FRUIT             |    36 |
+| LA WATERMELON (COLORLESS)   |    34 |
+| LA BANANA CREAM             |    29 |
+| CAP CINNAMON DANISH SWIRL   |    26 |
+| CAP NEW YORK CHEESECAKE     |    23 |
+| TFA JUICY PEACH             |    22 |
+| CAP GRAHAM CRACKER          |    22 |
+| TFA PEAR                    |    21 |
+| FA WHITE PEACH              |    17 |
+| FA KIWI                     |    16 |
+| TFA BANANA CREAM            |    15 |
+| TFA PINEAPPLE               |    14 |
+| CAP GOLDEN PINEAPPLE        |    14 |
 
 ## What can I make with these flavors?
 
@@ -234,94 +234,94 @@ Here are just a few of the recipes you can make using these suggested "first ord
 
 Previous Results from a survey /u/Eizooz conducted:
 
-|          Flavoring          | Votes |
-| :-------------------------: | :---: |
-|     TFA STRAWBERRY RIPE     |  18   |
-|   CAP VANILLA CUSTARD V1    |  15   |
-|     TFA BAVARIAN CREAM      |  11   |
-|      TFA DRAGON FRUIT       |   9   |
-|      TFA VANILLA SWIRL      |   9   |
-|           FA FUJI           |   8   |
-| TFA VANILLA BEAN ICE CREAM  |   8   |
-|    CAP SWEET STRAWBERRY     |   7   |
-|       LA BANANA CREAM       |   7   |
-|   CAP NEW YORK CHEESECAKE   |   6   |
-|       TFA STRAWBERRY        |   6   |
-|         FA MERINGUE         |   5   |
-|       FW YELLOW CAKE        |   5   |
-| TFA CHEESECAKE GRAHAM CRUST |   5   |
-|          TFA PEAR           |   5   |
-|          FA COOKIE          |   4   |
-|       FA VIENNA CREAM       |   4   |
-|         INW BISCUIT         |   4   |
+| Flavoring                   | Votes |
+| :-------------------------- | ----: |
+| TFA STRAWBERRY RIPE         |    18 |
+| CAP VANILLA CUSTARD V1      |    15 |
+| TFA BAVARIAN CREAM          |    11 |
+| TFA DRAGON FRUIT            |     9 |
+| TFA VANILLA SWIRL           |     9 |
+| FA FUJI                     |     8 |
+| TFA VANILLA BEAN ICE CREAM  |     8 |
+| CAP SWEET STRAWBERRY        |     7 |
+| LA BANANA CREAM             |     7 |
+| CAP NEW YORK CHEESECAKE     |     6 |
+| TFA STRAWBERRY              |     6 |
+| FA MERINGUE                 |     5 |
+| FW YELLOW CAKE              |     5 |
+| TFA CHEESECAKE GRAHAM CRUST |     5 |
+| TFA PEAR                    |     5 |
+| FA COOKIE                   |     4 |
+| FA VIENNA CREAM             |     4 |
+| INW BISCUIT                 |     4 |
 
 These are the flavors most recommended by fellow DIY-ers for a first order. In general they should be considered some of the tastiest, but also in most cases versatile for multi-flavor mixes. This is the result of a [contest post in March 2015.](http://redd.it/2yhwei)
 
 ## Overall Top Twenty
 
-| Mfr |         Flavor          | Votes |
-| :-: | :---------------------: | :---: |
-| TFA |     Strawberry Ripe     |  44   |
-| TFA |  Strawberry (Original)  |  36   |
-| TFA |     Bavarian Cream      |  34   |
-| TFA |       Dragonfruit       |  27   |
-| CAP |    Sweet Strawberry     |  24   |
-| FA  |          Fuji           |  22   |
-| TFA |      Vanilla Swirl      |  21   |
-| FA  |      Vienna Cream       |  21   |
-| CAP |     Vanilla Custard     |  20   |
-| TFA |          Pear           |  19   |
-| FA  |         Cookie          |  17   |
-| TFA |  Graham Cracker Clear   |  17   |
-| TFA |       Peach Juicy       |  16   |
-| TFA |       RY4 Double        |  16   |
-| TFA | Cheesecake Graham Crust |  15   |
-| LA  |      Banana Cream       |  13   |
-| TFA |       Sweet Cream       |  12   |
-| FA  |       Cream Fresh       |  11   |
-| FA  |        Meringue         |  11   |
-| TFA |      Peanut Butter      |  11   |
+| Mfr | Flavor                  | Votes |
+| :-: | :---------------------- | ----: |
+| TFA | Strawberry Ripe         |    44 |
+| TFA | Strawberry (Original)   |    36 |
+| TFA | Bavarian Cream          |    34 |
+| TFA | Dragonfruit             |    27 |
+| CAP | Sweet Strawberry        |    24 |
+| FA  | Fuji                    |    22 |
+| TFA | Vanilla Swirl           |    21 |
+| FA  | Vienna Cream            |    21 |
+| CAP | Vanilla Custard         |    20 |
+| TFA | Pear                    |    19 |
+| FA  | Cookie                  |    17 |
+| TFA | Graham Cracker Clear    |    17 |
+| TFA | Peach Juicy             |    16 |
+| TFA | RY4 Double              |    16 |
+| TFA | Cheesecake Graham Crust |    15 |
+| LA  | Banana Cream            |    13 |
+| TFA | Sweet Cream             |    12 |
+| FA  | Cream Fresh             |    11 |
+| FA  | Meringue                |    11 |
+| TFA | Peanut Butter           |    11 |
 
 ## TFA Top 10
 
-| Mfr |         Flavor          | Votes |
-| :-: | :---------------------: | :---: |
-| TFA |     Strawberry Ripe     |  44   |
-| TFA |  Strawberry (Original)  |  36   |
-| TFA |     Bavarian Cream      |  34   |
-| TFA |       Dragonfruit       |  27   |
-| TFA |      Vanilla Swirl      |  21   |
-| TFA |          Pear           |  19   |
-| TFA |  Graham Cracker Clear   |  17   |
-| TFA |       Peach Juicy       |  16   |
-| TFA |       RY4 Double        |  16   |
-| TFA | Cheesecake Graham Crust |  15   |
+| Mfr | Flavor                  | Votes |
+| :-: | :---------------------- | ----: |
+| TFA | Strawberry Ripe         |    44 |
+| TFA | Strawberry (Original)   |    36 |
+| TFA | Bavarian Cream          |    34 |
+| TFA | Dragonfruit             |    27 |
+| TFA | Vanilla Swirl           |    21 |
+| TFA | Pear                    |    19 |
+| TFA | Graham Cracker Clear    |    17 |
+| TFA | Peach Juicy             |    16 |
+| TFA | RY4 Double              |    16 |
+| TFA | Cheesecake Graham Crust |    15 |
 
 ## CAP Top 9
 
-| Mfr |         Flavor          | Votes |
-| :-: | :---------------------: | :---: |
-| CAP |    Sweet Strawberry     |  24   |
-| CAP |     Vanilla Custard     |  20   |
-| CAP |       Marshmallow       |   9   |
-| CAP |      NY Cheesecake      |   6   |
-| CAP |     Vanilla Cupcake     |   6   |
-| CAP |  Cinnamon Danish Swirl  |   5   |
-| CAP |    Golden Pineapple     |   2   |
-| CAP |      Apple Pie V2       |   1   |
-| CAP | Super Sweet (Sucralose) |   1   |
+| Mfr | Flavor                  | Votes |
+| :-: | :---------------------- | ----: |
+| CAP | Sweet Strawberry        |    24 |
+| CAP | Vanilla Custard         |    20 |
+| CAP | Marshmallow             |     9 |
+| CAP | NY Cheesecake           |     6 |
+| CAP | Vanilla Cupcake         |     6 |
+| CAP | Cinnamon Danish Swirl   |     5 |
+| CAP | Golden Pineapple        |     2 |
+| CAP | Apple Pie V2            |     1 |
+| CAP | Super Sweet (Sucralose) |     1 |
 
 ## FA Top 10
 
-| Mfr |    Flavor    | Votes |
-| :-: | :----------: | :---: |
-| FA  |     Fuji     |  22   |
-| FA  | Vienna Cream |  21   |
-| FA  |    Cookie    |  17   |
-| FA  | Cream Fresh  |  11   |
-| FA  |   Meringue   |  11   |
-| FA  |   Custard    |   8   |
-| FA  |  Apple Pie   |   7   |
-| FA  | Lemon Sicily |   5   |
-| FA  |     Pear     |   5   |
-| FA  | Marshmallow  |   3   |
+| Mfr | Flavor       | Votes |
+| :-: | :----------- | ----: |
+| FA  | Fuji         |    22 |
+| FA  | Vienna Cream |    21 |
+| FA  | Cookie       |    17 |
+| FA  | Cream Fresh  |    11 |
+| FA  | Meringue     |    11 |
+| FA  | Custard      |     8 |
+| FA  | Apple Pie    |     7 |
+| FA  | Lemon Sicily |     5 |
+| FA  | Pear         |     5 |
+| FA  | Marshmallow  |     3 |

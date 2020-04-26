@@ -54,43 +54,43 @@ Some of the most commonly recommended places to get bottles including a few exam
 Every type of bottle is available. A lot of free shipping options and be sure to look at where the item is being shipped from because a lot of the options are shipped directly from China (If you've got time for that, they will be cheaper)
 
 | Qty | Type                                                                                                                                                                                                          | Price       |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| 30  | [10ml LDPE](https://www.ebay.com/itm/5ml-10ml-15ml-30ml-Plastic-Squeezable-Dropper-Bottles-Eye-Liquid-Dropper-LDPE/272116026613?hash=item3f5b610cf5:m:miNIeLXG9aaj9CFRgFSY8Wg)                                | \$0.28/each |
-| 30  | [30ml PET](https://www.ebay.com/itm/5ml-10ml-30ml-50ml-Empty-Plastic-Squeezable-Dropper-Bottles-Eye-Liquid-Droppers/122820004124?hash=item1c98a4891c:m:mxUAinI6fSypZHJrfIF5RuA:sc:USPSFirstClass!98503!US!-1) | \$0.33/each |
-| 25  | [30ml LDPE \(Unicorn\)](https://www.ebay.com/itm/30mL-Unicorn-Bottles-Childproof-Cap-CRC-2-0-Plastic-Dropper-liquid-pens-Lot/111653183847?hash=item19ff0c6167:m:mQMB1bwbjxnqlukwLYLE2qQ)                      | \$0.60/each |
+| --: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+|  30 | [10ml LDPE](https://www.ebay.com/itm/5ml-10ml-15ml-30ml-Plastic-Squeezable-Dropper-Bottles-Eye-Liquid-Dropper-LDPE/272116026613?hash=item3f5b610cf5:m:miNIeLXG9aaj9CFRgFSY8Wg)                                | \$0.28/each |
+|  30 | [30ml PET](https://www.ebay.com/itm/5ml-10ml-30ml-50ml-Empty-Plastic-Squeezable-Dropper-Bottles-Eye-Liquid-Droppers/122820004124?hash=item1c98a4891c:m:mxUAinI6fSypZHJrfIF5RuA:sc:USPSFirstClass!98503!US!-1) | \$0.33/each |
+|  25 | [30ml LDPE \(Unicorn\)](https://www.ebay.com/itm/30mL-Unicorn-Bottles-Childproof-Cap-CRC-2-0-Plastic-Dropper-liquid-pens-Lot/111653183847?hash=item19ff0c6167:m:mQMB1bwbjxnqlukwLYLE2qQ)                      | \$0.60/each |
 | 100 | [60ml HDPE Yorker Spout](https://www.ebay.com/itm/2-oz-60-ml-HDPE-Plastic-Bottles-w-Yorker-Dispensing-Caps-Lot-of-100/263351070763?hash=item3d50f2702b:g:Y0gAAOSwI8laHlM6)                                    | \$0.26/each |
-| 12  | [120ml LDPE Yorker Spout](https://www.ebay.com/itm/12-pack-of-4oz-120mL-Plastic-Boston-Round-Squeeze-Bottles-Yorker-Caps-LDPE/281966694126?hash=item41a6864eee:g:qT8AAOSwyjBW51KM)                            | \$1.00/each |
+|  12 | [120ml LDPE Yorker Spout](https://www.ebay.com/itm/12-pack-of-4oz-120mL-Plastic-Boston-Round-Squeeze-Bottles-Yorker-Caps-LDPE/281966694126?hash=item41a6864eee:g:qT8AAOSwyjBW51KM)                            | \$1.00/each |
 
 #### Amazon
 
 If you have prime, there are a lot of options for every variety of bottle with prime shipping (and non-prime free shipping)
 
 | Qty | Type                                         | Price       |
-| --- | -------------------------------------------- | ----------- |
-| 50  | [10ml LDPE](http://a.co/gMNlCP3)             | \$0.32/each |
-| 50  | [30ml Vktech](http://a.co/boLFO1z)           | \$0.30/each |
-| 25  | [30ml LDPE \(Unicorn\)](http://a.co/bxEZuiU) | \$0.58/each |
-| 25  | [60ml LDPE](http://a.co/9iMHxpx)             | \$0.72/each |
-| 12  | [120ml LDPE \(Yorker\)](http://a.co/e1iicOE) | \$1.17/each |
+| --: | -------------------------------------------- | ----------- |
+|  50 | [10ml LDPE](http://a.co/gMNlCP3)             | \$0.32/each |
+|  50 | [30ml Vktech](http://a.co/boLFO1z)           | \$0.30/each |
+|  25 | [30ml LDPE \(Unicorn\)](http://a.co/bxEZuiU) | \$0.58/each |
+|  25 | [60ml LDPE](http://a.co/9iMHxpx)             | \$0.72/each |
+|  12 | [120ml LDPE \(Yorker\)](http://a.co/e1iicOE) | \$1.17/each |
 
 #### Fasttech
 
 If you're into unique/weird bottles (e.g. 30ml glass skull dropper bottles) and waiting a week or six for your order to arrive, this is the best place to go.
 
 | Qty | Type                                                                                                                        | Price       |
-| --- | --------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| 5   | [10ml LDPE](https://www.fasttech.com/products/3021/10006152/1613411-empty-dropper-bottles-for-e-liquids-5-pack-10ml)        | \$0.30/each |
-| 5   | [30ml LDPE](https://www.fasttech.com/products/3021/10006152/1614006)                                                        | \$0.39/each |
-| 5   | [30ml PET \(Flask\)](https://www.fasttech.com/products/0/10021895/4774400-empty-dropper-bottles-for-e-liquid-5-pack-30ml)   | \$0.42/each |
-| 5   | [60ml PET \(Square\)](https://www.fasttech.com/products/0/10013098/9346005-empty-square-dropper-bottle-for-e-liquid-5-pack) | \$0.65/each |
-| 5   | [120ml PET \(Unicorn\)](https://www.fasttech.com/products/0/10017876/7342900-pet-empty-dropper-bottle-for-e-liquid-5-pack)  | \$0.90/each |
+| --: | --------------------------------------------------------------------------------------------------------------------------- | ----------- |
+|   5 | [10ml LDPE](https://www.fasttech.com/products/3021/10006152/1613411-empty-dropper-bottles-for-e-liquids-5-pack-10ml)        | \$0.30/each |
+|   5 | [30ml LDPE](https://www.fasttech.com/products/3021/10006152/1614006)                                                        | \$0.39/each |
+|   5 | [30ml PET \(Flask\)](https://www.fasttech.com/products/0/10021895/4774400-empty-dropper-bottles-for-e-liquid-5-pack-30ml)   | \$0.42/each |
+|   5 | [60ml PET \(Square\)](https://www.fasttech.com/products/0/10013098/9346005-empty-square-dropper-bottle-for-e-liquid-5-pack) | \$0.65/each |
+|   5 | [120ml PET \(Unicorn\)](https://www.fasttech.com/products/0/10017876/7342900-pet-empty-dropper-bottle-for-e-liquid-5-pack)  | \$0.90/each |
 
 #### Heartland
 
 Most options are for 10, 100 &amp; 1500 bottles. They carry glass, L/HDPE, PET, Chubby Unicorns and have a variety of caps and droppers that can be bought separately. Bonus: A large variety of bottle and cap colors.
 
 | Qty | Type                                                                                                                        | Price       |
-| --- | --------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| --: | --------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | 100 | [10ml LDPE](http://wholesale.heartlandvapes.com/eliquid-bottle-10ml.html)                                                   | \$0.21/each |
 | 100 | [30ml LDPE](http://wholesale.heartlandvapes.com/eliquid-bottle-30ml-cfr.html)                                               | \$0.19/each |
 | 100 | [30ml LDPE \(Unicorn\)](http://wholesale.heartlandvapes.com/30ml-ldpe-chubby-unicorn-trans-white-100-lot.html)              | \$0.52/each |
@@ -102,7 +102,7 @@ Most options are for 10, 100 &amp; 1500 bottles. They carry glass, L/HDPE, PET, 
 If you're willing to buy 100 they have a great selection and some of the best prices.
 
 | Qty | Type                                                                                                                                                                                                                  | Price       |
-| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| --: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | 100 | [10ml PET](https://dropperbottles.com/collections/plastic-droppers-tamper-evident-child-resistant-cap/products/pet-crystal-clear-boston-round-child-resistant-100-count?variant=1877029093400)                        | \$0.16/each |
 | 100 | [10ml LDPE](https://dropperbottles.com/collections/plastic-droppers-tamper-evident-child-resistant-cap/products/child-resistant-cap-ldpe-boston-round-100-count?variant=1877030207512)                                | \$0.15/each |
 | 100 | [30ml PET](https://dropperbottles.com/collections/plastic-droppers-tamper-evident-child-resistant-cap/products/pet-crystal-clear-boston-round-child-resistant-100-count?variant=1877029093400)                        | \$0.19/each |
@@ -114,7 +114,7 @@ If you're willing to buy 100 they have a great selection and some of the best pr
 A unique twist on the standard boston round LDPE bottle. They have a wide opening similar to 60ml+ Chubby Gorilla's with the same style of cap (in 5 colors). The site is run by DropperBottles and only sells the one type of bottle in 30, 50, 60, 100, 120, 240ml (100 at a time)
 
 | Qty | Type                                                                                                                                | Price       |
-| --- | ----------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| --: | ----------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | 100 | [30ml LDPE](https://bigmouthboston.com/collections/big-mouth-boston-bottles/products/big-mouth-boston-round?variant=50899685011)    | \$0.30/each |
 | 100 | [50ml LDPE](https://bigmouthboston.com/collections/big-mouth-boston-bottles/products/big-mouth-boston-round?variant=6070394519590)  | \$0.35/each |
 | 100 | [60ml LDPE](https://bigmouthboston.com/collections/big-mouth-boston-bottles/products/big-mouth-boston-round?variant=50899685779)    | \$0.38/each |
@@ -126,12 +126,12 @@ A unique twist on the standard boston round LDPE bottle. They have a wide openin
 Possibly the best selection and prices on glass bottles with competitive prices on a decent variety of plastic bottles.
 
 | Qty | Type                                                                                                                                                                        | Price       |
-| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| 1+  | [30ml Glass](https://glassbottleoutlet.com/collections/boston-round/products/1-oz-amber-boston-round-with-black-child-resistant-dropper-20-400)                             | \$0.43/each |
-| 1+  | [15ml LDPE](https://glassbottleoutlet.com/collections/plastic-bottles/products/15-ml-natural-bottle-with-fine-tip-and-black-child-resistant-cap-pe-15-415)                  | \$0.25/each |
-| 1+  | [30ml LDPE](https://glassbottleoutlet.com/collections/plastic-bottles/products/30-ml-natural-bottle-with-fine-tip-and-black-child-resistant-cap-pe-13-415)                  | \$0.30/each |
-| 1+  | [60ml PET \(Unicorn\)](https://glassbottleoutlet.com/collections/plastic-bottles/products/60-ml-clear-unicorn-bottle-with-fine-tip-and-black-tamper-evident-cap-pet-24-400) | \$0.30/each |
-| 1+  | [120ml PET \(Bullet\)](https://glassbottleoutlet.com/collections/plastic-bottles/products/120-ml-4-oz-clear-bottle-with-black-twist-cap-pet-20-400)                         | \$0.69/each |
+| --: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+|  1+ | [30ml Glass](https://glassbottleoutlet.com/collections/boston-round/products/1-oz-amber-boston-round-with-black-child-resistant-dropper-20-400)                             | \$0.43/each |
+|  1+ | [15ml LDPE](https://glassbottleoutlet.com/collections/plastic-bottles/products/15-ml-natural-bottle-with-fine-tip-and-black-child-resistant-cap-pe-15-415)                  | \$0.25/each |
+|  1+ | [30ml LDPE](https://glassbottleoutlet.com/collections/plastic-bottles/products/30-ml-natural-bottle-with-fine-tip-and-black-child-resistant-cap-pe-13-415)                  | \$0.30/each |
+|  1+ | [60ml PET \(Unicorn\)](https://glassbottleoutlet.com/collections/plastic-bottles/products/60-ml-clear-unicorn-bottle-with-fine-tip-and-black-tamper-evident-cap-pet-24-400) | \$0.30/each |
+|  1+ | [120ml PET \(Bullet\)](https://glassbottleoutlet.com/collections/plastic-bottles/products/120-ml-4-oz-clear-bottle-with-black-twist-cap-pet-20-400)                         | \$0.69/each |
 
 #### And More
 
@@ -157,36 +157,36 @@ Possibly the best selection and prices on glass bottles with competitive prices 
 An excellent selection of bottles perfect for adding to your frequent flavor orders. Prices are decent as an addon to another purchase. They carry a few sizes of glass with droppers or caps as well as a large variety of PET/LDPE bottles and individual twist/yorker style caps.
 
 | Qty | Type                                                                                             | Price       |
-| --- | ------------------------------------------------------------------------------------------------ | ----------- |
-| 10  | [10ml LDPE](https://www.bullcityflavors.com/10ml-dropper-bottle-w-childproof-cap/)               | \$0.35/each |
-| 10  | [30ml PET](https://www.bullcityflavors.com/30ml-clear-pet-bottles-pack-of-10/)                   | \$0.30/each |
-| 10  | [30ml LDPE](https://www.bullcityflavors.com/30ml-dropper-bottle-w-childproof-cap/)               | \$0.45/each |
-| 5   | [30ml LDPE \(Unicorn\)](https://www.bullcityflavors.com/30ml-ldpe-chubby-gorilla-bottle-5-pack/) | \$0.65/each |
-| 5   | [60ml LDPE \(Unicorn\)](https://www.bullcityflavors.com/60ml-ldpe-chubby-gorilla-bottle-5-pack/) | \$0.75/each |
+| --: | ------------------------------------------------------------------------------------------------ | ----------- |
+|  10 | [10ml LDPE](https://www.bullcityflavors.com/10ml-dropper-bottle-w-childproof-cap/)               | \$0.35/each |
+|  10 | [30ml PET](https://www.bullcityflavors.com/30ml-clear-pet-bottles-pack-of-10/)                   | \$0.30/each |
+|  10 | [30ml LDPE](https://www.bullcityflavors.com/30ml-dropper-bottle-w-childproof-cap/)               | \$0.45/each |
+|   5 | [30ml LDPE \(Unicorn\)](https://www.bullcityflavors.com/30ml-ldpe-chubby-gorilla-bottle-5-pack/) | \$0.65/each |
+|   5 | [60ml LDPE \(Unicorn\)](https://www.bullcityflavors.com/60ml-ldpe-chubby-gorilla-bottle-5-pack/) | \$0.75/each |
 
 #### Nicotine River
 
 They carry a small variety of glass, larger HDPE bottles, bullet style, 30ml PET and Gorilla Unicorn bottles (and reagent bottles if you're into that)
 
 | Qty | Type                                                                                                                             | Price       |
-| --- | -------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| 5   | [15ml LDPE \(Unicorn\)](https://www.nicotineriver.com/collections/diy-tools/products/chubby-gorilla-unicorn?variant=23488852995) | \$0.70/each |
-| 10  | [30ml LDPE \(Unicorn\)](https://www.nicotineriver.com/collections/diy-tools/products/chubby-gorilla-unicorn?variant=23489092867) | \$0.68/each |
-| 25  | [30ml PET](https://www.nicotineriver.com/collections/diy-tools/products/squeeze-bottles?variant=23057373315)                     | \$0.45/each |
-| 1+  | [60ml PET Bullet](https://www.nicotineriver.com/collections/diy-tools/products/bullet-bottles)                                   | \$0.50/each |
-| 1+  | [8oz HDPE Cylinder](https://www.nicotineriver.com/collections/diy-tools/products/cylinder-bottles?variant=20179225219)           | \$0.80/each |
+| --: | -------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+|   5 | [15ml LDPE \(Unicorn\)](https://www.nicotineriver.com/collections/diy-tools/products/chubby-gorilla-unicorn?variant=23488852995) | \$0.70/each |
+|  10 | [30ml LDPE \(Unicorn\)](https://www.nicotineriver.com/collections/diy-tools/products/chubby-gorilla-unicorn?variant=23489092867) | \$0.68/each |
+|  25 | [30ml PET](https://www.nicotineriver.com/collections/diy-tools/products/squeeze-bottles?variant=23057373315)                     | \$0.45/each |
+|  1+ | [60ml PET Bullet](https://www.nicotineriver.com/collections/diy-tools/products/bullet-bottles)                                   | \$0.50/each |
+|  1+ | [8oz HDPE Cylinder](https://www.nicotineriver.com/collections/diy-tools/products/cylinder-bottles?variant=20179225219)           | \$0.80/each |
 
 #### Wizard Labs
 
 A bare bones selection of several types. Decent prices on their bottle packs.
 
 | Qty | Type                                                                                                                                    | Price       |
-| --- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| 10  | [10ml PET](https://wizardlabs.us/labware/bottles-droppers-and-containers/10ml-pet-dropper-bottle-child-resist-cap-10-pack)              | \$0.21/each |
-| 1+  | [30ml LDPE](https://wizardlabs.us/bottles-droppers-and-containers/30ml-ldpe-dropper-bottle-with-child-resist-cap)                       | \$0.55/each |
-| 10  | [30ml PET \(Bullet\)](https://wizardlabs.us/bottles-droppers-and-containers/30ml-pet-bullet-cosmo-squeeze-bottle-w-twist-cap-10-pack)   | \$0.40/each |
-| 10  | [120ml PET \(Bullet\)](https://wizardlabs.us/bottles-droppers-and-containers/120ml-pet-bullet-cosmo-squeeze-bottle-w-twist-cap-10-pack) | \$0.60/each |
-| 5   | [250ml PET \(Bullet\)](https://wizardlabs.us/bottles-droppers-and-containers/250ml-pet-bullet-cosmo-squeeze-bottle-w-twist-cap-5-pack)  | \$0.70/each |
+| --: | --------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+|  10 | [10ml PET](https://wizardlabs.us/labware/bottles-droppers-and-containers/10ml-pet-dropper-bottle-child-resist-cap-10-pack)              | \$0.21/each |
+|  1+ | [30ml LDPE](https://wizardlabs.us/bottles-droppers-and-containers/30ml-ldpe-dropper-bottle-with-child-resist-cap)                       | \$0.55/each |
+|  10 | [30ml PET \(Bullet\)](https://wizardlabs.us/bottles-droppers-and-containers/30ml-pet-bullet-cosmo-squeeze-bottle-w-twist-cap-10-pack)   | \$0.40/each |
+|  10 | [120ml PET \(Bullet\)](https://wizardlabs.us/bottles-droppers-and-containers/120ml-pet-bullet-cosmo-squeeze-bottle-w-twist-cap-10-pack) | \$0.60/each |
+|   5 | [250ml PET \(Bullet\)](https://wizardlabs.us/bottles-droppers-and-containers/250ml-pet-bullet-cosmo-squeeze-bottle-w-twist-cap-5-pack)  | \$0.70/each |
 
 References:
 

@@ -24,37 +24,37 @@ Let's use [Mother of Dragons' Milk](https://alltheflavors.com/recipes/6851#mothe
 
 ### 30ml
 
-| Flavor                | %   | grams | SG       |
-| --------------------- | --- | ----- | -------- |
-| TFA Bavarian Cream    | 2   | 0.60  | **0.64** |
-| TFA Dragonfruit       | 7   | 2.10  | **2.15** |
-| TFA Strawberry (Ripe) | 2   | 0.60  | **0.62** |
-| TFA Vanilla Swirl     | 2   | 0.60  | **0.63** |
-| Totals                | 13  | 3.9   | **4.04** |
+| Flavor                |   % | grams |       SG |
+| --------------------- | --: | ----: | -------: |
+| TFA Bavarian Cream    |   2 |  0.60 | **0.64** |
+| TFA Dragonfruit       |   7 |  2.10 | **2.15** |
+| TFA Strawberry (Ripe) |   2 |  0.60 | **0.62** |
+| TFA Vanilla Swirl     |   2 |  0.60 | **0.63** |
+| Totals                |  13 |   3.9 | **4.04** |
 
 As you can see, the total flavoring you would add for a 30ml would be 3.9g vs the SG total of 4.04. i.e. 3.9g is 96.53% accurate.
 
 ### 120ml
 
-| Flavor                | %   | grams | SG        |
-| --------------------- | --- | ----- | --------- |
-| TFA Bavarian Cream    | 2   | 2.4   | **2.56**  |
-| TFA Dragonfruit       | 7   | 8.4   | **8.6**   |
-| TFA Strawberry (Ripe) | 2   | 2.4   | **2.49**  |
-| TFA Vanilla Swirl     | 2   | 2.4   | **2.52**  |
-| Totals                | 13  | 15.6  | **16.17** |
+| Flavor                |   % | grams |        SG |
+| --------------------- | --: | ----: | --------: |
+| TFA Bavarian Cream    |   2 |   2.4 |  **2.56** |
+| TFA Dragonfruit       |   7 |   8.4 |   **8.6** |
+| TFA Strawberry (Ripe) |   2 |   2.4 |  **2.49** |
+| TFA Vanilla Swirl     |   2 |   2.4 |  **2.52** |
+| Totals                |  13 |  15.6 | **16.17** |
 
 96.47% accurate
 
 ### 240ml
 
-| Flavor                | %   | grams | SG        |
-| --------------------- | --- | ----- | --------- |
-| TFA Bavarian Cream    | 2   | 4.8   | **5.13**  |
-| TFA Dragonfruit       | 7   | 16.8  | **17.2**  |
-| TFA Strawberry (Ripe) | 2   | 4.8   | **4.98**  |
-| TFA Vanilla Swirl     | 2   | 4.8   | **5.04**  |
-| Totals                | 13  | 31.2  | **32.35** |
+| Flavor                |   % | grams |        SG |
+| --------------------- | --: | ----: | --------: |
+| TFA Bavarian Cream    |   2 |   4.8 |  **5.13** |
+| TFA Dragonfruit       |   7 |  16.8 |  **17.2** |
+| TFA Strawberry (Ripe) |   2 |   4.8 |  **4.98** |
+| TFA Vanilla Swirl     |   2 |   4.8 |  **5.04** |
+| Totals                |  13 |  31.2 | **32.35** |
 
 96.44% accurate
 
