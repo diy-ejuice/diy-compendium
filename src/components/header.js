@@ -71,9 +71,6 @@ const Guides = () => (
     <NavDropdown.Item as={Link} to="/guides/additives-enhancers">
       Additives &amp; Enhancers
     </NavDropdown.Item>
-    <NavDropdown.Item as={Link} to="/guides/bottles">
-      Bottles
-    </NavDropdown.Item>
     <NavDropdown.Item as={Link} to="/guides/labels">
       Labels
     </NavDropdown.Item>
