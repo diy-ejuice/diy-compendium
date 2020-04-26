@@ -94,7 +94,7 @@ These write-ups are made by users who have been attempting or did make a clone o
 
 White Whales are a clone attempt that someone really really wants to achieve. These clone journeys are usually one hell of a ride and have some really good highlights in the process of cloning commercial juice.
 
-**CaptainCannibal's Journey for a SHURB Clone**
+#### CaptainCannibal's Journey for a SHURB Clone
 
 - [Cannibal's SHURB clone!](http://www.reddit.com//r/DIY_eJuice/comments/48zgol/cannibals_shurb_clone/)
 
@@ -104,7 +104,7 @@ White Whales are a clone attempt that someone really really wants to achieve. Th
 
 - [Shurb v4 - I WANT TO BELIEVE](http://www.reddit.com//r/DIY_eJuice/comments/5h8ga4/shurb_v4_i_want_to_believe/)
 
-**Matthewkocanda's Jounrey for a Nebula Clone**
+#### Matthewkocanda's Jounrey for a Nebula Clone
 
 - [Nebula, a reimagining of Stargazer (first attempt and inquiry)](http://www.reddit.com//r/DIY_eJuice/comments/3rtj8b/nebula_a_reimagining_of_stargazer_first_attempt/)
 
