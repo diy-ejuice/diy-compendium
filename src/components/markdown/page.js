@@ -15,13 +15,13 @@ const MarkdownPage = ({ data }) => {
   const {
     markdownRemark: {
       html,
-      frontmatter: { title }
+      frontmatter: { title, description }
     }
   } = data;
 
   return (
     <Layout>
-      <SEO title={title} description={title} />
+      <SEO title={title} description={description} />
       <Container>
         <Row>
           <Col md="12" dangerouslySetInnerHTML={{ __html: html }} />
@@ -33,7 +33,9 @@ const MarkdownPage = ({ data }) => {
 
 MarkdownPage.displayName = 'MarkdownContent';
 MarkdownPage.propTypes = {
-  data: PropTypes.object
+  data: PropTypes.shape({
+    markdownRemark: PropTypes.arrayOf(PropTypes.object)
+  })
 };
 
 export default MarkdownPage;
