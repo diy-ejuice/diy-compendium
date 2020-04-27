@@ -74,6 +74,7 @@ Some helpful reviews to get an idea on how some fizzy flavors work:
 - [FA Cola](https://redd.it/59bs68)
 - [INW Fresh Cola](https://redd.it/7rpkmh)
 - VT Fizzy Sherbet &mdash; Is the new kid on the block and hasn't been reviewed yet, so I asked [/u/ID10-T](https://www.reddit.com/u/ID10-T)[+539] what he thought of it "has some lemony citrus flavor to work around but it does the best job of anything I've tried at emulating the tingle of carbonation. 2% Fizzy S 3% CAP Lemon Lime = Sprite"
+- FLV Citrus Soda &mdash; this is a newer edition to the group and its a bit more potent than VT Fizzy Sherbet
 
 _There are so many more that were omitted, if you can think of any, please feel free to share them and your experience or recipes that used them._
 
