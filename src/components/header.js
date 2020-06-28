@@ -30,6 +30,9 @@ const Faq = () => (
     <NavDropdown.Item as={Link} to="/faq/getting-started">
       Getting Started
     </NavDropdown.Item>
+    <NavDropdown.Item as={Link} to="/faq/mixing-by-weight">
+      Mixing by Weight
+    </NavDropdown.Item>
     <NavDropdown.Item as={Link} to="/faq/weight-vs-volume">
       Weight vs. Volume
     </NavDropdown.Item>
