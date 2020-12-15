@@ -68,7 +68,7 @@ If you have prime, there are a lot of options for every variety of bottle with p
 
 | Qty | Type                                              | Price       |
 | --: | ------------------------------------------------- | ----------- |
-|  80 | [10ml LDPE](https://www.amazon.com/dp/B081GB175S) | \$0.17/each |
+|  80 | [10ml LDPE](https://www.amazon.com/dp/B081GB175S) | \$0.13/each |
 |  50 | [30ml Vktech](http://a.co/boLFO1z)                | \$0.30/each |
 |  25 | [30ml LDPE \(Unicorn\)](http://a.co/bxEZuiU)      | \$0.58/each |
 |  25 | [60ml LDPE](http://a.co/9iMHxpx)                  | \$0.72/each |
