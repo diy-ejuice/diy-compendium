@@ -66,13 +66,13 @@ Every type of bottle is available. A lot of free shipping options and be sure to
 
 If you have prime, there are a lot of options for every variety of bottle with prime shipping (and non-prime free shipping)
 
-| Qty | Type                                         | Price       |
-| --: | -------------------------------------------- | ----------- |
-|  50 | [10ml LDPE](http://a.co/gMNlCP3)             | \$0.32/each |
-|  50 | [30ml Vktech](http://a.co/boLFO1z)           | \$0.30/each |
-|  25 | [30ml LDPE \(Unicorn\)](http://a.co/bxEZuiU) | \$0.58/each |
-|  25 | [60ml LDPE](http://a.co/9iMHxpx)             | \$0.72/each |
-|  12 | [120ml LDPE \(Yorker\)](http://a.co/e1iicOE) | \$1.17/each |
+| Qty | Type                                              | Price       |
+| --: | ------------------------------------------------- | ----------- |
+|  80 | [10ml LDPE](https://www.amazon.com/dp/B081GB175S) | \$0.17/each |
+|  50 | [30ml Vktech](http://a.co/boLFO1z)                | \$0.30/each |
+|  25 | [30ml LDPE \(Unicorn\)](http://a.co/bxEZuiU)      | \$0.58/each |
+|  25 | [60ml LDPE](http://a.co/9iMHxpx)                  | \$0.72/each |
+|  12 | [120ml LDPE \(Yorker\)](http://a.co/e1iicOE)      | \$1.17/each |
 
 #### Fasttech
 
