@@ -19,9 +19,6 @@ const IndexPage = ({ data }) => {
     allPollJson: { nodes: polls },
     allFile: { nodes: images }
   } = data;
-  const filteredNodes = nodes.filter((node) =>
-    Boolean(node.frontmatter.featured)
-  );
   const findImage = (url) =>
     url
       ? images.find((image) =>
@@ -35,7 +32,7 @@ const IndexPage = ({ data }) => {
 
   featured.push.apply(
     featured,
-    filteredNodes.map((node) => ({
+    nodes.slice(0, Math.min(nodes.length, 5)).map((node) => ({
       ...node.frontmatter,
       type: 'post',
       image: findImage(node.frontmatter.image)
@@ -102,7 +99,10 @@ IndexPage.propTypes = {
 
 export const query = graphql`
   query {
-    allMarkdownRemark {
+    allMarkdownRemark(
+      filter: { frontmatter: { featured: { eq: true } } }
+      sort: { fields: [frontmatter___date], order: DESC }
+    ) {
       nodes {
         frontmatter {
           author
