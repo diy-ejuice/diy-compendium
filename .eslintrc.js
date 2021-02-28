@@ -5,19 +5,16 @@ module.exports = {
     browser: true,
     commonjs: true,
     es6: true,
-    jest: true,
     node: true
   },
-  plugins: ['import', 'react', 'prettier', 'jest', 'jsx-a11y'],
+  plugins: ['import', 'react', 'prettier', 'jsx-a11y'],
   extends: [
     'eslint:recommended',
     'plugin:react/recommended',
     'plugin:prettier/recommended',
     'plugin:jsx-a11y/recommended',
-    'plugin:jest/recommended',
     'plugin:import/errors',
-    'prettier',
-    'prettier/react'
+    'prettier'
   ],
   parser: 'babel-eslint',
   parserOptions: {
@@ -175,8 +172,8 @@ module.exports = {
     },
     'import/resolver': {
       alias: [
-        ["~components", "./src/components"],
-        ["~pages", "./src/pages"]
+        ['~components', './src/components'],
+        ['~pages', './src/pages']
       ]
     }
   }
