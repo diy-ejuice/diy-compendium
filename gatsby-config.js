@@ -76,7 +76,8 @@ module.exports = {
               }
             }
           },
-          'gatsby-remark-autolink-headers'
+          'gatsby-remark-autolink-headers',
+          'gatsby-remark-numbered-footnotes'
         ]
       }
     },
