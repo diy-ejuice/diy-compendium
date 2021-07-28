@@ -15,7 +15,7 @@
     "dotenv": "^10.0.0",
     "gatsby": "^3.10.2",
     "gatsby-image": "^3.10.0",
-    "gatsby-plugin-algolia-docsearch-options": "^0.2.0",
+    "gatsby-plugin-algolia-docsearch-options": "^0.2.1",
     "gatsby-plugin-gtag": "^1.0.13",
     "gatsby-plugin-manifest": "^3.10.0",
     "gatsby-plugin-offline": "^4.10.0",
