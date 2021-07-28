@@ -44,7 +44,7 @@ Vendors who sell most or all of the things you need to get started in DIY. Below
 |      [Liquid Barn](http://link.diyejuice.org/38)      |    US    |     |  ✅   |         ✅          |   ✅    |         ✅          | [Link](https://redd.it/dyk2y0) |
 |      [Lubrisolve](http://link.diyejuice.org/40)       |    UK    | ✅  |  ✅   |         ✅          |   ✅    |         ✅          |                                |
 |        [NomNomz](http://link.diyejuice.org/42)        |    UK    | ✅  |  ✅   |         ✅          |   ✅    |         ✅          | [Link](https://redd.it/bzbvre) |
-|  [OneStop DIY Shop](https://www.onestopdiyshop.com/)  |    US    |     |  ✅   |         ✅          |   ✅    |         ✅          | [Link](https://redd.it/b2x4hz) |
+|       [OSDIY](https://www.onestopdiyshop.com/)        |    US    |     |  ✅   |         ✅          |   ✅    |         ✅          | [Link](https://redd.it/b2x4hz) |
 |     [RainbowVapes](http://link.diyejuice.org/43)      |    UK    | ✅  |  ✅   |         ✅          |   ✅    |         ✅          | [Link](https://redd.it/ax8ecz) |
 |       [SaVapeur](https://shop.savapeur.com/en)        |    CA    |     |  ✅   |         ✅          |   ✅    |                     |                                |
 |    [The Steamery](https://www.thesteamery.com.au/)    |    AU    |     |  ✅   |         ✅          |   ✅    |                     |                                |
@@ -58,13 +58,22 @@ Vendors who sell most or all of the things you need to get started in DIY. Below
 
 While some of these vendors sell more than just nicotine, they're either known primarily for nicotine or have the most competitive prices.
 
-|                      Vendor                       | Location |        Brand(s)        | Nic Salts |         Vendor Review          |
-| :-----------------------------------------------: | :------: | :--------------------: | :-------: | :----------------------------: |
-|   [Smash E-Liquid](https://smash-eliquid.com/)    |    UK    |                        |    ✅     |                                |
-| [CarolinaXtract](https://www.carolinaxtract.com/) |    US    | Supercritical Nicotine |    ✅     | [Link](https://redd.it/bb7rp9) |
-|   [Nicotine UK](https://www.nicotineuk.co.uk/)    |    UK    |                        |    ✅     |                                |
-|    [Nicotine Hub](https://nicotinehub.co.uk/)     |    UK    |                        |    ✅     |                                |
-|  [VapourEyes NZ](https://www.vapoureyes.co.nz/)   |    NZ    |                        |    ✅     |                                |
+|                              Vendor                               | Location |        Brand(s)        | Nic Salts |         Vendor Review          |
+| :---------------------------------------------------------------: | :------: | :--------------------: | :-------: | :----------------------------: |
+|             [Avid Vaper](https://www.avidvaper.com/)              |    US    |                        |           |                                |
+|         [CarolinaXtract](https://www.carolinaxtract.com/)         |    US    | Supercritical Nicotine |    ✅     | [Link](https://redd.it/bb7rp9) |
+|         [Central Vapors](https://www.centralvapors.com/)          |    US    |                        |    ✅     |                                |
+| [Heartland Vapes](https://wholesale.heartlandvapes.com/)[^pickup] |    US    |                        |    ✅     |                                |
+|         [Kidney Puncher](https://www.kidneypuncher.com/)          |    US    |                        |           |                                |
+|           [Nicotine UK](https://www.nicotineuk.co.uk/)            |    UK    |                        |           |                                |
+|         [Nicotine Giant](https://www.nicotinegiant.com/)          |    US    |                        |    ✅     |                                |
+|            [Nicotine Hub](https://nicotinehub.co.uk/)             |    UK    |                        |    ✅     |                                |
+|              [PerfectVape](https://perfectvape.com/)              |    US    |                        |    ✅     |                                |
+|      [My E-Liquid Supplies](https://myeliquidsupplies.com/)       |    UK    |                        |           |                                |
+|             [The Vape Mall](https://thevapemall.com/)             |    US    |                        |    ✅     |                                |
+|            [VapeCraft Inc](https://vapecraftinc.com/)             |    US    |                        |           |                                |
+|            [VapourEyes](https://www.vapoureyes.co.nz/)            |    NZ    |                        |    ✅     |                                |
+|          [Wizard Labs](https://wizardlabs.us/)[^pickup]           |    US    |                        |    ✅     |                                |
 
 ## Bases (VG/PG/PEG/PDO)
 
@@ -140,6 +149,7 @@ Oneshots are basically recipes in a bottle. Instead of using all the flavors ind
 | [Wonder Flavors](https://www.wonderflavours.com/)                                                               | CA       |
 
 [^supplies]: Bottles / Syringes / Mixware / Test Kits / Scales etc.
-[^oneshots]: Premixed Flavor Concentrates - Just add nic, PG, & VG
+[^oneshots]: Premixed Flavor Concentrates - Just add PG/VG/Nic
 [^shortfills]: Premixed 0mg E-Liquid with room for Nic Shots
 [^bottleshots]: Oneshots in a bottle with room to add PG/VG/Nic
+[^pickup]: Local pickup only
