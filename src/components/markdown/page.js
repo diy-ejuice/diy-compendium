@@ -31,7 +31,7 @@ const MarkdownPage = ({ data }) => {
   );
 };
 
-MarkdownPage.displayName = 'MarkdownContent';
+MarkdownPage.displayName = 'MarkdownPage';
 MarkdownPage.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.arrayOf(PropTypes.object)
