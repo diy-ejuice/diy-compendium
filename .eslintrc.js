@@ -1,28 +1,20 @@
-const path = require('path');
-
 module.exports = {
   env: {
     browser: true,
-    commonjs: true,
-    es6: true,
+    es2020: true,
     node: true
   },
-  plugins: ['import', 'react', 'prettier', 'jsx-a11y'],
   extends: [
     'eslint:recommended',
     'plugin:react/recommended',
     'plugin:prettier/recommended',
     'plugin:jsx-a11y/recommended',
-    'plugin:import/errors',
-    'prettier'
+    'plugin:import/recommended'
   ],
-  parser: 'babel-eslint',
+  parser: '@babel/eslint-parser',
   parserOptions: {
-    ecmaFeatures: {
-      jsx: true
-    },
-    ecmaVersion: 9,
-    sourceType: 'module'
+    requireConfigFile: false,
+    ecmaVersion: 12
   },
   rules: {
     'accessor-pairs': 2,
