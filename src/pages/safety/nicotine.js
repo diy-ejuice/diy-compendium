@@ -1,4 +1,3 @@
-import React from 'react';
 import PropTypes from 'prop-types';
 import { Container, Row, Col, Table } from 'react-bootstrap';
 

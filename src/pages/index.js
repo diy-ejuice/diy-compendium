@@ -5,7 +5,6 @@ import {
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { graphql } from 'gatsby';
 import PropTypes from 'prop-types';
-import React from 'react';
 import { Container, Row, Col, Carousel } from 'react-bootstrap';
 
 import SEO from '~components/seo';
