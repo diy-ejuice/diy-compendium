@@ -31,7 +31,7 @@ const MarkdownPost = ({ data }) => {
   );
 };
 
-MarkdownPost.displayName = 'MarkdownContent';
+MarkdownPost.displayName = 'MarkdownPost';
 MarkdownPost.propTypes = {
   data: PropTypes.object
 };
@@ -39,7 +39,7 @@ MarkdownPost.propTypes = {
 export default MarkdownPost;
 
 export const pageQuery = graphql`
-  query($path: String!) {
+  query ($path: String!) {
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       html
       frontmatter {
