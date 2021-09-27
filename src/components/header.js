@@ -1,8 +1,8 @@
 import { Link } from 'gatsby';
 import classNames from 'classnames';
 import PropTypes from 'prop-types';
-import React, { Component, Fragment } from 'react';
-import { Navbar, Nav, InputGroup, Row, Col, Button } from 'react-bootstrap';
+import { Fragment } from 'react';
+import { Navbar, Nav, InputGroup, Button } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
   faSearch,
@@ -196,101 +196,77 @@ const Search = (props) => {
   return (
     <Nav.Item className={classes}>
       <InputGroup>
-        <InputGroup.Prepend>
-          <InputGroup.Text>
-            <FontAwesomeIcon icon={faSearch} size="sm" />
-          </InputGroup.Text>
-        </InputGroup.Prepend>
+        <InputGroup.Text>
+          <FontAwesomeIcon icon={faSearch} size="sm" />
+        </InputGroup.Text>
         <input type="search" className="dc-search-input form-control" />
       </InputGroup>
     </Nav.Item>
   );
 };
 
-Search.displayName = 'Search';
 Search.propTypes = {
   mobile: PropTypes.bool
 };
 
-export default class Header extends Component {
-  static propTypes = {
-    siteTitle: PropTypes.string
-  };
-
-  static defaultProps = {
-    siteTitle: ''
-  };
-
-  render() {
-    const { siteTitle } = this.props;
-
-    return (
-      <Fragment>
-        <Navbar variant="light" bg="light">
-          <Navbar.Brand>
-            <Link to="/" className="text-dark">
-              {siteTitle}
-            </Link>
-          </Navbar.Brand>
-          <Nav as={Row} className="w-100 ml-5">
-            <Col>
-              <Nav.Link as={Link} to="/faq/why-diy">
-                <Button variant="secondary">Why DIY?</Button>
-              </Nav.Link>
-            </Col>
-            <Col>
-              <Nav.Link as={Link} to="/about">
-                <Button variant="secondary">About</Button>
-              </Nav.Link>
-            </Col>
-            <Col>
-              <Nav.Link as={Link} to="/quick-start">
-                <Button variant="secondary">Quick Start</Button>
-              </Nav.Link>
-            </Col>
-            <Col>
-              <Nav.Link
-                href="https://reddit.com/r/DIY_eJuice"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <Button variant="secondary">
-                  <FontAwesomeIcon icon={faRedditAlien} size="lg" />{' '}
-                  /r/DIY_eJuice
-                </Button>
-              </Nav.Link>
-            </Col>
-            <Col>
-              <Nav.Link
-                href="http://link.diyejuice.org/discord"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <Button variant="secondary">
-                  <FontAwesomeIcon icon={faDiscord} size="lg" /> Discord
-                </Button>
-              </Nav.Link>
-            </Col>
+export default function Header({ siteTitle = '' }) {
+  return (
+    <Fragment>
+      <Navbar variant="light" bg="light">
+        <Navbar.Brand className="ms-4">
+          <Link to="/">{siteTitle}</Link>
+        </Navbar.Brand>
+        <Nav className="justify-content-end w-100">
+          <Nav.Link as={Link} to="/faq/why-diy">
+            <Button variant="secondary">Why DIY?</Button>
+          </Nav.Link>
+          <Nav.Link as={Link} to="/about">
+            <Button variant="secondary">About</Button>
+          </Nav.Link>
+          <Nav.Link as={Link} to="/quick-start">
+            <Button variant="secondary">Quick Start</Button>
+          </Nav.Link>
+          <Nav.Link
+            href="https://reddit.com/r/DIY_eJuice"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <Button variant="secondary">
+              <FontAwesomeIcon icon={faRedditAlien} size="lg" /> /r/DIY_eJuice
+            </Button>
+          </Nav.Link>
+          <Nav.Link
+            href="http://link.diyejuice.org/discord"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <Button variant="secondary">
+              <FontAwesomeIcon icon={faDiscord} size="lg" /> Discord
+            </Button>
+          </Nav.Link>
+        </Nav>
+      </Navbar>
+      <Navbar variant="dark" bg="primary" expand="lg">
+        <Navbar.Toggle />
+        <Navbar.Collapse>
+          <Nav className="ms-3">
+            <Faq />
+            <Safety />
+            <Guides />
+            <Recipes />
+            <Flavors />
+            <Media />
+            <Supplies />
           </Nav>
-        </Navbar>
-        <Navbar variant="dark" bg="primary" expand="lg">
-          <Navbar.Toggle />
-          <Navbar.Collapse>
-            <Nav>
-              <Faq />
-              <Safety />
-              <Guides />
-              <Recipes />
-              <Flavors />
-              <Media />
-              <Supplies />
-            </Nav>
-            <Nav className="ml-auto flex-row-reverse">
-              <Search />
-            </Nav>
-          </Navbar.Collapse>
-        </Navbar>
-      </Fragment>
-    );
-  }
+          <Nav className="justify-content-end w-100 me-2">
+            <Search />
+          </Nav>
+        </Navbar.Collapse>
+      </Navbar>
+    </Fragment>
+  );
 }
+
+Header.propTypes = {
+  siteTitle: PropTypes.string
+};

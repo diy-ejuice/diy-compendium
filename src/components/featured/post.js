@@ -1,16 +1,12 @@
 import { Link } from 'gatsby';
-import Img from 'gatsby-image';
 import PropTypes from 'prop-types';
-import React from 'react';
 import { Row, Col } from 'react-bootstrap';
 
 export default function FeaturedPost({ author, image, path, title, headline }) {
   return (
     <Row>
       <Col md={1}></Col>
-      <Col md={5}>
-        <Img fluid={image} />
-      </Col>
+      <Col md={5}>{image}</Col>
       <Col md={5}>
         <div className="mt-5">
           <Link to={path}>
@@ -27,7 +23,7 @@ export default function FeaturedPost({ author, image, path, title, headline }) {
 
 FeaturedPost.propTypes = {
   author: PropTypes.string,
-  image: PropTypes.object,
+  image: PropTypes.node,
   path: PropTypes.string.isRequired,
   title: PropTypes.string.isRequired,
   headline: PropTypes.string

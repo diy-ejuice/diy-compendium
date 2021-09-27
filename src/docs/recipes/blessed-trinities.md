@@ -4,8 +4,6 @@ slug: 'blessed-trinities'
 title: 'Recipes - Blessed Trinities'
 ---
 
-# Blessed Trinities
-
 > The blessed trinities are normally recipes consisting of three flavours that when mixed all together, create an improved flavour profile of that specific flavour. The trinities are made with the idea of them being layered into a recipe, so they are extremely useful for when you are trying to achieve a certain profile.
 
 ## Trinity Recipes

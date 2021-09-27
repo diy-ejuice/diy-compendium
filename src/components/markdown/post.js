@@ -1,11 +1,10 @@
-import React from 'react';
 import { graphql } from 'gatsby';
 import PropTypes from 'prop-types';
 import { Container, Row, Col } from 'react-bootstrap';
 
-import SEO from '~components/seo';
-import NotFoundPage from '~pages/404';
-import Layout from '~components/layout';
+import SEO from 'components/seo';
+import NotFoundPage from 'pages/404';
+import Layout from 'components/layout';
 
 const MarkdownPost = ({ data }) => {
   if (!data || !data.markdownRemark) {
@@ -31,7 +30,7 @@ const MarkdownPost = ({ data }) => {
   );
 };
 
-MarkdownPost.displayName = 'MarkdownContent';
+MarkdownPost.displayName = 'MarkdownPost';
 MarkdownPost.propTypes = {
   data: PropTypes.object
 };
@@ -39,7 +38,7 @@ MarkdownPost.propTypes = {
 export default MarkdownPost;
 
 export const pageQuery = graphql`
-  query($path: String!) {
+  query ($path: String!) {
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       html
       frontmatter {

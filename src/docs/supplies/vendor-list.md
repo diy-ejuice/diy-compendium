@@ -4,8 +4,6 @@ slug: 'vendor-list'
 title: 'Supplies - Vendor List'
 ---
 
-# Vendor List
-
 **NOTE: Vendors are listed alphabetically, not in order of preference**
 
 Inclusion on this list is in no way an endorsement, nor an indication of vendor quality. Do your research, check reviews, and ask in the Weekly discussion thread. Vendor review threads will be posted weekly and updated after 6 months. If you see a vendor without a review thread feel free to request it in the [FAQ thread](http://link.diyejuice.org/questions) or by [sending a message to the mods](https://www.reddit.com/message/compose/?to=/r/DIY_eJuice).

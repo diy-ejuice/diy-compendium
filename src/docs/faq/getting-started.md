@@ -4,8 +4,6 @@ slug: 'getting-started'
 title: 'FAQ - Getting Started'
 ---
 
-# Getting Started
-
 ## The Essentials
 
 This is just the essentials for getting started. As you develop in this hobby you may find other things you consider essential, but remember this is just for first-timers.

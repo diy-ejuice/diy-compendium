@@ -4,8 +4,6 @@ slug: 'labels'
 title: 'Guides - Labels'
 ---
 
-# Labels
-
 > Labels are great for anything from adding a touch of flair to a recipe you're proud of or a simple utilitarian approach of having the name, date, and nic content visible on the bottle. How far you go and how much time/money you spend depends on how important it is to you. At the very least, you should be able to identify what's in the bottle and when it was made or you run the risk of trying to clone one of your own recipes after you try that blank bottle of absolutely delicious eliquid that you don't remember making.
 
 Starting from the cheapest option and moving up:

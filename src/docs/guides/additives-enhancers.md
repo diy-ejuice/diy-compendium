@@ -1,10 +1,8 @@
 ---
 path: '/guides/additives-enhancers'
 slug: 'additives-enhancers'
-title: 'Guides - Additives &amp; Enhancers'
+title: 'Guides - Additives & Enhancers'
 ---
-
-# Additives &amp; Enhancers
 
 In the world of vaping flavors everything is subjective and when it comes to additives and their effects on flavors, the subjectivity grows exponentially, compounding the problem of second-hand anecdotal experience. **All of these additives have a sweet spot for their "optimal" effects but most have a thin line between no effect and (typically) muting flavor.**
 

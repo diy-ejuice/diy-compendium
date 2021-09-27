@@ -4,8 +4,6 @@ slug: 'mixing-by-weight'
 title: 'FAQ - Mixing by Weight'
 ---
 
-# Mixing by Weight
-
 ## Prerequisites
 
 All ingredients must be [USP grade](https://www.usp.org/) or equivalent.

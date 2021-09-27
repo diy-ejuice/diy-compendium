@@ -4,8 +4,6 @@ slug: 'why-diy'
 title: 'FAQ - Why DIY?'
 ---
 
-# Why DIY
-
 ## Is DIY For You
 
 It's easy for us to tell you, "You can save a lot of money making your own e-liquid", but it's not that simple. DIY takes some upfront capital, lots of experimentation, sometimes multiple orders from multiple suppliers, failures, handling hazardous materials, and patience. First you should probably figure out exactly why you want to make your own e-liquid.

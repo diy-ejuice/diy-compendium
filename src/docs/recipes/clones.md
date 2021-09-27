@@ -1,10 +1,8 @@
 ---
 path: '/recipes/clones'
 slug: 'clones'
-title: 'Recipes - Clones'
+title: 'Recipes - Cloning Commercial E-Juice'
 ---
-
-# Cloning Commercial E-Juice
 
 This has been and probably always will be one of the most frequently asked question anywhere DIY is talked about. I've seen it on every DIY forum, chat room, FB group, etc and because of its frequency it's one the first questions to get the ire of a community or be outright banned as a topic of discussion. Clones are often a starting point for a lot of new DIY'ers. They look at DIY as a way to save money by mixing up their ADV themselves, at a fraction of the cost. And because they're new to DIY and new to the forum, they don't realize how many times the same request has been made before they got there. This page will help you on not only requesting a clone, but making one yourself.
 

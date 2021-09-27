@@ -9,7 +9,7 @@ deploy:
   local_dir: public
   keep_history: true
   on:
-    branch: master
+    branch: main
 cache:
   directories:
     - node_modules

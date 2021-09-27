@@ -1,10 +1,8 @@
 ---
 path: '/guides/reviews'
 slug: 'reviews'
-title: 'Guides - Reviews'
+title: 'Guides - Recipe Reviews'
 ---
-
-# Recipe Reviews
 
 Recipe feedback and review is probably the most important part of our community outside of flavor notes. It let's us know what the community thinks about our creation, affirms or denies mixing tricks we may be attempting, raises alarms about steeping issues, and warns us of problems that certain people who may taste things differently will have with our recipes.
 

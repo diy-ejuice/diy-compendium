@@ -4,8 +4,6 @@ slug: 'podcasts'
 title: 'Video/Podcasts - DIY Podcasts'
 ---
 
-# DIY Podcast Roundup
-
 ## Live Show Schedule
 
 | Day       | Time (EST) | Show                                                                                                                   |

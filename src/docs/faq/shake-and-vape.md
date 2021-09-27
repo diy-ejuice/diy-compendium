@@ -4,8 +4,6 @@ slug: 'shake-and-vape'
 title: 'FAQ - Shake and Vape'
 ---
 
-# Shake and Vape
-
 ## "Good as a shake and vape but it gets better&hellip;"
 
 You'll see this a lot. Sure it's good to go right off, but it definitely doesn't hurt to wait 24 hours or 2 weeks, even. Very few recipes aren't better after they have a chance to age and homogenize. There's a short list of flavors that disappear with a "steep" and a much longer list of flavors that need time to develop or let go of their off-notes.
