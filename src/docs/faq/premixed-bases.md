@@ -4,8 +4,6 @@ slug: 'premixed-bases'
 title: 'FAQ - Premixed Bases'
 ---
 
-# Premixed Bases
-
 ## Should I buy a premixed base
 
 A lot of people start with a premixed VG/PG/Nic base and find themselves quickly moving on to separate bases for the flexibility and control that are inherently lacking in, well, anything that someone else mixes for you. But the real answer to the question above is all about your situation and preference.

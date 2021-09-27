@@ -4,8 +4,6 @@ slug: 'organization'
 title: 'Guides - Organization'
 ---
 
-# Organization
-
 > Not gonna bury the lede, [here's a gallery](https://imgur.com/a/WHhTG) with 50+ mixing setups for inspiration
 
 ## Workflow

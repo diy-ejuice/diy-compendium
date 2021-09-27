@@ -4,8 +4,6 @@ slug: 'weight-vs-volume'
 title: 'FAQ - Weight vs. Volume'
 ---
 
-# Weight vs. Volume
-
 Mixing by weight is evangelised almost as much as reading the sidebar. I'll try to do two things in this write up that I'm guaranteed to fail at: Try to remain impartial and try not to rehash too much of [Botboy's Guide to Mixing By Weight](https://redd.it/2iq3km).
 
 But here's the problem; Mixing by weight is not intuitive, volume is. Hell, even mixing by drops is more intuitive than mixing by weight. And what I mean by intuitive is that when you think of liquids you don't think of weight, you naturally think of volume. It makes sense that people would follow their intuitions, but there's another way&hellip;

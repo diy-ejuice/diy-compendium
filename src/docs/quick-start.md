@@ -4,8 +4,6 @@ slug: 'quick-start'
 title: 'Quick Start'
 ---
 
-# Welcome to **Do It Yourself** eJuice
-
 The answer to almost all basic questions and more can be found in one of the links below or with a quick [**search**](http://link.diyejuice.org/search).
 
 ---

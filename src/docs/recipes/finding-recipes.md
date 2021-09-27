@@ -4,8 +4,6 @@ slug: 'finding-recipes'
 title: 'Recipes - Finding Recipes'
 ---
 
-# Finding Recipes
-
 > Some people prefer to do everything themselves, which makes perfect sense if you know what DIY stands for. But for everyone else (and especially new mixers) making recipes that others have crafted is not only their preference, it's also the most sensible way to get started. But how do you decide where to to start and which recipes are worth buying the flavors to make?
 
 ## Knowing what you like&hellip;

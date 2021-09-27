@@ -4,8 +4,6 @@ slug: 'additives-enhancers'
 title: 'Guides - Additives & Enhancers'
 ---
 
-# Additives &amp; Enhancers
-
 In the world of vaping flavors everything is subjective and when it comes to additives and their effects on flavors, the subjectivity grows exponentially, compounding the problem of second-hand anecdotal experience. **All of these additives have a sweet spot for their "optimal" effects but most have a thin line between no effect and (typically) muting flavor.**
 
 Just because a concentrate says "Honey" on the label doesn't mean you'll taste honey and the same goes for the Magic and Wizardry on the labels below, along with their purported effects on your flavors and recipes&hellip; Take the the following advice and descriptions with a drop of saline and don't get salty if your results vary.

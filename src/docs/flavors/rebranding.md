@@ -1,10 +1,8 @@
 ---
 path: '/flavors/rebranding'
 slug: 'rebranding'
-title: 'Flavors - Rebranded'
+title: 'Flavors - Rebranded Flavors'
 ---
-
-# Rebranded Flavor List
 
 Vendors often have the option to create a new brand for some of the flavors they rebottle. These are the rebranded flavors that are known.
 

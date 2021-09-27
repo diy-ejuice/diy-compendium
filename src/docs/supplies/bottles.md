@@ -5,8 +5,6 @@ title: 'Supplies - Bottles'
 description: 'Info about bottle materials, styles, and suppliers.'
 ---
 
-# Bottles
-
 ## The "Best" Bottles
 
 First and most obvious; the more you buy, the cheaper they get. But how many do you need? If you're selling to friends and family, it's worth investing in &gt;100 in order to save in the long run. If you put the Y in DIY and don't feel like sharing, you'll probably get by with around a dozen bottles of various sizes, especially if some are glass (rinse and repeat)

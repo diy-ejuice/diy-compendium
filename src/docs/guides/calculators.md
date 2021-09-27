@@ -1,10 +1,8 @@
 ---
 path: '/guides/calculators'
 slug: 'calculators'
-title: 'Guides - Calculators'
+title: 'Guides - Mixing Calculators'
 ---
-
-# Mixing Calculators
 
 > All of the links below will help you mix a bottle of juice. Basic mixing calculators will let you mix a bottle and not much more. More advanced (downloadable) calculators will have more features and advanced settings that require more setup. Recipe Sharing sites have most of the same features of other mixing calculators along with the ability to mix and save public recipes.
 

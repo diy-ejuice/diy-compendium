@@ -1,10 +1,8 @@
 ---
 path: '/flavors/notes'
 slug: 'notes'
-title: 'Flavors - Notes'
+title: 'Flavors - Notes and Impressions'
 ---
-
-# Brief Flavor Notes/Impressions
 
 While these are usually far less than you can expect from a full [Flavor Review](http://link.diyejuice.org/8) they occasionally get close. Most of the flavors linked here will at least give you a short subjective impression and sometimes a conversation about the flavor that elicits more details. Often times people will just say they like it or dislike it; but when someone asks them a question, they'll have more to say. If you come across a comment for a flavor you're interested in, asking for more details will benefit not only you, but anyone else that comes along searching for the same flavor.
 
