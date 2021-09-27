@@ -66,10 +66,7 @@ exports.createPages = async (options) => {
 exports.onCreateWebpackConfig = ({ actions }) => {
   actions.setWebpackConfig({
     resolve: {
-      alias: {
-        '~components': resolve(__dirname, 'src/components'),
-        '~pages': resolve(__dirname, 'src/pages')
-      }
+      modules: [resolve(__dirname, 'src'), 'node_modules']
     }
   });
 };
