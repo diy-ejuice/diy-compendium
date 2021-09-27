@@ -4,15 +4,16 @@ import {
 } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { graphql } from 'gatsby';
+import { GatsbyImage, getImage, StaticImage } from 'gatsby-plugin-image';
 import PropTypes from 'prop-types';
 import { Container, Row, Col, Carousel } from 'react-bootstrap';
 
-import SEO from '~components/seo';
-import Layout from '~components/layout';
-import FeaturedPoll from '~components/featured/poll';
-import FeaturedPost from '~components/featured/post';
+import SEO from 'components/seo';
+import Layout from 'components/layout';
+import FeaturedPoll from 'components/featured/poll';
+import FeaturedPost from 'components/featured/post';
 
-const IndexPage = ({ data }) => {
+export default function IndexPage({ data }) {
   const {
     allMarkdownRemark: { nodes },
     allPollJson: { nodes: polls },
@@ -20,11 +21,11 @@ const IndexPage = ({ data }) => {
   } = data;
   const findImage = (url) =>
     url
-      ? images.find((image) =>
-          image.childImageSharp.fluid.src.endsWith(
-            url.substring(url.lastIndexOf('/') + 1)
-          )
-        ).childImageSharp.fluid
+      ? getImage(
+          images.find((image) =>
+            image.relativePath.endsWith(url.substring(url.lastIndexOf('/') + 1))
+          ).childImageSharp.gatsbyImageData
+        )
       : {};
 
   const featured = [];
@@ -34,7 +35,12 @@ const IndexPage = ({ data }) => {
     nodes.slice(0, Math.min(nodes.length, 5)).map((node) => ({
       ...node.frontmatter,
       type: 'post',
-      image: findImage(node.frontmatter.image)
+      image: (
+        <GatsbyImage
+          image={findImage(node.frontmatter.image)}
+          alt="Featured Post"
+        />
+      )
     }))
   );
 
@@ -43,9 +49,16 @@ const IndexPage = ({ data }) => {
     polls.map((poll) => ({
       ...poll,
       type: 'poll',
-      image: findImage('/diy-poll.png')
+      image: (
+        <StaticImage
+          src="../images/featured/diy-poll.png"
+          alt="Featured Poll"
+        />
+      )
     }))
   );
+
+  console.dir(featured);
 
   return (
     <Layout>
@@ -90,7 +103,7 @@ const IndexPage = ({ data }) => {
       </Container>
     </Layout>
   );
-};
+}
 
 IndexPage.propTypes = {
   data: PropTypes.object.isRequired
@@ -123,14 +136,11 @@ export const query = graphql`
 
     allFile(filter: { relativeDirectory: { eq: "featured" } }) {
       nodes {
+        relativePath
         childImageSharp {
-          fluid(maxWidth: 600) {
-            ...GatsbyImageSharpFluid
-          }
+          gatsbyImageData(layout: CONSTRAINED, width: 800)
         }
       }
     }
   }
 `;
-
-export default IndexPage;
