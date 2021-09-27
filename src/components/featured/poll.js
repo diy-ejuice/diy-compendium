@@ -1,4 +1,3 @@
-import Img from 'gatsby-image';
 import PropTypes from 'prop-types';
 import { Row, Col } from 'react-bootstrap';
 
@@ -6,9 +5,7 @@ export default function FeaturedPoll({ image, title, url }) {
   return (
     <Row>
       <Col md={1}></Col>
-      <Col md={5}>
-        <Img fluid={image} />
-      </Col>
+      <Col md={5}>{image}</Col>
       <Col md={5}>
         <div className="mt-5">
           <a href={url} target="_blank" rel="noopener noreferrer">
@@ -23,7 +20,7 @@ export default function FeaturedPoll({ image, title, url }) {
 }
 
 FeaturedPoll.propTypes = {
-  image: PropTypes.object,
+  image: PropTypes.node,
   title: PropTypes.string.isRequired,
   url: PropTypes.string.isRequired
 };
