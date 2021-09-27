@@ -6,11 +6,9 @@ title: 'Quick Start'
 
 The answer to almost all basic questions and more can be found in one of the links below or with a quick [**search**](http://link.diyejuice.org/search).
 
----
-
 If you want an answer in real time there are hundreds of mixers hanging out on our official discord server, at every level of mixing ability, and from all around the world.
 
-## [DIY DISCORD](http://link.diyejuice.org/discord)
+**Join the [DIY Discord!](http://link.diyejuice.org/discord)**
 
 If you're about to place your first order (or even your twenty-fifth) hop in **#check-my-order-please** to get suggestions on things you might have forgotten, a better version of a flavor you're about to get, or just a "looks good" to help ease your mind before checking out.
 
@@ -20,30 +18,25 @@ Come say "Hi" :)
 
 ---
 
-## Resources/Guides
+## Getting Started
 
-[Beginner's Guide To Making E-Liquid](http://link.diyejuice.org/begin)
-
-> A relatively quick video (34:14) that covers almost everything you need to know to get started
-
-### [Wiki/FAQ Index](http://link.diyejuice.org/2)
-
-### [**Search**](http://link.diyejuice.org/search)
-
-> This is a custom google search made for the subreddit. It will give you more relevant results than Reddit's search.
-
-### [DIY Beginners Guide](http://link.diyejuice.org/3)
-
-- [Why DIY?](http://link.diyejuice.org/why)
-- [Essential Equipment](http://link.diyejuice.org/essential)
-- [First Order Flavors](http://link.diyejuice.org/6)
+- [Getting Started - Equipment](/faq/getting-started/)
+- [FAQ - Mixing by Weight](/faq/mixing-by-weight/)
+- [First Order Flavors](/flavors/first-order)
 - [First Time DIY Kits](http://link.diyejuice.org/kits)
-- [How to mix your first bottle](http://link.diyejuice.org/first)
-- [Videos on getting started](http://link.diyejuice.org/video)
-- [How to mix your first bottle by weight](http://link.diyejuice.org/weight)
 - [Simple DiY Example and Price Breakdown](http://link.diyejuice.org/simple) and [The Cost of Low Quantity](http://link.diyejuice.org/cost)
 - [Things You Won't Know You Missed Until You Need Them](http://link.diyejuice.org/missed)
 - [Mixing Math for Dummies](http://link.diyejuice.org/math)
+
+## Finding More Info
+
+Search the following places for information before posting to the subreddit:
+
+### [Wiki/FAQ Index](http://link.diyejuice.org/2)
+
+### [Subreddit Search](http://link.diyejuice.org/search)
+
+> This is a custom google search made for the subreddit. It will give you more relevant results than Reddit's search.
 
 ### [**List of Vendors**](http://link.diyejuice.org/4)
 
