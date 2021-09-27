@@ -14,7 +14,7 @@ const MarkdownPage = ({ data }) => {
   const {
     markdownRemark: {
       html,
-      frontmatter: { title, description }
+      frontmatter: { author, title, description }
     }
   } = data;
 
@@ -23,6 +23,25 @@ const MarkdownPage = ({ data }) => {
       <SEO title={title} description={description} />
       <Container>
         <Row>
+          {title && (
+            <Col md="12">
+              <h1>{title}</h1>
+            </Col>
+          )}
+          {author && (
+            <Col md="12">
+              <h2 className="mt-0 mb-4">
+                by{' '}
+                <a
+                  href={`https://reddit.com/user/${author}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  /u/{author}
+                </a>
+              </h2>
+            </Col>
+          )}
           <Col md="12" dangerouslySetInnerHTML={{ __html: html }} />
         </Row>
       </Container>
@@ -44,8 +63,9 @@ export const pageQuery = graphql`
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       html
       frontmatter {
-        path
+        author
         title
+        description
       }
     }
   }
