@@ -22,7 +22,7 @@ The quality of the ingredients has a big impact on the experience. Both PG and V
 
 **Bottles** &mdash; Starting out, you'll want a handful of 10 ml bottles for testing recipes and flavors. This is considered the smallest possible size for accuracy, without wasting too much on failed experiments. Some larger bottles such as 30/60/100 ml will come in handy when you've found recipes you enjoy. LDPE is the most convenient material as it is soft and easy to squeeze.
 
-**Measuring** &mdash; A scale with 0.01 gram accuracy is necessary, and a 500 gram capacity will cover most of your mixing needs. Something in the \$15-30 range will do, but avoid those with auto shut-off if possible. While you can measure by volume too, it is much more of a hassle and will save neither time nor money.
+**Measuring** &mdash; [A scale](../supplies/scales/) with 0.01 gram accuracy is necessary, and a 500 gram capacity will cover most of your mixing needs. Something in the \$15-30 range will do, but avoid those with auto shut-off if possible. While you can measure by volume too, it is much more of a hassle and will save neither time nor money.
 
 **Pipettes** &mdash; Small disposable plastic pipettes may come in handy as some flavor concentrates come in bottles without drop tips.
 

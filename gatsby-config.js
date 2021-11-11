@@ -78,6 +78,16 @@ module.exports = {
       }
     },
     {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'reviews',
+        path: `${__dirname}/src/reviews`
+      }
+    },
+    'gatsby-transformer-json',
+    'gatsby-transformer-sharp',
+    'gatsby-plugin-sharp',
+    {
       resolve: 'gatsby-plugin-manifest',
       options: manifestOptions
     },

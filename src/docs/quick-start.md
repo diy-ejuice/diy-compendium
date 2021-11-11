@@ -32,13 +32,25 @@ Come say "Hi" :)
 
 Search the following places for information before posting to the subreddit:
 
-### [Wiki/FAQ Index](http://link.diyejuice.org/2)
+### [Wiki/FAQ Index](http://link.diyejuice.org/wiki)
 
 ### [Subreddit Search](http://link.diyejuice.org/search)
 
 > This is a custom google search made for the subreddit. It will give you more relevant results than Reddit's search.
 
-### [**List of Vendors**](http://link.diyejuice.org/4)
+### DIY Beginners Guide:
+
+- [Why DIY?](/faq/why-diy)
+- [Essential Equipment](/faq/getting-started)
+- [First Order Flavors](/flavors/first-order)
+- [How to mix your first bottle](http://link.diyejuice.org/first)
+- [Videos on getting started](/media/videos)
+- [How to mix your first bottle by weight](http://link.diyejuice.org/weight)
+- [Simple DIY Example and Price Breakdown](http://link.diyejuice.org/simple) and [The Cost of Low Quantity](http://link.diyejuice.org/cost)
+- [Things You Won't Know You Missed Until You Need Them](http://link.diyejuice.org/missed)
+- [Mixing Math for Dummies](http://link.diyejuice.org/math)
+
+### [**List of Vendors**](/supplies/vendor-list)
 
 > This list covers most of the commonly used vendors and shows which DIY supplies they have available. Vendor reviews are posted weekly and linked in this list next to the vendor. If you have a vendor you're interested in, check the reviews. And if you have an experience with a vendor you'd like to share, post it in their review thread.
 
@@ -56,13 +68,13 @@ Search the following places for information before posting to the subreddit:
 
 ### [**Starting Percentages**](http://link.diyejuice.org/starting)
 
-> A growing list of flavors, notes, and starting percentages maintained and updated by [/u/vishousness](https://www.reddit.com/u/vishousness)[[+13]](javascript:void 0)
+> A growing list of flavors, notes, and starting percentages maintained and updated by [/u/vishousness](https://www.reddit.com/u/vishousness)
 
-### [**Troubleshooting Harsh Juice**](http://link.diyejuice.org/5)
+### [**Troubleshooting Harsh Juice**](http://link.diyejuice.org/harsh)
 
 > If your juice is harsh, it's likely one of the reasons listed in this guide.
 
-### [**Flavor Reviews**](http://link.diyejuice.org/8)
+### [**Flavor Reviews**](/flavors/reviews)
 
 > With well over 1,000 reviews and more being added all the time, if you've got your eye on a flavor or have a flavor on hand and want to learn more about how to use it or where to start, chances are it has been reviewed.
 
@@ -107,29 +119,17 @@ Where one Frequently Asked Question is covered as comprehensively as possible.
 
 ## Recurring Threads ([Archive](https://www.reddit.com/r/DIY_eJuice/wiki/weekly_monthly_threads))
 
-### Monday
-
 - [**DIY Digest**](http://link.diyejuice.org/hlwiki) - A Weekly Thread where the best posts, comments, and DIY-related content from last week are highlighted.
 
-### Tuesday
+- [**Flavor of The Week**](http://link.diyejuice.org/faqfotw) - Every week the community gathers to discuss one flavor category and share recipes, notes, ideas, advice, pairings and more. After that the [Noted](http://link.diyejuice.org/noted) crew ([/u/ID10-T](https://www.reddit.com/u/ID10-T), [/u/mlNikon](https://www.reddit.com/u/mlNikon) &amp; [/u/CheebaSteeba](https://www.reddit.com/u/CheebaSteeba)) try as many flavors in that category as they can and discuss their impressions, opinions and notes.
 
-- [**Flavor of The Week**](http://link.diyejuice.org/faqfotw) - Every week the community gathers to discuss one flavor category and share recipes, notes, ideas, advice, pairings and more. After that the [Noted](http://link.diyejuice.org/noted) crew ([/u/ID10-T](https://www.reddit.com/u/ID10-T)[[+547]](javascript:void 0), [/u/mlNikon](https://www.reddit.com/u/mlNikon)[[+80]](javascript:void 0) &amp; [/u/CheebaSteeba](https://www.reddit.com/u/CheebaSteeba)) try as many flavors in that category as they can and discuss their impressions, opinions and notes.
-- [**Vendor Reviews**](http://link.diyejuice.org/4) - Each week a new review thread is posted for vendors on the list.
 - [**Tutorial Tuesday**](http://link.diyejuice.org/tuesday) - A quick and conversational guide on various aspects of DIY.
-
-### Wednesday
 
 - [**Weekly ‘What are you Vaping?' Thread**](http://link.diyejuice.org/wayv) - Talk about the latest recipes you've mixed up whether they're yours or someone else's, finished or works in progress. Share your success or get ideas on what to do next.
 
-### Thursday
-
 - [**Weekly: Single Flavors You've Tried**](http://link.diyejuice.org/sft) - A nice place to gather and talk about whatever individual concentrates you've happened to try recently. Share your impressions on the flavors or jump in and ask a question about a flavor someone else has shared.
 
-### Friday
-
 - [**Weekly ‘Suggest a Recipe for my Flavors' Thread**](http://link.diyejuice.org/suggest) - You picked a bunch of flavors that either sounded good or were in recipes that looked good but now you want more ideas for what to do with them? Post a list of your flavors and get suggestions for recipes or flavors that would complement your current stash and expand your recipe making possibilities.
-
-### Sunday
 
 - [**Hot Seat Sunday**](http://link.diyejuice.org/hot) - An AMA (Ask Me Anything) thread where this week's "victim" gets to choose the next person to sit in the hot seat and answer all your questions.
 
