@@ -1,4 +1,5 @@
 const { resolve } = require('path');
+const { getReviewUrl } = require('./src/utils');
 
 const createMarkdownPages = async ({ actions, graphql, reporter }) => {
   const component = resolve('src/components/markdown/page.js');
@@ -58,9 +59,58 @@ const createMarkdownPages = async ({ actions, graphql, reporter }) => {
 
   reporter.info(`Created ${counter} markdown pages!`);
 };
+const createReviewPages = async ({ actions, graphql, reporter }) => {
+  const component = resolve('src/components/review.js');
+  const { createPage } = actions;
+  const result = await graphql(`
+    query {
+      allReviewsJson {
+        edges {
+          node {
+            title
+            vendor {
+              name
+              code
+            }
+          }
+        }
+      }
+    }
+  `);
+
+  if (result.errors) {
+    reporter.panicOnBuild('Error while running GraphQL markdown query.');
+    return;
+  }
+
+  let counter = 0;
+
+  result.data.allReviewsJson.edges.forEach(({ node }) => {
+    const {
+      title,
+      vendor: { code }
+    } = node;
+    const path = getReviewUrl(node);
+
+    reporter.info(`creating page @ ${path}`);
+
+    counter++;
+    createPage({
+      context: {
+        code,
+        title
+      },
+      component,
+      path
+    });
+  });
+
+  reporter.info(`Created ${counter} review pages!`);
+};
 
 exports.createPages = async (options) => {
   await createMarkdownPages(options);
+  await createReviewPages(options);
 };
 
 exports.onCreateWebpackConfig = ({ actions }) => {

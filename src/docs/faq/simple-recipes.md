@@ -4,6 +4,14 @@ slug: 'simple-recipes'
 title: 'FAQ - Simple Recipes'
 ---
 
+# Simple Recipes
+
+- [What Is A Simple Recipe](#what-is-a-simple-recipe)
+- [Developing A Simple Recipe](#developing-a-simple-recipe)
+- [Simple Recipe Examples](#simple-recipe-examples)
+- [1-2-3 Recipes](#1-2-3-recipes)
+- [Simple Recipe Threads](#simple-recipe-threads)
+
 ## What Is A Simple Recipe
 
 Most define a simple recipe as a recipe with at least two, but not more than four, flavor concentrates in it. Their appeal includes not only just being quicker and easier to make but also often having superior flavor. Just because a recipe looks simple, doesn't mean it tastes simple, sometimes it can be far from that. Heres two Examples

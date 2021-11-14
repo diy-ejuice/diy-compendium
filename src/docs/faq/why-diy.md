@@ -4,7 +4,25 @@ slug: 'why-diy'
 title: 'FAQ - Why DIY?'
 ---
 
-## Is DIY For You
+- [Why DIY](#why-diy)
+  - [Is DIY For You?](#is-diy-for-you)
+  - [Why Do You Want to DIY Anyway](#why-do-you-want-to-diy-anyway)
+    - ["I want to Save Money."](#i-want-to-save-money)
+    - ["I Want to Know What's In My Juice."](#i-want-to-know-whats-in-my-juice)
+    - ["Nobody Makes the Flavor I Want."](#nobody-makes-the-flavor-i-want)
+    - ["I Want to Open a Commercial Line of E Juice."](#i-want-to-open-a-commercial-line-of-e-juice)
+    - ["I'm concerned that the government may seize the means to acquire nicotine or flavorings!"](#im-concerned-that-the-government-may-seize-the-means-to-acquire-nicotine-or-flavorings)
+    - ["It Sounds Fun."](#it-sounds-fun)
+    - ["It looks easy."](#it-looks-easy)
+  - [What Are the Downsides of DIY](#what-are-the-downsides-of-diy)
+    - [DIY Requires Handling Hazardous Chemicals](#diy-requires-handling-hazardous-chemicals)
+    - [DIY = Lots of New Stuff](#diy--lots-of-new-stuff)
+    - [DIY Requires Patience](#diy-requires-patience)
+  - [TL;DR](#tldr)
+
+# Why DIY
+
+## Is DIY For You?
 
 It's easy for us to tell you, "You can save a lot of money making your own e-liquid", but it's not that simple. DIY takes some upfront capital, lots of experimentation, sometimes multiple orders from multiple suppliers, failures, handling hazardous materials, and patience. First you should probably figure out exactly why you want to make your own e-liquid.
 
@@ -14,8 +32,7 @@ There are lots of reasons, and none of them are exactly bad, but some of them ma
 
 ### "I want to Save Money."
 
-It's true that finished DIY juice is usually cheaper by volume than even the most basic of commercial juice. I say "usually" because it's possible to pick up some truly awful stuff at $0.10/ml, and a juice using a lot of expensive flavorings can easily go over $0.20/ml. Granted the expensive stuff "should" taste better, but taste is subjective and maybe it doesn't matter that much to you.
-
+It's true that finished DIY juice is cheaper by volume than even the most basic of commercial juice.
 However, the combined cost for your super-awesome homemade super inexpensive e-liquid isn't the whole story. You need to spend money upfront, sometimes hundreds of dollars on flavors, nic, bottles, labels, safety equipment (goggles, gloves, etc) and either volumetric (syringes, pipettes, etc) or weight mixing (scale) equipment&hellip; all the things that you'll find elsewhere in this wiki, and then some. And then there's the cost of the juices that fail completely, the stuff you spill, the stuff you give away to your friends because you need feedback, etc. etc.
 
 It will pay off&hellip; eventually. If you're really curious, calculate the amount you spend per week on juice, compare that to the money you're going to spend to start up, and see how long it takes to get your money back. If you're super-budget conscious and spend $15 a week on liquid and your initial hardware capital (mixing stuff, etc.) costs you $40 and your juice cost is about $0.10/ml, it should take you about 3.5 weeks to recoup your costs. That's not always true, of course, since you will likely vape more on flavor tests and the like, and it doesn't quite cover the investment in bulk liquids you made. If your total outlay including flavors and nic base is closer to $200, it's more like 15 weeks. Still a good deal, but it's not the instant savings many imagine it to be.
@@ -36,7 +53,7 @@ Not to say that it can't be done, but making a juice that has mass appeal, or ev
 
 ### "I'm concerned that the government may seize the means to acquire nicotine or flavorings!"
 
-It seems more likely that nic may become more expensive as it becomes more regulated. The proposed nicotine tax bill is evidence of this.A bigger concern might be the unavailability of your favorite juice provider(s) due to increased compliance costs. Fortunately, nicotine base is relatively inexpensive, for the time being, and will last in brown glass in the freezer for several years at the very least, and you don't use all that much. Keep an eye out for nicotine sales from vendors who aren't terrible and take a shot. Another side note here; if you're in the USA the FDA is attempting to regulate flavored tobacco products and flavored e-liquid unfortunately falls into this category. It seems unlikely that the multi-use flavorings that we use will be outright banned, but prices or taxes on them may very well increase.
+It seems more likely that nic may become more expensive as it becomes more regulated. The proposed nicotine tax bill is evidence of this. A bigger concern might be the unavailability of your favorite juice provider(s) due to increased compliance costs. Fortunately, nicotine base is relatively inexpensive, for the time being, and will last in brown glass in the freezer for several years at the very least, and you don't use all that much. Keep an eye out for nicotine sales from vendors who aren't terrible and take a shot. Another side note here; if you're in the USA the FDA is attempting to regulate flavored tobacco products and flavored e-liquid unfortunately falls into this category. It seems unlikely that the multi-use flavorings that we use will be outright banned, but prices or taxes on them may very well increase.
 
 ### "It Sounds Fun."
 
@@ -68,5 +85,5 @@ Bottom line is: DIY may or may not be for you. If you're in a living situation w
 
 However, for those of us who want to know what goes into our juice, and those with an eye toward experimental flavor combinations, this may be right for you.You can save up for the initial investment, start keeping careful records, and even if you don't create a recipe that is out of this world, you will have the satisfaction of vaping something you created, something you can tweak to your liking, something that's better than most of the commercial stuff on the market. And even if it's only "as good," it costs you a tiny fraction of what it would in a store, and to me that automatically makes it better."
 
-> _This is not my original article at all. It was originally written by_ [/u/muranternet](https://www.reddit.com/u/muranternet/) _and still contains quite a bit of the initial material. It underwent a recent "remix" by_ [/u/RockyHarlow](https://www.reddit.com/u/RockyHarlow/)_. I added that update not with my own ideas, but with suggestions by_ [/u/brrrbrbr](https://www.reddit.com/u/brrrbrbr/)_,_ [/u/juthinc](https://www.reddit.com/u/juthinc/)_,_ [/u/ReeferCheefer](https://www.reddit.com/u/ReeferCheefer/)_,_ [/u/ChemicalBurnVictim](https://www.reddit.com/u/ChemicalBurnVictim/)_, and_ [/u/INTERLINKED](https://www.reddit.com/u/INTERLINKED/)_, and others. I'm posting it here for easier linking to the wiki/beginner's guide._
+> _This article was originally written by_ [/u/muranternet](https://www.reddit.com/u/muranternet/) _and still contains quite a bit of the initial material. It underwent a recent "remix" by_ [/u/RockyHarlow](https://www.reddit.com/u/RockyHarlow/)_. It was later updated with suggestions by_ [/u/brrrbrbr](https://www.reddit.com/u/brrrbrbr/)_,_ [/u/juthinc](https://www.reddit.com/u/juthinc/)_,_ [/u/ReeferCheefer](https://www.reddit.com/u/ReeferCheefer/)_,_ [/u/ChemicalBurnVictim](https://www.reddit.com/u/ChemicalBurnVictim/)_, and_ [/u/INTERLINKED](https://www.reddit.com/u/INTERLINKED/)_, and others._
 > ~ID10-T

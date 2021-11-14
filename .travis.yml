@@ -1,7 +1,7 @@
 language: node_js
 os: linux
 node_js:
-  - stable
+  - 16
 deploy:
   provider: pages
   skip_cleanup: true

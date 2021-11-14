@@ -85,7 +85,7 @@ export default function Footer() {
               <li>
                 <a
                   className="text-muted"
-                  href="http://link.diyejuice.org/discord"
+                  href="http://discord.gg/ejuice"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

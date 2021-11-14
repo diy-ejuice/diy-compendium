@@ -135,7 +135,7 @@ const Flavors = () => (
     <NavDropdown.Item as={Link} to="/flavors/flavor-of-the-week">
       Flavor of the Week
     </NavDropdown.Item>
-    <NavDropdown.Item as={Link} to="/flavors/reviews">
+    <NavDropdown.Item as={Link} to="/reviews">
       Reviews
     </NavDropdown.Item>
     <NavDropdown.Item as={Link} to="/flavors/notes">
@@ -236,7 +236,7 @@ export default function Header({ siteTitle = '' }) {
             </Button>
           </Nav.Link>
           <Nav.Link
-            href="http://link.diyejuice.org/discord"
+            href="http://discord.gg/ejuice"
             target="_blank"
             rel="noopener noreferrer"
           >
