@@ -8,7 +8,7 @@ The answer to almost all basic questions and more can be found in one of the lin
 
 If you want an answer in real time there are hundreds of mixers hanging out on our official discord server, at every level of mixing ability, and from all around the world.
 
-**Join the [DIY Discord!](http://link.diyejuice.org/discord)**
+**Join the [DIY Discord!](http://discord.gg/ejuice)**
 
 If you're about to place your first order (or even your twenty-fifth) hop in **#check-my-order-please** to get suggestions on things you might have forgotten, a better version of a flavor you're about to get, or just a "looks good" to help ease your mind before checking out.
 

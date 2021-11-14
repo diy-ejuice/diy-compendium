@@ -236,7 +236,7 @@ export default function Header({ siteTitle = '' }) {
             </Button>
           </Nav.Link>
           <Nav.Link
-            href="http://link.diyejuice.org/discord"
+            href="http://discord.gg/ejuice"
             target="_blank"
             rel="noopener noreferrer"
           >
