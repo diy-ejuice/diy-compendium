@@ -1,12 +1,12 @@
-import React, { Fragment } from 'react';
+import { Fragment } from 'react';
 import { graphql, Link } from 'gatsby';
 import PropTypes from 'prop-types';
 import { Container, Row, Col, ListGroup, ListGroupItem } from 'react-bootstrap';
 
-import SEO from '~components/seo';
-import NotFoundPage from '~pages/404';
-import Layout from '~components/layout';
-import { getReviewUrl } from '~utils';
+import SEO from 'components/seo';
+import NotFoundPage from 'pages/404';
+import Layout from 'components/layout';
+import { getReviewUrl } from 'utils';
 
 const ReviewsPage = ({ data }) => {
   if (!data || !data.allReviewsJson) {
@@ -27,8 +27,6 @@ const ReviewsPage = ({ data }) => {
 
     reviews.get(code).push(node);
   }
-  // eslint-disable-next-line
-  console.dir(vendors);
 
   return (
     <Layout>
