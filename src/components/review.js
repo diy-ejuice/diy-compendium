@@ -1,12 +1,11 @@
-import React from 'react';
 import { graphql } from 'gatsby';
 import PropTypes from 'prop-types';
 import { Container, Row, Col } from 'react-bootstrap';
 import ReactMarkdown from 'react-markdown';
 
-import SEO from '~components/seo';
-import NotFoundPage from '~pages/404';
-import Layout from '~components/layout';
+import SEO from 'components/seo';
+import NotFoundPage from 'pages/404';
+import Layout from 'components/layout';
 
 const ReviewPage = ({ data }) => {
   if (!data || !data.reviewsJson) {
