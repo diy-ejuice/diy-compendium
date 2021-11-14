@@ -135,7 +135,7 @@ const Flavors = () => (
     <NavDropdown.Item as={Link} to="/flavors/flavor-of-the-week">
       Flavor of the Week
     </NavDropdown.Item>
-    <NavDropdown.Item as={Link} to="/flavors/reviews">
+    <NavDropdown.Item as={Link} to="/reviews">
       Reviews
     </NavDropdown.Item>
     <NavDropdown.Item as={Link} to="/flavors/notes">
