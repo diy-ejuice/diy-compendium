@@ -4,7 +4,7 @@ slug: 'vendor-list'
 title: 'Supplies - Vendor List'
 ---
 
-**NOTE: Vendors are listed alphabetically, not in order of preference**
+### NOTE: Vendors are listed alphabetically, not in order of preference
 
 Inclusion on this list is in no way an endorsement, nor an indication of vendor quality. Do your research, check reviews, and ask in the Weekly discussion thread. Vendor review threads will be posted weekly and updated after 6 months. If you see a vendor without a review thread feel free to request it in the [FAQ thread](http://link.diyejuice.org/questions) or by [sending a message to the mods](https://www.reddit.com/message/compose/?to=/r/DIY_eJuice).
 
@@ -14,43 +14,45 @@ Vendors who sell most or all of the things you need to get started in DIY. Below
 
 |                        Vendor                         | Location | Nic | VG/PG | Supplies[^supplies] | Flavors | Oneshots[^oneshots] |         Vendor Review          |
 | :---------------------------------------------------: | :------: | :-: | :---: | :-----------------: | :-----: | :-----------------: | :----------------------------: |
-|    [The Broke Vaper](http://link.diyejuice.org/24)    |    CA    | ✅  |  ✅   |         ✅          |   ✅    |         ✅          | [Link](https://redd.it/aiog4n) |
-|       [BestGlycol](https://www.bestglycol.com/)       |    CA    |     |  ✅   |                     |   ✅    |                     |                                |
+|    [The Broke Vaper](https://thebrokevaper.ca/)       |    CA    | ✅  |  ✅   |         ✅          |   ✅    |         ✅          | [Link](https://redd.it/aiog4n) |
+|       [BestGlycol](https://www.bestglycol.com/)       |    CA    |     |  ✅   |         ✅          |   ✅    |                     |                                |
 | [Bull City Flavors](https://www.bullcityflavors.com/) |    US    |     |  ✅   |         ✅          |   ✅    |                     | [Link](https://redd.it/ghol5i) |
-|        [Canvape](http://link.diyejuice.org/25)        |    CA    |     |  ✅   |         ✅          |   ✅    |                     |                                |
-|   [Chefs Flavors](https://www.chefsflavours.co.uk/)   |    UK    |     |  ✅   |         ✅          |   ✅    |         ✅          | [Link](https://redd.it/advlcf) |
-|    [DarkStar Vapour](http://link.diyejuice.org/26)    |    UK    | ✅  |  ✅   |         ✅          |   ✅    |         ✅          | [Link](https://redd.it/aq9qqh) |
-|       [DashVapes](http://link.diyejuice.org/27)       |    CA    |     |  ✅   |         ✅          |   ✅    |                     |                                |
+|        [Canvape](https://www.canvape.com/)            |    CA    | ✅  |  ✅   |         ✅          |   ✅    |                     |                                |
+|   [Chefs Flavors](https://www.chefsflavours.co.uk/)   |    UK    | ✅  |  ✅   |         ✅          |   ✅    |         ✅          | [Link](https://redd.it/advlcf) |
+|    [DarkStar Vapour](https://darkstar.co.uk/)         |    UK    | ✅  |  ✅   |         ✅          |   ✅    |         ✅          | [Link](https://redd.it/aq9qqh) |
+|       [DashVapes](https://www.dashvapes.com/)         |    CA    | ✅  |  ✅   |         ✅          |   ✅    |                     |                                |
 |        [Delosi Labs](https://delosilabs.com/)         |    US    |     |  ✅   |         ✅          |   ✅    |                     |                                |
 |       [DIY-Ejuice](https://www.diy-ejuice.com/)       |    CA    | ✅  |  ✅   |         ✅          |   ✅    |         ✅          | [Link](https://redd.it/eolycq) |
-|    [DIYVaporSupply](http://link.diyejuice.org/28)     |    US    |     |  ✅   |         ✅          |   ✅    |                     | [Link](https://redd.it/e5hkq6) |
-|   [DIY Flavor Shack](http://link.diyejuice.org/29)    |    US    |     |  ✅   |         ✅          |   ✅    |         ✅          | [Link](https://redd.it/boisk0) |
-|         [E-Liq](http://link.diyejuice.org/31)         |    US    |     |  ✅   |         ✅          |   ✅    |                     |                                |
+|    [DIYVaporSupply](https://www.diyvaporsupply.com/)  |    US    |     |  ✅   |         ✅          |   ✅    |                     | [Link](https://redd.it/e5hkq6) |
+|   [DIY Flavor Shack](http://www.diyflavorshack.com/)  |    US    |     |  ✅   |         ✅          |   ✅    |         ✅          | [Link](https://redd.it/boisk0) |
+|    [Driphacks](https://www.driphacks.com/)            |    UK    | ✅  |  ✅   |         ✅          |   ✅    |         ✅          |
+|
 |       [EuroFlavor](https://www.euroflavor.com/)       |    US    |     |  ✅   |                     |   ✅    |                     | [Link](https://redd.it/414rke) |
-|   [Everything Liquid](http://link.diyejuice.org/32)   |    UK    | ✅  |  ✅   |         ✅          |   ✅    |         ✅          |                                |
+|  [Everything Liquid](https://everythingliquid.co.uk/) |    UK    | ✅  |  ✅   |         ✅          |   ✅    |         ✅          |                                |
 |        [Flavour Fog](https://flavourfog.com/)         |    CA    |     |  ✅   |         ✅          |   ✅    |                     |                                |
-|     [Flavor Jungle](http://link.diyejuice.org/30)     |    US    |     |       |         ✅          |   ✅    |         ✅          | [Link](https://redd.it/g92mvm) |
+|     [Flavor Jungle](https://flavorjungle.com/)        |    US    |     |       |         ✅          |   ✅    |         ✅          | [Link](https://redd.it/g92mvm) |
 |     [Flavours River](https://flavoursriver.com/)      |    SA    |     |  ✅   |         ✅          |   ✅    |         ✅          |                                |
-|    [Flavours To Go](http://link.diyejuice.org/33)     |    CA    | ✅  |  ✅   |         ✅          |   ✅    |                     |                                |
+|    [Flavours To Go](https://flavourstogo.ca/)         |    CA    | ✅  |  ✅   |         ✅          |   ✅    |                     |                                |
 |   [Flavour World](https://www.flavourworld.com.au/)   |    AU    |     |  ✅   |         ✅          |   ✅    |         ✅          |                                |
-|    [Fusion Flavours](http://link.diyejuice.org/34)    |    CA    | ✅  |  ✅   |         ✅          |   ✅    |                     |                                |
-|    [Gremberry Farms](https://gremberryfarms.com/)     |    US    |     |  ✅   |         ✅          |   ✅    |         ✅          | [Link](https://redd.it/g4wt9e) |
-|    [Heartland Vapes](http://link.diyejuice.org/35)    |    US    |     |  ✅   |         ✅          |   ✅    |                     | [Link](https://redd.it/b08ko6) |
-|    [Infinite Vaper](http://link.diyejuice.org/36)     |    CA    | ✅  |  ✅   |         ✅          |   ✅    |         ✅          |                                |
-|    [Jean Cloud Vape](http://link.diyejuice.org/37)    |    CA    | ✅  |  ✅   |         ✅          |   ✅    |         ✅          |                                |
+|    [Fusion Flavours](https://www.fusionflavours.ca/)  |    CA    | ✅  |  ✅   |         ✅          |   ✅    |                     |                                |
+|    [Gremberry Farms](https://gremberryfarms.com/)     |    US    |     |        |                     |   ✅    |         ✅          | [Link](https://redd.it/g4wt9e) |
+|    [Heartland Vapes](https://heartlandvapes.com/)     |    US    | ✅  |  ✅   |                     |         |                     | [Link](https://redd.it/b08ko6) |
+|    [Hempnetix](https://www.hempnetix.com/)            |    US    |     |       |         ✅          |   ✅    |                     | [Link](https://redd.it/b08ko6) |
+|    [Infinite Vaper](https://infinitevapor.com/)       |    CA    | ✅  |  ✅   |         ✅          |   ✅    |         ✅          |                                |
+|    [Jean Cloud Vape](https://jeancloudvape.com/)      |   CA    | ✅  |  ✅   |         ✅          |   ✅    |         ✅          |                                |
 |   [Juice Factory](http://www.juicefactory.com.au/)    |    AU    |     |  ✅   |         ✅          |   ✅    |         ✅          |
-|      [Liquid Barn](http://link.diyejuice.org/38)      |    US    |     |  ✅   |         ✅          |   ✅    |         ✅          | [Link](https://redd.it/dyk2y0) |
-|      [Lubrisolve](http://link.diyejuice.org/40)       |    UK    | ✅  |  ✅   |         ✅          |   ✅    |         ✅          |                                |
-|        [NomNomz](http://link.diyejuice.org/42)        |    UK    | ✅  |  ✅   |         ✅          |   ✅    |         ✅          | [Link](https://redd.it/bzbvre) |
+|      [Liquid Barn](https://www.liquidbarn.com/)       |    US    |     |  ✅   |         ✅          |   ✅    |         ✅          | [Link](https://redd.it/dyk2y0) |
+|      [Lubrisolve](https://www.lubrisolve.com/)        |    UK    | ✅  |  ✅   |         ✅          |   ✅    |         ✅          |                                |
+|        [NomNomz](https://nomnomz.co.uk/)              |    UK    |     |  ✅   |         ✅          |   ✅    |         ✅          | [Link](https://redd.it/bzbvre) |
 |       [OSDIY](https://www.onestopdiyshop.com/)        |    US    |     |  ✅   |         ✅          |   ✅    |         ✅          | [Link](https://redd.it/b2x4hz) |
-|     [RainbowVapes](http://link.diyejuice.org/43)      |    UK    | ✅  |  ✅   |         ✅          |   ✅    |         ✅          | [Link](https://redd.it/ax8ecz) |
+|     [RainbowVapes](https://www.rainbowvapes.co.uk/)   |    UK    | ✅  |  ✅   |         ✅          |   ✅    |         ✅          | [Link](https://redd.it/ax8ecz) |
 |       [SaVapeur](https://shop.savapeur.com/en)        |    CA    |     |  ✅   |         ✅          |   ✅    |                     |                                |
 |    [The Steamery](https://www.thesteamery.com.au/)    |    AU    |     |  ✅   |         ✅          |   ✅    |                     |                                |
 |       [Theravape](https://diyvapesupplies.ca/)        |    CA    |     |  ✅   |         ✅          |   ✅    |                     |                                |
-|        [Vapable](http://link.diyejuice.org/44)        |    UK    | ✅  |  ✅   |         ✅          |   ✅    |         ✅          | [Link](https://redd.it/bwolag) |
+|        [Vapable](https://vapable.com/)                |    UK    | ✅  |  ✅   |         ✅          |   ✅    |         ✅          | [Link](https://redd.it/bwolag) |
 |       [VapourEyes](https://vapoureyes.com.au/)        |    AU    |     |  ✅   |         ✅          |   ✅    |                     |                                |
-|      [VapourDepot](http://link.diyejuice.org/46)      |    UK    |     |  ✅   |         ✅          |   ✅    |         ✅          | [Link](https://redd.it/a7g8c8) |
-|      [Wizard Labs](http://link.diyejuice.org/23)      |    US    |     |  ✅   |         ✅          |   ✅    |         ✅          | [Link](https://redd.it/b5rni6) |
+|      [VapourDepot](https://vapourdepot.com/)          |    UK    |     |  ✅   |         ✅          |   ✅    |         ✅          | [Link](https://redd.it/a7g8c8) |
+|      [Wizard Labs](https://wizardlabs.us/)            |    US    |     |  ✅   |         ✅          |   ✅    |         ✅          | [Link](https://redd.it/b5rni6) |
 
 ## Nicotine Suppliers
 
@@ -81,23 +83,22 @@ Most general DIY vendors will sell the standard VG/PG bases, but in small quanti
 | :--------------------------------------------------------------: | :------: | :-: | :-: | :-: | :-: | :----------------------------: |
 |                [Amazon](https://www.amazon.com/)                 |    US    | ✅  | ✅  |     |     |                                |
 |            [Base Drop](https://www.basedrop.com.au/)             |    AU    | ✅  | ✅  |     |     |                                |
-|                        ~~BulkApothecary~~                        |    US    | ❌  |     |     |     |                                |
 |         [EssentialDepot](http://www.essentialdepot.com/)         |    US    | ✅  | ✅  |     |     |                                |
-|           [Liquid Barn](http://link.diyejuice.org/38)            |    US    | ✅  | ✅  | ✅  |     | [Link](https://redd.it/dyk2y0) |
+|           [Liquid Barn](https://www.liquidbarn.com/)             |    US    | ✅  | ✅  | ✅  |     | [Link](https://redd.it/dyk2y0) |
 |             [SaVapeur](https://shop.savapeur.com/en)             |    CA    | ✅  | ✅  | ✅  | ✅  |                                |
 |         [SuperVapeStore](https://supervapestore.com.au/)         |    AU    | ✅  | ✅  |     |     |                                |
-| [VegetableGlycerin AU tralia](http://vegetableglycerine.com.au/) |    AU    | ✅  |     |     |     |                                |
+| [VegetableGlycerin AU](http://vegetableglycerine.com.au/)        |    AU    | ✅  |     |     |     |                                |
 
 ## Bottles
 
-Most DIY vendors carry a small selection of bottles that you CA include in your order, while the vendors listed below will often have a better price when buying larger quantities. For more info check out [FAQ Friday: Bottles](https://redd.it/7y2cs8).
+Most DIY vendors carry a small selection of bottles that you CA include in your order, while the vendors listed below will often have a better price when buying larger quantities. For more info check out [FAQ Friday: Bottles](/supplies/bottles).
 
 |                       Vendor                        | Location |         Vendor Review          |
 | :-------------------------------------------------: | :------: | :----------------------------: |
 |      [510 Central](http://www.510central.com/)      |    US    |                                |
 |    [DropperBottles](https://dropperbottles.com/)    |    US    | [Link](https://redd.it/bu05x6) |
 | [GlassBottleOutlet](https://glassbottleoutlet.com/) |    US    |                                |
-|      [Heartland](http://link.diyejuice.org/35)      |    US    |                                |
+|[Hempnetix](https://www.hempnetix.com/bottles.html)  |    US    |                                |
 |       [iBottles](https://www.ibottles.co.uk/)       |    UK    |                                |
 |     [SKS Bottles](https://www.sks-bottle.com/)      |    US    |                                |
 |     [VapingBottles](https://vapingbottles.com/)     |    UK    |                                |
@@ -110,17 +111,19 @@ Oneshots are basically recipes in a bottle. Instead of using all the flavors ind
 | :---------------------------------------------------: | :------: | :-----------: | :--------------------: | :------------------------: | :----------------------------: |
 |   [ChefsFlavours](https://www.chefsflavours.co.uk/)   |    UK    |     400+      |           ✅           |             ✅             | [Link](https://redd.it/advlcf) |
 | [DIY Flavor Chaser](https://link.diyejuice.org/diyfc) |    CA    |      60       |                        |                            | [Link](https://redd.it/fvyvlh) |
-|       [DripHacks](http://link.diyejuice.org/47)       |    UK    |      44       |           ✅           |                            | [Link](https://redd.it/c57io0) |
-|     [Flavor Jungle](http://link.diyejuice.org/30)     |    US    |      80+      |                        |                            | [Link](https://redd.it/g92mvm) |
+|       [DripHacks](https://www.driphacks.com/)       |    UK    |      44       |           ✅           |                            | [Link](https://redd.it/c57io0) |
+|     [Flavor Jungle](https://flavorjungle.com/)     |    US    |      80+      |                        |                            | [Link](https://redd.it/g92mvm) |
 |      [FlavourBoss](https://flavour-boss.co.uk/)       |    UK    |      60+      |                        |             ✅             |
 |         [Gremlin DIY](http://gremlindiy.com)          |    US    |      23       |                        |                            | [Link](https://redd.it/a9pu7l) |
-|      [Liquid Barn](http://link.diyejuice.org/38)      |    US    |      13       |                        |                            | [Link](https://redd.it/dyk2y0) |
-|        [NomNomz](http://link.diyejuice.org/42)        |    UK    |     140+      |           ✅           |             ✅             | [Link](https://redd.it/bzbvre) |
+|      [Liquid Barn](http://liquidbarn.com)      |    US    |      13       |                        |                            | [Link](https://redd.it/dyk2y0) |
+|        [NomNomz](https://nomnomz.co.uk/)        |    UK    |     140+      |           ✅           |             ✅             | [Link](https://redd.it/bzbvre) |
 | [One Stop DIY Shop](https://www.onestopdiyshop.com/)  |    US    |      40+      |                        |                            | [Link](https://redd.it/b2x4hz) |
-|     [RainbowVapes](http://link.diyejuice.org/43)      |    UK    |     725+      |                        |                            | [Link](https://redd.it/ax8ecz) |
-|      [WizardLabs](http://link.diyejuice.org/23)       |    US    |      27       |                        |                            | [Link](https://redd.it/b5rni6) |
+|     [RainbowVapes](https://www.rainbowvapes.co.uk/)      |    UK    |     725+      |                        |                            | [Link](https://redd.it/ax8ecz) |
+|      [WizardLabs](https://wizardlabs.us/)       |    US    |      27       |                        |                            | [Link](https://redd.it/b5rni6) |
 
 ## Flavor Manufacturers (Direct)
+
+[Check Here](https://alltheflavors.com/vendors) for more Vendors
 
 | Vendor                                                                                                          | Location |
 | --------------------------------------------------------------------------------------------------------------- | -------- |
@@ -138,7 +141,6 @@ Oneshots are basically recipes in a bottle. Instead of using all the flavors ind
 | [LorAnn](https://www.lorannoils.com/)                                                                           | US       |
 | [Molinberry](https://molinberryflavours.com/)                                                                   | PL       |
 | [One On One Flavors](https://www.oooflavors.com/)                                                               | US       |
-| [Real Flavors](https://www.realflavors.com/)                                                                    | US       |
 | [Real Tobacco Extract](http://link.diyejuice.org/48)                                                            | US       |
 | [SolubArome](https://www.solubarome.fr/boutique/)                                                               | FR       |
 | [StixxMixx](https://www.stixxmixx.com/)                                                                         | US       |
