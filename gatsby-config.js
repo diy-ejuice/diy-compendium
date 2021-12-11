@@ -84,6 +84,14 @@ module.exports = {
         path: `${__dirname}/src/reviews`
       }
     },
+    {
+      resolve: 'gatsby-source-pg',
+      options: {
+        connectionString: process.env.NOTED_PG_CONNECTION_STRING,
+        schema: 'public',
+        refetchInterval: 60
+      }
+    },
     'gatsby-transformer-json',
     'gatsby-transformer-sharp',
     'gatsby-plugin-sharp',
