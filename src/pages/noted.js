@@ -1,10 +1,9 @@
 import { graphql } from 'gatsby';
 import PropTypes from 'prop-types';
-import React from 'react';
 import { Container, Table } from 'react-bootstrap';
 
-import Layout from '~components/layout';
-import SEO from '~components/seo';
+import Layout from 'components/layout';
+import SEO from 'components/seo';
 
 export default function NotedPage({ data }) {
   const episodes = data.postgres.allEpisodes.nodes.map((episode) => ({
