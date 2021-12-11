@@ -161,6 +161,9 @@ const Media = () => (
     title={<TitleIcon icon={faYoutube} title="Media" />}
     id="dropdown-media"
   >
+    <NavDropdown.Item as={Link} to="/noted">
+      Noted Episodes
+    </NavDropdown.Item>
     <NavDropdown.Item as={Link} to="/media/videos">
       Videos
     </NavDropdown.Item>
