@@ -37,6 +37,12 @@ const remarkPlugins = [
     }
   },
   {
+    resolve: `gatsby-remark-images`,
+    options: {
+      maxWidth: 800
+    }
+  },
+  {
     resolve: 'gatsby-remark-classes',
     options: {
       classMap: {
