@@ -1,15 +1,14 @@
 {
-  "extends": "stylelint-config-recommended",
   "defaultSeverity": "warning",
-  "plugins": ["stylelint-a11y"],
+  "extends": "stylelint-config-recommended",
   "rules": {
     "at-rule-blacklist": null,
     "at-rule-empty-line-before": [
       "always",
       {
-        "except": [ "blockless-after-blockless", "first-nested" ],
-        "ignore": [ "after-comment" ],
-        "ignoreAtRules": [ "else" ]
+        "except": ["blockless-after-blockless", "first-nested"],
+        "ignore": ["after-comment"],
+        "ignoreAtRules": ["else"]
       }
     ],
     "at-rule-name-case": "lower",
@@ -41,7 +40,7 @@
     "block-closing-brace-newline-after": [
       "always",
       {
-        "ignoreAtRules": [ "else", "if" ]
+        "ignoreAtRules": ["else", "if"]
       }
     ],
     "block-closing-brace-newline-before": "always-multi-line",
@@ -56,19 +55,21 @@
     "color-hex-length": "short",
     "color-named": [
       "never",
-      { "severity": "error" }
+      {
+        "severity": "error"
+      }
     ],
     "color-no-hex": null,
     "color-no-invalid-hex": true,
     "comment-empty-line-before": [
       "always",
       {
-        "ignore": [ "after-comment", "stylelint-commands" ]
+        "ignore": ["after-comment", "stylelint-commands"]
       }
     ],
     "comment-no-empty": true,
     "comment-whitespace-inside": "always",
-    "comment-word-blacklist": [ "/^TODO:/" ],
+    "comment-word-blacklist": ["/^TODO:/"],
     "custom-media-pattern": null,
     "custom-property-empty-line-before": null,
     "custom-property-pattern": null,
@@ -85,7 +86,7 @@
     "declaration-block-trailing-semicolon": [
       "always",
       {
-        "except": [ "single-line" ]
+        "except": ["single-line"]
       }
     ],
     "declaration-colon-newline-after": null,
@@ -95,9 +96,9 @@
     "declaration-no-important": true,
     "declaration-property-unit-blacklist": {},
     "declaration-property-unit-whitelist": {
-      "border": [ "px" ],
+      "border": ["px"],
       "line-height": [],
-      "outline-offset": [ "px" ]
+      "outline-offset": ["px"]
     },
     "declaration-property-value-blacklist": {},
     "declaration-property-value-whitelist": {},
@@ -155,7 +156,7 @@
     "number-max-precision": [
       2,
       {
-        "ignoreUnits": [ "em", "rem" ]
+        "ignoreUnits": ["em", "rem"]
       }
     ],
     "number-no-trailing-zeros": true,
@@ -167,8 +168,8 @@
     "rule-empty-line-before": [
       "always",
       {
-        "except": [ "first-nested" ],
-        "ignore": [ "after-comment" ]
+        "except": ["first-nested"],
+        "ignore": ["after-comment"]
       }
     ],
     "selector-attribute-brackets-space-inside": "never",
@@ -197,7 +198,9 @@
     "selector-max-pseudo-class": 2,
     "selector-max-specificity": [
       "0,5,1",
-      { "severity": "error" }
+      {
+        "severity": "error"
+      }
     ],
     "selector-max-type": 2,
     "selector-max-universal": 1,
@@ -242,41 +245,6 @@
     "value-list-comma-space-after": null,
     "value-list-comma-space-before": "never",
     "value-list-max-empty-lines": 0,
-    "value-no-vendor-prefix": true,
-    "a11y/media-prefers-reduced-motion": true,
-    "a11y/no-outline-none": true,
-    "a11y/selector-pseudo-class-focus": true,
-    "a11y/content-property-no-static-value": [
-      true,
-      { "severity": "warning" }
-    ],
-    "a11y/font-size-is-readable": [
-      true,
-      { "severity": "warning" }
-    ],
-    "a11y/line-height-is-vertical-rhythmed": [
-      true,
-      { "severity": "warning" }
-    ],
-    "a11y/no-display-none": [
-      true,
-      { "severity": "warning" }
-    ],
-    "a11y/no-spread-text": [
-      true,
-      { "severity": "warning" }
-    ],
-    "a11y/no-obsolete-attribute": [
-      true,
-      { "severity": "warning" }
-    ],
-    "a11y/no-obsolete-element": [
-      true,
-      { "severity": "warning" }
-    ],
-    "a11y/no-text-align-justify": [
-      true,
-      { "severity": "warning" }
-    ]
+    "value-no-vendor-prefix": true
   }
 }
