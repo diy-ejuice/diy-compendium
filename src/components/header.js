@@ -2,7 +2,7 @@ import { Link } from 'gatsby';
 import classNames from 'classnames';
 import PropTypes from 'prop-types';
 import { Fragment } from 'react';
-import { Navbar, Nav, InputGroup, Button } from 'react-bootstrap';
+import { Container, Navbar, Nav, InputGroup, Button } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
   faSearch,
@@ -215,56 +215,65 @@ Search.propTypes = {
 export default function Header({ siteTitle = '' }) {
   return (
     <Fragment>
-      <Navbar variant="light" bg="light">
-        <Navbar.Brand className="ms-4">
-          <Link to="/">{siteTitle}</Link>
-        </Navbar.Brand>
-        <Nav className="justify-content-end w-100">
-          <Nav.Link as={Link} to="/faq/why-diy">
-            <Button variant="secondary">Why DIY?</Button>
-          </Nav.Link>
-          <Nav.Link as={Link} to="/about">
-            <Button variant="secondary">About</Button>
-          </Nav.Link>
-          <Nav.Link as={Link} to="/quick-start">
-            <Button variant="secondary">Quick Start</Button>
-          </Nav.Link>
-          <Nav.Link
-            href="https://reddit.com/r/DIY_eJuice"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Button variant="secondary">
-              <FontAwesomeIcon icon={faRedditAlien} size="lg" /> /r/DIY_eJuice
-            </Button>
-          </Nav.Link>
-          <Nav.Link
-            href="http://discord.gg/ejuice"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Button variant="secondary">
-              <FontAwesomeIcon icon={faDiscord} size="lg" /> Discord
-            </Button>
-          </Nav.Link>
-        </Nav>
+      <Navbar variant="light" bg="light" className="d-none d-sm-flex">
+        <Container>
+          <Navbar.Brand className="ms-4">
+            <Link to="/">{siteTitle}</Link>
+          </Navbar.Brand>
+          <Nav className="justify-content-end w-100">
+            <Nav.Link as={Link} to="/faq/why-diy">
+              <Button variant="secondary">Why DIY?</Button>
+            </Nav.Link>
+            <Nav.Link as={Link} to="/about">
+              <Button variant="secondary">About</Button>
+            </Nav.Link>
+            <Nav.Link as={Link} to="/quick-start">
+              <Button variant="secondary">Quick Start</Button>
+            </Nav.Link>
+            <Nav.Link
+              href="https://reddit.com/r/DIY_eJuice"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Button variant="secondary">
+                <FontAwesomeIcon icon={faRedditAlien} size="lg" /> /r/DIY_eJuice
+              </Button>
+            </Nav.Link>
+            <Nav.Link
+              href="http://discord.gg/ejuice"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Button variant="secondary">
+                <FontAwesomeIcon icon={faDiscord} size="lg" /> Discord
+              </Button>
+            </Nav.Link>
+          </Nav>
+        </Container>
       </Navbar>
       <Navbar variant="dark" bg="primary" expand="lg">
-        <Navbar.Toggle />
-        <Navbar.Collapse>
-          <Nav className="ms-3">
-            <Faq />
-            <Safety />
-            <Guides />
-            <Recipes />
-            <Flavors />
-            <Media />
-            <Supplies />
-          </Nav>
-          <Nav className="justify-content-end w-100 me-2">
-            <Search />
-          </Nav>
-        </Navbar.Collapse>
+        <Container>
+          <Navbar.Brand className="d-flex d-sm-none">
+            <Link to="/" className="text-light">
+              {siteTitle}
+            </Link>
+          </Navbar.Brand>
+          <Navbar.Toggle />
+          <Navbar.Collapse>
+            <Nav className="ms-3">
+              <Faq />
+              <Safety />
+              <Guides />
+              <Recipes />
+              <Flavors />
+              <Media />
+              <Supplies />
+            </Nav>
+            <Nav className="justify-content-end w-100 me-2">
+              <Search />
+            </Nav>
+          </Navbar.Collapse>
+        </Container>
       </Navbar>
     </Fragment>
   );
