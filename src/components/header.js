@@ -89,6 +89,9 @@ const Guides = () => (
     <NavDropdown.Item as={Link} to="/guides/nicotine-storage">
       Nicotine Storage
     </NavDropdown.Item>
+    <NavDropdown.Item as={Link} to="/guides/sweeteners">
+      Sweeteners
+    </NavDropdown.Item>
   </NavDropdown>
 );
 
