@@ -20,7 +20,6 @@ There is one extra feature of Markdown that we use not normally covered in onlin
 ---
 path: '/some/path'
 title: 'A Document'
-slug: 'sft'
 ---
 
 # Here's a Heading

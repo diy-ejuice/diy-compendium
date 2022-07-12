@@ -1,6 +1,5 @@
 ---
 path: '/flavors/best-of'
-slug: 'best-of'
 title: 'Flavors - BEST Flavors'
 ---
 

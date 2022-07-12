@@ -1,6 +1,5 @@
 ---
 path: '/guides/additives-enhancers'
-slug: 'additives-enhancers'
 title: 'Guides - Additives & Enhancers'
 ---
 

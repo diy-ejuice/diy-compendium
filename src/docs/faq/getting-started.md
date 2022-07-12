@@ -1,6 +1,5 @@
 ---
 path: '/faq/getting-started'
-slug: 'getting-started'
 title: 'FAQ - Getting Started'
 ---
 

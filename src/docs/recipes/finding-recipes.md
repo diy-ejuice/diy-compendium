@@ -1,6 +1,5 @@
 ---
 path: '/recipes/finding-recipes'
-slug: 'finding-recipes'
 title: 'Recipes - Finding Recipes'
 ---
 

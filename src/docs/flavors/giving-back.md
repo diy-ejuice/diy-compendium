@@ -1,6 +1,5 @@
 ---
 path: '/flavors/giving-back'
-slug: 'giving-back'
 title: 'Flavors - Giving Back'
 ---
 

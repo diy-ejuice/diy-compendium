@@ -1,6 +1,5 @@
 ---
 path: '/supplies/bottles'
-slug: 'bottles'
 title: 'Supplies - Bottles'
 description: 'Info about bottle materials, styles, and suppliers.'
 ---

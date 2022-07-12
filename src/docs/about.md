@@ -1,6 +1,5 @@
 ---
 path: '/about'
-slug: 'About'
 title: 'About'
 ---
 

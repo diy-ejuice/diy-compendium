@@ -1,7 +1,6 @@
 ---
 path: '/guides/nicotine-storage'
 author: 'duncanyoyo1'
-slug: 'nicotine-storage'
 title: 'Guides - Nicotine Storage'
 ---
 

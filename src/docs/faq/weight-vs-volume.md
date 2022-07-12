@@ -1,6 +1,5 @@
 ---
 path: '/faq/weight-vs-volume'
-slug: 'weight-vs-volume'
 title: 'FAQ - Weight vs. Volume'
 ---
 

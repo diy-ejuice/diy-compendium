@@ -1,6 +1,5 @@
 ---
 path: '/faq/mixing-by-weight'
-slug: 'mixing-by-weight'
 title: 'FAQ - Mixing by Weight'
 ---
 

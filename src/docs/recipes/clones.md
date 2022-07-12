@@ -1,6 +1,5 @@
 ---
 path: '/recipes/clones'
-slug: 'clones'
 title: 'Recipes - Cloning Commercial E-Juice'
 ---
 

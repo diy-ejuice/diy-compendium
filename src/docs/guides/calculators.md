@@ -1,6 +1,5 @@
 ---
 path: '/guides/calculators'
-slug: 'calculators'
 title: 'Guides - Mixing Calculators'
 ---
 

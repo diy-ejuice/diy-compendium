@@ -1,6 +1,5 @@
 ---
 path: '/quick-start'
-slug: 'quick-start'
 title: 'Quick Start'
 ---
 

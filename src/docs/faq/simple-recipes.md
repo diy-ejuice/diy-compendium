@@ -1,6 +1,5 @@
 ---
 path: '/faq/simple-recipes'
-slug: 'simple-recipes'
 title: 'FAQ - Simple Recipes'
 ---
 

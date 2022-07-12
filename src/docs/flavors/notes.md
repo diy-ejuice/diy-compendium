@@ -1,6 +1,5 @@
 ---
 path: '/flavors/notes'
-slug: 'notes'
 title: 'Flavors - Notes and Impressions'
 ---
 
