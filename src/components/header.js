@@ -106,14 +106,8 @@ const Recipes = () => (
     <NavDropdown.Item as={Link} to="/recipes/monthly-archive">
       Monthly Archive
     </NavDropdown.Item>
-    <NavDropdown.Item as={Link} to="/recipes/profiles">
-      Profiles
-    </NavDropdown.Item>
     <NavDropdown.Item as={Link} to="/recipes/1-2-3">
       1-2-3
-    </NavDropdown.Item>
-    <NavDropdown.Item as={Link} to="/recipes/suggestions">
-      Suggestions
     </NavDropdown.Item>
     <NavDropdown.Item as={Link} to="/recipes/finding-recipes">
       Finding Recipes
