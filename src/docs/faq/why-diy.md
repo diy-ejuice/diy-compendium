@@ -1,6 +1,5 @@
 ---
 path: '/faq/why-diy'
-slug: 'why-diy'
 title: 'FAQ - Why DIY?'
 ---
 

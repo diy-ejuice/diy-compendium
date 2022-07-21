@@ -1,6 +1,5 @@
 ---
 path: '/faq/premixed-bases'
-slug: 'premixed-bases'
 title: 'FAQ - Premixed Bases'
 ---
 

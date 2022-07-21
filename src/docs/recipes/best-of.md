@@ -1,6 +1,5 @@
 ---
 path: '/recipes/best-of'
-slug: 'best-of'
 title: 'Recipes - Best of'
 ---
 
@@ -11,3 +10,4 @@ title: 'Recipes - Best of'
 [Best Recipe Contest](https://redd.it/abv7ea) (2018) - [Winner Announcement](https://redd.it/am40tr)
 [Best Recipe Contest](https://redd.it/ej7fiv) (2019) - [Winner Announcement](https://redd.it/exbn7x)
 [Best Recipe Contest](https://redd.it/kqlikx) (2020) - [Winner Announcement](https://redd.it/la6e0f)
+[Best Recipe Contest](https://www.reddit.com/r/DIY_eJuice/comments/rui7id/best_recipe_of_2021_contest_wprizes_link_to) (2021) - [Winner Announcement](https://www.reddit.com/r/DIY_eJuice/comments/shvpg6/roty_results_for_2021/)

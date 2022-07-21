@@ -1,6 +1,5 @@
 ---
 path: '/flavors/sft'
-slug: 'sft'
 title: 'Flavors - Single Flavors Tested'
 ---
 

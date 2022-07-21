@@ -1,6 +1,5 @@
 ---
 path: '/guides/reviews'
-slug: 'reviews'
 title: 'Guides - Recipe Reviews'
 ---
 

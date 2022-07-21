@@ -1,6 +1,5 @@
 ---
 path: '/guides/sweeteners'
-slug: 'sweeteners'
 title: 'Guides - Sweeteners'
 ---
 

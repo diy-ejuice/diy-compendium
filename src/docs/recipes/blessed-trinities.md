@@ -1,6 +1,5 @@
 ---
 path: '/recipes/blessed-trinities'
-slug: 'blessed-trinities'
 title: 'Recipes - Blessed Trinities'
 ---
 

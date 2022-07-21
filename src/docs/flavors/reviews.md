@@ -1,6 +1,5 @@
 ---
 path: '/flavors/reviews'
-slug: 'reviews'
 title: 'Flavors - Reviews'
 ---
 

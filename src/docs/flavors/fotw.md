@@ -1,6 +1,5 @@
 ---
 path: '/flavors/flavor-of-the-week'
-slug: 'fotw'
 title: 'Flavors - FOTW'
 ---
 

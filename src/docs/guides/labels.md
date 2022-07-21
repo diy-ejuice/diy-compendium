@@ -1,6 +1,5 @@
 ---
 path: '/guides/labels'
-slug: 'labels'
 title: 'Guides - Labels'
 ---
 

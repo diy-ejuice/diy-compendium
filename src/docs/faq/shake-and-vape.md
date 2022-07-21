@@ -1,6 +1,5 @@
 ---
 path: '/faq/shake-and-vape'
-slug: 'shake-and-vape'
 title: 'FAQ - Shake and Vape'
 ---
 

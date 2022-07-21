@@ -1,6 +1,5 @@
 ---
 path: '/flavors/rebranding'
-slug: 'rebranding'
 title: 'Flavors - Rebranded Flavors'
 ---
 
