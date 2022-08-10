@@ -1,0 +1,224 @@
+[
+  {
+    "code": "CAP",
+    "name": "Capella Flavors",
+    "url": "https://www.capellaflavors.com/",
+    "country": "US"
+  },
+  {
+    "code": "CC",
+    "name": "Chef's Choice",
+    "url": "https://chefsflavours.co.uk/",
+    "country": "GB"
+  },
+  {
+    "code": "DFS",
+    "name": "DIY Flavor Shack",
+    "url": "https://www.diyflavorshack.com/",
+    "country": "US"
+  },
+  {
+    "code": "FA",
+    "name": "FlavourArt",
+    "url": "https://flavourart.com/en/",
+    "country": "IT"
+  },
+  {
+    "code": "FLV",
+    "name": "Flavorah",
+    "url": "https://www.flavorah.com/",
+    "country": "US"
+  },
+  {
+    "code": "FW",
+    "name": "Flavor West",
+    "url": "https://www.flavorwest.com/",
+    "country": "US"
+  },
+  {
+    "code": "HS",
+    "name": "Hangsen",
+    "url": "http://www.hkhangsen.com/",
+    "country": "CN"
+  },
+  {
+    "code": "INW",
+    "name": "Inawera Flavours",
+    "url": "https://www.inaweraflavours.com/",
+    "country": "PL"
+  },
+  {
+    "code": "JF",
+    "name": "Jungle Flavors",
+    "url": "https://flavorjungle.com/",
+    "country": "US"
+  },
+  {
+    "code": "LB",
+    "name": "Liquid Barn",
+    "url": "https://www.liquidbarn.com/",
+    "country": "US"
+  },
+  {
+    "code": "MB",
+    "name": "Molinberry",
+    "url": "https://molinberryflavours.com/",
+    "country": "PL"
+  },
+  {
+    "code": "OOO",
+    "name": "One on One Flavors",
+    "url": "https://www.oooflavors.com/",
+    "country": "US"
+  },
+  {
+    "code": "OTHR",
+    "name": "Other",
+    "url": null,
+    "country": null
+  },
+  {
+    "code": "RF",
+    "name": "Real Flavors",
+    "url": "https://www.diy-ejuice.com/Real-Flavors-s/1915.htm",
+    "country": "CA"
+  },
+  {
+    "code": "SA",
+    "name": "SolubArome",
+    "url": "https://www.solubarome.fr/boutique/",
+    "country": "FR"
+  },
+  {
+    "code": "TPA",
+    "name": "The Perfumer's Apprentice",
+    "url": "https://shop.perfumersapprentice.com/",
+    "country": "US"
+  },
+  {
+    "code": "VT",
+    "name": "Vape Train Australia",
+    "url": "https://www.vapetrain.com.au/",
+    "country": "AU"
+  },
+  {
+    "code": "WF",
+    "name": "Wonder Flavors",
+    "url": "https://www.wonderflavours.com/",
+    "country": "CA"
+  },
+  {
+    "code": "FE",
+    "name": "Flavors Express",
+    "url": "https://flavorjungle.com/collections/flavorsexpress",
+    "country": "US"
+  },
+  {
+    "code": "PUR",
+    "name": "Purilum",
+    "url": "https://purilum.com/",
+    "country": "US"
+  },
+  {
+    "code": "BF",
+    "name": "Baker Flavors",
+    "url": "http://bakerflavors.ru/formbf_eng.htm",
+    "country": "RU"
+  },
+  {
+    "code": "DF",
+    "name": "Delosi Flavors",
+    "url": "https://delosilabs.com/",
+    "country": "US"
+  },
+  {
+    "code": "DV",
+    "name": "Decadent Vapours",
+    "url": "https://decadentvapours.com/",
+    "country": "GB"
+  },
+  {
+    "code": "EUR",
+    "name": "Euro Flavors",
+    "url": "https://euroflavor.com/",
+    "country": "US"
+  },
+  {
+    "code": "FM",
+    "name": "FlavorMonks",
+    "url": "https://www.flavormonks.com/",
+    "country": "BE"
+  },
+  {
+    "code": "FP",
+    "name": "Flavor Phoenix",
+    "url": "https://www.diyvaporsupply.com/brands/Flavor-Phoenix.html",
+    "country": "US"
+  },
+  {
+    "code": "FR",
+    "name": "Flavor Revolution",
+    "url": "https://alltheflavors.com/vendors/fr-flavor-revolution",
+    "country": "US"
+  },
+  {
+    "code": "GF",
+    "name": "German Flavours",
+    "url": "https://www.germanflavours.de/",
+    "country": "DE"
+  },
+  {
+    "code": "HC",
+    "name": "Health Cabin",
+    "url": "https://www.healthcabin.net/usa/",
+    "country": "US"
+  },
+  {
+    "code": "LA",
+    "name": "LorAnn Oils",
+    "url": "https://www.lorannoils.com/",
+    "country": "US"
+  },
+  {
+    "code": "MF",
+    "name": "Medicine Flower",
+    "url": "https://www.medicineflower.com/",
+    "country": "US"
+  },
+  {
+    "code": "NR",
+    "name": "River Supply Co",
+    "url": "https://riversupplyco.com/",
+    "country": "US"
+  },
+  {
+    "code": "SC",
+    "name": "Super Concentrates",
+    "url": null,
+    "country": "US"
+  },
+  {
+    "code": "SM",
+    "name": "Stixx Mixx",
+    "url": "https://www.stixxmixx.com/",
+    "country": "US"
+  },
+  {
+    "code": "VZ",
+    "name": "Vaping Zone",
+    "url": "https://www.vapingzone.com/",
+    "country": "US"
+  },
+  {
+    "code": "VV",
+    "name": "Vampire Vapes",
+    "url": "https://www.vampirevape.co.uk/",
+    "country": "GB"
+  },
+  {
+    "code": "OSD",
+    "name": "One Stop DIY Shop",
+    "url": "https://www.onestopdiyshop.com/",
+    "country": "US"
+  }
+]

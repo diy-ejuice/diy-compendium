@@ -22,170 +22,86 @@ import {
 import NavDropdown from 'react-bootstrap/NavDropdown';
 import TitleIcon from './titleIcon';
 
-const Faq = () => (
-  <NavDropdown
-    title={<TitleIcon icon={faListOl} title="FAQ" />}
-    id="dropdown-faq"
-  >
-    <NavDropdown.Item as={Link} to="/faq/getting-started">
-      Getting Started
-    </NavDropdown.Item>
-    <NavDropdown.Item as={Link} to="/faq/mixing-by-weight">
-      Mixing by Weight
-    </NavDropdown.Item>
-    <NavDropdown.Item as={Link} to="/faq/weight-vs-volume">
-      Weight vs. Volume
-    </NavDropdown.Item>
-    <NavDropdown.Item as={Link} to="/faq/premixed-bases">
-      Premixed Bases
-    </NavDropdown.Item>
-    <NavDropdown.Item as={Link} to="/faq/simple-recipes">
-      Simple Recipes
-    </NavDropdown.Item>
-    <NavDropdown.Item as={Link} to="/faq/shake-and-vape">
-      Shake and Vape
-    </NavDropdown.Item>
-  </NavDropdown>
-);
-
-const Safety = () => (
-  <NavDropdown
-    title={<TitleIcon icon={faHardHat} title="Safety" />}
-    id="dropdown-safety"
-  >
-    <NavDropdown.Item as={Link} to="/safety/nicotine">
-      Nicotine
-    </NavDropdown.Item>
-    <NavDropdown.Item
-      href="https://safety.diyejuice.org/"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      Flavors
-    </NavDropdown.Item>
-  </NavDropdown>
-);
-
-const Guides = () => (
-  <NavDropdown
-    title={<TitleIcon icon={faClipboardCheck} title="Guides" />}
-    id="dropdown-guides"
-  >
-    <NavDropdown.Item as={Link} to="/guides/additives-enhancers">
-      Additives &amp; Enhancers
-    </NavDropdown.Item>
-    <NavDropdown.Item as={Link} to="/guides/labels">
-      Labels
-    </NavDropdown.Item>
-    <NavDropdown.Item as={Link} to="/guides/calculators">
-      Calculators
-    </NavDropdown.Item>
-    <NavDropdown.Item as={Link} to="/guides/reviews">
-      Review
-    </NavDropdown.Item>
-    <NavDropdown.Item as={Link} to="/guides/organization">
-      Organization
-    </NavDropdown.Item>
-    <NavDropdown.Item as={Link} to="/guides/nicotine-storage">
-      Nicotine Storage
-    </NavDropdown.Item>
-    <NavDropdown.Item as={Link} to="/guides/sweeteners">
-      Sweeteners
-    </NavDropdown.Item>
-  </NavDropdown>
-);
-
-const Recipes = () => (
-  <NavDropdown
-    title={<TitleIcon icon={faWeight} title="Recipes" />}
-    id="dropdown-recipes"
-  >
-    <NavDropdown.Item as={Link} to="/recipes/best-of">
-      Best of
-    </NavDropdown.Item>
-    <NavDropdown.Item as={Link} to="/recipes/monthly-archive">
-      Monthly Archive
-    </NavDropdown.Item>
-    <NavDropdown.Item as={Link} to="/recipes/1-2-3">
-      1-2-3
-    </NavDropdown.Item>
-    <NavDropdown.Item as={Link} to="/recipes/finding-recipes">
-      Finding Recipes
-    </NavDropdown.Item>
-    <NavDropdown.Item as={Link} to="/recipes/clones">
-      Clones
-    </NavDropdown.Item>
-    <NavDropdown.Item as={Link} to="/recipes/blessed-trinities">
-      Trinities
-    </NavDropdown.Item>
-  </NavDropdown>
-);
-
-const Flavors = () => (
-  <NavDropdown
-    title={<TitleIcon icon={faVial} title="Flavors" />}
-    id="dropdown-flavors"
-  >
-    <NavDropdown.Item as={Link} to="/flavors/first-order">
-      First Order
-    </NavDropdown.Item>
-    <NavDropdown.Item as={Link} to="/flavors/flavor-of-the-week">
-      Flavor of the Week
-    </NavDropdown.Item>
-    <NavDropdown.Item as={Link} to="/reviews">
-      Reviews
-    </NavDropdown.Item>
-    <NavDropdown.Item as={Link} to="/flavors/notes">
-      Notes
-    </NavDropdown.Item>
-    <NavDropdown.Item as={Link} to="/flavors/facts">
-      Facts
-    </NavDropdown.Item>
-    <NavDropdown.Item as={Link} to="/flavors/rebranding">
-      Rebranding
-    </NavDropdown.Item>
-    <NavDropdown.Item as={Link} to="/flavors/sft">
-      Single Flavor Testing
-    </NavDropdown.Item>
-    <NavDropdown.Item as={Link} to="/flavors/best-of">
-      Best of
-    </NavDropdown.Item>
-  </NavDropdown>
-);
-
-const Media = () => (
-  <NavDropdown
-    title={<TitleIcon icon={faYoutube} title="Media" />}
-    id="dropdown-media"
-  >
-    <NavDropdown.Item as={Link} to="/noted">
-      Noted Episodes
-    </NavDropdown.Item>
-    <NavDropdown.Item as={Link} to="/media/videos">
-      Videos
-    </NavDropdown.Item>
-    <NavDropdown.Item as={Link} to="/media/podcasts">
-      Podcasts
-    </NavDropdown.Item>
-  </NavDropdown>
-);
-
-const Supplies = () => (
-  <NavDropdown
-    title={<TitleIcon icon={faBox} title="Supplies" />}
-    id="dropdown-supplies"
-  >
-    <NavDropdown.Item as={Link} to="/supplies/vendor-list">
-      Vendor List
-    </NavDropdown.Item>
-    <NavDropdown.Item as={Link} to="/supplies/scales">
-      Scales
-    </NavDropdown.Item>
-    <NavDropdown.Item as={Link} to="/supplies/bottles">
-      Bottles
-    </NavDropdown.Item>
-  </NavDropdown>
-);
+const menuData = {
+  faq: {
+    icon: faListOl,
+    title: 'FAQ',
+    links: [
+      { to: '/faq/getting-started', title: 'Getting Started' },
+      { to: '/faq/mixing-by-weight', title: 'Mixing by Weight' },
+      { to: '/faq/weight-vs-volume', title: 'Weight vs. Volume' },
+      { to: '/faq/premixed-bases', title: 'Premixed Bases' },
+      { to: '/faq/simple-recipes', title: 'Simple Recipes' },
+      { to: '/faq/shake-and-vape', title: 'Shake and Vape' }
+    ]
+  },
+  safety: {
+    icon: faHardHat,
+    title: 'Safety',
+    links: [
+      { to: '/safety/nicotine', title: 'Nicotine' },
+      { to: 'https://safety.diyejuice.org', title: 'Flavors', external: true }
+    ]
+  },
+  guides: {
+    icon: faClipboardCheck,
+    title: 'Guides',
+    links: [
+      { to: '/guides/additives-enhancers', title: 'Additives & Enhancers' },
+      { to: '/guides/labels', title: 'Labels' },
+      { to: '/guides/calculators', title: 'Calculators' },
+      { to: '/guides/reviews', title: 'Reviews' },
+      { to: '/guides/organization', title: 'Organization' },
+      { to: '/guides/nicotine-storage', title: 'Nicotine Storage' },
+      { to: '/guides/sweeteners', title: 'Sweeteners' }
+    ]
+  },
+  recipes: {
+    icon: faWeight,
+    title: 'Recipes',
+    links: [
+      { to: '/recipes/best-of', title: 'Best of' },
+      { to: '/recipes/monthly-archive', title: 'Monthly Archive' },
+      { to: '/recipes/1-2-3', title: '1-2-3' },
+      { to: '/recipes/finding-recipes', title: 'Finding Recipes' },
+      { to: '/recipes/clones', title: 'Clones' },
+      { to: '/recipes/blessed-trinities', title: 'Trinities' }
+    ]
+  },
+  flavors: {
+    icon: faVial,
+    title: 'Flavors',
+    links: [
+      { to: '/flavors/first-order', title: 'First Order' },
+      { to: '/flavors/flavor-of-the-week', title: 'Flavor of the Week' },
+      { to: '/lists', title: 'Lists' },
+      { to: '/reviews', title: 'Reviews' },
+      { to: '/flavors/notes', title: 'Notes' },
+      { to: '/flavors/facts', title: 'Facts' },
+      { to: '/flavors/rebranding', title: 'Rebranding' },
+      { to: '/flavors/sft', title: 'Single Flavor Testing' },
+      { to: '/flavors/best-of', title: 'Best of' }
+    ]
+  },
+  media: {
+    icon: faYoutube,
+    title: 'Media',
+    links: [
+      { to: '/noted', title: 'Noted Episodes' },
+      { to: '/media/videos', title: 'Videos' },
+      { to: '/media/podcasts', title: 'Podcasts' }
+    ]
+  },
+  supplies: {
+    icon: faBox,
+    title: 'Supplies',
+    links: [
+      { to: '/supplies/vendor-list', title: 'Vendor List' },
+      { to: '/supplies/scales', title: 'Scales' },
+      { to: '/supplies/bottles', title: 'Bottles' }
+    ]
+  }
+};
 
 const Search = (props) => {
   const baseClass = 'dc-search';
@@ -258,13 +174,28 @@ export default function Header({ siteTitle = '' }) {
           <Navbar.Toggle />
           <Navbar.Collapse>
             <Nav className="ms-3">
-              <Faq />
-              <Safety />
-              <Guides />
-              <Recipes />
-              <Flavors />
-              <Media />
-              <Supplies />
+              {Object.entries(menuData).map(([key, { icon, title, links }]) => (
+                <NavDropdown
+                  title={<TitleIcon icon={icon} title={title} />}
+                  key={key}
+                >
+                  {links.map((link) =>
+                    link.external ? (
+                      <NavDropdown.Item
+                        href={link.to}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        {link.title}
+                      </NavDropdown.Item>
+                    ) : (
+                      <NavDropdown.Item key={link.to} as={Link} to={link.to}>
+                        {link.title}
+                      </NavDropdown.Item>
+                    )
+                  )}
+                </NavDropdown>
+              ))}
             </Nav>
             <Nav className="justify-content-end w-100 me-2">
               <Search />

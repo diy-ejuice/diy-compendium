@@ -3,5 +3,6 @@ module.exports = {
     `/reviews/${code.toLowerCase()}-${title
       .replace(/"/g, '')
       .replace(/\s+/g, '-')
-      .toLowerCase()}`
+      .toLowerCase()}`,
+  getListUrl: ({ code }) => `/lists/${code}`
 };

@@ -1,8 +1,42 @@
 const { resolve } = require('path');
-const { getReviewUrl } = require('./src/utils');
+const { getReviewUrl, getListUrl } = require('./src/utils');
 
+const createListPages = async ({ actions, graphql, reporter }) => {
+  const component = resolve(`src/components/list.js`);
+  const { createPage } = actions;
+  const result = await graphql(`
+    query {
+      allListsJson {
+        nodes {
+          code
+        }
+      }
+    }
+  `);
+
+  if (result.errors) {
+    reporter.panicOnBuild('Error while running GraphQL query.');
+    return;
+  }
+
+  let counter = 0;
+
+  result.data.allListsJson.nodes.forEach((node) => {
+    const path = getListUrl(node);
+
+    reporter.info(`Created page for ${path}`);
+    counter++;
+    createPage({
+      context: node,
+      component,
+      path
+    });
+  });
+
+  reporter.info(`Created ${counter} list pages!`);
+};
 const createMarkdownPages = async ({ actions, graphql, reporter }) => {
-  const component = resolve('src/components/markdown/page.js');
+  const component = resolve('src/components/article.js');
   const { createPage } = actions;
   const result = await graphql(`
     {
@@ -111,6 +145,7 @@ const createReviewPages = async ({ actions, graphql, reporter }) => {
 exports.createPages = async (options) => {
   await createMarkdownPages(options);
   await createReviewPages(options);
+  await createListPages(options);
 };
 
 exports.onCreateWebpackConfig = ({ actions }) => {
