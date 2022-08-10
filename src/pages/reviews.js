@@ -8,7 +8,7 @@ import NotFoundPage from 'pages/404';
 import Layout from 'components/layout';
 import { getReviewUrl } from 'utils';
 
-const ReviewsPage = ({ data }) => {
+export default function ReviewsPage({ data }) {
   if (!data || !data.allReviewsJson) {
     return <NotFoundPage />;
   }
@@ -58,9 +58,8 @@ const ReviewsPage = ({ data }) => {
       </Container>
     </Layout>
   );
-};
+}
 
-ReviewsPage.displayName = 'ReviewsPage';
 ReviewsPage.propTypes = {
   data: PropTypes.shape({
     allReviewsJson: PropTypes.shape({
@@ -68,8 +67,6 @@ ReviewsPage.propTypes = {
     })
   })
 };
-
-export default ReviewsPage;
 
 export const pageQuery = graphql`
   query {

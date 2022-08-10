@@ -1,0 +1,168 @@
+{
+  "name": "VT Not on BCF",
+  "code": "vt-not-on-bcf",
+  "author": "mixman0g",
+  "dateAdded": "2020-08-26",
+  "flavors": [
+    {
+      "vendorCode": "VT",
+      "flavorName": "Blood Plum",
+      "atfAverage": "2.15%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Brandy",
+      "atfAverage": "2.38%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Chilli Chocolate",
+      "atfAverage": "2.50%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Dessicated Coconut",
+      "atfAverage": "1.66%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Double Mint",
+      "atfAverage": "0.47%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Forest Mix Berries",
+      "atfAverage": "2.40%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Frozen Pineapple Yoghurt",
+      "atfAverage": "1.88%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Fruit Cake",
+      "atfAverage": "2.15%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Fruit Mix",
+      "atfAverage": "3.00%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Grape",
+      "atfAverage": "1.00%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Grapefruit",
+      "atfAverage": "0.71%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Green Mango",
+      "atfAverage": "0.57%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Guava",
+      "atfAverage": "2.00%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Island Dream",
+      "atfAverage": "2.10%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Jackfruit",
+      "atfAverage": "0.00%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Kiwi",
+      "atfAverage": "3.39%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Lemonade",
+      "atfAverage": "3.64%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Mangosteen",
+      "atfAverage": "1.75%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Pandan Leaf",
+      "atfAverage": "1.23%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Parano Carrot",
+      "atfAverage": "1.18%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Peanut",
+      "atfAverage": "1.73%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Pear",
+      "atfAverage": "1.63%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Plum",
+      "atfAverage": "0.00%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Rainbow Treats",
+      "atfAverage": "4.29%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Red Bean",
+      "atfAverage": "0.57%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Rum & Raisin",
+      "atfAverage": "2.67%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Shisha Peach",
+      "atfAverage": "1.88%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Snake Fruit",
+      "atfAverage": "0.75%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Sour Mate",
+      "atfAverage": "1.38%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Thai Sticky Rice",
+      "atfAverage": "4.61%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Walnut",
+      "atfAverage": "1.28%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "White Peach",
+      "atfAverage": "0.00%"
+    }
+  ]
+}

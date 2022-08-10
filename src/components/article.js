@@ -6,7 +6,7 @@ import SEO from 'components/seo';
 import NotFoundPage from 'pages/404';
 import Layout from 'components/layout';
 
-const MarkdownPage = ({ data }) => {
+export default function Article({ data }) {
   if (!data || !data.markdownRemark) {
     return <NotFoundPage />;
   }
@@ -47,16 +47,13 @@ const MarkdownPage = ({ data }) => {
       </Container>
     </Layout>
   );
-};
+}
 
-MarkdownPage.displayName = 'MarkdownPage';
-MarkdownPage.propTypes = {
+Article.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.arrayOf(PropTypes.object)
   })
 };
-
-export default MarkdownPage;
 
 export const pageQuery = graphql`
   query ($path: String!) {

@@ -16,7 +16,7 @@ import FeaturedPost from 'components/featured/post';
 export default function IndexPage({ data }) {
   const {
     allMarkdownRemark: { nodes },
-    allPollJson: { nodes: polls },
+    allPollsJson: { nodes: polls },
     allFile: { nodes: images }
   } = data;
   const findImage = (url) =>
@@ -127,7 +127,7 @@ export const query = graphql`
       }
     }
 
-    allPollJson {
+    allPollsJson {
       nodes {
         url
         title

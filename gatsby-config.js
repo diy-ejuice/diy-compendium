@@ -73,21 +73,14 @@ module.exports = {
       resolve: 'gatsby-source-filesystem',
       options: {
         name: 'docs',
-        path: `${__dirname}/src/docs`
+        path: `${__dirname}/docs`
       }
     },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
-        name: 'links',
-        path: `${__dirname}/src/links`
-      }
-    },
-    {
-      resolve: 'gatsby-source-filesystem',
-      options: {
-        name: 'reviews',
-        path: `${__dirname}/src/reviews`
+        name: 'content',
+        path: `${__dirname}/content`
       }
     },
     {
@@ -98,9 +91,6 @@ module.exports = {
         refetchInterval: 60
       }
     },
-    'gatsby-transformer-json',
-    'gatsby-transformer-sharp',
-    'gatsby-plugin-sharp',
     {
       resolve: 'gatsby-plugin-manifest',
       options: manifestOptions

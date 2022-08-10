@@ -1,0 +1,2589 @@
+{
+  "name": "Recommended Dilutions",
+  "author": "TeslaDelMar",
+  "code": "dilutions",
+  "dateAdded": "2020-08-25",
+  "description": "This is an automatically generated list that was created by taking ATF flavor data and looking for all flavors with an average usage percentage under 0.95%.",
+  "flavors": [
+    {
+      "vendorCode": "BF",
+      "flavorName": "Blossom Honey",
+      "atfAverage": "0.75%"
+    },
+    {
+      "vendorCode": "BF",
+      "flavorName": "Caramel",
+      "atfAverage": "0.58%"
+    },
+    {
+      "vendorCode": "BF",
+      "flavorName": "Chocolate Truffle",
+      "atfAverage": "0.72%"
+    },
+    {
+      "vendorCode": "BF",
+      "flavorName": "Cocoa Bean",
+      "atfAverage": "0.70%"
+    },
+    {
+      "vendorCode": "BF",
+      "flavorName": "Coffee Mocha",
+      "atfAverage": "0.34%"
+    },
+    {
+      "vendorCode": "BF",
+      "flavorName": "Cream Charlotte",
+      "atfAverage": "0.74%"
+    },
+    {
+      "vendorCode": "BF",
+      "flavorName": "Eucalyptus",
+      "atfAverage": "0.38%"
+    },
+    {
+      "vendorCode": "BF",
+      "flavorName": "Irish Cream",
+      "atfAverage": "0.56%"
+    },
+    {
+      "vendorCode": "BF",
+      "flavorName": "Mandarin",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "BF",
+      "flavorName": "Mango Mix",
+      "atfAverage": "0.63%"
+    },
+    {
+      "vendorCode": "BF",
+      "flavorName": "Pineapple",
+      "atfAverage": "0.60%"
+    },
+    {
+      "vendorCode": "BF",
+      "flavorName": "Strong Orange",
+      "atfAverage": "0.88%"
+    },
+    {
+      "vendorCode": "BF",
+      "flavorName": "Sweet Orange",
+      "atfAverage": "0.75%"
+    },
+    {
+      "vendorCode": "BF",
+      "flavorName": "Vanilla Sponge Cake",
+      "atfAverage": "0.51%"
+    },
+    {
+      "vendorCode": "CAP",
+      "flavorName": "Crispy Bacon",
+      "atfAverage": "0.25%"
+    },
+    {
+      "vendorCode": "CAP",
+      "flavorName": "Golden Butter",
+      "atfAverage": "0.78%"
+    },
+    {
+      "vendorCode": "CAP",
+      "flavorName": "Honey",
+      "atfAverage": "0.86%"
+    },
+    {
+      "vendorCode": "CAP",
+      "flavorName": "Hot Cinnamon Candy",
+      "atfAverage": "0.36%"
+    },
+    {
+      "vendorCode": "CAP",
+      "flavorName": "Maple (pancake) Syrup",
+      "atfAverage": "0.86%"
+    },
+    {
+      "vendorCode": "CAP",
+      "flavorName": "Rhubarb",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "CAP",
+      "flavorName": "Super Sweet",
+      "atfAverage": "0.57%"
+    },
+    {
+      "vendorCode": "CC",
+      "flavorName": "Brazilian Orange",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "CC",
+      "flavorName": "English Trifle",
+      "atfAverage": "0.13%"
+    },
+    {
+      "vendorCode": "CC",
+      "flavorName": "Milkshake",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "CC",
+      "flavorName": "Mince Pie",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "DF",
+      "flavorName": "Banana",
+      "atfAverage": "0.90%"
+    },
+    {
+      "vendorCode": "DF",
+      "flavorName": "Dulce De Leche",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "DF",
+      "flavorName": "German Chocolate",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "DF",
+      "flavorName": "Grape",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "DF",
+      "flavorName": "Malted Milk",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "DF",
+      "flavorName": "Mega Sweet",
+      "atfAverage": "0.89%"
+    },
+    {
+      "vendorCode": "DF",
+      "flavorName": "Sweet - Vanillin",
+      "atfAverage": "0.88%"
+    },
+    {
+      "vendorCode": "DF",
+      "flavorName": "Toasted Marshmallow",
+      "atfAverage": "0.79%"
+    },
+    {
+      "vendorCode": "DFS",
+      "flavorName": "AR Green Guava (PG)",
+      "atfAverage": "0.83%"
+    },
+    {
+      "vendorCode": "DFS",
+      "flavorName": "AR Peanut (PG)",
+      "atfAverage": "0.63%"
+    },
+    {
+      "vendorCode": "DFS",
+      "flavorName": "AR Raspberry (PG)",
+      "atfAverage": "0.25%"
+    },
+    {
+      "vendorCode": "DFS",
+      "flavorName": "Cafe Latte",
+      "atfAverage": "0.88%"
+    },
+    {
+      "vendorCode": "DFS",
+      "flavorName": "Clear Black Cherry",
+      "atfAverage": "0.40%"
+    },
+    {
+      "vendorCode": "DFS",
+      "flavorName": "Spearmint",
+      "atfAverage": "0.10%"
+    },
+    {
+      "vendorCode": "DKS",
+      "flavorName": "Lampone",
+      "atfAverage": "0.75%"
+    },
+    {
+      "vendorCode": "DV",
+      "flavorName": "Blueberry",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "EJM",
+      "flavorName": "RY S'mores",
+      "atfAverage": "0.38%"
+    },
+    {
+      "vendorCode": "EUR",
+      "flavorName": "Amarena Cherry",
+      "atfAverage": "0.75%"
+    },
+    {
+      "vendorCode": "EUR",
+      "flavorName": "Green Mango",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "EUR",
+      "flavorName": "Sweet Strawberry",
+      "atfAverage": "0.25%"
+    },
+    {
+      "vendorCode": "EUR",
+      "flavorName": "Sweet Watermelon",
+      "atfAverage": "0.25%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Aurora",
+      "atfAverage": "0.67%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Barley Malt",
+      "atfAverage": "0.47%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Bell Pepper",
+      "atfAverage": "0.60%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Bergamot",
+      "atfAverage": "0.70%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Bilberry",
+      "atfAverage": "0.80%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Bitter Wizard",
+      "atfAverage": "0.67%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Black Fire",
+      "atfAverage": "0.83%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Bone Marrow",
+      "atfAverage": "0.20%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Booster (tiramisu)",
+      "atfAverage": "0.85%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Bread Crust",
+      "atfAverage": "0.78%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Butter",
+      "atfAverage": "0.60%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Cardamom",
+      "atfAverage": "0.40%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Chestnut",
+      "atfAverage": "0.62%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Chilly Hot Oil Soluble",
+      "atfAverage": "0.10%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Cinnamon Ceylon",
+      "atfAverage": "0.67%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Clove",
+      "atfAverage": "0.86%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Dark Bean (coffee Espresso)",
+      "atfAverage": "0.83%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Ham Cooked",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Hazel Grove (hazelnut)",
+      "atfAverage": "0.72%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Honey",
+      "atfAverage": "0.52%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Jammy/Candy Wizard",
+      "atfAverage": "0.64%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Joy",
+      "atfAverage": "0.79%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Latakia",
+      "atfAverage": "0.87%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Lemon Zest",
+      "atfAverage": "0.51%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Liquid Amber",
+      "atfAverage": "0.60%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Marzipan",
+      "atfAverage": "0.91%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Milk Condensed",
+      "atfAverage": "0.90%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Mts Vape Wizard",
+      "atfAverage": "0.41%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Neroli Oil Soluble",
+      "atfAverage": "0.42%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Nut Mix",
+      "atfAverage": "0.72%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Ozone",
+      "atfAverage": "0.81%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Pepper Black",
+      "atfAverage": "0.61%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Pernoir",
+      "atfAverage": "0.30%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Polar Blast",
+      "atfAverage": "0.81%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Red Bean",
+      "atfAverage": "0.34%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Reggae Night",
+      "atfAverage": "0.60%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Saffron",
+      "atfAverage": "0.35%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Sour Wizard",
+      "atfAverage": "0.93%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "That's Nice Anise",
+      "atfAverage": "0.33%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Torrone",
+      "atfAverage": "0.63%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Truffle White",
+      "atfAverage": "0.75%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Walnut",
+      "atfAverage": "0.91%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Xtra Mint",
+      "atfAverage": "0.51%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "Zen Garden",
+      "atfAverage": "0.59%"
+    },
+    {
+      "vendorCode": "FA",
+      "flavorName": "oRYental4",
+      "atfAverage": "0.40%"
+    },
+    {
+      "vendorCode": "FE",
+      "flavorName": "Blended Tobacco",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "FE",
+      "flavorName": "Cherry",
+      "atfAverage": "0.75%"
+    },
+    {
+      "vendorCode": "FE",
+      "flavorName": "Coconut",
+      "atfAverage": "0.69%"
+    },
+    {
+      "vendorCode": "FE",
+      "flavorName": "Cream",
+      "atfAverage": "0.76%"
+    },
+    {
+      "vendorCode": "FE",
+      "flavorName": "DHill",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "FE",
+      "flavorName": "Goji Berry",
+      "atfAverage": "0.90%"
+    },
+    {
+      "vendorCode": "FE",
+      "flavorName": "Lychee",
+      "atfAverage": "0.88%"
+    },
+    {
+      "vendorCode": "FE",
+      "flavorName": "Mile Seven",
+      "atfAverage": "0.40%"
+    },
+    {
+      "vendorCode": "FE",
+      "flavorName": "Spearmint",
+      "atfAverage": "0.35%"
+    },
+    {
+      "vendorCode": "FE",
+      "flavorName": "Sun Seeds",
+      "atfAverage": "0.16%"
+    },
+    {
+      "vendorCode": "FE",
+      "flavorName": "Taro",
+      "atfAverage": "0.79%"
+    },
+    {
+      "vendorCode": "FE",
+      "flavorName": "Tobacco Absolute",
+      "atfAverage": "0.64%"
+    },
+    {
+      "vendorCode": "FE",
+      "flavorName": "Tobacco Additive",
+      "atfAverage": "0.66%"
+    },
+    {
+      "vendorCode": "FE",
+      "flavorName": "Virginia",
+      "atfAverage": "0.75%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Apple Pop",
+      "atfAverage": "0.94%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Arabian Tobacco",
+      "atfAverage": "0.58%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Back Bar Bitters",
+      "atfAverage": "0.69%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Basil",
+      "atfAverage": "0.40%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Beer Nuts",
+      "atfAverage": "0.36%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Biscotti",
+      "atfAverage": "0.66%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Black tea",
+      "atfAverage": "0.94%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Bourbon",
+      "atfAverage": "0.93%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Brie Cheese",
+      "atfAverage": "0.42%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Caramel",
+      "atfAverage": "0.94%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Cherry Blossom",
+      "atfAverage": "0.66%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Classic Cigarette",
+      "atfAverage": "0.84%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Clove",
+      "atfAverage": "0.42%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Coconut",
+      "atfAverage": "0.41%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Coffee",
+      "atfAverage": "0.70%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Connecticut Shade",
+      "atfAverage": "0.66%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Donuts",
+      "atfAverage": "0.78%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Dragon Fruit",
+      "atfAverage": "0.93%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Elderflower",
+      "atfAverage": "0.84%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Fig",
+      "atfAverage": "0.77%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Fire Cinnamon",
+      "atfAverage": "0.63%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Fried Dough",
+      "atfAverage": "0.40%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Ginger",
+      "atfAverage": "0.77%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Granola",
+      "atfAverage": "0.89%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Hazelnut",
+      "atfAverage": "0.35%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Heat",
+      "atfAverage": "0.57%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Hibiscus",
+      "atfAverage": "0.49%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Honey Bee",
+      "atfAverage": "0.43%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Ice",
+      "atfAverage": "0.56%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Irish Cream",
+      "atfAverage": "0.86%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Jammy Berry",
+      "atfAverage": "0.84%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Kentucky Blend",
+      "atfAverage": "0.92%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Kinako soy",
+      "atfAverage": "0.89%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Lemon Grass",
+      "atfAverage": "0.35%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Lemon",
+      "atfAverage": "0.70%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Lime Wedge",
+      "atfAverage": "0.74%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Lime",
+      "atfAverage": "0.69%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Lovage Root",
+      "atfAverage": "0.34%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Lychee",
+      "atfAverage": "0.94%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Marshmallow Treat",
+      "atfAverage": "0.88%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Marshmallow",
+      "atfAverage": "0.88%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Melon Rind",
+      "atfAverage": "0.49%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Milk Chocolate",
+      "atfAverage": "0.64%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Milk",
+      "atfAverage": "0.78%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Mocha",
+      "atfAverage": "0.93%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Oatmeal Raisin",
+      "atfAverage": "0.82%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Papaya Punch",
+      "atfAverage": "0.89%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Pear",
+      "atfAverage": "0.72%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Peppermint",
+      "atfAverage": "0.94%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Persimmon Spice",
+      "atfAverage": "0.22%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Persimmon",
+      "atfAverage": "0.82%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Pink Guava",
+      "atfAverage": "0.93%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Popcorn",
+      "atfAverage": "0.90%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Praline",
+      "atfAverage": "0.81%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Pucker",
+      "atfAverage": "0.58%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Pumpkin Spice",
+      "atfAverage": "0.77%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Raisin Rum",
+      "atfAverage": "0.75%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Red Cinnamon",
+      "atfAverage": "0.45%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Rich Cinnamon",
+      "atfAverage": "0.29%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Smoked Butterscotch",
+      "atfAverage": "0.88%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Smooth Vanilla",
+      "atfAverage": "0.31%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Starch Base",
+      "atfAverage": "0.58%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Sugar Orchid",
+      "atfAverage": "0.64%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Sweet Dough",
+      "atfAverage": "0.62%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Sweet Fig",
+      "atfAverage": "0.64%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Sweetness",
+      "atfAverage": "0.55%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Tequila Agave",
+      "atfAverage": "0.93%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Thai Chai",
+      "atfAverage": "0.86%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Vanilla Bean",
+      "atfAverage": "0.89%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Waffle",
+      "atfAverage": "0.88%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Wheat",
+      "atfAverage": "0.49%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Whipped Cream",
+      "atfAverage": "0.93%"
+    },
+    {
+      "vendorCode": "FLV",
+      "flavorName": "Wood Spice",
+      "atfAverage": "0.52%"
+    },
+    {
+      "vendorCode": "FM",
+      "flavorName": "Caramel",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "FM",
+      "flavorName": "PG Free Biscuit",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "FM",
+      "flavorName": "Pure Gin",
+      "atfAverage": "0.75%"
+    },
+    {
+      "vendorCode": "FP",
+      "flavorName": "Cafe Caramel",
+      "atfAverage": "0.40%"
+    },
+    {
+      "vendorCode": "FP",
+      "flavorName": "Cinnabun",
+      "atfAverage": "0.40%"
+    },
+    {
+      "vendorCode": "FR",
+      "flavorName": "Graham Cracker",
+      "atfAverage": "0.20%"
+    },
+    {
+      "vendorCode": "FW",
+      "flavorName": "Cherry Balsam Tobacco",
+      "atfAverage": "0.25%"
+    },
+    {
+      "vendorCode": "FW",
+      "flavorName": "Creamberry",
+      "atfAverage": "0.10%"
+    },
+    {
+      "vendorCode": "FW",
+      "flavorName": "Dark Chocolate",
+      "atfAverage": "0.22%"
+    },
+    {
+      "vendorCode": "FW",
+      "flavorName": "English Toffee",
+      "atfAverage": "0.20%"
+    },
+    {
+      "vendorCode": "FW",
+      "flavorName": "Ginger",
+      "atfAverage": "0.57%"
+    },
+    {
+      "vendorCode": "FW",
+      "flavorName": "Malt",
+      "atfAverage": "0.61%"
+    },
+    {
+      "vendorCode": "FW",
+      "flavorName": "Pecan",
+      "atfAverage": "0.81%"
+    },
+    {
+      "vendorCode": "FW",
+      "flavorName": "Raspberry (natural)",
+      "atfAverage": "0.88%"
+    },
+    {
+      "vendorCode": "FW",
+      "flavorName": "Red Wine",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "FW",
+      "flavorName": "Rocky Road",
+      "atfAverage": "0.80%"
+    },
+    {
+      "vendorCode": "FW",
+      "flavorName": "Sunrise Tobacco",
+      "atfAverage": "0.20%"
+    },
+    {
+      "vendorCode": "FW",
+      "flavorName": "Sweetener (sucralose)",
+      "atfAverage": "0.82%"
+    },
+    {
+      "vendorCode": "FW",
+      "flavorName": "Sweetener",
+      "atfAverage": "0.94%"
+    },
+    {
+      "vendorCode": "FW",
+      "flavorName": "Tiramisu",
+      "atfAverage": "0.35%"
+    },
+    {
+      "vendorCode": "FW",
+      "flavorName": "Toasted Almond",
+      "atfAverage": "0.51%"
+    },
+    {
+      "vendorCode": "FW",
+      "flavorName": "White Peach",
+      "atfAverage": "0.87%"
+    },
+    {
+      "vendorCode": "GF",
+      "flavorName": "Anis",
+      "atfAverage": "0.63%"
+    },
+    {
+      "vendorCode": "GF",
+      "flavorName": "Burley",
+      "atfAverage": "0.63%"
+    },
+    {
+      "vendorCode": "GF",
+      "flavorName": "Feiger Kaktus",
+      "atfAverage": "0.80%"
+    },
+    {
+      "vendorCode": "GF",
+      "flavorName": "Haselnuss Waffel",
+      "atfAverage": "0.75%"
+    },
+    {
+      "vendorCode": "GF",
+      "flavorName": "Marzipan",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "GF",
+      "flavorName": "Milk Chocolate",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "GF",
+      "flavorName": "Pfefferminze",
+      "atfAverage": "0.90%"
+    },
+    {
+      "vendorCode": "GF",
+      "flavorName": "Zitrone",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "GL",
+      "flavorName": "Sweet Cream",
+      "atfAverage": "0.67%"
+    },
+    {
+      "vendorCode": "HC",
+      "flavorName": "Bubble Gum",
+      "atfAverage": "0.80%"
+    },
+    {
+      "vendorCode": "HC",
+      "flavorName": "Butter Cream",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "HC",
+      "flavorName": "Butter",
+      "atfAverage": "0.25%"
+    },
+    {
+      "vendorCode": "HC",
+      "flavorName": "Egg",
+      "atfAverage": "0.42%"
+    },
+    {
+      "vendorCode": "HC",
+      "flavorName": "Espresso Coffee",
+      "atfAverage": "0.41%"
+    },
+    {
+      "vendorCode": "HC",
+      "flavorName": "Graham",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "HC",
+      "flavorName": "Honey",
+      "atfAverage": "0.25%"
+    },
+    {
+      "vendorCode": "HC",
+      "flavorName": "Milk Tea",
+      "atfAverage": "0.80%"
+    },
+    {
+      "vendorCode": "HC",
+      "flavorName": "Raspberry",
+      "atfAverage": "0.31%"
+    },
+    {
+      "vendorCode": "HLQ",
+      "flavorName": "Black Tea",
+      "atfAverage": "0.06%"
+    },
+    {
+      "vendorCode": "HLQ",
+      "flavorName": "Jade Tea",
+      "atfAverage": "0.75%"
+    },
+    {
+      "vendorCode": "HS",
+      "flavorName": "Apple",
+      "atfAverage": "0.63%"
+    },
+    {
+      "vendorCode": "HS",
+      "flavorName": "Cheesecake",
+      "atfAverage": "0.67%"
+    },
+    {
+      "vendorCode": "HS",
+      "flavorName": "Cool",
+      "atfAverage": "0.20%"
+    },
+    {
+      "vendorCode": "HS",
+      "flavorName": "Cream",
+      "atfAverage": "0.87%"
+    },
+    {
+      "vendorCode": "HS",
+      "flavorName": "Flue Cure",
+      "atfAverage": "0.92%"
+    },
+    {
+      "vendorCode": "HS",
+      "flavorName": "Fruit Mix",
+      "atfAverage": "0.75%"
+    },
+    {
+      "vendorCode": "HS",
+      "flavorName": "Ice Cream",
+      "atfAverage": "0.66%"
+    },
+    {
+      "vendorCode": "HS",
+      "flavorName": "Vanilla",
+      "atfAverage": "0.92%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "7 Leaves",
+      "atfAverage": "0.92%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Almond",
+      "atfAverage": "0.78%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Arabic Tobacco",
+      "atfAverage": "0.82%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Biscuit",
+      "atfAverage": "0.93%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Black Sun Tea",
+      "atfAverage": "0.75%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Brandy",
+      "atfAverage": "0.37%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Cactus - Lime",
+      "atfAverage": "0.92%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Cactus",
+      "atfAverage": "0.85%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Canadian Type",
+      "atfAverage": "0.20%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Cherries In Liqueur",
+      "atfAverage": "0.81%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Cherry Liqueur",
+      "atfAverage": "0.35%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Chocolate",
+      "atfAverage": "0.32%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Classic Smooth Leaf",
+      "atfAverage": "0.53%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Clove",
+      "atfAverage": "0.30%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Cloves",
+      "atfAverage": "0.25%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Coffee (yc)",
+      "atfAverage": "0.63%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Desert Ship",
+      "atfAverage": "0.70%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Dry Coctail",
+      "atfAverage": "0.28%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Eggnog (yc)",
+      "atfAverage": "0.67%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Elderflower",
+      "atfAverage": "0.94%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Espresso",
+      "atfAverage": "0.10%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Exotic Roots",
+      "atfAverage": "0.75%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Fresh Mint",
+      "atfAverage": "0.51%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Frost",
+      "atfAverage": "0.63%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Green Tea",
+      "atfAverage": "0.15%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Harshnesess Reducer Sharp Taste",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Lemon Mix",
+      "atfAverage": "0.63%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Lime",
+      "atfAverage": "0.68%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Marula",
+      "atfAverage": "0.52%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Marzipan (yc)",
+      "atfAverage": "0.64%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Marzipan",
+      "atfAverage": "0.56%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Mint",
+      "atfAverage": "0.68%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Mix Mint",
+      "atfAverage": "0.72%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Natural Mint",
+      "atfAverage": "0.71%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Nugat",
+      "atfAverage": "0.87%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Pair of Pears",
+      "atfAverage": "0.67%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Pear In The Chocolate",
+      "atfAverage": "0.60%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Pepper Mint",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Perique Black",
+      "atfAverage": "0.60%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Prickly Pear",
+      "atfAverage": "0.63%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Raspberry",
+      "atfAverage": "0.86%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Raspberry-blackberry",
+      "atfAverage": "0.88%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Rhubarb (yc)",
+      "atfAverage": "0.58%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Sahara",
+      "atfAverage": "0.35%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Sesame Sweets",
+      "atfAverage": "0.85%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Sesame",
+      "atfAverage": "0.76%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Shisha Chili & Hot Spice",
+      "atfAverage": "0.65%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Shisha Chili",
+      "atfAverage": "0.28%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Shisha Cinnamon",
+      "atfAverage": "0.62%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Shisha Coconut",
+      "atfAverage": "0.82%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Shisha Fresh Mint",
+      "atfAverage": "0.86%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Shisha Punch",
+      "atfAverage": "0.45%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Shisha Rosemary",
+      "atfAverage": "0.76%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Smoked Plum",
+      "atfAverage": "0.83%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "So Sour So Good",
+      "atfAverage": "0.27%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Sweet Cherry",
+      "atfAverage": "0.75%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Sweet Sour",
+      "atfAverage": "0.60%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Tobacco 3 Five",
+      "atfAverage": "0.43%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Tobacco Amaretto",
+      "atfAverage": "0.63%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Tobacco Dark Fire",
+      "atfAverage": "0.84%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Tobacco Dirty Neutral (dnb)",
+      "atfAverage": "0.94%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Tobacco Hot Spice",
+      "atfAverage": "0.38%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Tobacco Nangka",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Tobacco Old Havana",
+      "atfAverage": "0.56%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Tobacco Peanut",
+      "atfAverage": "0.77%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Tobacco Smoke & Prunes",
+      "atfAverage": "0.69%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Tobacco Tuscan Garden",
+      "atfAverage": "0.25%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Vanilla Classic",
+      "atfAverage": "0.69%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Vanilly Bourbon",
+      "atfAverage": "0.72%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Waffle (yc)",
+      "atfAverage": "0.92%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Walnut",
+      "atfAverage": "0.63%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Whisky",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "White Grapefruit",
+      "atfAverage": "0.89%"
+    },
+    {
+      "vendorCode": "INW",
+      "flavorName": "Zwei Peanuts",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "JF",
+      "flavorName": "Hazelnut",
+      "atfAverage": "0.74%"
+    },
+    {
+      "vendorCode": "JF",
+      "flavorName": "Lemon Juicy",
+      "atfAverage": "0.87%"
+    },
+    {
+      "vendorCode": "JF",
+      "flavorName": "Mint",
+      "atfAverage": "0.88%"
+    },
+    {
+      "vendorCode": "JF",
+      "flavorName": "Spearmint",
+      "atfAverage": "0.75%"
+    },
+    {
+      "vendorCode": "JF",
+      "flavorName": "Sweetener",
+      "atfAverage": "0.76%"
+    },
+    {
+      "vendorCode": "LA",
+      "flavorName": "Butter",
+      "atfAverage": "0.69%"
+    },
+    {
+      "vendorCode": "LA",
+      "flavorName": "Buttered Popcorn",
+      "atfAverage": "0.56%"
+    },
+    {
+      "vendorCode": "LA",
+      "flavorName": "Cherry",
+      "atfAverage": "0.49%"
+    },
+    {
+      "vendorCode": "LA",
+      "flavorName": "Cinnamon Oil",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "LA",
+      "flavorName": "English Toffee",
+      "atfAverage": "0.32%"
+    },
+    {
+      "vendorCode": "LA",
+      "flavorName": "Maple",
+      "atfAverage": "0.80%"
+    },
+    {
+      "vendorCode": "LA",
+      "flavorName": "Pina Colada",
+      "atfAverage": "0.77%"
+    },
+    {
+      "vendorCode": "LA",
+      "flavorName": "Pumpkin",
+      "atfAverage": "0.31%"
+    },
+    {
+      "vendorCode": "LA",
+      "flavorName": "Tart and Sour",
+      "atfAverage": "0.53%"
+    },
+    {
+      "vendorCode": "MB",
+      "flavorName": "Acetyl Pyrazine AP-50",
+      "atfAverage": "0.68%"
+    },
+    {
+      "vendorCode": "MB",
+      "flavorName": "Anise Star",
+      "atfAverage": "0.40%"
+    },
+    {
+      "vendorCode": "MB",
+      "flavorName": "Ice Mint",
+      "atfAverage": "0.63%"
+    },
+    {
+      "vendorCode": "MB",
+      "flavorName": "Nut Hazelnut",
+      "atfAverage": "0.20%"
+    },
+    {
+      "vendorCode": "MB",
+      "flavorName": "Sweet Liquorice",
+      "atfAverage": "0.75%"
+    },
+    {
+      "vendorCode": "MB",
+      "flavorName": "Trimethyl Pyrazine TP-100",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "MB",
+      "flavorName": "Vanillin V-100",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "MF",
+      "flavorName": "Cherry, White",
+      "atfAverage": "0.89%"
+    },
+    {
+      "vendorCode": "MF",
+      "flavorName": "Fig",
+      "atfAverage": "0.05%"
+    },
+    {
+      "vendorCode": "MF",
+      "flavorName": "Grape, Sauvignon Blanc",
+      "atfAverage": "0.10%"
+    },
+    {
+      "vendorCode": "MF",
+      "flavorName": "Honey, Wildflower",
+      "atfAverage": "0.75%"
+    },
+    {
+      "vendorCode": "MF",
+      "flavorName": "Jasmine",
+      "atfAverage": "0.93%"
+    },
+    {
+      "vendorCode": "MF",
+      "flavorName": "Lime",
+      "atfAverage": "0.27%"
+    },
+    {
+      "vendorCode": "MF",
+      "flavorName": "Rum",
+      "atfAverage": "0.90%"
+    },
+    {
+      "vendorCode": "MF",
+      "flavorName": "Walnut",
+      "atfAverage": "0.46%"
+    },
+    {
+      "vendorCode": "MF",
+      "flavorName": "Wild Raspberry",
+      "atfAverage": "0.53%"
+    },
+    {
+      "vendorCode": "MFS",
+      "flavorName": "Kiwi Strawberry",
+      "atfAverage": "0.20%"
+    },
+    {
+      "vendorCode": "MFS",
+      "flavorName": "Tobacco Absolute",
+      "atfAverage": "0.33%"
+    },
+    {
+      "vendorCode": "MPV",
+      "flavorName": "American Blend Menthol",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "MPV",
+      "flavorName": "Apple Pie",
+      "atfAverage": "0.80%"
+    },
+    {
+      "vendorCode": "MPV",
+      "flavorName": "Go Nutz!",
+      "atfAverage": "0.88%"
+    },
+    {
+      "vendorCode": "NF",
+      "flavorName": "Allspice",
+      "atfAverage": "0.33%"
+    },
+    {
+      "vendorCode": "NF",
+      "flavorName": "Brown Sugar",
+      "atfAverage": "0.67%"
+    },
+    {
+      "vendorCode": "NF",
+      "flavorName": "Ginger",
+      "atfAverage": "0.56%"
+    },
+    {
+      "vendorCode": "NF",
+      "flavorName": "Graham Cracker",
+      "atfAverage": "0.40%"
+    },
+    {
+      "vendorCode": "NF",
+      "flavorName": "Honey",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "NF",
+      "flavorName": "Horseradish",
+      "atfAverage": "0.10%"
+    },
+    {
+      "vendorCode": "NF",
+      "flavorName": "Lemongrass",
+      "atfAverage": "0.10%"
+    },
+    {
+      "vendorCode": "NF",
+      "flavorName": "Malt",
+      "atfAverage": "0.85%"
+    },
+    {
+      "vendorCode": "NF",
+      "flavorName": "Nutmeg",
+      "atfAverage": "0.15%"
+    },
+    {
+      "vendorCode": "NN",
+      "flavorName": "Citric Acid Solutions (5% VG)",
+      "atfAverage": "0.87%"
+    },
+    {
+      "vendorCode": "NN",
+      "flavorName": "En Fuego",
+      "atfAverage": "0.65%"
+    },
+    {
+      "vendorCode": "NN",
+      "flavorName": "Ethyl Maltol Solutions (15% EtOH)",
+      "atfAverage": "0.90%"
+    },
+    {
+      "vendorCode": "NN",
+      "flavorName": "Malic Acid Solutions (10% PG)",
+      "atfAverage": "0.95%"
+    },
+    {
+      "vendorCode": "NN",
+      "flavorName": "Mango",
+      "atfAverage": "0.75%"
+    },
+    {
+      "vendorCode": "NN",
+      "flavorName": "Stevia Solutions (10% PG)",
+      "atfAverage": "0.88%"
+    },
+    {
+      "vendorCode": "NN",
+      "flavorName": "Sucralose Solutions (10% PG)",
+      "atfAverage": "0.71%"
+    },
+    {
+      "vendorCode": "NN",
+      "flavorName": "Sucralose Solutions (15% EtOH)",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "NN",
+      "flavorName": "Sucralose Solutions (5% VG)",
+      "atfAverage": "0.87%"
+    },
+    {
+      "vendorCode": "NN",
+      "flavorName": "Tartaric Acid Solutions (5%)",
+      "atfAverage": "0.40%"
+    },
+    {
+      "vendorCode": "NN",
+      "flavorName": "Tobacco",
+      "atfAverage": "0.81%"
+    },
+    {
+      "vendorCode": "NR",
+      "flavorName": "Boysenberry Pie",
+      "atfAverage": "0.65%"
+    },
+    {
+      "vendorCode": "NR",
+      "flavorName": "Caramel",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "NR",
+      "flavorName": "Dragon Fruit",
+      "atfAverage": "0.88%"
+    },
+    {
+      "vendorCode": "NR",
+      "flavorName": "Super Sweet",
+      "atfAverage": "0.67%"
+    },
+    {
+      "vendorCode": "NR",
+      "flavorName": "Tobacco Original",
+      "atfAverage": "0.75%"
+    },
+    {
+      "vendorCode": "NR",
+      "flavorName": "Waffle Crunch",
+      "atfAverage": "0.20%"
+    },
+    {
+      "vendorCode": "NTE",
+      "flavorName": "Concentrated Liquid Sucralose",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "OOO",
+      "flavorName": "Acetyl Pyrazine (PG)",
+      "atfAverage": "0.78%"
+    },
+    {
+      "vendorCode": "OOO",
+      "flavorName": "Acetyl Pyrazine (VG)",
+      "atfAverage": "0.10%"
+    },
+    {
+      "vendorCode": "OOO",
+      "flavorName": "Basil",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "OOO",
+      "flavorName": "Coconut Cream Pie",
+      "atfAverage": "0.80%"
+    },
+    {
+      "vendorCode": "OOO",
+      "flavorName": "Dark Chocolate Candy Roll",
+      "atfAverage": "0.75%"
+    },
+    {
+      "vendorCode": "OOO",
+      "flavorName": "Dulce de Leche",
+      "atfAverage": "0.40%"
+    },
+    {
+      "vendorCode": "OOO",
+      "flavorName": "Ethyl Maltol PG",
+      "atfAverage": "0.43%"
+    },
+    {
+      "vendorCode": "OOO",
+      "flavorName": "Ethyl Maltol VG",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "OOO",
+      "flavorName": "Ginger Pumpkin Spice Latte",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "OOO",
+      "flavorName": "Honey",
+      "atfAverage": "0.10%"
+    },
+    {
+      "vendorCode": "OOO",
+      "flavorName": "Marshmallow Cereal VG",
+      "atfAverage": "0.40%"
+    },
+    {
+      "vendorCode": "OOO",
+      "flavorName": "Pineapple Orange Banana Sorbet",
+      "atfAverage": "0.25%"
+    },
+    {
+      "vendorCode": "OOO",
+      "flavorName": "Pistachio Pudding",
+      "atfAverage": "0.75%"
+    },
+    {
+      "vendorCode": "OOO",
+      "flavorName": "Real Honey",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "OOO",
+      "flavorName": "Red Sour Cherry",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "OOO",
+      "flavorName": "Root Beer Float",
+      "atfAverage": "0.25%"
+    },
+    {
+      "vendorCode": "OOO",
+      "flavorName": "Sucralose 15% PG",
+      "atfAverage": "0.43%"
+    },
+    {
+      "vendorCode": "OOO",
+      "flavorName": "Sweet Dates",
+      "atfAverage": "0.27%"
+    },
+    {
+      "vendorCode": "OOO",
+      "flavorName": "Sweet Ice Cream",
+      "atfAverage": "0.70%"
+    },
+    {
+      "vendorCode": "OOO",
+      "flavorName": "Sweetener",
+      "atfAverage": "0.75%"
+    },
+    {
+      "vendorCode": "OOO",
+      "flavorName": "Watermelon Candy",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "OOO",
+      "flavorName": "West Wing Tobacco (PG)",
+      "atfAverage": "0.30%"
+    },
+    {
+      "vendorCode": "OOO",
+      "flavorName": "Whipped Cream",
+      "atfAverage": "0.93%"
+    },
+    {
+      "vendorCode": "OSD",
+      "flavorName": "Tennessee Whiskey",
+      "atfAverage": "0.20%"
+    },
+    {
+      "vendorCode": "OTHR",
+      "flavorName": "Acetyl Pyrazine 5%",
+      "atfAverage": "0.66%"
+    },
+    {
+      "vendorCode": "OTHR",
+      "flavorName": "Cinnamon Sugar Daddy (TBV Rick)",
+      "atfAverage": "0.86%"
+    },
+    {
+      "vendorCode": "OTHR",
+      "flavorName": "Citric Acid 10%",
+      "atfAverage": "0.76%"
+    },
+    {
+      "vendorCode": "OTHR",
+      "flavorName": "Saline (0.9%)",
+      "atfAverage": "0.86%"
+    },
+    {
+      "vendorCode": "OTHR",
+      "flavorName": "WS-23",
+      "atfAverage": "0.92%"
+    },
+    {
+      "vendorCode": "PUR",
+      "flavorName": "Citrus Menthol",
+      "atfAverage": "0.91%"
+    },
+    {
+      "vendorCode": "PUR",
+      "flavorName": "Lemon Sicilian",
+      "atfAverage": "0.85%"
+    },
+    {
+      "vendorCode": "PUR",
+      "flavorName": "Super Sweet",
+      "atfAverage": "0.54%"
+    },
+    {
+      "vendorCode": "RF",
+      "flavorName": "Almond",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "RF",
+      "flavorName": "Baked Bread – SC",
+      "atfAverage": "0.58%"
+    },
+    {
+      "vendorCode": "RF",
+      "flavorName": "Black Raspberry – Super Concentrate",
+      "atfAverage": "0.75%"
+    },
+    {
+      "vendorCode": "RF",
+      "flavorName": "Blood Orange - PDO",
+      "atfAverage": "0.30%"
+    },
+    {
+      "vendorCode": "RF",
+      "flavorName": "Blueberry – Super Concentrate",
+      "atfAverage": "0.80%"
+    },
+    {
+      "vendorCode": "RF",
+      "flavorName": "Brown Sugar – SC",
+      "atfAverage": "0.25%"
+    },
+    {
+      "vendorCode": "RF",
+      "flavorName": "Brown Sugar",
+      "atfAverage": "0.64%"
+    },
+    {
+      "vendorCode": "RF",
+      "flavorName": "Cheesecake – SC",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "RF",
+      "flavorName": "Chocolate Cake",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "RF",
+      "flavorName": "Cinnamon Toast – SC",
+      "atfAverage": "0.67%"
+    },
+    {
+      "vendorCode": "RF",
+      "flavorName": "Condensed Milk – SC",
+      "atfAverage": "0.88%"
+    },
+    {
+      "vendorCode": "RF",
+      "flavorName": "Cream Cheese – SC",
+      "atfAverage": "0.38%"
+    },
+    {
+      "vendorCode": "RF",
+      "flavorName": "Cream – SC",
+      "atfAverage": "0.67%"
+    },
+    {
+      "vendorCode": "RF",
+      "flavorName": "Cucumber",
+      "atfAverage": "0.02%"
+    },
+    {
+      "vendorCode": "RF",
+      "flavorName": "Eggnog",
+      "atfAverage": "0.75%"
+    },
+    {
+      "vendorCode": "RF",
+      "flavorName": "Honey – SC",
+      "atfAverage": "0.67%"
+    },
+    {
+      "vendorCode": "RF",
+      "flavorName": "Kiwi",
+      "atfAverage": "0.83%"
+    },
+    {
+      "vendorCode": "RF",
+      "flavorName": "Lemon Cake",
+      "atfAverage": "0.20%"
+    },
+    {
+      "vendorCode": "RF",
+      "flavorName": "Malic Acid",
+      "atfAverage": "0.90%"
+    },
+    {
+      "vendorCode": "RF",
+      "flavorName": "Marshmallow – SC",
+      "atfAverage": "0.75%"
+    },
+    {
+      "vendorCode": "RF",
+      "flavorName": "Meringue – SC",
+      "atfAverage": "0.67%"
+    },
+    {
+      "vendorCode": "RF",
+      "flavorName": "Molasses – SC",
+      "atfAverage": "0.85%"
+    },
+    {
+      "vendorCode": "RF",
+      "flavorName": "Nutmeg – SC",
+      "atfAverage": "0.48%"
+    },
+    {
+      "vendorCode": "RF",
+      "flavorName": "Pear – Super Concentrate",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "RF",
+      "flavorName": "Pumpkin Pie – Super Concentrate",
+      "atfAverage": "0.20%"
+    },
+    {
+      "vendorCode": "RF",
+      "flavorName": "Spearmint",
+      "atfAverage": "0.20%"
+    },
+    {
+      "vendorCode": "RF",
+      "flavorName": "Sriracha – Super Concentrate",
+      "atfAverage": "0.10%"
+    },
+    {
+      "vendorCode": "SA",
+      "flavorName": "ETHYL VANILLINE SOLUTION A 20%",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "SA",
+      "flavorName": "ETHYLGUAIACOL - SMOKY",
+      "atfAverage": "0.11%"
+    },
+    {
+      "vendorCode": "SA",
+      "flavorName": "Furaneol caramélique",
+      "atfAverage": "0.40%"
+    },
+    {
+      "vendorCode": "SA",
+      "flavorName": "GAUFRE",
+      "atfAverage": "0.10%"
+    },
+    {
+      "vendorCode": "SA",
+      "flavorName": "Jacynthe",
+      "atfAverage": "0.20%"
+    },
+    {
+      "vendorCode": "SA",
+      "flavorName": "Myrte",
+      "atfAverage": "0.68%"
+    },
+    {
+      "vendorCode": "SA",
+      "flavorName": "Nuage Mystic",
+      "atfAverage": "0.30%"
+    },
+    {
+      "vendorCode": "SA",
+      "flavorName": "Pain Grillé",
+      "atfAverage": "0.67%"
+    },
+    {
+      "vendorCode": "SA",
+      "flavorName": "pamplemousse rose floride",
+      "atfAverage": "0.20%"
+    },
+    {
+      "vendorCode": "SC",
+      "flavorName": "Arabic Tobacco",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "SC",
+      "flavorName": "Espresso",
+      "atfAverage": "0.94%"
+    },
+    {
+      "vendorCode": "SC",
+      "flavorName": "Lemon",
+      "atfAverage": "0.94%"
+    },
+    {
+      "vendorCode": "SC",
+      "flavorName": "Lemonade",
+      "atfAverage": "0.25%"
+    },
+    {
+      "vendorCode": "SC",
+      "flavorName": "Pina Colada",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "SC",
+      "flavorName": "USA Mix",
+      "atfAverage": "0.57%"
+    },
+    {
+      "vendorCode": "SC",
+      "flavorName": "Western Tobacco",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "SC",
+      "flavorName": "Whisky",
+      "atfAverage": "0.20%"
+    },
+    {
+      "vendorCode": "SCE",
+      "flavorName": "Coffee Espresso",
+      "atfAverage": "0.70%"
+    },
+    {
+      "vendorCode": "SI",
+      "flavorName": "Black Tea",
+      "atfAverage": "0.30%"
+    },
+    {
+      "vendorCode": "SI",
+      "flavorName": "Hot Chocolate",
+      "atfAverage": "0.30%"
+    },
+    {
+      "vendorCode": "SI",
+      "flavorName": "Lavender",
+      "atfAverage": "0.30%"
+    },
+    {
+      "vendorCode": "SI",
+      "flavorName": "Smoothie",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "SM",
+      "flavorName": "Dark Fire",
+      "atfAverage": "0.67%"
+    },
+    {
+      "vendorCode": "TPA",
+      "flavorName": "Acetyl Pyrazine 5%",
+      "atfAverage": "0.62%"
+    },
+    {
+      "vendorCode": "TPA",
+      "flavorName": "Bitter Nut Extra",
+      "atfAverage": "0.10%"
+    },
+    {
+      "vendorCode": "TPA",
+      "flavorName": "Brown Sugar",
+      "atfAverage": "0.87%"
+    },
+    {
+      "vendorCode": "TPA",
+      "flavorName": "Butter",
+      "atfAverage": "0.69%"
+    },
+    {
+      "vendorCode": "TPA",
+      "flavorName": "Cinnamon (no Pg)",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "TPA",
+      "flavorName": "Cinnamon Spice",
+      "atfAverage": "0.53%"
+    },
+    {
+      "vendorCode": "TPA",
+      "flavorName": "DX Brown Sugar",
+      "atfAverage": "0.74%"
+    },
+    {
+      "vendorCode": "TPA",
+      "flavorName": "Damascone Beta",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "TPA",
+      "flavorName": "Gingerbread Extra Ginger",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "TPA",
+      "flavorName": "Hickory Smoke",
+      "atfAverage": "0.36%"
+    },
+    {
+      "vendorCode": "TPA",
+      "flavorName": "Holiday Spice",
+      "atfAverage": "0.55%"
+    },
+    {
+      "vendorCode": "TPA",
+      "flavorName": "Koolada 10 Pg",
+      "atfAverage": "0.94%"
+    },
+    {
+      "vendorCode": "TPA",
+      "flavorName": "Lime (essential Oil)",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "TPA",
+      "flavorName": "Red Oak",
+      "atfAverage": "0.87%"
+    },
+    {
+      "vendorCode": "TPA",
+      "flavorName": "Smooth",
+      "atfAverage": "0.68%"
+    },
+    {
+      "vendorCode": "TPA",
+      "flavorName": "Sweet Woodruff",
+      "atfAverage": "0.72%"
+    },
+    {
+      "vendorCode": "TPA",
+      "flavorName": "Tiramisu",
+      "atfAverage": "0.69%"
+    },
+    {
+      "vendorCode": "TS",
+      "flavorName": "Blackberry",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "TS",
+      "flavorName": "Cookie Dough",
+      "atfAverage": "0.77%"
+    },
+    {
+      "vendorCode": "TS",
+      "flavorName": "Creamy Vanilla",
+      "atfAverage": "0.63%"
+    },
+    {
+      "vendorCode": "TS",
+      "flavorName": "Fresh Menthol",
+      "atfAverage": "0.60%"
+    },
+    {
+      "vendorCode": "TS",
+      "flavorName": "Graham Cracker",
+      "atfAverage": "0.65%"
+    },
+    {
+      "vendorCode": "TS",
+      "flavorName": "Honey Milk",
+      "atfAverage": "0.63%"
+    },
+    {
+      "vendorCode": "TS",
+      "flavorName": "Kapn Krunch",
+      "atfAverage": "0.30%"
+    },
+    {
+      "vendorCode": "TS",
+      "flavorName": "Melon Madness",
+      "atfAverage": "0.40%"
+    },
+    {
+      "vendorCode": "TS",
+      "flavorName": "Oatmeal Cookie",
+      "atfAverage": "0.38%"
+    },
+    {
+      "vendorCode": "TS",
+      "flavorName": "Sour Pucker",
+      "atfAverage": "0.70%"
+    },
+    {
+      "vendorCode": "TS",
+      "flavorName": "Sugar Cookie",
+      "atfAverage": "0.83%"
+    },
+    {
+      "vendorCode": "TS",
+      "flavorName": "Sweet Tart",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "TS",
+      "flavorName": "Vicious Vanillin",
+      "atfAverage": "0.20%"
+    },
+    {
+      "vendorCode": "TS",
+      "flavorName": "White Cake",
+      "atfAverage": "0.35%"
+    },
+    {
+      "vendorCode": "TS",
+      "flavorName": "Yogurt",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "TW",
+      "flavorName": "Chocolate (GS)",
+      "atfAverage": "0.75%"
+    },
+    {
+      "vendorCode": "TW",
+      "flavorName": "Gooseberry (GS)",
+      "atfAverage": "0.25%"
+    },
+    {
+      "vendorCode": "TW",
+      "flavorName": "Mixed Fruit (GS)",
+      "atfAverage": "0.80%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Arabica Coffee",
+      "atfAverage": "0.79%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Bakery Spice Blend",
+      "atfAverage": "0.18%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Bergamot",
+      "atfAverage": "0.69%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Bitters",
+      "atfAverage": "0.64%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Butter Base",
+      "atfAverage": "0.73%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Caffè Latte",
+      "atfAverage": "0.65%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Cardamom",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Chai Masala",
+      "atfAverage": "0.72%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Coconut",
+      "atfAverage": "0.80%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Double Mint",
+      "atfAverage": "0.47%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Grapefruit",
+      "atfAverage": "0.71%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Green Mango",
+      "atfAverage": "0.57%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Hard Crack Toffee",
+      "atfAverage": "0.53%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Ice Coffee",
+      "atfAverage": "0.81%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Ice Mango",
+      "atfAverage": "0.75%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Lavender Sweet",
+      "atfAverage": "0.75%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Milkshake Base",
+      "atfAverage": "0.83%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Red Bean",
+      "atfAverage": "0.57%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Rose",
+      "atfAverage": "0.50%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Snake Fruit",
+      "atfAverage": "0.75%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Sugar Cane",
+      "atfAverage": "0.86%"
+    },
+    {
+      "vendorCode": "VT",
+      "flavorName": "Swiss Chocolate",
+      "atfAverage": "0.68%"
+    },
+    {
+      "vendorCode": "VV",
+      "flavorName": "Black Ice",
+      "atfAverage": "0.77%"
+    },
+    {
+      "vendorCode": "VV",
+      "flavorName": "Bubblegum",
+      "atfAverage": "0.75%"
+    },
+    {
+      "vendorCode": "VZ",
+      "flavorName": "Peanut Butter",
+      "atfAverage": "0.19%"
+    },
+    {
+      "vendorCode": "VZ",
+      "flavorName": "SC Gourmet Coffee Liqueur",
+      "atfAverage": "0.75%"
+    },
+    {
+      "vendorCode": "VZ",
+      "flavorName": "SC Gourmet Strawberry Flavoring",
+      "atfAverage": "0.63%"
+    },
+    {
+      "vendorCode": "WF",
+      "flavorName": "Brazilian Coffee SC",
+      "atfAverage": "0.69%"
+    },
+    {
+      "vendorCode": "WF",
+      "flavorName": "Double Mint SC",
+      "atfAverage": "0.90%"
+    },
+    {
+      "vendorCode": "WF",
+      "flavorName": "Honey Roasted Peanuts SC",
+      "atfAverage": "0.90%"
+    },
+    {
+      "vendorCode": "WF",
+      "flavorName": "Milk SC",
+      "atfAverage": "0.70%"
+    },
+    {
+      "vendorCode": "WF",
+      "flavorName": "Molasses SC",
+      "atfAverage": "0.90%"
+    },
+    {
+      "vendorCode": "WF",
+      "flavorName": "Sesame Candy SC",
+      "atfAverage": "0.70%"
+    },
+    {
+      "vendorCode": "WF",
+      "flavorName": "Soursop SC",
+      "atfAverage": "0.79%"
+    },
+    {
+      "vendorCode": "WF",
+      "flavorName": "Sweetener SC",
+      "atfAverage": "0.74%"
+    }
+  ]
+}

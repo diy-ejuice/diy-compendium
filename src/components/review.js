@@ -7,7 +7,7 @@ import SEO from 'components/seo';
 import NotFoundPage from 'pages/404';
 import Layout from 'components/layout';
 
-const ReviewPage = ({ data }) => {
+export default function ReviewPage({ data }) {
   if (!data || !data.reviewsJson) {
     return <NotFoundPage />;
   }
@@ -24,7 +24,10 @@ const ReviewPage = ({ data }) => {
 
   return (
     <Layout>
-      <SEO title={title} />
+      <SEO
+        title={title}
+        description={`A review of ${name} ${title} by ${author}`}
+      />
       <Container>
         <Row>
           <Col>
@@ -53,16 +56,13 @@ const ReviewPage = ({ data }) => {
       </Container>
     </Layout>
   );
-};
+}
 
-ReviewPage.displayName = 'ReviewPage';
 ReviewPage.propTypes = {
   data: PropTypes.shape({
     reviewsJson: PropTypes.arrayOf(PropTypes.object)
   })
 };
-
-export default ReviewPage;
 
 export const pageQuery = graphql`
   query ($title: String!, $code: String!) {
