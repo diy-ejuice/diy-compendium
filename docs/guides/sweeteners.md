@@ -36,7 +36,6 @@ The primary active ingredient in vaping sweetener is sucralose. The following ta
 | CAP    | Super Sweet        | 30%                              |
 | FW     | Sweetener          | 20%                              |
 | TPA    | Sweetener          | 10%                              |
-| FLV    | Sweetness          | 10%                              |
 | TBV    | Rick's Sugar Daddy | 5-10%                            |
 
 ## Additional Ingredients
