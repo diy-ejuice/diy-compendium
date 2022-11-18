@@ -56,22 +56,21 @@ Vendors who sell most or all of the things you need to get started in DIY. Below
 
 While some of these vendors sell more than just nicotine, they're either known primarily for nicotine or have the most competitive prices.
 
-|                              Vendor                               | Location |        Brand(s)        | Nic Salts |         Vendor Review          |
-| :---------------------------------------------------------------: | :------: | :--------------------: | :-------: | :----------------------------: |
-|             [Avid Vaper](https://www.avidvaper.com/)              |    US    |                        |           |                                |
-|         [CarolinaXtract](https://www.carolinaxtract.com/)         |    US    | Supercritical Nicotine |    ✅     | [Link](https://redd.it/bb7rp9) |
-|         [Central Vapors](https://www.centralvapors.com/)          |    US    |                        |    ✅     |                                |
-| [Heartland Vapes](https://wholesale.heartlandvapes.com/)[^pickup] |    US    |                        |    ✅     |                                |
-|         [Kidney Puncher](https://www.kidneypuncher.com/)          |    US    |                        |           |                                |
-|           [Nicotine UK](https://www.nicotineuk.co.uk/)            |    UK    |                        |           |                                |
-|         [Nicotine Giant](https://www.nicotinegiant.com/)          |    US    |                        |    ✅     |                                |
-|            [Nicotine Hub](https://nicotinehub.co.uk/)             |    UK    |                        |    ✅     |                                |
-|              [PerfectVape](https://perfectvape.com/)              |    US    |                        |    ✅     |                                |
-|      [My E-Liquid Supplies](https://myeliquidsupplies.com/)       |    UK    |                        |           |                                |
-|             [The Vape Mall](https://thevapemall.com/)             |    US    |                        |    ✅     |                                |
-|            [VapeCraft Inc](https://vapecraftinc.com/)             |    US    |                        |           |                                |
-|            [VapourEyes](https://www.vapoureyes.co.nz/)            |    NZ    |                        |    ✅     |                                |
-|          [Wizard Labs](https://wizardlabs.us/)[^pickup]           |    US    |                        |    ✅     |                                |
+|                              Vendor                               | Location | Brand(s) | Nic Salts | Vendor Review |
+| :---------------------------------------------------------------: | :------: | :------: | :-------: | :-----------: |
+|             [Avid Vaper](https://www.avidvaper.com/)              |    US    |          |           |               |
+|         [Central Vapors](https://www.centralvapors.com/)          |    US    |          |    ✅     |               |
+| [Heartland Vapes](https://wholesale.heartlandvapes.com/)[^pickup] |    US    |          |    ✅     |               |
+|         [Kidney Puncher](https://www.kidneypuncher.com/)          |    US    |          |           |               |
+|           [Nicotine UK](https://www.nicotineuk.co.uk/)            |    UK    |          |           |               |
+|         [Nicotine Giant](https://www.nicotinegiant.com/)          |    US    |          |    ✅     |               |
+|            [Nicotine Hub](https://nicotinehub.co.uk/)             |    UK    |          |    ✅     |               |
+|              [PerfectVape](https://perfectvape.com/)              |    US    |          |    ✅     |               |
+|      [My E-Liquid Supplies](https://myeliquidsupplies.com/)       |    UK    |          |           |               |
+|             [The Vape Mall](https://thevapemall.com/)             |    US    |          |    ✅     |               |
+|            [VapeCraft Inc](https://vapecraftinc.com/)             |    US    |          |           |               |
+|            [VapourEyes](https://www.vapoureyes.co.nz/)            |    NZ    |          |    ✅     |               |
+|          [Wizard Labs](https://wizardlabs.us/)[^pickup]           |    US    |          |    ✅     |               |
 
 ## Bases (VG/PG/PEG/PDO)
 
