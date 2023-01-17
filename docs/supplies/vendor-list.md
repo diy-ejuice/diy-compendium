@@ -106,6 +106,7 @@ Oneshots are basically recipes in a bottle. Instead of using all the flavors ind
 
 |                        Vendor                         | Location | # of Oneshots | Shortfill[^shortfills] | Bottle Shots[^bottleshots] |         Vendor Review          |
 | :---------------------------------------------------: | :------: | :-----------: | :--------------------: | :------------------------: | :----------------------------: |
+|          [B-X Flavor](https://bxflavor.com/)          |    US    |      ~16      |                        |                            |                                |
 |   [ChefsFlavours](https://www.chefsflavours.co.uk/)   |    UK    |     400+      |           ✅           |             ✅             | [Link](https://redd.it/advlcf) |
 | [DIY Flavor Chaser](https://link.diyejuice.org/diyfc) |    CA    |      60       |                        |                            | [Link](https://redd.it/fvyvlh) |
 |        [DripHacks](https://www.driphacks.com/)        |    UK    |      44       |           ✅           |                            | [Link](https://redd.it/c57io0) |
