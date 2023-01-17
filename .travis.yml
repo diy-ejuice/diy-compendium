@@ -1,8 +1,8 @@
 language: node_js
 os: linux
-dist: xenial
+dist: focal
 node_js:
-  - 16
+  - 18
 deploy:
   provider: pages
   strategy: git
