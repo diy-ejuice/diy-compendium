@@ -6,10 +6,10 @@ name: Deploy Gatsby site to Pages
 
 env:
   GA_TRACKING_ID: ${{ vars.GA_TRACKING_ID }}
-  NOTED_PG_CONNECTION_STRING: ${{ vars.NOTED_PG_CONNECTION_STRING }}
-  DOCSEARCH_APP_ID: ${{ vars.DOCSEARCH_APP_ID }}
-  DOCSEARCH_API_KEY: ${{ vars.DOCSEARCH_API_KEY }}
-  DOCSEARCH_INDEX_NAME: ${{ vars.DOCSEARCH_INDEX_NAME }}
+  NOTED_PG_CONNECTION_STRING: ${{ secrets.NOTED_PG_CONNECTION_STRING }}
+  DOCSEARCH_APP_ID: ${{ secrets.DOCSEARCH_APP_ID }}
+  DOCSEARCH_API_KEY: ${{ secrets.DOCSEARCH_API_KEY }}
+  DOCSEARCH_INDEX_NAME: ${{ secrets.DOCSEARCH_INDEX_NAME }}
 
 on:
   # Runs on pushes targeting the default branch
@@ -83,7 +83,7 @@ jobs:
         run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
       - name: Build with Gatsby
         env:
-          PREFIX_PATHS: 'true'
+          PREFIX_PATHS: "true"
         run: ${{ steps.detect-package-manager.outputs.manager }} run build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
