@@ -28,6 +28,7 @@ Vendors who sell most or all of the things you need to get started in DIY. Below
 |             [Driphacks](https://www.driphacks.com/)             |    UK    | ✅  |  ✅   |         ✅          |   ✅    |         ✅          |
 |            [EuroFlavor](https://www.euroflavor.com/)            |    US    |     |  ✅   |                     |   ✅    |                     | [Link](https://redd.it/414rke) |
 |      [Everything Liquid](https://everythingliquid.co.uk/)       |    UK    | ✅  |  ✅   |         ✅          |   ✅    |         ✅          |                                |
+|                   [Flvrs](https://flvrs.co/)                    |    US    |     |  ✅   |         ✅          |   ✅    |                     |                                |
 |             [Flavour Fog](https://flavourfog.com/)              |    CA    |     |  ✅   |         ✅          |   ✅    |                     |                                |
 |           [Flavor Jungle](https://flavorjungle.com/)            |    US    |     |       |         ✅          |   ✅    |         ✅          | [Link](https://redd.it/g92mvm) |
 |          [Flavours River](https://flavoursriver.com/)           |    SA    |     |  ✅   |         ✅          |   ✅    |         ✅          |                                |
