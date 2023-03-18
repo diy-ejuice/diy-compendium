@@ -6,7 +6,6 @@ name: Deploy Gatsby site to Pages
 
 env:
   GA_TRACKING_ID: ${{ vars.GA_TRACKING_ID }}
-  NOTED_PG_CONNECTION_STRING: ${{ secrets.NOTED_PG_CONNECTION_STRING }}
   DOCSEARCH_APP_ID: ${{ secrets.DOCSEARCH_APP_ID }}
   DOCSEARCH_API_KEY: ${{ secrets.DOCSEARCH_API_KEY }}
   DOCSEARCH_INDEX_NAME: ${{ secrets.DOCSEARCH_INDEX_NAME }}

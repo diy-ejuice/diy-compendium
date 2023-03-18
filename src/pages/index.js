@@ -113,7 +113,7 @@ export const query = graphql`
   query {
     allMarkdownRemark(
       filter: { frontmatter: { featured: { eq: true } } }
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { frontmatter: { date: DESC } }
     ) {
       nodes {
         frontmatter {

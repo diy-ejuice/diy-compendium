@@ -87,7 +87,6 @@ const menuData = {
     icon: faYoutube,
     title: 'Media',
     links: [
-      { to: '/noted', title: 'Noted Episodes' },
       { to: '/media/videos', title: 'Videos' },
       { to: '/media/podcasts', title: 'Podcasts' }
     ]
@@ -182,6 +181,7 @@ export default function Header({ siteTitle = '' }) {
                   {links.map((link) =>
                     link.external ? (
                       <NavDropdown.Item
+                        key={link.to}
                         href={link.to}
                         target="_blank"
                         rel="noopener noreferrer"
