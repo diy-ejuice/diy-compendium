@@ -55,6 +55,7 @@ const remarkPlugins = [
 ];
 
 module.exports = {
+  trailingSlash: 'never',
   siteMetadata: {
     title: 'DIY Compendium',
     author: 'ayan4m1',
@@ -81,14 +82,6 @@ module.exports = {
       options: {
         name: 'content',
         path: `${__dirname}/content`
-      }
-    },
-    {
-      resolve: 'gatsby-source-pg',
-      options: {
-        connectionString: process.env.NOTED_PG_CONNECTION_STRING,
-        schema: 'public',
-        refetchInterval: 60
       }
     },
     {
