@@ -87,6 +87,7 @@ const menuData = {
     icon: faYoutube,
     title: 'Media',
     links: [
+      { to: '/flavors/flavor-of-the-week', title: 'Noted Episodes' },
       { to: '/media/videos', title: 'Videos' },
       { to: '/media/podcasts', title: 'Podcasts' }
     ]
