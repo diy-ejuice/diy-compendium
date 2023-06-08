@@ -4,19 +4,17 @@ import {
 } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { graphql } from 'gatsby';
-import { GatsbyImage, getImage, StaticImage } from 'gatsby-plugin-image';
+import { GatsbyImage, getImage } from 'gatsby-plugin-image';
 import PropTypes from 'prop-types';
 import { Container, Row, Col, Carousel } from 'react-bootstrap';
 
 import SEO from 'components/seo';
 import Layout from 'components/layout';
-import FeaturedPoll from 'components/featured/poll';
 import FeaturedPost from 'components/featured/post';
 
 export default function IndexPage({ data }) {
   const {
     allMarkdownRemark: { nodes },
-    allPollsJson: { nodes: polls },
     allFile: { nodes: images }
   } = data;
   const findImage = (url) =>
@@ -44,22 +42,6 @@ export default function IndexPage({ data }) {
     }))
   );
 
-  featured.push.apply(
-    featured,
-    polls.map((poll) => ({
-      ...poll,
-      type: 'poll',
-      image: (
-        <StaticImage
-          src="../images/featured/diy-poll.png"
-          alt="Featured Poll"
-        />
-      )
-    }))
-  );
-
-  console.dir(featured);
-
   return (
     <Layout>
       <SEO title="Home" />
@@ -85,12 +67,6 @@ export default function IndexPage({ data }) {
                     return (
                       <Carousel.Item key={node.title}>
                         <FeaturedPost {...node} />
-                      </Carousel.Item>
-                    );
-                  case 'poll':
-                    return (
-                      <Carousel.Item key={node.title}>
-                        <FeaturedPoll {...node} />
                       </Carousel.Item>
                     );
                   default:
@@ -124,13 +100,6 @@ export const query = graphql`
           path
           title
         }
-      }
-    }
-
-    allPollsJson {
-      nodes {
-        url
-        title
       }
     }
 
