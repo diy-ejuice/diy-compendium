@@ -13,11 +13,7 @@ import {
   faVial,
   faBox
 } from '@fortawesome/free-solid-svg-icons';
-import {
-  faDiscord,
-  faRedditAlien,
-  faYoutube
-} from '@fortawesome/free-brands-svg-icons';
+import { faDiscord, faYoutube } from '@fortawesome/free-brands-svg-icons';
 
 import NavDropdown from 'react-bootstrap/NavDropdown';
 import TitleIcon from './titleIcon';
@@ -144,16 +140,7 @@ export default function Header({ siteTitle = '' }) {
               <Button variant="secondary">Quick Start</Button>
             </Nav.Link>
             <Nav.Link
-              href="https://reddit.com/r/DIY_eJuice"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <Button variant="secondary">
-                <FontAwesomeIcon icon={faRedditAlien} size="lg" /> /r/DIY_eJuice
-              </Button>
-            </Nav.Link>
-            <Nav.Link
-              href="http://discord.gg/ejuice"
+              href="https://discord.gg/ejuice"
               target="_blank"
               rel="noopener noreferrer"
             >
