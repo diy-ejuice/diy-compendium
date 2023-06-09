@@ -2,4 +2,9 @@
   .input-group-text {
     padding: 0 6px;
   }
+
+  &-input {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+  }
 }
