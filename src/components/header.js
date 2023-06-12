@@ -80,7 +80,8 @@ const menuData = {
       { to: '/flavors/facts', title: 'Facts' },
       { to: '/flavors/rebranding', title: 'Rebranding' },
       { to: '/flavors/sft', title: 'Single Flavor Testing' },
-      { to: '/flavors/best-of', title: 'Best of' }
+      { to: '/flavors/best-of', title: 'Best of' },
+      { to: '/gromomf', title: 'Getting Rid of Most of My Flavors' }
     ]
   },
   media: {
