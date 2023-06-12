@@ -2,7 +2,7 @@ import { Link } from 'gatsby';
 import PropTypes from 'prop-types';
 import { Row, Col } from 'react-bootstrap';
 
-export default function FeaturedPost({ author, image, path, title, headline }) {
+export default function FeaturedPost({ author, image, path, title, excerpt }) {
   return (
     <Row>
       <Col md={1}></Col>
@@ -13,7 +13,7 @@ export default function FeaturedPost({ author, image, path, title, headline }) {
             <h5>{title}</h5>
           </Link>
           <p>by {author}</p>
-          <p>{headline}</p>
+          <p>{excerpt}</p>
         </div>
       </Col>
       <Col md={1}></Col>
@@ -26,5 +26,5 @@ FeaturedPost.propTypes = {
   image: PropTypes.node,
   path: PropTypes.string.isRequired,
   title: PropTypes.string.isRequired,
-  headline: PropTypes.string
+  excerpt: PropTypes.string
 };

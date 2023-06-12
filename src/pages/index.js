@@ -26,22 +26,6 @@ export default function IndexPage({ data }) {
         )
       : {};
 
-  const featured = [];
-
-  featured.push.apply(
-    featured,
-    nodes.slice(0, Math.min(nodes.length, 5)).map((node) => ({
-      ...node.frontmatter,
-      type: 'post',
-      image: (
-        <GatsbyImage
-          image={findImage(node.frontmatter.image)}
-          alt="Featured Post"
-        />
-      )
-    }))
-  );
-
   return (
     <Layout>
       <SEO title="Home" />
@@ -59,20 +43,20 @@ export default function IndexPage({ data }) {
                 <FontAwesomeIcon icon={faArrowCircleLeft} color="black" />
               }
             >
-              {featured.map((node) => {
-                const { type } = node;
-
-                switch (type) {
-                  case 'post':
-                    return (
-                      <Carousel.Item key={node.title}>
-                        <FeaturedPost {...node} />
-                      </Carousel.Item>
-                    );
-                  default:
-                    return null;
-                }
-              })}
+              {nodes.map((node) => (
+                <Carousel.Item key={node.frontmatter.title}>
+                  <FeaturedPost
+                    {...node.frontmatter}
+                    image={
+                      <GatsbyImage
+                        image={findImage(node.frontmatter.image)}
+                        alt="Featured Post"
+                      />
+                    }
+                    excerpt={node.excerpt}
+                  />
+                </Carousel.Item>
+              ))}
             </Carousel>
           </Col>
         </Row>
@@ -90,16 +74,17 @@ export const query = graphql`
     allMarkdownRemark(
       filter: { frontmatter: { featured: { eq: true } } }
       sort: { frontmatter: { date: DESC } }
+      limit: 5
     ) {
       nodes {
         frontmatter {
           author
           featured
-          headline
           image
           path
           title
         }
+        excerpt(pruneLength: 400)
       }
     }
 
