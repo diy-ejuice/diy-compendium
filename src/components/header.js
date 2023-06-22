@@ -11,7 +11,8 @@ import {
   faClipboardCheck,
   faWeight,
   faVial,
-  faBox
+  faBox,
+  faNewspaper
 } from '@fortawesome/free-solid-svg-icons';
 import { faDiscord, faYoutube } from '@fortawesome/free-brands-svg-icons';
 
@@ -23,12 +24,10 @@ const menuData = {
     icon: faListOl,
     title: 'FAQ',
     links: [
+      { to: '/faq/why-diy', title: 'Why DIY?' },
       { to: '/faq/getting-started', title: 'Getting Started' },
-      { to: '/faq/mixing-by-weight', title: 'Mixing by Weight' },
       { to: '/faq/weight-vs-volume', title: 'Weight vs. Volume' },
-      { to: '/faq/premixed-bases', title: 'Premixed Bases' },
-      { to: '/faq/simple-recipes', title: 'Simple Recipes' },
-      { to: '/faq/shake-and-vape', title: 'Shake and Vape' }
+      { to: '/faq/mixing-by-weight', title: 'Mixing by Weight' }
     ]
   },
   safety: {
@@ -43,13 +42,13 @@ const menuData = {
     icon: faClipboardCheck,
     title: 'Guides',
     links: [
+      { to: '/guides/sweeteners', title: 'Sweeteners' },
       { to: '/guides/additives-enhancers', title: 'Additives & Enhancers' },
-      { to: '/guides/labels', title: 'Labels' },
       { to: '/guides/calculators', title: 'Calculators' },
+      { to: '/guides/labels', title: 'Labels' },
       { to: '/guides/reviews', title: 'Reviews' },
       { to: '/guides/organization', title: 'Organization' },
-      { to: '/guides/nicotine-storage', title: 'Nicotine Storage' },
-      { to: '/guides/sweeteners', title: 'Sweeteners' }
+      { to: '/guides/nicotine-storage', title: 'Nicotine Storage' }
     ]
   },
   recipes: {
@@ -58,10 +57,12 @@ const menuData = {
     links: [
       { to: '/recipes/best-of', title: 'Best of' },
       { to: '/recipes/monthly-archive', title: 'Monthly Archive' },
-      { to: '/recipes/1-2-3', title: '1-2-3' },
       { to: '/recipes/finding-recipes', title: 'Finding Recipes' },
       { to: '/recipes/clones', title: 'Clones' },
-      { to: '/recipes/blessed-trinities', title: 'Trinities' }
+      { to: '/recipes/blessed-trinities', title: 'Trinities' },
+      { to: '/recipes/1-2-3', title: '1-2-3' },
+      { to: '/recipes/simple-recipes', title: 'Simple Recipes' },
+      { to: '/recipes/shake-and-vape', title: 'Shake and Vape' }
     ]
   },
   flavors: {
@@ -76,7 +77,15 @@ const menuData = {
       { to: '/flavors/facts', title: 'Facts' },
       { to: '/flavors/rebranding', title: 'Rebranding' },
       { to: '/flavors/sft', title: 'Single Flavor Testing' },
-      { to: '/flavors/best-of', title: 'Best of' },
+      { to: '/flavors/best-of', title: 'Best of' }
+    ]
+  },
+  articles: {
+    icon: faNewspaper,
+    title: 'Articles',
+    links: [
+      { to: '/flavor-friday', title: 'Flavor Friday' },
+      { to: '/tutorial-tuesday', title: 'Tutorial Tuesday' },
       { to: '/gromomf', title: 'Getting Rid of Most of My Flavors' }
     ]
   },
@@ -95,7 +104,8 @@ const menuData = {
     links: [
       { to: '/supplies/vendor-list', title: 'Vendor List' },
       { to: '/supplies/scales', title: 'Scales' },
-      { to: '/supplies/bottles', title: 'Bottles' }
+      { to: '/supplies/bottles', title: 'Bottles' },
+      { to: '/supplies/premixed-bases', title: 'Premixed Bases' }
     ]
   }
 };
@@ -131,14 +141,11 @@ export default function Header({ siteTitle = '' }) {
             <Link to="/">{siteTitle}</Link>
           </Navbar.Brand>
           <Nav className="justify-content-end w-100">
-            <Nav.Link as={Link} to="/faq/why-diy">
-              <Button variant="secondary">Why DIY?</Button>
+            <Nav.Link as={Link} to="/quick-start">
+              <Button variant="secondary">Quick Start</Button>
             </Nav.Link>
             <Nav.Link as={Link} to="/about">
               <Button variant="secondary">About</Button>
-            </Nav.Link>
-            <Nav.Link as={Link} to="/quick-start">
-              <Button variant="secondary">Quick Start</Button>
             </Nav.Link>
             <Nav.Link
               href="https://discord.gg/ejuice"

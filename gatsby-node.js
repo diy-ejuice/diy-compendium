@@ -35,7 +35,7 @@ const createListPages = async ({ actions, graphql, reporter }) => {
 
   reporter.info(`Created ${counter} list pages!`);
 };
-const createMarkdownPages = async ({ actions, graphql, reporter }) => {
+const createArticlePages = async ({ actions, graphql, reporter }) => {
   const component = resolve('src/components/article.js');
   const { createPage } = actions;
   const result = await graphql(`
@@ -93,6 +93,49 @@ const createMarkdownPages = async ({ actions, graphql, reporter }) => {
 
   reporter.info(`Created ${counter} markdown pages!`);
 };
+const createArticleListings = async ({ actions, graphql, reporter }) => {
+  const component = resolve('src/components/articleListing.js');
+  const { createPage } = actions;
+  const result = await graphql(`
+    {
+      allDirectory(
+        filter: {
+          sourceInstanceName: { eq: "articles" }
+          relativePath: { ne: "" }
+        }
+      ) {
+        edges {
+          node {
+            relativePath
+          }
+        }
+      }
+    }
+  `);
+
+  if (result.errors) {
+    reporter.panicOnBuild('Error while running GraphQL markdown query.');
+    return;
+  }
+
+  let counter = 0;
+
+  result.data.allDirectory.edges.forEach(({ node }) => {
+    const { relativePath } = node;
+
+    counter++;
+    createPage({
+      context: {
+        pathPrefix: `/${relativePath}/*`,
+        articleName: relativePath
+      },
+      component,
+      path: `/${relativePath}`
+    });
+  });
+
+  reporter.info(`Created ${counter} article index pages!`);
+};
 const createReviewPages = async ({ actions, graphql, reporter }) => {
   const component = resolve('src/components/review.js');
   const { createPage } = actions;
@@ -143,7 +186,8 @@ const createReviewPages = async ({ actions, graphql, reporter }) => {
 };
 
 exports.createPages = async (options) => {
-  await createMarkdownPages(options);
+  await createArticleListings(options);
+  await createArticlePages(options);
   await createReviewPages(options);
   await createListPages(options);
 };
