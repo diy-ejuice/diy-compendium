@@ -1,6 +1,6 @@
 ---
-path: '/faq/simple-recipes'
-title: 'FAQ - Simple Recipes'
+path: '/recipes/simple-recipes'
+title: 'Recipes - Simple Recipes'
 ---
 
 # Simple Recipes

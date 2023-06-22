@@ -1,6 +1,6 @@
 ---
-path: '/faq/premixed-bases'
-title: 'FAQ - Premixed Bases'
+path: '/supplies/premixed-bases'
+title: 'Supplies - Premixed Bases'
 ---
 
 ## Should I buy a premixed base

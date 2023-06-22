@@ -10,7 +10,7 @@ import { Container, Row, Col, Carousel } from 'react-bootstrap';
 
 import SEO from 'components/seo';
 import Layout from 'components/layout';
-import FeaturedPost from 'components/featured/post';
+import FeaturedPost from 'components/featuredPost';
 
 export default function IndexPage({ data }) {
   const {

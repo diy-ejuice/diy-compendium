@@ -1,6 +1,6 @@
 ---
-path: '/faq/shake-and-vape'
-title: 'FAQ - Shake and Vape'
+path: '/recipes/shake-and-vape'
+title: 'Recipes - Shake and Vape'
 ---
 
 ## "Good as a shake and vape but it gets better&hellip;"
