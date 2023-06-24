@@ -14,23 +14,23 @@ import FeaturedPost from 'components/featuredPost';
 
 export default function IndexPage({ data }) {
   const {
-    allMarkdownRemark: { nodes },
-    allFile: { nodes: images }
+    articles: { nodes: articles },
+    images: { nodes: images }
   } = data;
-  const findImage = (url) =>
-    url
+  const findImage = (articleName) =>
+    articleName
       ? getImage(
-          images.find((image) =>
-            image.relativePath.endsWith(url.substring(url.lastIndexOf('/') + 1))
-          ).childImageSharp.gatsbyImageData
+          images.find(
+            (image) => image.relativePath === `articles/${articleName}.png`
+          )?.childImageSharp?.gatsbyImageData
         )
       : {};
 
   return (
     <Layout>
-      <SEO title="Home" />
+      <SEO title="Recent Articles" />
       <Container>
-        <h4 className="display-4">Featured Content</h4>
+        <h4 className="display-4">Recent Articles</h4>
         <Row className="justify-content-center">
           <Col md={10}>
             <Carousel
@@ -43,17 +43,17 @@ export default function IndexPage({ data }) {
                 <FontAwesomeIcon icon={faArrowCircleLeft} color="black" />
               }
             >
-              {nodes.map((node) => (
-                <Carousel.Item key={node.frontmatter.title}>
+              {articles.map(({ children: [article] }) => (
+                <Carousel.Item key={article.frontmatter.title}>
                   <FeaturedPost
-                    {...node.frontmatter}
+                    {...article.frontmatter}
                     image={
                       <GatsbyImage
-                        image={findImage(node.frontmatter.image)}
-                        alt="Featured Post"
+                        image={findImage(article.parent.relativeDirectory)}
+                        alt={article.frontmatter.title}
                       />
                     }
-                    excerpt={node.excerpt}
+                    excerpt={article.excerpt}
                   />
                 </Carousel.Item>
               ))}
@@ -71,24 +71,33 @@ IndexPage.propTypes = {
 
 export const query = graphql`
   query {
-    allMarkdownRemark(
-      filter: { frontmatter: { featured: { eq: true } } }
-      sort: { frontmatter: { date: DESC } }
+    articles: allFile(
+      filter: { sourceInstanceName: { eq: "articles" } }
+      sort: { childrenMarkdownRemark: { frontmatter: { date: DESC } } }
       limit: 5
     ) {
       nodes {
-        frontmatter {
-          author
-          featured
-          image
-          path
-          title
+        children {
+          ... on MarkdownRemark {
+            frontmatter {
+              author
+              path
+              title
+            }
+            excerpt(pruneLength: 400)
+            parent {
+              ... on File {
+                relativeDirectory
+              }
+            }
+          }
         }
-        excerpt(pruneLength: 400)
       }
     }
 
-    allFile(filter: { relativeDirectory: { eq: "featured" } }) {
+    images: allFile(
+      filter: { absolutePath: { regex: "/.*images/articles/.*.png/" } }
+    ) {
       nodes {
         relativePath
         childImageSharp {
