@@ -1,3 +1,10 @@
+---
+author: 'ID10-T'
+path: '/gromomf/48'
+title: 'Getting Rid of Most of My Flavors - Part 48'
+date: '2023-06-17'
+---
+
 Starting Flavor Count: 2,426 (down from 2,972)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
