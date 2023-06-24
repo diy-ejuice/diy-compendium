@@ -1,7 +1,7 @@
 {
   "index_name": "dev_diyejuice",
   "start_urls": ["https://diyejuice.org"],
-  "sitemap_urls": ["https://diyejuice.org/sitemap/sitemap-index.xml"],
+  "sitemap_urls": ["https://diyejuice.org/sitemap-index.xml"],
   "stop_urls": ["https://diyejuice.org/reviews/.*"],
   "selectors": {
     "lvl0": "main h1",
