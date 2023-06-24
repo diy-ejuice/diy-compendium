@@ -2,7 +2,14 @@ import { Link } from 'gatsby';
 import classNames from 'classnames';
 import PropTypes from 'prop-types';
 import { Fragment } from 'react';
-import { Container, Navbar, Nav, InputGroup, Button } from 'react-bootstrap';
+import {
+  Container,
+  Navbar,
+  Nav,
+  InputGroup,
+  Button,
+  NavDropdown
+} from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
   faSearch,
@@ -16,8 +23,8 @@ import {
 } from '@fortawesome/free-solid-svg-icons';
 import { faDiscord, faYoutube } from '@fortawesome/free-brands-svg-icons';
 
-import NavDropdown from 'react-bootstrap/NavDropdown';
-import TitleIcon from './titleIcon';
+import lemmyIcon from 'images/lemmy.svg';
+import TitleIcon from 'components/titleIcon';
 
 const menuData = {
   faq: {
@@ -146,6 +153,15 @@ export default function Header({ siteTitle = '' }) {
             </Nav.Link>
             <Nav.Link as={Link} to="/about">
               <Button variant="secondary">About</Button>
+            </Nav.Link>
+            <Nav.Link
+              href="https://thevapor.space"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Button variant="secondary">
+                <img src={lemmyIcon} width={22} alt="Lemmy" /> Lemmy
+              </Button>
             </Nav.Link>
             <Nav.Link
               href="https://discord.gg/ejuice"

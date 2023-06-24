@@ -5,7 +5,7 @@ import { Card, Container, Table } from 'react-bootstrap';
 import { ReactCountryFlag } from 'react-country-flag';
 
 import Layout from 'components/layout';
-import SEO from './seo';
+import SEO from 'components/seo';
 
 export default function ListPage({ data }) {
   const vendors = data.vendors.nodes;
