@@ -5,7 +5,7 @@ import { SSRProvider } from 'react-bootstrap';
 import Footer from 'components/footer';
 import Header from 'components/header';
 
-const Layout = ({ children }) => {
+export default function Layout({ children }) {
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {
       site {
@@ -23,10 +23,8 @@ const Layout = ({ children }) => {
       <Footer />
     </SSRProvider>
   );
-};
+}
 
 Layout.propTypes = {
   children: PropTypes.node.isRequired
 };
-
-export default Layout;
