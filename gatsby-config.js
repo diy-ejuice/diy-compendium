@@ -22,7 +22,7 @@ const algoliaOptions = {
   apiKey: process.env.DOCSEARCH_API_KEY,
   appId: process.env.DOCSEARCH_APP_ID,
   indexName: process.env.DOCSEARCH_INDEX_NAME,
-  inputSelector: '.dc-search-input',
+  container: '.dc-search',
   autocompleteOptions: {
     minLength: 3
   }

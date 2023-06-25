@@ -2,17 +2,9 @@ import { Link } from 'gatsby';
 import classNames from 'classnames';
 import PropTypes from 'prop-types';
 import { Fragment } from 'react';
-import {
-  Container,
-  Navbar,
-  Nav,
-  InputGroup,
-  Button,
-  NavDropdown
-} from 'react-bootstrap';
+import { Container, Navbar, Nav, Button, NavDropdown } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
-  faSearch,
   faListOl,
   faHardHat,
   faClipboardCheck,
@@ -123,16 +115,7 @@ const Search = (props) => {
     props.mobile ? 'd-lg-none' : 'd-lg-block'
   ]);
 
-  return (
-    <Nav.Item className={classes}>
-      <InputGroup>
-        <InputGroup.Text>
-          <FontAwesomeIcon icon={faSearch} size="sm" />
-        </InputGroup.Text>
-        <input type="search" className="dc-search-input form-control" />
-      </InputGroup>
-    </Nav.Item>
-  );
+  return <Nav.Item className={classes} />;
 };
 
 Search.propTypes = {
