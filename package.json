@@ -18,7 +18,7 @@
     "serve": "gatsby serve",
     "lint": "npm run lint:js && npm run lint:markdown",
     "lint:js": "eslint ./src/",
-    "lint:markdown": "markdownlint ./src/docs/**/*.md"
+    "lint:markdown": "markdownlint ./docs/**/*.md"
   },
   "dependencies": {
     "@babel/core": "^7.23.9",
