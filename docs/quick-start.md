@@ -7,7 +7,7 @@ The answer to almost all basic questions and more can be found in one of the lin
 
 If you want an answer in real time there are hundreds of mixers hanging out on our official discord server, at every level of mixing ability, and from all around the world.
 
-**Join the [DIY Discord!](http://discord.gg/ejuice)**
+**Join the [DIY Discord!](https://discord.gg/ejuice)**
 
 If you're about to place your first order (or even your twenty-fifth) hop in **#check-my-order-please** to get suggestions on things you might have forgotten, a better version of a flavor you're about to get, or just a "looks good" to help ease your mind before checking out.
 
@@ -122,7 +122,7 @@ Where one Frequently Asked Question is covered as comprehensively as possible.
 
 - [**Flavor of The Week**](http://link.ejoose.org/faqfotw) - Every week the community gathers to discuss one flavor category and share recipes, notes, ideas, advice, pairings and more. After that the [Noted](http://link.ejoose.org/noted) crew ([/u/ID10-T](https://www.reddit.com/u/ID10-T), [/u/mlNikon](https://www.reddit.com/u/mlNikon) &amp; [/u/CheebaSteeba](https://www.reddit.com/u/CheebaSteeba)) try as many flavors in that category as they can and discuss their impressions, opinions and notes.
 
-- [**Tutorial Tuesday**](http://link.ejoose.org/tuesday) - A quick and conversational guide on various aspects of DIY.
+- [**Tutorial Tuesday**](https://ejoose.org/tutorial-tuesday) - A quick and conversational guide on various aspects of DIY.
 
 - [**Weekly ‘What are you Vaping?' Thread**](http://link.ejoose.org/wayv) - Talk about the latest recipes you've mixed up whether they're yours or someone else's, finished or works in progress. Share your success or get ideas on what to do next.
 
