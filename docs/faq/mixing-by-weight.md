@@ -34,4 +34,4 @@ All ingredients must be [USP grade](https://www.usp.org/) or equivalent.
 
 ## Notes
 
-Flavorings must be food-safe, but beyond that there are a variety of food-safe ingredients which should be avoided when making e-liquid. Please check [DIY Flavor Safety](https://safety.diyejuice.org) for more information on flavors to avoid or limit use of.
+Flavorings must be food-safe, but beyond that there are a variety of food-safe ingredients which should be avoided when making e-liquid. Please check [DIY Flavor Safety](https://safety.ejoose.org) for more information on flavors to avoid or limit use of.

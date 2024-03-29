@@ -29,7 +29,7 @@ Cloning a commercial E-Juice isn't always a simple task. Here are a few tips to 
 
 - Depending on how popular the juice that you're trying to clone is, you'll likely find an attempt with a quick search on ELR or ATF. Sort by rating and then look through all the recipes to find similarities.
 
-- Check out the [Flavour Review Page](https://diyejuice.org/flavors/reviews). It's a great resource for looking up reviews of flavors you've identified in the juice you want to clone. It gives you a starting point and ideas on what to add to your cart or wishlist.
+- Check out the [Flavour Review Page](https://ejoose.org/flavors/reviews). It's a great resource for looking up reviews of flavors you've identified in the juice you want to clone. It gives you a starting point and ideas on what to add to your cart or wishlist.
 
 - Wayne has a short video on cloning that you can watch [here](https://www.youtube.com/watch?v=bk0vJ1U2jqk). You can also check out Rich's comment from Gremlin DIY that explains how [cost/availability](https://www.reddit.com/r/DIY_eJuice/comments/3sdfqe/what_company_do_you_reckon_most_premium_juice/cwwb67e/) factors into commercial juice.
 

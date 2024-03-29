@@ -25,7 +25,7 @@ The recent Flavor Bans have brought a horde of new mixers into the fold and with
 
 - **You don't have to be an _Expert_ to contribute**
 
-If you're unfamiliar with my contribution - I'm the buffoon that volunteered to create [Flavor Facts](https://link.diyejuice.org/Facts000). When I started, I had only been mixing my own juice for a few months. Even now my flavor stash barely exceeds 100 flavors - so I am not even in the same zip code as the experts. But it doesn't mean that I can't contribute something. And now, ID10-T actually ask for MY opinion on things (hahaha). I guess he's really trying to earn his status as an **IDIOT**! (hahaha)
+If you're unfamiliar with my contribution - I'm the buffoon that volunteered to create [Flavor Facts](https://link.ejoose.org/Facts000). When I started, I had only been mixing my own juice for a few months. Even now my flavor stash barely exceeds 100 flavors - so I am not even in the same zip code as the experts. But it doesn't mean that I can't contribute something. And now, ID10-T actually ask for MY opinion on things (hahaha). I guess he's really trying to earn his status as an **IDIOT**! (hahaha)
 
 The lovely u/GlassChalice468 (aka Dragon Lady) joined the Mixer Showdown after an incredibly short time mixing and helped create [Golden Snozzberry Custard](https://alltheflavors.com/recipes/155578#golden_snozzberry_custard_by_diy_discord) which u/ID10-T nominated for*"Recipe of the Year"*. And considering his track record at picking winners, don't be surprised if it wins.
 
@@ -65,7 +65,7 @@ If these people will talk to (and greatly help) a neophyte like me, surely they'
 
 ---
 
-Now that I've rambled off topic for too long (smirk) let me state a few facts about the topic at hand - **Noted** and **FOTW**. I have cataloged virtually everything that has transpired on Noted and FOTW (along with several other sources of info about flavors). You can see the result [HERE](https://link.diyejuice.org/Facts000). I this is what I know &hellip;
+Now that I've rambled off topic for too long (smirk) let me state a few facts about the topic at hand - **Noted** and **FOTW**. I have cataloged virtually everything that has transpired on Noted and FOTW (along with several other sources of info about flavors). You can see the result [HERE](https://link.ejoose.org/Facts000). I this is what I know &hellip;
 
 Noted has produced 135 episodes that are each an hour long (often longer). That's the same as talking about flavors for an entire month on a job (8hrs/day - 5days/week)
 

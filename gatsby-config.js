@@ -60,7 +60,7 @@ module.exports = {
     title: 'DIY Compendium',
     author: 'ayan4m1',
     description: 'A knowledge base with DIY e-liquid mixing information.',
-    siteUrl: 'https://diyejuice.org/'
+    siteUrl: 'https://ejoose.org/'
   },
   plugins: [
     {

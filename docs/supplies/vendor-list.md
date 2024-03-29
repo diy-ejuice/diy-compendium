@@ -5,7 +5,7 @@ title: 'Supplies - Vendor List'
 
 ### NOTE: Vendors are listed alphabetically, not in order of preference
 
-Inclusion on this list is in no way an endorsement, nor an indication of vendor quality. Do your research, check reviews, and ask in the Weekly discussion thread. Vendor review threads will be posted weekly and updated after 6 months. If you see a vendor without a review thread feel free to request it in the [FAQ thread](http://link.diyejuice.org/questions) or by [sending a message to the mods](https://www.reddit.com/message/compose/?to=/r/DIY_eJuice).
+Inclusion on this list is in no way an endorsement, nor an indication of vendor quality. Do your research, check reviews, and ask in the Weekly discussion thread. Vendor review threads will be posted weekly and updated after 6 months. If you see a vendor without a review thread feel free to request it in the [FAQ thread](http://link.ejoose.org/questions) or by [sending a message to the mods](https://www.reddit.com/message/compose/?to=/r/DIY_eJuice).
 
 ## General Vendors
 
@@ -106,20 +106,20 @@ Most DIY vendors carry a small selection of bottles that you CA include in your 
 
 Oneshots are basically recipes in a bottle. Instead of using all the flavors individually, you add a specified percentage from one bottle.
 
-|                        Vendor                         | Location | # of Oneshots | Shortfill[^shortfills] | Bottle Shots[^bottleshots] |         Vendor Review          |
-| :---------------------------------------------------: | :------: | :-----------: | :--------------------: | :------------------------: | :----------------------------: |
-|          [B-X Flavor](https://bxflavor.com/)          |    US    |      ~16      |                        |                            |                                |
-|   [ChefsFlavours](https://www.chefsflavours.co.uk/)   |    UK    |     400+      |           ✅           |             ✅             | [Link](https://redd.it/advlcf) |
-| [DIY Flavor Chaser](https://link.diyejuice.org/diyfc) |    CA    |      60       |                        |                            | [Link](https://redd.it/fvyvlh) |
-|        [DripHacks](https://www.driphacks.com/)        |    UK    |      44       |           ✅           |                            | [Link](https://redd.it/c57io0) |
-|      [Flavor Jungle](https://flavorjungle.com/)       |    US    |      80+      |                        |                            | [Link](https://redd.it/g92mvm) |
-|      [FlavourBoss](https://flavour-boss.co.uk/)       |    UK    |      60+      |                        |             ✅             |
-|     [Gremberry Farms](https://gremberryfarms.com)     |    US    |      23       |                        |                            | [Link](https://redd.it/a9pu7l) |
-|         [Liquid Barn](https://liquidbarn.com)         |    US    |      13       |                        |                            | [Link](https://redd.it/dyk2y0) |
-|           [NomNomz](https://nomnomz.co.uk/)           |    UK    |     140+      |           ✅           |             ✅             | [Link](https://redd.it/bzbvre) |
-| [One Stop DIY Shop](https://www.onestopdiyshop.com/)  |    US    |      40+      |                        |                            | [Link](https://redd.it/b2x4hz) |
-|    [RainbowVapes](https://www.rainbowvapes.co.uk/)    |    UK    |     725+      |                        |                            | [Link](https://redd.it/ax8ecz) |
-|         [WizardLabs](https://wizardlabs.us/)          |    US    |      27       |                        |                            | [Link](https://redd.it/b5rni6) |
+|                        Vendor                        | Location | # of Oneshots | Shortfill[^shortfills] | Bottle Shots[^bottleshots] |         Vendor Review          |
+| :--------------------------------------------------: | :------: | :-----------: | :--------------------: | :------------------------: | :----------------------------: |
+|         [B-X Flavor](https://bxflavor.com/)          |    US    |      ~16      |                        |                            |                                |
+|  [ChefsFlavours](https://www.chefsflavours.co.uk/)   |    UK    |     400+      |           ✅           |             ✅             | [Link](https://redd.it/advlcf) |
+|  [DIY Flavor Chaser](https://link.ejoose.org/diyfc)  |    CA    |      60       |                        |                            | [Link](https://redd.it/fvyvlh) |
+|       [DripHacks](https://www.driphacks.com/)        |    UK    |      44       |           ✅           |                            | [Link](https://redd.it/c57io0) |
+|      [Flavor Jungle](https://flavorjungle.com/)      |    US    |      80+      |                        |                            | [Link](https://redd.it/g92mvm) |
+|      [FlavourBoss](https://flavour-boss.co.uk/)      |    UK    |      60+      |                        |             ✅             |
+|    [Gremberry Farms](https://gremberryfarms.com)     |    US    |      23       |                        |                            | [Link](https://redd.it/a9pu7l) |
+|        [Liquid Barn](https://liquidbarn.com)         |    US    |      13       |                        |                            | [Link](https://redd.it/dyk2y0) |
+|          [NomNomz](https://nomnomz.co.uk/)           |    UK    |     140+      |           ✅           |             ✅             | [Link](https://redd.it/bzbvre) |
+| [One Stop DIY Shop](https://www.onestopdiyshop.com/) |    US    |      40+      |                        |                            | [Link](https://redd.it/b2x4hz) |
+|   [RainbowVapes](https://www.rainbowvapes.co.uk/)    |    UK    |     725+      |                        |                            | [Link](https://redd.it/ax8ecz) |
+|         [WizardLabs](https://wizardlabs.us/)         |    US    |      27       |                        |                            | [Link](https://redd.it/b5rni6) |
 
 ## Flavor Manufacturers (Direct)
 
@@ -141,7 +141,7 @@ Oneshots are basically recipes in a bottle. Instead of using all the flavors ind
 | [LorAnn](https://www.lorannoils.com/)                                                                           | US       |
 | [Molinberry](https://molinberryflavours.com/)                                                                   | PL       |
 | [One On One Flavors](https://www.oooflavors.com/)                                                               | US       |
-| [Real Tobacco Extract](http://link.diyejuice.org/48)                                                            | US       |
+| [Real Tobacco Extract](http://link.ejoose.org/48)                                                               | US       |
 | [SolubArome](https://www.solubarome.fr/boutique/)                                                               | FR       |
 | [StixxMixx](https://www.stixxmixx.com/)                                                                         | US       |
 | [The Flavor Apprentice](https://shop.perfumersapprentice.com/c-108-the-flavor-apprentice-world-of-flavors.aspx) | US       |

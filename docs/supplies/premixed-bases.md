@@ -28,7 +28,7 @@ You probably know your preferred VG/PG ratio, or the range that works best in th
 
 The premixed base I see the most regret over purchasing has to be 50/50. It's rare that anyone has a preference of PG at over 50% of a mix, let alone the kind of gear that would work well with that ratio. I've seen many new mixers come through asking how to make 50/50 work when mixing up a recipe @ 20% flavor and, well&hellip; it just doesn't work (unless you somehow enjoy 70% PG)
 
-[Liquid Barn](https://www.liquidbarn.com/) may not have most of the flavors you need from something like the [First Order Flavors](https://diyejuice.org/flavors/first-order) but after looking at the options for premixed bases (US) theirs seems to be the "best" for the price ([\$7.99/500ml 3mg](https://www.liquidbarn.com/products/basic-eliquid?variant=19537592196)) with [e-Liq](https://www.e-liq.com/e-liquids/e-liquid-bases/e-liquid-bases-1-liter) being a comparably priced choice.
+[Liquid Barn](https://www.liquidbarn.com/) may not have most of the flavors you need from something like the [First Order Flavors](https://ejoose.org/flavors/first-order) but after looking at the options for premixed bases (US) theirs seems to be the "best" for the price ([\$7.99/500ml 3mg](https://www.liquidbarn.com/products/basic-eliquid?variant=19537592196)) with [e-Liq](https://www.e-liq.com/e-liquids/e-liquid-bases/e-liquid-bases-1-liter) being a comparably priced choice.
 
 ### Mixing with your premix
 

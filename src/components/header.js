@@ -34,7 +34,7 @@ const menuData = {
     title: 'Safety',
     links: [
       { to: '/safety/nicotine', title: 'Nicotine' },
-      { to: 'https://safety.diyejuice.org', title: 'Flavors', external: true }
+      { to: 'https://safety.ejoose.org', title: 'Flavors', external: true }
     ]
   },
   guides: {

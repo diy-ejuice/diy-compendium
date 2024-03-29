@@ -3,7 +3,7 @@ path: '/flavors/reviews'
 title: 'Flavors - Reviews'
 ---
 
-### Try out the [Flavor Note Generator](https://link.diyejuice.org/Facts-Notes)
+### Try out the [Flavor Note Generator](https://link.ejoose.org/Facts-Notes)
 
 - [CAP - Capella](#cap---capella)
 - [CC - Chef's Choice](#cc---chefs-choice)
