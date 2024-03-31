@@ -9,7 +9,7 @@ Starting Flavor Count: 2,969 (down from 2,976 originally)
 
 I’m playing **TASK** or **TRASH** again
 
-# AMORETTI
+## AMORETTI
 
 **Cloudberry**
 
@@ -19,7 +19,7 @@ I’ve done almost all of my mixing tasks from Part 1, but fallen behind on my t
 
 Similar type of situation, 8% doesn’t taste like much. Nothing offensive about what is there, it’s just faint. I could not tell it was supposed to be persimmon, either. It’s just a nondescript fruit flavor, somewhat resembling apricot but a little funkier. I don’t really have a use for that **TRASH 2**.
 
-# BICKFORD
+## BICKFORD
 
 This should be easy. A few were given to me by friends, a few I picked up when they were on clearance at River Supply (formerly Nic River). But most of these Bickford flavors I purchased from DIY Vapor Supply. Lots of wasted money, because most of these are bound for the garbage.
 
@@ -43,7 +43,7 @@ I did not try this in time Cream Soda week because my order from DIY Vapor Suppl
 
 I think this one must have been in the same order with the Cream Soda. **TASK 2**
 
-**Fig**  
+**Fig**
 
 So, I tried this at 2% and it tasted like a floral top note on a vague, dried dark fruit thing with a little mustiness to it -- not distinctly fig. You could tell me it’s supposed to be a date or raisin and I wouldn’t have any reason to doubt you. It’s also not a strong flavor at 2%, though, and it seemed might either come together as a more specific fruit or have a weird off note at a higher concentration. No offensive off-notes at 2%, though, and it’s quite sweet for something with a fairly light flavor.
 
@@ -59,7 +59,7 @@ Another one I never got around to trying. **TASK 4**
 
 **Lemon Lime**
 
-I don’t know how you screw up Lemon Lime this badly. You take some lemon flavor, you take some lime flavor, boom, lemon lime. And mostly Bickford Lemon Lime is that. It’s lemon forward, with a fair amount of sweeter lime behind it. But it also tastes like it has some meat in there. Not like rotten meat, but still, meat. Like I dripped a tiny bit of grease from a hamburger into an otherwise fine lemon lime flavor. It got worse or more meaty as the wick got drier. It even has a lingering greasy feel to it, and I’m not at all convinced that it’s safe to vape. Also, it ruined my coil, but not the normal way. It didn’t crust it up with visible gunk, but it wouldn’t heat evenly after vaping this stuff and I couldn’t burn it off.  I wish DIY Vapor Supply did not try selling this to people, and I want my $1.95 back. **TRASH 7**.
+I don’t know how you screw up Lemon Lime this badly. You take some lemon flavor, you take some lime flavor, boom, lemon lime. And mostly Bickford Lemon Lime is that. It’s lemon forward, with a fair amount of sweeter lime behind it. But it also tastes like it has some meat in there. Not like rotten meat, but still, meat. Like I dripped a tiny bit of grease from a hamburger into an otherwise fine lemon lime flavor. It got worse or more meaty as the wick got drier. It even has a lingering greasy feel to it, and I’m not at all convinced that it’s safe to vape. Also, it ruined my coil, but not the normal way. It didn’t crust it up with visible gunk, but it wouldn’t heat evenly after vaping this stuff and I couldn’t burn it off. I wish DIY Vapor Supply did not try selling this to people, and I want my $1.95 back. **TRASH 7**.
 
 **Lemon Pound Cake**
 
@@ -75,11 +75,11 @@ More orange than mango. Nothing really glaringly wrong with either but neither t
 
 **Peppermint**
 
-Tastes ok, like a plain basic no-frills candy cane peppermint, but it’s a fairly soft, light flavor that’s also a little harsh. Not like unvapably harsh, but like a typical level of throatyness that a citrus flavor would have. It’s not a bad flavor, but so many other plain peppermint flavors just vape better.  **TRASH 11**
+Tastes ok, like a plain basic no-frills candy cane peppermint, but it’s a fairly soft, light flavor that’s also a little harsh. Not like unvapably harsh, but like a typical level of throatyness that a citrus flavor would have. It’s not a bad flavor, but so many other plain peppermint flavors just vape better. **TRASH 11**
 
 **Plum**
 
-Plum juice from an oak barrel. Tastes like sweet black cherry mixed with apricot, which is more or less a plum, with a light, dry backnote of wood like some FA Oakwood or FLV Barrel Oak. I don’t know about covering up that wood flavor to get just a plum out of it that you might use for a straight plum thing, but it tastes like it might be a very interesting addition to a wine or sangria vape. Dropping it from 3% to 2% didn’t make the wood go away at all, it just made it a little less flavorful and somehow more dry. I need a good plum or two in my collection. While this one has some character and isn’t offensive to me,  I could mix a better plum with one of those woods and have the same thing only better, if I wanted a woody plum. **TRASH 12**
+Plum juice from an oak barrel. Tastes like sweet black cherry mixed with apricot, which is more or less a plum, with a light, dry backnote of wood like some FA Oakwood or FLV Barrel Oak. I don’t know about covering up that wood flavor to get just a plum out of it that you might use for a straight plum thing, but it tastes like it might be a very interesting addition to a wine or sangria vape. Dropping it from 3% to 2% didn’t make the wood go away at all, it just made it a little less flavorful and somehow more dry. I need a good plum or two in my collection. While this one has some character and isn’t offensive to me, I could mix a better plum with one of those woods and have the same thing only better, if I wanted a woody plum. **TRASH 12**
 
 **Pomegranate**
 
@@ -91,11 +91,11 @@ The closest this really comes to pumpkin is a squash blossom, so like also a gou
 
 I’m sure this is bound for the trash sooner rather than later, but I think I had better go with my gut and mix it with some FLV Virginia first and see if I was onto something there. For my next **TASK 5**, I’ll try mixing
 
-Co. | Flavor | %
----|---|----
-FLV | Virginia Tobacco | 3
-Bickford | Pumpkin | 2
-FLV | Apple Filling | 1
+| Co.      | Flavor           | %   |
+| -------- | ---------------- | --- |
+| FLV      | Virginia Tobacco | 3   |
+| Bickford | Pumpkin          | 2   |
+| FLV      | Apple Filling    | 1   |
 
 If that looks at all familiar to you, that's because it’s just Alfred Pudding’s delightful [Cabin](https://alltheflavors.com/recipes/123685#cabin_by_alfredpudding) with the TFA Pear swapped out for the Pumpkin. I'm tentatively calling it September Ends.
 
@@ -115,15 +115,15 @@ Nothing unpleasant to me, just dark-ish fruity sweetness with a slight musty qua
 
 I’ve got about 16 or 17 “Sweet Cream” flavors and I think I only need maybe 3 of them. This one isn’t bad, it’s fine. But it’s just fine. Fairly mild and mid-range, not very thick and basey. Not much depth to it. Some, but not much. I’m culling it. **TRASH 17**.
 
-# CAPELLA
+## CAPELLA
 
-And that’s it, I've gone over my whole Bickford collection and have gone through the whole bin labeled A1. I’m moving over to the A2 bin, which is where the Capella starts. Overall, those are going to be much harder to get rid of, but I’m sure I can dump a few handfuls of waste-of-space flavors.  But just... not today.
+And that’s it, I've gone over my whole Bickford collection and have gone through the whole bin labeled A1. I’m moving over to the A2 bin, which is where the Capella starts. Overall, those are going to be much harder to get rid of, but I’m sure I can dump a few handfuls of waste-of-space flavors. But just... not today.
 
 **27 Bears**
 
-It’s a basically a white gummy bear, which is supposed to be a pineapple gummy bear but is really a flavor unto itself rather than really tasting like a pineapple. The gummy part seems to fight with the fruit flavor and it’s neither as punchy a fruit flavor as a gummy bear nor as thick and chewy as a gummy bear, but it has some of that authentic gummy bear flavor. I’d add INW Dragonfruit or TFA Dragonfruit and some sweetener and call it day if I just wanted to vape a white gummy bear. The mouthfeel is a little dry but very sweet. You can try using it lower as a gummy-additive but the white pineapple flavor might get in the way and although it tastes like a gummy bear it probably isn’t going to make a thin fruit seem much thicker.  
+It’s a basically a white gummy bear, which is supposed to be a pineapple gummy bear but is really a flavor unto itself rather than really tasting like a pineapple. The gummy part seems to fight with the fruit flavor and it’s neither as punchy a fruit flavor as a gummy bear nor as thick and chewy as a gummy bear, but it has some of that authentic gummy bear flavor. I’d add INW Dragonfruit or TFA Dragonfruit and some sweetener and call it day if I just wanted to vape a white gummy bear. The mouthfeel is a little dry but very sweet. You can try using it lower as a gummy-additive but the white pineapple flavor might get in the way and although it tastes like a gummy bear it probably isn’t going to make a thin fruit seem much thicker.
 
-There are so many gummy candy flavors I prefer over this one that I’d like to toss it, but the bottom line here is that I need it to mix Concrete’s [Giant Swan](https://alltheflavors.com/recipes/247312#giant_swan_by_concreteriver). I might not replace it when it runs out, but until then, I’m going to make mixing Giant Swan a **TASK 6**. And it is a *task*, too, just look at all those ingredients.
+There are so many gummy candy flavors I prefer over this one that I’d like to toss it, but the bottom line here is that I need it to mix Concrete’s [Giant Swan](https://alltheflavors.com/recipes/247312#giant_swan_by_concreteriver). I might not replace it when it runs out, but until then, I’m going to make mixing Giant Swan a **TASK 6**. And it is a _task_, too, just look at all those ingredients.
 
 While we’ve got the 27 Bears out, I’ve been meaning to try Alfred Pudding’s [Stardrop](https://alltheflavors.com/recipes/130449#stardrop_by_alfredpudding), so I’ll just make that my next **TASK 7**.
 
@@ -131,18 +131,17 @@ Anyone else have another recipe that might be another a reason to keep 27 Bears 
 
 **27 Fish**
 
-Less of an authentic Swedish Fish flavor and more of a generic very red cherryish berry candy flavor. Lots of Swedish Fish-like texture, thick and not quite gummy but not quite red licorice-level chewy either. A bit waxy, not overwhelmingly but accurately so. The flavor itself seems to take a backseat to all that texture and could use a boost from another fruit, but that muted red flavor seems like it would make it more versatile as a candy texturizer flavor than a bolder, more accurate Swedish Fish flavor.  So while not the most accurate Swedish fish flavor, almost certainly the most useful, which is often the case with flavors. Some added throat hit with this one, but nowhere near as much as with TFA Swedish Fish. .
+Less of an authentic Swedish Fish flavor and more of a generic very red cherryish berry candy flavor. Lots of Swedish Fish-like texture, thick and not quite gummy but not quite red licorice-level chewy either. A bit waxy, not overwhelmingly but accurately so. The flavor itself seems to take a backseat to all that texture and could use a boost from another fruit, but that muted red flavor seems like it would make it more versatile as a candy texturizer flavor than a bolder, more accurate Swedish Fish flavor. So while not the most accurate Swedish fish flavor, almost certainly the most useful, which is often the case with flavors. Some added throat hit with this one, but nowhere near as much as with TFA Swedish Fish. .
 
 I need this to mix Graham DigitalDrop’s (RIP) [Lic Her..ish](https://alltheflavors.com/recipes/69073#lic_her_ish_by_digitaldrops) recipe, which I found to be ridiculously accurate strawberry Twizzlers vape. Mixing some more of that is my next **TASK 8**
 
 There are quite a few other recipes out there using 27 Fish that I want to try, too.
 
-[Wild Fish](https://alltheflavors.com/recipes/228843#wild_fish_developed2banger_by_crash0verride77)  by crash0verride77. WF Wild Berry Gummy is a gem **TASK 9**
+[Wild Fish](https://alltheflavors.com/recipes/228843#wild_fish_developed2banger_by_crash0verride77) by crash0verride77. WF Wild Berry Gummy is a gem **TASK 9**
 
 [MlNikon’s Red Gummy Bear](https://alltheflavors.com/recipes/217675#mlnikon_s_red_gummy_bear_by_mixinvixens). She had me at WF Strawberry Gummy Candy. **TASK 10**
 
-And finally, [Mango Bear](https://alltheflavors.com/recipes/70223#ckemist_original_mango_bear_by_ejuicemakers
-) by Ckemist. Because I’ve been meaning to try 27 Fish mixed with mango and want to see how someone else did it first before I go any further down that road. **TASK 11**
+And finally, [Mango Bear](https://alltheflavors.com/recipes/70223#ckemist_original_mango_bear_by_ejuicemakers) by Ckemist. Because I’ve been meaning to try 27 Fish mixed with mango and want to see how someone else did it first before I go any further down that road. **TASK 11**
 
 That’s it for now, I’m already behind on tasting my previous tasks and now I’ve got 11 more to do before Part 3.
 

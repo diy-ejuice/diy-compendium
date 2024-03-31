@@ -73,28 +73,28 @@ Excellent flavor. I’ve been disappointed by some of the other Grimberry Farms 
 
 ### Winter Oak
 
-It tastes like clove, nutmeg, cinnamon, orange peel, and raisins. Strong holiday spice flavor, bit of orange peel-like citrus. The spice mix is really forward and tastes like mostly clove, along with some nutmeg, and but not just nutmeg, also a touch of cinnamon and maybe some ginger. It reminds me of flavors like FLV Back Bar Bitters and INW Shisha Punch. They call it “a light tobacco with a smooth holiday-inspired spice mix.” It is smooth, especially for spices with a hint of citrus. I didn’t really get a clear tobacco, but the raisiny earthy mustiness to the smooth base is vaguely tobacco-ish. And I have no idea why Grimberry calls it “Winter oak” - I’m not getting any oak or wood from it.  
+It tastes like clove, nutmeg, cinnamon, orange peel, and raisins. Strong holiday spice flavor, bit of orange peel-like citrus. The spice mix is really forward and tastes like mostly clove, along with some nutmeg, and but not just nutmeg, also a touch of cinnamon and maybe some ginger. It reminds me of flavors like FLV Back Bar Bitters and INW Shisha Punch. They call it “a light tobacco with a smooth holiday-inspired spice mix.” It is smooth, especially for spices with a hint of citrus. I didn’t really get a clear tobacco, but the raisiny earthy mustiness to the smooth base is vaguely tobacco-ish. And I have no idea why Grimberry calls it “Winter oak” - I’m not getting any oak or wood from it.
 
 Like a lot of so-called tobacco flavors, it tastes like what this really needs is some tobacco. So I’ll give it some and see. Maybe the Winter Oak flavor needs some oak as well.
 
 Oaky Winter Bacco V1 **TASK 8**
 
-Co.| Flavor | %
----|---|----
-GRM | Winter Oak | 5
-FLV | Cured Tobacco | 1.5
-FLV | Native Tobacco | 1
-FLV | Oak Barrel | 1
+| Co. | Flavor         | %   |
+| --- | -------------- | --- |
+| GRM | Winter Oak     | 5   |
+| FLV | Cured Tobacco  | 1.5 |
+| FLV | Native Tobacco | 1   |
+| FLV | Oak Barrel     | 1   |
 
 ## Hangsen
 
 ### Apple Mix
 
-It mostly tastes remarkably like that just-add-water apple cider powder stuff. Softer cooked-tasting sweet apple juice flavor, fairly bright but not hard-hitting. Just a touch of cinnamon in there and possibly another spice I can’t identify hanging around in its sweet and kind of powdery finish. People get some cranberry from this but what I get is more like just a bit of fruitiness and some added tartness than a clear cranberry flavor, coming in behind the apple cider. It’s a little thin and fairly dry, but not unpleasantly thin or dry, but dry enough that it would need some wet ingredients for a drinkable cider and dry enough that it shouldn’t make a bakery or tobacco soggy. Not a bad flavor, but there’s nothing I want to make that uses it. **TRASH 8**  
+It mostly tastes remarkably like that just-add-water apple cider powder stuff. Softer cooked-tasting sweet apple juice flavor, fairly bright but not hard-hitting. Just a touch of cinnamon in there and possibly another spice I can’t identify hanging around in its sweet and kind of powdery finish. People get some cranberry from this but what I get is more like just a bit of fruitiness and some added tartness than a clear cranberry flavor, coming in behind the apple cider. It’s a little thin and fairly dry, but not unpleasantly thin or dry, but dry enough that it would need some wet ingredients for a drinkable cider and dry enough that it shouldn’t make a bakery or tobacco soggy. Not a bad flavor, but there’s nothing I want to make that uses it. **TRASH 8**
 
 ### Arabic Tobacco
 
-More licorice and fruit than tobacco, like a licorice-coated fig, prune, raisin thing, very sweet. Imagine a black jelly bean with a raisin inside, like some kind of bizarro hellworld Raisinet. Tobacco flavor is present but very mild, just a light background flavor of grassy tobacco. 5% HS Arabic Tobacco also had a kind of yucky artificiality to the tobacco part, but 1.5% tastes about the same but without that fake tobacco character. People will find a use for this thing but just as a tobacco flavor, it’s pretty shitty.  I don’t need it. **TRASH 9**
+More licorice and fruit than tobacco, like a licorice-coated fig, prune, raisin thing, very sweet. Imagine a black jelly bean with a raisin inside, like some kind of bizarro hellworld Raisinet. Tobacco flavor is present but very mild, just a light background flavor of grassy tobacco. 5% HS Arabic Tobacco also had a kind of yucky artificiality to the tobacco part, but 1.5% tastes about the same but without that fake tobacco character. People will find a use for this thing but just as a tobacco flavor, it’s pretty shitty. I don’t need it. **TRASH 9**
 
 ### Australian Chocolate
 
@@ -118,7 +118,7 @@ Will also try [Fugly Butters](https://alltheflavors.com/recipe/129193-fugly_butt
 
 Flat storebrand cola. It’s supposed to be Pepsi and it really is a little more pepsi-like in that it’s a more citrusy cola, not as spicy, dark, caramelly as a more Coke-like cola. It’s sweet and has a little body to it. Other than the flatness I really don’t get super anything weird or off with it, though the taste that lingers is, oddly, a little more bubblegum than pepsi. I don’t think that’s as much a problem with this flavor in particular as it is just a reminder of how much bubblegum and cola have in common, flavor-wise.
 
-I don’t even like Pepsi. **TRASH 10**  
+I don’t even like Pepsi. **TRASH 10**
 
 ### Blueberry
 
@@ -144,7 +144,7 @@ It literally tastes like their Banana and their Australian Chocolate mixed toget
 
 ### Chocolate Cream
 
-Not very chocolatey, but rich and creamy with an authentic dairy twang and a very light bit of chocolate without gross off notes. Needs more chocolate to be chocolate milk or milk chocolate, but seems like it could be a great component for either. On the other hand, there’s VT Devon Cream, which seems like it could do anything this could do, only better.  **TRASH 14**
+Not very chocolatey, but rich and creamy with an authentic dairy twang and a very light bit of chocolate without gross off notes. Needs more chocolate to be chocolate milk or milk chocolate, but seems like it could be a great component for either. On the other hand, there’s VT Devon Cream, which seems like it could do anything this could do, only better. **TRASH 14**
 
 ### Cinnamon
 

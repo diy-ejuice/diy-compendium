@@ -9,9 +9,9 @@ Starting flavor count: 2,554 (down from 2,972)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-*No updates this week, I saw a light at the end of the FLV tunnel and just went for it*
+_No updates this week, I saw a light at the end of the FLV tunnel and just went for it_
 
-# FLAVORAH
+## FLAVORAH
 
 **Sangria**
 
@@ -23,7 +23,7 @@ Also want to try this simple, tasty-looking little recipe for an [Oranged Drink]
 
 **Smoked Butterscotch**
 
-This tops out for me at 2% (sub-ohm), and even there that smoked note is starting to get very slightly bitter and weird. But between 1 and 2% this is some tasty stuff. The smoke flavor tastes like wood smoke not like ashy smoke. The butterscotch tastes like FLV Butterscotch, but not as rich and buttery. It’s a little on the dry side, but much more interesting than regular butterscotch. It would probably be my first choice if I was going to build a butterscotch-tobacco recipe.  
+This tops out for me at 2% (sub-ohm), and even there that smoked note is starting to get very slightly bitter and weird. But between 1 and 2% this is some tasty stuff. The smoke flavor tastes like wood smoke not like ashy smoke. The butterscotch tastes like FLV Butterscotch, but not as rich and buttery. It’s a little on the dry side, but much more interesting than regular butterscotch. It would probably be my first choice if I was going to build a butterscotch-tobacco recipe.
 
 I’ve already got a few recipes to try that use it, just adding one more, which I’m very excited to finally try: [Phil Noir](https://alltheflavors.com/recipes/122651#phil_noir_by_lonesomerhodestn). Butterscotch custard with smokey tobacco notes that looks incredible. **TASK 3**
 
@@ -31,13 +31,13 @@ I’ve already got a few recipes to try that use it, just adding one more, which
 
 The FLV Rich Cinnamon of bright as fuck vanilla. About 16 times more potent than the average vanilla.. Bright and floral enough to remind you that vanilla comes from a flower. A little bit fruity, in a cherry-ish sort of way. Also kind of a honey-like sweetness to it (not a bad one) that comes and goes. I think many people will want to make a dilution; 0.25% standalone is intense.
 
-When it comes to creating recipes, I don’t really need a vanilla that can ruin a mix with an extra half-drop. But, people have made great things out of it, and I need that 0.1% to make more [Arab Mom’s Butter Cookie](https://alltheflavors.com/recipes/197505#arab_mom_s_butter_cookie_by_nowar). That one’s so good it goes back on the list, even though I just added it in 10 editions ago. **TASK 4** It’s in a couple of other things I’m going to try, too, but I don’t see any more I want to add. It could be that Arab Mom is the only thing I end up keeping for.  
+When it comes to creating recipes, I don’t really need a vanilla that can ruin a mix with an extra half-drop. But, people have made great things out of it, and I need that 0.1% to make more [Arab Mom’s Butter Cookie](https://alltheflavors.com/recipes/197505#arab_mom_s_butter_cookie_by_nowar). That one’s so good it goes back on the list, even though I just added it in 10 editions ago. **TASK 4** It’s in a couple of other things I’m going to try, too, but I don’t see any more I want to add. It could be that Arab Mom is the only thing I end up keeping for.
 
 **Smoothie Base**
 
 Goodness, that’s pretty tasty. Unfortunately it’s also very lemony. Kind of like VT Yogurt Drink, it’s basically a tasty lemon cream or lemon milk. Not sure why they went with lemon for a smoothie, when banana would have been more appropriate for a smoothie I think, since banana goes in lots of smoothies and lemon doesn’t, but it’s yummy. If you were making a fruit cereal milk recipe it would be perfect for that. Also seems like the lemon could get covered up with another strong fruit and just make that fruit pop.
 
-FLV Smoothie Base really has that heavy creamy base.  There’s some real dairy there. Not necessary yogurt but a heavy dairy, without the butyric yuck that some of those flavors have.
+FLV Smoothie Base really has that heavy creamy base. There’s some real dairy there. Not necessary yogurt but a heavy dairy, without the butyric yuck that some of those flavors have.
 
 I’ve tried some very good recipes that used FLV Smoothie Base, like a handful of five-stars, but the one that was “gotta mix again” status for me is this amazing [Mega Fruit Smoothie](https://alltheflavors.com/recipes/144316#mega_fruit_smoothie_developed_by_developed), even though I think it’s kinda redundant to have both Smoothie Base and Yogurt Drink in the same recipe. **TASK 5**
 
@@ -47,7 +47,7 @@ Want to try this one, too:
 
 **Smore**
 
-Not a full S’more. I get some chocolate that’s not too bad, some marshmallow that maybe tastes lightly toasty, but not really, and no graham cracker anywhere, other than in the mouthfeel, where it’s a little dry and gritty. The marshmallow is sweet and fluffy. The chocolate’s a little dark, like a really light dark chocolate, and gets darker in the finish. Seems like a good addition to something like a hot chocolate recipe, with the addition of some dairy and a much lighter chocolate.  
+Not a full S’more. I get some chocolate that’s not too bad, some marshmallow that maybe tastes lightly toasty, but not really, and no graham cracker anywhere, other than in the mouthfeel, where it’s a little dry and gritty. The marshmallow is sweet and fluffy. The chocolate’s a little dark, like a really light dark chocolate, and gets darker in the finish. Seems like a good addition to something like a hot chocolate recipe, with the addition of some dairy and a much lighter chocolate.
 
 Already planning on mixing a simple recipe with FW S’mores to see if they’ll combine into a full s’more, since they are deficient in opposite ways. There isn’t really anything else I want to do with it, so assuming that first mix wasn’t perfect (it won’t be), I’ll try an updated version of that. **TASK 7**
 
@@ -81,7 +81,7 @@ Not my favorite spearmint (SSA Garden Mint FTW), and nothing out there I want to
 
 Rin called this “unsalted white oyster crackers” on ELR and that’s as good a review as any. It reminds me of the communion crackers at church when I was a kid. Lightly, toasty, unsalted, unleavened bread. IT TASTES LIKE THE BODY OF CHRIST, YALL.
 
-Very thick, full volume, not sweet, not yeasty. I get slight notes of brown rice-like nuttiness that tastes like it could go sesame oil-like at a higher concentration, or otherwise get weird. A little dry, a little crisp. Lives up to its name. Does seem like a little of this could do for the body of bread in a mix, like a sandwich. It certainly worked in Foment’s Gruber Grape recipe.  
+Very thick, full volume, not sweet, not yeasty. I get slight notes of brown rice-like nuttiness that tastes like it could go sesame oil-like at a higher concentration, or otherwise get weird. A little dry, a little crisp. Lives up to its name. Does seem like a little of this could do for the body of bread in a mix, like a sandwich. It certainly worked in Foment’s Gruber Grape recipe.
 
 I am of the mind that everyone should have this so they can at least try Gruber Grape, because of how hard people tried to create that recipe for years. Turns out PB and strawberry jam, not so hard, but PB and grape jelly? Herculean. On the other hand, I don’t feel like I need Gruber in my life, so now what do I do with Starch Base?
 
@@ -97,7 +97,7 @@ Strawberry forward with a very light creamy backdrop and finish, but the strawbe
 
 **Strawberry Filling**
 
- A very sweet yet natural strawberry, like smooshy thawed out carton strawberries coated in sugar syrup, with a smooth, thick and oddly somewhat creamy mouthfeel. Full flavored and even lingers well beyond the vape. But, with just a little bit of a weird plasticky off note, which also lingers, that ruins it for me standalone, especially given that there are so many other strawberries that don’t have that to deal with. Might be good at a low dose for sweetening and filling out another strawberry if that plastic nonsense is covered up, not entirely pleasant on its own though. On the upside, the more of it I vaped, the less noticeable that plastic became, so maybe it just needs a longer steep to let go of whatever that is. Better strawberries, don’t need it. **TRASH 4**
+A very sweet yet natural strawberry, like smooshy thawed out carton strawberries coated in sugar syrup, with a smooth, thick and oddly somewhat creamy mouthfeel. Full flavored and even lingers well beyond the vape. But, with just a little bit of a weird plasticky off note, which also lingers, that ruins it for me standalone, especially given that there are so many other strawberries that don’t have that to deal with. Might be good at a low dose for sweetening and filling out another strawberry if that plastic nonsense is covered up, not entirely pleasant on its own though. On the upside, the more of it I vaped, the less noticeable that plastic became, so maybe it just needs a longer steep to let go of whatever that is. Better strawberries, don’t need it. **TRASH 4**
 
 **Strawberry Smash**
 
@@ -107,7 +107,7 @@ Sticky sweet but weak strawberry, like drinking watered down sweetened strawberr
 
 Severely underused flavor, IMO. Could call it cherry-vanilla sugar if you want to really oversimplify it. Gently floral, vaguely fruity (cherry-ish but not cherry), almost vanilla, thick, quite sweet, a chalky/powdery/gritty sweetness.
 
-I need it for [Galadriel’s Light](https://alltheflavors.com/recipes/213994#galadriel_s_light_by_yizarion), one of my most favorite recipes of all  time. It’s a weird profile - floral, bourbon, coconut - but just amazing and addictive. I’ve only ever vaped it without sweetener but the creator suggests adding FW’s at 0.25% so I’m going to give that a try this time. **TASK 15**
+I need it for [Galadriel’s Light](https://alltheflavors.com/recipes/213994#galadriel_s_light_by_yizarion), one of my most favorite recipes of all time. It’s a weird profile - floral, bourbon, coconut - but just amazing and addictive. I’ve only ever vaped it without sweetener but the creator suggests adding FW’s at 0.25% so I’m going to give that a try this time. **TASK 15**
 
 Will someone with more talent and creativity than me please create another Sugar Orchid recipe for me to try?
 
@@ -141,7 +141,7 @@ There’s also this [Bacco Blend No. 3](https://alltheflavors.com/recipes/209685
 
 **Sweet Coconut**
 
-Beautiful coconut flavor. I had to somehow live with just one coconut, FLV Sweet Coconut would probably be it. Clean, bright, natural coconut flavor, very sweet but tastes like a natural sort of sweetness rather than artificial sweetener. Not really rich, but not thin either. I think it’s appropriately rich for coconut, but not overdoing it. Would need to be more rich for a coconut cream. It really reminds me of one of those Mexican coconut candies that are colored red white and green, and the ingredients are just like: :shredded coconut, sugar, corn syrup, coloring: and that’s it. Don’t recommend going over 2.5%, that’s where the brightness of this one almost starts to go a little in a floral direction.  
+Beautiful coconut flavor. I had to somehow live with just one coconut, FLV Sweet Coconut would probably be it. Clean, bright, natural coconut flavor, very sweet but tastes like a natural sort of sweetness rather than artificial sweetener. Not really rich, but not thin either. I think it’s appropriately rich for coconut, but not overdoing it. Would need to be more rich for a coconut cream. It really reminds me of one of those Mexican coconut candies that are colored red white and green, and the ingredients are just like: :shredded coconut, sugar, corn syrup, coloring: and that’s it. Don’t recommend going over 2.5%, that’s where the brightness of this one almost starts to go a little in a floral direction.
 
 I need it for [Leche De Coco](https://alltheflavors.com/recipes/42350#leche_de_coco_coconut_milk_by_hashslingingslashur). It’s been a long time since I last had that, not sure it still belongs among the most favorites, but we’ll see. **TASK 22**
 
@@ -149,7 +149,7 @@ I need it for a couple more old favorites that were recently added, a new favori
 
 [Thai Grandma Coconut Ice Cream](https://alltheflavors.com/recipes/257431#thai_grandma_s_coconut_ice_cream_by_spdrjrslm). Damn, that looks good. **TASK 23**
 
-[1-2-3 Tropico](https://alltheflavors.com/recipes/121704#1_2_3_tropico_by_ediblemalfunction) you put de lime AND a banana in de coconut. **TASK 24**  
+[1-2-3 Tropico](https://alltheflavors.com/recipes/121704#1_2_3_tropico_by_ediblemalfunction) you put de lime AND a banana in de coconut. **TASK 24**
 
 **Sweet Cream**
 
@@ -157,16 +157,16 @@ It’s not bad tasting (to me) and it might even be exactly what you’re lookin
 
 Of note, some people also report getting strong coconut off-notes from FLV Sweet Cream. But I don’t. But if other flavors taste like coconut to you that shouldn’t, like TFA Cheesecake Graham Crust, and you hate coconut, you might want to avoid it.
 
-I’ve got at least 17 “sweet cream” flavors and many more cream flavors and I would definitely toss this one if it didn’t already appear in a couple of recipes I’m planning to try for unrelated reasons. I didn’t see another recipe that I wanted (besides those two) that I want to mix, but I did feel inspired by one, a recipe for a “sweet cream thai chai with lychee in it.” I could do without the chai spice and tea notes, but a cream on the lighter side (with the notes FLV Sweet Cream has) and some lychee could be nice.  
+I’ve got at least 17 “sweet cream” flavors and many more cream flavors and I would definitely toss this one if it didn’t already appear in a couple of recipes I’m planning to try for unrelated reasons. I didn’t see another recipe that I wanted (besides those two) that I want to mix, but I did feel inspired by one, a recipe for a “sweet cream thai chai with lychee in it.” I could do without the chai spice and tea notes, but a cream on the lighter side (with the notes FLV Sweet Cream has) and some lychee could be nice.
 
 Lychee Cream Saver V1 **TASK 25**
 
-Co. | Flavor | %
----|---|----
-FE | Lychee | 2
-FA | White Peach | 0.5
-FLV | Sweet Cream | 1
-TFA | Vanilla Swirl | 1
+| Co. | Flavor        | %   |
+| --- | ------------- | --- |
+| FE  | Lychee        | 2   |
+| FA  | White Peach   | 0.5 |
+| FLV | Sweet Cream   | 1   |
+| TFA | Vanilla Swirl | 1   |
 
 Going for something like a Lifesaver’s Strawberry Cream Saver, but lychee. I think this might work, plus it gives me an excuse to play with FE Lychee, a candy-type lychee that I love.
 
@@ -208,4 +208,4 @@ I’ve heard all kinds of theories about what’s in there but as far as I can t
 
 Blew right past the character limit, the second half of this will be up in a few minutes.
 
- New Flavor Count: 2,548
+New Flavor Count: 2,548

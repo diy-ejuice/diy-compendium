@@ -9,13 +9,13 @@ Starting flavor count: 2,607 (down from 2,972)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-*No updates this week - things are steeping. Right to it then*
+_No updates this week - things are steeping. Right to it then_
 
-# FLAVORAH
+## FLAVORAH
 
 **Acai**
 
-FLV Acai is an interesting flavor. I love it.  Half of FLV Acai is a natural and lightly tart, dark berry flavor that tastes kind of like a combination of blueberries, cranberries, and pomegranate.  The other side of FLV Acai, the last half of the exhale, is a drier cocoa note, from what I’ve read, that’s oddly actually accurate to acai That dry cocoa kind of lingers. It’s a softer flavor but it’s full and has a dense mouthfeel.  It has no floral edge like many berries do.  The room note on this thing is ridiculous. Standalone vaping it at 1%, bystanders are straight-up walking into a dense cloud made of Brookside Acai and Blueberry chocolates. But it doesn't quite taste that way to the vaper, as it’s lacking quite a bit of sweetness and that chocolate room note comes across more like a dry bakery cocoa.  No coil gunk from it.  
+FLV Acai is an interesting flavor. I love it. Half of FLV Acai is a natural and lightly tart, dark berry flavor that tastes kind of like a combination of blueberries, cranberries, and pomegranate. The other side of FLV Acai, the last half of the exhale, is a drier cocoa note, from what I’ve read, that’s oddly actually accurate to acai That dry cocoa kind of lingers. It’s a softer flavor but it’s full and has a dense mouthfeel. It has no floral edge like many berries do. The room note on this thing is ridiculous. Standalone vaping it at 1%, bystanders are straight-up walking into a dense cloud made of Brookside Acai and Blueberry chocolates. But it doesn't quite taste that way to the vaper, as it’s lacking quite a bit of sweetness and that chocolate room note comes across more like a dry bakery cocoa. No coil gunk from it.
 
 I need FLV Acai to make more [Brookside Blues’ Brother](https://alltheflavors.com/recipes/261779#brookside_blues_brother_by_id10_t) by me. I’m proud of this recipe and love it. **TASK 1**
 
@@ -108,7 +108,7 @@ But there are so many other things I want to try that use it, it’s hard to cho
 
 **Apple Pop**
 
-Bit odd but very flavorful. Mostly tastes like candied peel-on apples with a hint of spice. Not apple candy, but candied apple, kinda like you tossed apple bits in melted sugar. Prominent spicy and a little tart peel note on top and deep, penetrating sugary sweet red apple base. Spicy peel tastes a little like a light candy cinnamon but not exactly cinnamon, base is a very sweet red apple. Not dry but kind of powdery, like just-add-water cider mix or apple rolled in powdered sugar. Lingering cider-y sweetness. Definitely worth checking out as a layer for any apple application (apple-cation?) where a bit of peel, a bit of spice, and a lot of sweetness aren’t unwelcome. Cider, apple pie and all the varieties like apple pie ice cream and apple pie liquor, cinnamon candied red apple, and so forth.  Not bad when soaking wet but I noticed it’s one of those flavors that starts to get harsh as the wick gets dry but long before it’s completely dry.
+Bit odd but very flavorful. Mostly tastes like candied peel-on apples with a hint of spice. Not apple candy, but candied apple, kinda like you tossed apple bits in melted sugar. Prominent spicy and a little tart peel note on top and deep, penetrating sugary sweet red apple base. Spicy peel tastes a little like a light candy cinnamon but not exactly cinnamon, base is a very sweet red apple. Not dry but kind of powdery, like just-add-water cider mix or apple rolled in powdered sugar. Lingering cider-y sweetness. Definitely worth checking out as a layer for any apple application (apple-cation?) where a bit of peel, a bit of spice, and a lot of sweetness aren’t unwelcome. Cider, apple pie and all the varieties like apple pie ice cream and apple pie liquor, cinnamon candied red apple, and so forth. Not bad when soaking wet but I noticed it’s one of those flavors that starts to get harsh as the wick gets dry but long before it’s completely dry.
 
 I need it for the aforementioned Deer Lodge and if I’m going to be keeping it for one reason, might as well look into a couple of others.
 
@@ -124,11 +124,11 @@ I know I really liked [Apricot Cream Tobacco](https://alltheflavors.com/recipes/
 
 [Peach Foster Pudding Parfait](https://alltheflavors.com/recipes/202506#peach_foster_pudding_parfait_flv_by_tamvapes) looks pretty good, too. **TASK 31**
 
- **Arabian Tobacco**
+**Arabian Tobacco**
 
-I basically recommend all FLV tobaccos to everyone, but maybe a little less enthusiastically this one, especially to beginners, mostly because it’s a lot more potent than most other FLV tobaccos And it has such an earthy, ashy taste to it. 0.25% is nearly full flavored and while I don’t think it would necessarily go off badly at a little higher concentration, it does seem like it could be assertive in a mix.  It tastes more like a roll your own cigarette tobacco retrieved from a half-smoked rollie, rather than a pipe or cigar type tobacco.  Ashy, but more smokey than ashy. Very dry.  Some spice notes to it that I can’t quite place other than warm, in fact it’s more spice than tobacco, but earthy, ashy spice. Kinda like clove, but not really clove. No sweetness at all, which is nice in a tobacco, tastes even less sweet than straight VG, there’s a bit of bitterness to it like black tea that goes along with that dryness and cancels out the VG sweetness.
+I basically recommend all FLV tobaccos to everyone, but maybe a little less enthusiastically this one, especially to beginners, mostly because it’s a lot more potent than most other FLV tobaccos And it has such an earthy, ashy taste to it. 0.25% is nearly full flavored and while I don’t think it would necessarily go off badly at a little higher concentration, it does seem like it could be assertive in a mix. It tastes more like a roll your own cigarette tobacco retrieved from a half-smoked rollie, rather than a pipe or cigar type tobacco. Ashy, but more smokey than ashy. Very dry. Some spice notes to it that I can’t quite place other than warm, in fact it’s more spice than tobacco, but earthy, ashy spice. Kinda like clove, but not really clove. No sweetness at all, which is nice in a tobacco, tastes even less sweet than straight VG, there’s a bit of bitterness to it like black tea that goes along with that dryness and cancels out the VG sweetness.
 
-I keep being tempted to make a child bride-themed recipe using a picture of the Prophet Mohammed to  see if I can get ATF HQ suicide bombed, and am thinking of tossing this flavor just to remove the temptation. Unfortunately, I cannot do that, because i need it to make more of an incredibly awesome recipe, [Arab Mom’s Butter Cookie](https://alltheflavors.com/recipes/197505#arab_mom_s_butter_cookie_by_nowar). **TASK 32**
+I keep being tempted to make a child bride-themed recipe using a picture of the Prophet Mohammed to see if I can get ATF HQ suicide bombed, and am thinking of tossing this flavor just to remove the temptation. Unfortunately, I cannot do that, because i need it to make more of an incredibly awesome recipe, [Arab Mom’s Butter Cookie](https://alltheflavors.com/recipes/197505#arab_mom_s_butter_cookie_by_nowar). **TASK 32**
 
 Might as well check out some other stuff, too.
 
@@ -136,11 +136,11 @@ Might as well check out some other stuff, too.
 
 [1321 ACAB](https://alltheflavors.com/recipes/278386#1312_acab_by_wolfwheeler) Maybe the first time my main reason for trying a recipe is the name. **TASK 34**
 
- **Avocado**
+**Avocado**
 
 Doesn't really taste like avocado, but shares some avocado prosperities. I get lots of buttery rich body, without vanilla or dairy cream. A really silky feel, tastes a little nutty, and also like it has a little olive oil in it, with the just the tiniest hint of banana. It is a strange one but it also seems like it could have a lot of value as a cream additive. I don’t think I’ve ever tried a recipe that used FLV Avocado, but now I’m not going to. Even though there’s nothing really off-putting about it, I just didn’t see one I was sufficiently interested in. **TRASH 2**
 
-*Flavorah is really not making this getting rid of flavors thing easy*
+_Flavorah is really not making this getting rid of flavors thing easy_
 
 I went over reddit's character limits, so I broke what I had in two, part 27 will be up in a few minutes.
 

@@ -9,7 +9,7 @@ Starting Flavor Count: 2,848 (Down from 2,975 originally)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-# Chefs Super Concentrates
+## Chefs Super Concentrates
 
 Strap in for a long one, I’m going through all the CSC (or CHF on ATF) flavors. Even though I lost a couple of days working on this to devastating news. I was about 20 flavors into the line when I got word that Chefs is no longer going to be restocking any single flavors. Had to pause to wait for an answer to the question, “Does that include CSC flavors?” I was ready to chuck the whole line at once and replace it with a few choice words for Brexiteers (Chefs troubles being 100% on them, the dumb cunts, yet another completely predictable and avoidable consequence). But it turns out Chefs WILL be restocking their SC line, at least for now. If they don’t sell well enough to keep having more made, they'll discontinue those, too, and I’ll come back and do a radical flavorectomy of whichever ones I have left, and let Brexiteers know what I really think of them.
 
@@ -71,7 +71,7 @@ I’ll try this new [Cosmic Caramel](https://alltheflavors.com/recipes/291543#co
 
 **Cactus**
 
-You’re hoping for something as juicy as INW Cactus that doesn’t actually taste like INW Cactus. This is not it, but it is a unique and interesting take on cactus. Or it would be if FLV hadn’t already done it. This tastes remarkably similar to the new-ish FLV Cactus Apple. It has that same sort of soft spongey dried apple slice taste, it tastes a lot more like dried apple slice taste and body, sicky naturally sugary sweetness, very light almost fermented kind of note. Chewy, thick. There’s a little hint of that aloe drink flavor I think but really, dried apples. Not the crunchy apple chips, the soft chewy dried apples.I think it’s tasty, it’s just not what I was expecting or hoping from a cactus. Although it doesn’t taste *bad* to me, I’m not really interested in doing anything with it. I’m not hurting for a FLV Cactus Apple substitute. **TRASH 6**
+You’re hoping for something as juicy as INW Cactus that doesn’t actually taste like INW Cactus. This is not it, but it is a unique and interesting take on cactus. Or it would be if FLV hadn’t already done it. This tastes remarkably similar to the new-ish FLV Cactus Apple. It has that same sort of soft spongey dried apple slice taste, it tastes a lot more like dried apple slice taste and body, sicky naturally sugary sweetness, very light almost fermented kind of note. Chewy, thick. There’s a little hint of that aloe drink flavor I think but really, dried apples. Not the crunchy apple chips, the soft chewy dried apples.I think it’s tasty, it’s just not what I was expecting or hoping from a cactus. Although it doesn’t taste _bad_ to me, I’m not really interested in doing anything with it. I’m not hurting for a FLV Cactus Apple substitute. **TRASH 6**
 
 **Cake (Sponge Cake)**
 
@@ -95,7 +95,7 @@ Well, it’s a chocolate that isn’t super gross, so it’s off to a good start
 
 **Chocolate (White)**
 
-0.5%  is nearly enough concentration, I think, but just a little thin and soft. Not entirely sure if it’s the amount, or this is just how it tastes. It’s not a great white chocolate. It tastes more like a really bright vanilla with a hint of coconut. Not very rich. It goes down really smooth but isn’t quite thick enough to be called creamy. If I wanted to be super duper thorough, I’d try this at a high concentration, but I can already tell this is not the white chocolate I’m looking for. **TRASH 9**
+0.5% is nearly enough concentration, I think, but just a little thin and soft. Not entirely sure if it’s the amount, or this is just how it tastes. It’s not a great white chocolate. It tastes more like a really bright vanilla with a hint of coconut. Not very rich. It goes down really smooth but isn’t quite thick enough to be called creamy. If I wanted to be super duper thorough, I’d try this at a high concentration, but I can already tell this is not the white chocolate I’m looking for. **TRASH 9**
 
 **Coconut Macaroon**
 
@@ -107,23 +107,23 @@ And throw together a simple recipe
 
 Samoa V1 **TASK 11**
 
-Co. | Flavor | %
----|---|----
-CSC | Coconut Macaroon | 1.5
-JF | Cookie | 1
-WF | Salted Caramel | 1.5
-VT | Desiccated Coconut | 1
-FLV | Chocolate Deutsche | 0.5
+| Co. | Flavor             | %   |
+| --- | ------------------ | --- |
+| CSC | Coconut Macaroon   | 1.5 |
+| JF  | Cookie             | 1   |
+| WF  | Salted Caramel     | 1.5 |
+| VT  | Desiccated Coconut | 1   |
+| FLV | Chocolate Deutsche | 0.5 |
 
 Not sure if that’ll work or not, but it’s a start.
 
 **Cookies & Cream**
 
-Tastes like slightly burned Oreos absolutely sogged in milk. Lacks any cookie body at all, just sweet cream with some Oreo chocolate taste that’s pretty light in comparison. The Oreo is just a little off, like someone put Oreos in a toaster oven briefly or like they’re part of an oreo crust that’s been baked. But otherwise sweet and creamy and a little rich. I can see making this work in a recipe but it tastes like it is going to need some work to boost and clean up that oreo and crisp up the cookie texture as well. Pretty similar to FLV Cookies and Cream in the relative lack of Oreo, pretty similar to WF Chocolate Cookie Crust in the light overcooked quality. There are better ways to go about this, if you can track down Real Flavors SC Cookies & Cream, that is *the* Oreo. This is going in *the*  **TRASH 10**
+Tastes like slightly burned Oreos absolutely sogged in milk. Lacks any cookie body at all, just sweet cream with some Oreo chocolate taste that’s pretty light in comparison. The Oreo is just a little off, like someone put Oreos in a toaster oven briefly or like they’re part of an oreo crust that’s been baked. But otherwise sweet and creamy and a little rich. I can see making this work in a recipe but it tastes like it is going to need some work to boost and clean up that oreo and crisp up the cookie texture as well. Pretty similar to FLV Cookies and Cream in the relative lack of Oreo, pretty similar to WF Chocolate Cookie Crust in the light overcooked quality. There are better ways to go about this, if you can track down Real Flavors SC Cookies & Cream, that is _the_ Oreo. This is going in _the_ **TRASH 10**
 
 **Crazy Rainbow**
 
-Fair amount of cooling in this one. I don’t know what it is but it feels kinda like FA Polar Blast. More of a cooling on the lips than in the throat like WS-23, but not the kind of vague slightly chemical cardboardly gnarlyness of just straight up Koolada. Otherwise tastes like a mixture of citrus and sweet berry fruit. Chef’s calls it lemon with red fruits and a dash of blackcurrant and that’s pretty much what it tastes like. Although the lemon is light and the blackcurrant really is just a touch, it mostly tastes like their red fruits mix plus cooling, but those little hints of citrus and kinda funky blackcurrant really kick it up a notch. If this is your profile, you might want to push the concentration up so it really pops and just enjoy it by itself. It’s certainly complex enough for that if you like the cooling.  
+Fair amount of cooling in this one. I don’t know what it is but it feels kinda like FA Polar Blast. More of a cooling on the lips than in the throat like WS-23, but not the kind of vague slightly chemical cardboardly gnarlyness of just straight up Koolada. Otherwise tastes like a mixture of citrus and sweet berry fruit. Chef’s calls it lemon with red fruits and a dash of blackcurrant and that’s pretty much what it tastes like. Although the lemon is light and the blackcurrant really is just a touch, it mostly tastes like their red fruits mix plus cooling, but those little hints of citrus and kinda funky blackcurrant really kick it up a notch. If this is your profile, you might want to push the concentration up so it really pops and just enjoy it by itself. It’s certainly complex enough for that if you like the cooling.
 
 I don’t have a clue what to do with this off the top of my head, but instead of a small sample at 0.5% like I had before, I’m going to mix a big bottle at the 1.5% people on ELR tried it at and think about it some more. **TASK 12**
 
@@ -147,30 +147,30 @@ I’ll also try using it to make that pumpkin spice crème brûlée.
 
 Pumpkin Spice Crème Brûlée V1 **TASK 14**
 
-Co. | Flavor | %
----|---|----
-CSC | Creme Brulee | 1.5
-INW | Custard | 3
-FA | Custard Premium | 2
-CSC | French Vanilla | 0.5
-FLV | Pumpkin Spice | 0.75
+| Co. | Flavor          | %    |
+| --- | --------------- | ---- |
+| CSC | Creme Brulee    | 1.5  |
+| INW | Custard         | 3    |
+| FA  | Custard Premium | 2    |
+| CSC | French Vanilla  | 0.5  |
+| FLV | Pumpkin Spice   | 0.75 |
 
 **Custard**
 
-There are some great custard flavors out there, this is one of them. It’s not one of my absolute favorites, but it’s right up there, and there aren’t any off notes so it’s pretty much a matter of personal preference regarding what one wants in a custard. Sweetness and dairy are its two most prominent characteristics. It’s quite sweet, so probably no need to add EM or Cotton Candy or whatever. It’s a very milky custard, you really get that dairy. The rest is just enough. It’s not buttery, but there’s some butter there. It’s not at all what I’d call eggy, but it’s close enough to be a custard. There’s some vanilla, but it’s light enough that it’s probably good that it doesn’t have vanilla in the name. My personal preference is a more prominent vanilla and butter scenario, but that’s just me. This is a great custard flavor.  
+There are some great custard flavors out there, this is one of them. It’s not one of my absolute favorites, but it’s right up there, and there aren’t any off notes so it’s pretty much a matter of personal preference regarding what one wants in a custard. Sweetness and dairy are its two most prominent characteristics. It’s quite sweet, so probably no need to add EM or Cotton Candy or whatever. It’s a very milky custard, you really get that dairy. The rest is just enough. It’s not buttery, but there’s some butter there. It’s not at all what I’d call eggy, but it’s close enough to be a custard. There’s some vanilla, but it’s light enough that it’s probably good that it doesn’t have vanilla in the name. My personal preference is a more prominent vanilla and butter scenario, but that’s just me. This is a great custard flavor.
 
 I’ll try another version of Pumpkin Spice Crème brûlée using this one.
 
 Pumpkin Spice Crème Brûlée V2 **TASK 15**
 
-Co. | Flavor | %
----|---|----
-CSC | Crème Brûlée | 1.5
-CSC| Custard | 1.5
-INW | Custard | 2
-FA | Custard Premium | 1
-CSC | French Vanilla | 0.5
-FLV| Pumpkin Spice | 0.75
+| Co. | Flavor          | %    |
+| --- | --------------- | ---- |
+| CSC | Crème Brûlée    | 1.5  |
+| CSC | Custard         | 1.5  |
+| INW | Custard         | 2    |
+| FA  | Custard Premium | 1    |
+| CSC | French Vanilla  | 0.5  |
+| FLV | Pumpkin Spice   | 0.75 |
 
 **Custard Cake**
 
@@ -186,13 +186,13 @@ No one has tried to use this to make an apple cider donut yet? OK
 
 Apple Cider Donut V1 **TASK 17**
 
-Co. | Flavor | %
----|---|----
-CSC| Donut | 0.75
-WF | Fluffy White Cake | 1.5
-FLV | Apple Cider | 1.5
-FLV | Apple Filling | 1
-CAP | Cinnamon Sugar | 1
+| Co. | Flavor            | %    |
+| --- | ----------------- | ---- |
+| CSC | Donut             | 0.75 |
+| WF  | Fluffy White Cake | 1.5  |
+| FLV | Apple Cider       | 1.5  |
+| FLV | Apple Filling     | 1    |
+| CAP | Cinnamon Sugar    | 1    |
 
 I’m sure that will require significant adjustments, but you gotta start somewhere.
 
@@ -224,12 +224,12 @@ I don’t see any recipes I want to make out of it besides the two I’m already
 
 French Vanilla Tobacco V1 **TASK 20**
 
-Co. | Flavor | %
----|---|----
-FLV| Red Burley | 1.75
-FLV | Cured Tobacco | 1
-CSC | French Vanilla | 0.75
-CSC | Toasted Tobacco Pop | 0.75
+| Co. | Flavor              | %    |
+| --- | ------------------- | ---- |
+| FLV | Red Burley          | 1.75 |
+| FLV | Cured Tobacco       | 1    |
+| CSC | French Vanilla      | 0.75 |
+| CSC | Toasted Tobacco Pop | 0.75 |
 
 **Grape**
 
@@ -243,7 +243,7 @@ It basically just tastes purple, as grape flavors do. There’s a touch of astri
 
 Excellent Guava. If Flavorah Pink Guava and CAP Sweet Guava are opposite ends of the guava spectrum, this is right in the middle. It has those high tart citrus notes like FLV but doesn’t wind up tasting like pink grapefruit, it also has that thick syrupy kinda funky sweet base like CAP. There’s a slight floral edge but thankfully no cat pee taste like with TFA guava or musky perfume like FA and VT guavas. I think this might be the most authentic guava I’ve tried and it’s very well-rounded with flavor from top to bottom.
 
-I couldn’t find a recipe for this. But I’m going to mix this recipe, [Jack My Guanabana Guava](https://alltheflavors.com/recipes/233596#jack_my_guanabana_guava_by_kuri_santou)  **TASK 22**
+I couldn’t find a recipe for this. But I’m going to mix this recipe, [Jack My Guanabana Guava](https://alltheflavors.com/recipes/233596#jack_my_guanabana_guava_by_kuri_santou) **TASK 22**
 
 And then make another bottle exactly the same but with the addition of 0.75% CSC Guava, a hair less Cactus, say, 0.5% instead of 0.75%, and, just for fun, 1% FLV Yakima Hops, and compare them. **TASK 23**
 
@@ -255,25 +255,25 @@ At the beginning of Part 9, I went over how even though this [Bavarian Banana Nu
 
 **Honey**
 
-It’s not a very strong off note, so in a mix with a strong top note I bet it could be covered up, but as a single flavor, I get just the slightest tish of the dreaded cat pee honey off note in CSC Honey, right on top, where the flavor is brightest. It’s a shame because it otherwise has a nice dark sticky sweetness (though it would really need to be even sweeter for honey)  like a darker honey that’s not at all floral or perfumy. I’m not fighting with this one. **TRASH 15**
+It’s not a very strong off note, so in a mix with a strong top note I bet it could be covered up, but as a single flavor, I get just the slightest tish of the dreaded cat pee honey off note in CSC Honey, right on top, where the flavor is brightest. It’s a shame because it otherwise has a nice dark sticky sweetness (though it would really need to be even sweeter for honey) like a darker honey that’s not at all floral or perfumy. I’m not fighting with this one. **TRASH 15**
 
 **Lemon**
 
-At 0.75%, I can taste lemon but can’t even tell you whether it’s more of a natural lemon or candy lemon this low, it’s too soft. But I also can’t taste anything wrong with it, either. It’s lemony enough to be slightly refreshing though, like a glass of water with a lemon wedge.  
+At 0.75%, I can taste lemon but can’t even tell you whether it’s more of a natural lemon or candy lemon this low, it’s too soft. But I also can’t taste anything wrong with it, either. It’s lemony enough to be slightly refreshing though, like a glass of water with a lemon wedge.
 
 Will try again at 1.5% **TASK 25**
 
- **Lemon Custard**
+**Lemon Custard**
 
-As best I can remember (since I haven’t had it out in awhile), it tastes like they’ve tried to clone FA Custard and failed successfully. It’s pretty similar to FA Custard, but a little more lemony, a little richer, a little better. CSC Lemon Custard is a nicely lemony, milky, thin for a custard but still pretty thick, not bad flavor at all.  
+As best I can remember (since I haven’t had it out in awhile), it tastes like they’ve tried to clone FA Custard and failed successfully. It’s pretty similar to FA Custard, but a little more lemony, a little richer, a little better. CSC Lemon Custard is a nicely lemony, milky, thin for a custard but still pretty thick, not bad flavor at all.
 
 222 LMP V1 **TASK 26**
 
-Co. | Flavor | %
----|---|----
-CSC | Lemon Custard | 2
-WF | Lemon Squares | 2
-WF | Flapper Pie | 2
+| Co. | Flavor        | %   |
+| --- | ------------- | --- |
+| CSC | Lemon Custard | 2   |
+| WF  | Lemon Squares | 2   |
+| WF  | Flapper Pie   | 2   |
 
 **Lemon Meringue Pie**
 
@@ -291,11 +291,11 @@ Nobody has made anything out of this yet? Alright, well, I’m still stuck on th
 
 Lych My Guanabana, Jack V1 **TASK 29**
 
-Co. | Flavor | %
----|---|----
-CSC | Lychee | 0.5
-FLV | Guanabana | 3
-TFA | Jackfruit | 2
+| Co. | Flavor    | %   |
+| --- | --------- | --- |
+| CSC | Lychee    | 0.5 |
+| FLV | Guanabana | 3   |
+| TFA | Jackfruit | 2   |
 
 Just messing around with some fun tropicals, as one does.
 
@@ -305,7 +305,7 @@ First of all they’ve misspelled it. There’s only supposed to be one O in Mac
 
 **Madeline**
 
-Not much flavor at 0.5% but what’s there is a pleasant enough little soft, sweet cookie with a fluffy and light but buttery body. I could see this being well above average if a little higher concentration doesn’t bring out any off notes. It might have too much AP sharpness, though, I can kinda taste it in there and have some concern about it being too much at a higher concentration.  
+Not much flavor at 0.5% but what’s there is a pleasant enough little soft, sweet cookie with a fluffy and light but buttery body. I could see this being well above average if a little higher concentration doesn’t bring out any off notes. It might have too much AP sharpness, though, I can kinda taste it in there and have some concern about it being too much at a higher concentration.
 
 I’ll try it again at 1% **TASK 31**
 
@@ -317,11 +317,11 @@ I have an idea.
 
 Lychee Berry Lemonade V1 **TASK 32**
 
-Co. | Flavor | %
----|---|----
-CSC | Man Pi | 0.75
-FW | Lemonade Natural | 4
-CAP | Super Sweet | 0.25
+| Co. | Flavor           | %    |
+| --- | ---------------- | ---- |
+| CSC | Man Pi           | 0.75 |
+| FW  | Lemonade Natural | 4    |
+| CAP | Super Sweet      | 0.25 |
 
 **Mango**
 
@@ -330,7 +330,7 @@ I’ve tried enough really awful to sup-par mango flavors to say this one is abo
 **Maple Syrup**
 
 I only got the barest of flavor from this at 0.5%. What I got didn’t taste like maple syrup, just a little dark sweetness. Will try again at 1.5% **TASK 34**
-  
+
 **Marshmallow**
 
 Definitely marshmallow. Fairly bright. Sweet, somewhat powdery, thick pillowy body. Seems like it might pick up an anise note if pushed too high in concentration though it’s not really there at 0.75%, but I’ve tried a lot of marshmallows and that is a thing that too much marshmallow flavor tends to do. The problem is, a high bar has been set for marshmallow flavors by the likes of FLV Marshmallow Vanilla and especially OoO Marshmallow Vanilla. But I do like this one better than FA Marshmallow, which is drier than Chef’s Super Marshmallow and not as sweet, but otherwise pretty similar. If this flavor’s future availability was more secure, I’d keep this one and toss FA Marshmallow. But since it isn’t, and since I have other, even better marshmallows, I’m going to **TRASH 16** a perfectly good flavor.
@@ -361,19 +361,19 @@ Mild spearmint that tastes natural, not chewing gum like Mint Green. I still pre
 
 **Mint Cream**
 
-Excellent. Exactly as advertised. I was scared it was going to be like toothpaste but it is not that at all. The mint is like an artificial spearmint flavor, the cream is thick and sweet with some vanilla. I wish I could just spread this single flavor sample onto a dark chocolate brownie and eat it. It reminds me of FLV Spearmint and LB Vanilla Mint, but better. It has a less intense mint and less intense vanilla than the LB, which is like smearing vanilla frosting on one of those green mint leaf gummy/jelly candies. It doesn’t have the separation I get from FLV Spearmint, which is like a mint and cream separate at the same time while this CSC Mint Cream is more blended together into one cohesive thing.  
+Excellent. Exactly as advertised. I was scared it was going to be like toothpaste but it is not that at all. The mint is like an artificial spearmint flavor, the cream is thick and sweet with some vanilla. I wish I could just spread this single flavor sample onto a dark chocolate brownie and eat it. It reminds me of FLV Spearmint and LB Vanilla Mint, but better. It has a less intense mint and less intense vanilla than the LB, which is like smearing vanilla frosting on one of those green mint leaf gummy/jelly candies. It doesn’t have the separation I get from FLV Spearmint, which is like a mint and cream separate at the same time while this CSC Mint Cream is more blended together into one cohesive thing.
 
 You know those mint and dark chocolate Kit Kats? Let’s give that a try.
 
 Mint/Dark Duo V1 **TASK 35**
 
-Co. | Flavor | %
----|---|----
-WF| Crispy Wafer| 1
-CSC | Mint Cream | 1
-SSA | Milky Caramel Fudge | 1
-MF | Dark Chocolate | 0.7
-CAP | Super Sweet | 0.3
+| Co. | Flavor              | %   |
+| --- | ------------------- | --- |
+| WF  | Crispy Wafer        | 1   |
+| CSC | Mint Cream          | 1   |
+| SSA | Milky Caramel Fudge | 1   |
+| MF  | Dark Chocolate      | 0.7 |
+| CAP | Super Sweet         | 0.3 |
 
 4% total flavor, but those are potent flavors, I think this will get er done.
 
@@ -395,13 +395,13 @@ Seems usable. And for the most part it does taste like oatmeal or like breathing
 
 **Peach Apricot**
 
-Points off because it’s not really an authentic apricot, but points back on for being yummy. I don’t really get peach and apricot clearly and separately, more like peach and something that is maybe apricot blended together. Very sweet and has almost a richness to it, at least “richness” for a fruit. It’s a little peach rings candy-ish, but also has elements of more like a natural fruit, it’s a saturated flavor, reasonably full bodied at 0.5% and tastes like it might be even more so if pushed up to 0.75%. I could see it working really well at 0.5% or lower in something like a fruit punch situation where peach is an element, or filling out a peach ring candy recipe.  
+Points off because it’s not really an authentic apricot, but points back on for being yummy. I don’t really get peach and apricot clearly and separately, more like peach and something that is maybe apricot blended together. Very sweet and has almost a richness to it, at least “richness” for a fruit. It’s a little peach rings candy-ish, but also has elements of more like a natural fruit, it’s a saturated flavor, reasonably full bodied at 0.5% and tastes like it might be even more so if pushed up to 0.75%. I could see it working really well at 0.5% or lower in something like a fruit punch situation where peach is an element, or filling out a peach ring candy recipe.
 
 I need it for the Lady Gov’ness recipe noted above. That recipe uses uses it at 1.25%, and since I’ve only tried it at 0.5% so far, I’ll do a single flavor sample at 1.25%. **TASK 40**
 
 **Peanut Butter**
 
-Peanut butter is one of the few CSC that tastes to me like 0.75% might have been too much. There certainly is a dry roasted peanut flavor in there and it is sweet like PB,  but that good stuff wrapped up in this blanket of weird astringent chemical note that is pretty gnarly. It’s not the classic “nut skin” kind of off note that I’m used to encountering with nut flavors either, it’s worse, more chemical-tasting than that. Like peanut butter made from peanuts grown next to an oil refinery and poisoned with benzene or something equally cancerous. It’s not good. But maybe 0.5% is better? I’ll try that. **TASK 41**  
+Peanut butter is one of the few CSC that tastes to me like 0.75% might have been too much. There certainly is a dry roasted peanut flavor in there and it is sweet like PB, but that good stuff wrapped up in this blanket of weird astringent chemical note that is pretty gnarly. It’s not the classic “nut skin” kind of off note that I’m used to encountering with nut flavors either, it’s worse, more chemical-tasting than that. Like peanut butter made from peanuts grown next to an oil refinery and poisoned with benzene or something equally cancerous. It’s not good. But maybe 0.5% is better? I’ll try that. **TASK 41**
 
 **Pecan Nut**
 
@@ -419,10 +419,10 @@ Didn’t see a recipe with it, but that’s ok. I’ll have a little fun
 
 Plumber V1 **TASK 43**
 
-Co. | Flavor | %
----|---|----
-CSC | Plum | 0.75
-FA | Vanilla Tahity | 3
+| Co. | Flavor         | %    |
+| --- | -------------- | ---- |
+| CSC | Plum           | 0.75 |
+| FA  | Vanilla Tahity | 3    |
 
 That’s it. That’s the whole thing. I don’t have a full profile idea yet, I just think these two flavors would taste really good together.
 

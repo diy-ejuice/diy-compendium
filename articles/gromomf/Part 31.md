@@ -9,25 +9,25 @@ Starting flavor count: 2,575 (down from 2,972)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-# FLAVORAH
+## FLAVORAH
 
 **Jackfruit**
 
 Probably the most accurate natural-tasting jackfruit, also not my fave. It tastes like an overripe pineapple sandwich. No, really. Leave a pineapple ring out for a day or two until they turn brownish but are not yet rotting, stuff them into a yeast roll and chow down, that’s pretty much FLV Jackfruit.
 
 It’s used in a recipe already on the task list, and one more caught my eye: [Yuji Itadoiri](https://alltheflavors.com/recipes/227203#yuji_itadori_by_wolfwheeler). It’s a Belgian waffle with tropical toppings (pineapple, mango, coconut) and it looks like a perfect way to use FLV Jackfruit. **TASK 1**
-  
+
 **Jammy Berry**
 
-That has jam written all over it and I’m much more confident in its ability to turn other fruits - at least berries, maybe not other fruits - into jams than I am of FA Jammy Wizard and especially VT Jam It. By itself, it tastes like a mixed dark berry or boysenberry-ish jam, very thick and sweet. Similar to FLV Boysenberry but darker and more jam-like. Syrupy sweetness but not candy except maybe jelly candy made with real fruit.  Very ripe, cooked down blackberry primarily. There’s some raspberry to it but without the high floral-type tartness of a fresh raspberries. It has a clear blueberry note as well that fades after a short steep so it’s less clearly blueberry and more just very dark fruity sweetness. I guess that’s unfortunate if you love blueberry and were using it for that but not unfortunate if you want it to be more versatile. Seems like you could bend it into a specific berry jam or jelly pretty easily with just one flavor to pull it that way, even strawberry, though I don’t really taste strawberries in it. But especially raspberry, blackberry, or blueberry.
+That has jam written all over it and I’m much more confident in its ability to turn other fruits - at least berries, maybe not other fruits - into jams than I am of FA Jammy Wizard and especially VT Jam It. By itself, it tastes like a mixed dark berry or boysenberry-ish jam, very thick and sweet. Similar to FLV Boysenberry but darker and more jam-like. Syrupy sweetness but not candy except maybe jelly candy made with real fruit. Very ripe, cooked down blackberry primarily. There’s some raspberry to it but without the high floral-type tartness of a fresh raspberries. It has a clear blueberry note as well that fades after a short steep so it’s less clearly blueberry and more just very dark fruity sweetness. I guess that’s unfortunate if you love blueberry and were using it for that but not unfortunate if you want it to be more versatile. Seems like you could bend it into a specific berry jam or jelly pretty easily with just one flavor to pull it that way, even strawberry, though I don’t really taste strawberries in it. But especially raspberry, blackberry, or blueberry.
 
 Jammy Berry is an ingredient in at least six things I already plan to mix, but to add just one more, [Jammy Roll Cake](https://alltheflavors.com/recipes/251820#jammy_roll_cake_by_badluc), I know it’s going to be delicious. **TASK 2**
 
 **Juniper Gin**
 
-Mostly juniper flavor, and it was nice of them to warn us about that right in the name. But a bit more complex, there are some other aromatics going on in there including herbal notes, a floral bit that leans toward lavender, a hint of peppery spice, and a touch of citrus.  
+Mostly juniper flavor, and it was nice of them to warn us about that right in the name. But a bit more complex, there are some other aromatics going on in there including herbal notes, a floral bit that leans toward lavender, a hint of peppery spice, and a touch of citrus.
 
-It’s a little sweeter than I’m looking for in a gin as a single flavor, but that might fade into a mix with other ingredients that are supposed to be sweet. Not dry, but not especially wet either. Doesn’t really have a boozy bite to it, which is unfortunate, should still work for a bit of gin in a cocktail, especially if that boozy business is coming from elsewhere. Smooth, not harsh at all, but a bit soft. The floral in this one runs a little detergent-y for me at 4%, but not at 2%, so I would keep it at 2% or lower. 0.25% appears to be just enough for a hint of that resiny juniper without going full gin or as full a gin as this gets. Tastes like it would be a super fun flavor to play with.  
+It’s a little sweeter than I’m looking for in a gin as a single flavor, but that might fade into a mix with other ingredients that are supposed to be sweet. Not dry, but not especially wet either. Doesn’t really have a boozy bite to it, which is unfortunate, should still work for a bit of gin in a cocktail, especially if that boozy business is coming from elsewhere. Smooth, not harsh at all, but a bit soft. The floral in this one runs a little detergent-y for me at 4%, but not at 2%, so I would keep it at 2% or lower. 0.25% appears to be just enough for a hint of that resiny juniper without going full gin or as full a gin as this gets. Tastes like it would be a super fun flavor to play with.
 
 Already planning to mix the Dragon in The Pines and Pink Gin recipes that use it. I’ll add [Gin Soaked Balls](https://alltheflavors.com/recipes/141294#gin_soaked_balls_by_jenniferjarvis) to the list, subbing FW Sweetener for the PUR Super Sweet that I don’t have. **TASK 3**
 
@@ -35,7 +35,7 @@ Already planning to mix the Dragon in The Pines and Pink Gin recipes that use it
 
 Full bodied, rich tobacco that’s smooth overall but has some kick, with a bit of ash and a smaller bit of spice. Not too dark, but not especially bright either. I’m not great at describing tobaccos - especially good tobaccos that don’t have weird gross off-notes to point out - but I know I like it.
 
-I need it for at least half a dozen recipes I love and at least half a dozen more that I already plan to try.  To add even more:
+I need it for at least half a dozen recipes I love and at least half a dozen more that I already plan to try. To add even more:
 
 [Smooth Blend](https://alltheflavors.com/recipes/264583#smooth_blend_by_badboxer99) Maybe more tobacco-ish than tobacco, but looks satisfying AF. **TASK 4**
 
@@ -61,7 +61,7 @@ Necessary to mix more [Wild Horses](https://alltheflavors.com/recipes/131078#wil
 
 **Lembas Bread**
 
-It’s just a plain muffin, with a little indistinct fruitiness to it. A little soft, missing some of the outer “crust” if you will of a muffin, but pretty spot on to the fluffy inside of the muffin. Could use some more butter, but there is a bit of butteriness to it.  The fruitiness to this is mostly a very light, vague berry, but it is also a bit lemony, but no more lemony than the amount of lemon used to make a really good blueberry muffin. It’s probably bendable into whatever kind of fruity muffin you want - apple, banana, strawberry, orange cranberry - and of course blueberry, but probably not like a chocolate muffin. Or even a cinnamon muffin without any apple to soak up that fruitiness, but it would probably be great for a cinnamon apple muffin.
+It’s just a plain muffin, with a little indistinct fruitiness to it. A little soft, missing some of the outer “crust” if you will of a muffin, but pretty spot on to the fluffy inside of the muffin. Could use some more butter, but there is a bit of butteriness to it. The fruitiness to this is mostly a very light, vague berry, but it is also a bit lemony, but no more lemony than the amount of lemon used to make a really good blueberry muffin. It’s probably bendable into whatever kind of fruity muffin you want - apple, banana, strawberry, orange cranberry - and of course blueberry, but probably not like a chocolate muffin. Or even a cinnamon muffin without any apple to soak up that fruitiness, but it would probably be great for a cinnamon apple muffin.
 
 I dunno, the last time I tried a muffin recipe I thought, this is great, this mixer did a really good job, it really tastes like it should... but... why would I vape muffin when I could vape cake? It’s not like it has calories or I need the fiber or need to avoid the sugar. I’m sure the handful of muffin recipes that use it are solid recipes, but let me vape cake. With that in mind, I’m good without Lembas Bread. **TRASH 2**
 
@@ -71,7 +71,7 @@ Weird combination of sweet candy lemon and actual tart lemon juice that seems di
 
 **Lemon Grass**
 
-Strong, super concentrated very weird mix of smooth and sweet almost-candy lemon and something earthy and weird. Weird is not always bad. Definitely do not recommend using it higher than 0.5%, but I like to vape it all by itself at 0.5%.  Doesn’t actually taste grassy, it tastes more woody, I’ve heard it described as bamboo flavor and that sounds about right. It’s not thin; it’s very thick.  It’s rich and almost but not quite buttery, kind of like a coconut richness, without the coconut taste.
+Strong, super concentrated very weird mix of smooth and sweet almost-candy lemon and something earthy and weird. Weird is not always bad. Definitely do not recommend using it higher than 0.5%, but I like to vape it all by itself at 0.5%. Doesn’t actually taste grassy, it tastes more woody, I’ve heard it described as bamboo flavor and that sounds about right. It’s not thin; it’s very thick. It’s rich and almost but not quite buttery, kind of like a coconut richness, without the coconut taste.
 
 I’m already planning on mixing a couple of recipes that use it, here’s another [Moro-No-Kimi](https://alltheflavors.com/recipes/210996#moro_no_kimi_by_wolfwheeler) That is a milkshake IPA with passionfruit and it’ll probably be terrible but there’s only one way to find out. **TASK 11**
 
@@ -89,7 +89,7 @@ It’s in one or two others I plan to try.
 
 **Lemonade**
 
-Is an extremely nice flavor to vape, I love it. If I could only have one flavor with lemonade in the name, this would be it, this would be the one. But if we’re talking authenticity, tastes more like a lemon sucker than a lemonade. No actual lemons were harmed in the making of this flavor, but it’s not remotely pledgy either. Just a terrific artificial sweet lemon candy flavor.  It’s very sweet and sugary and more dense than lemonade and not acidic enough even for a powered mix Country Time-type lemonade. Tastes like it could do very well just about any time you might want a sweet artificial lemon with just a little tartness, including a lemonade as long as lemonade is only part of the profile, really super versatile and relatively smooth for a citrus. It also has a little problem with fading, but so do many other lemon/lemonade flavors.
+Is an extremely nice flavor to vape, I love it. If I could only have one flavor with lemonade in the name, this would be it, this would be the one. But if we’re talking authenticity, tastes more like a lemon sucker than a lemonade. No actual lemons were harmed in the making of this flavor, but it’s not remotely pledgy either. Just a terrific artificial sweet lemon candy flavor. It’s very sweet and sugary and more dense than lemonade and not acidic enough even for a powered mix Country Time-type lemonade. Tastes like it could do very well just about any time you might want a sweet artificial lemon with just a little tartness, including a lemonade as long as lemonade is only part of the profile, really super versatile and relatively smooth for a citrus. It also has a little problem with fading, but so do many other lemon/lemonade flavors.
 
 I need it for [Grunch](https://alltheflavors.com/recipes/162546#grunch_by_kopel) and it’s already time to mix some more dat. **TASK 15**
 
@@ -113,10 +113,10 @@ I need it for [Southerner](https://alltheflavors.com/recipes/58127#southerner_by
 
 **Lychee**
 
-Way floral, tastes as much like a flower as a fruit. There is a sticky sweet syrupy sort of accurate white grapey base with a hint of tartness that does taste like a lychee, but the floral edge on it comes out swinging and is intense. It’s also off. White the other lychee flavors and actual lychee have a floral note that tastes kind of like a rose, this is more like some kind of mutant rose-elderflower thing. I actually like this flavor a lot, but I like florals. This does not taste like something someone who doesn’t like florals could enjoy, which isn’t true of all the lychees, I think.  
+Way floral, tastes as much like a flower as a fruit. There is a sticky sweet syrupy sort of accurate white grapey base with a hint of tartness that does taste like a lychee, but the floral edge on it comes out swinging and is intense. It’s also off. White the other lychee flavors and actual lychee have a floral note that tastes kind of like a rose, this is more like some kind of mutant rose-elderflower thing. I actually like this flavor a lot, but I like florals. This does not taste like something someone who doesn’t like florals could enjoy, which isn’t true of all the lychees, I think.
 
 I’m gonna mix [M4NCEE](https://alltheflavors.com/recipes/260905#m4nchee_by_sgt_dryhit). That should have been added to the list last week when I was looking at recipes for FLV Cotton Candy, not sure how I managed to miss it. A mango-lychee blend. **TASK 19**
 
-*My Goodness. I've gone through so much and planned to mix so many that I have to break this week into three parts instead of just two.* Will have Part 32 up in a jiffy.
+_My Goodness. I've gone through so much and planned to mix so many that I have to break this week into three parts instead of just two._ Will have Part 32 up in a jiffy.
 
 New Flavor Count: 2571

@@ -9,23 +9,23 @@ Starting flavor count: 2,600 (down from 2,972)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-# CAPELLA
+## CAPELLA
 
 **Cranberry**
 
-Update. I mixed the two best-looking recipes I could find that used this and while both of them earned five-star reviews, neither turned out to be something I just *had* to make again. Therefore, CAP Cranberry is now **TRASH 1**
+Update. I mixed the two best-looking recipes I could find that used this and while both of them earned five-star reviews, neither turned out to be something I just _had_ to make again. Therefore, CAP Cranberry is now **TRASH 1**
 
 Also, someone told me TFA Cranberry mixed with CAP Cranberry and a little CAP Sweet Currant made a great cranberry so I tried that. There was something to it that makes me lean toward yes on mixing CAP Sweet Currant and a cranberry flavor, but the TFA Cranberry (and probably to some degree CAP as well) made it taste too medicine-like for my liking.
 
 Matter of fact, I’ll just go ahead and get this out of the way:
 
-# TFA
+## TFA
 
 **Cranberry**
 
-It’s very weirdly warm and cool at the same time, like camphor medicine. Like watered down Icy Hot muscle rub. Or hot mint tea. Basically tastes like undersweetened cranberry juice in the middle of all that, tart and a little sharp, apart from that weird fire and ice effect, but I don’t know what to do with it. I checked TFA website because I wanted to see what the hell was going on here, and there’s actually menthol and menthyl acetate in there, which explains the cooling sensation, well as ethyl alcohol and benzyl alcohol, which might explain the weird warmth. I don’t know what they’re trying to do here with all that nonsense, but it’s strange. Like they tried to counter the warm with cooling and just made a mess that’s like cranberry-flavored cold sore medicine.  **TRASH 2**
+It’s very weirdly warm and cool at the same time, like camphor medicine. Like watered down Icy Hot muscle rub. Or hot mint tea. Basically tastes like undersweetened cranberry juice in the middle of all that, tart and a little sharp, apart from that weird fire and ice effect, but I don’t know what to do with it. I checked TFA website because I wanted to see what the hell was going on here, and there’s actually menthol and menthyl acetate in there, which explains the cooling sensation, well as ethyl alcohol and benzyl alcohol, which might explain the weird warmth. I don’t know what they’re trying to do here with all that nonsense, but it’s strange. Like they tried to counter the warm with cooling and just made a mess that’s like cranberry-flavored cold sore medicine. **TRASH 2**
 
-# CAPELLA
+## CAPELLA
 
 **Concord Grape with Stevia**
 
@@ -33,7 +33,7 @@ Update. I think everyone should have this flavor to try [Gruber Grape V2](https:
 
 Since I’m keeping CAP Concord for more of that, I’ll try a one more and if that recipe goes on the favorites list as well - [Jacked Up Grape My Way](https://alltheflavors.com/recipes/257232#jacked_up_grape_my_way_by_daytimefrank). **TASK 1.5**
 
-# WONDER FLAVORS
+## WONDER FLAVORS
 
 **Grape Candy (Sour)**
 
@@ -51,12 +51,12 @@ But, in Shegeo, it seems to be doing magic with the CAP Concord, and now I want 
 
 [Pale Violet Punch](https://alltheflavors.com/recipes/306467#pale_violet_punch_by_gabe8986). There it is with WF Sour Ball Candy and FLV Grape, and TFA Grape Juice, too. Which makes me wonder if it’s even really necessary here, but looks pretty good either way. **TASK 4**
 
-# FLAVORAH
+## FLAVORAH
 
 **Cactus Aloe**
 
 Reminds me of dried apple slices in the body, not the crunchy apple chips but the soft chewy dried apple slices, but has an aloe drink top note, so like green apple slices dipped in that, with some slight notes of lychee or white grape in the middle. I don’t need it. **TRASH 3**
-  
+
 **Cactus Apple**
 
 Again with the dried green apple slices. The spongy ones you can buy at the sore next to the dried figs, apricots, raisins, and such. It really matches that concentrated sort of slightly sticky naturally sugary sweetness and very light fermented-type note. Chewy, thick. Worth noting I get some harshness from this, but I’m sure not everyone does.
@@ -66,10 +66,10 @@ At the moment it doesn’t seem necessary to keep, but there are a couple of fou
 [Centaur II](https://alltheflavors.com/recipes/297268#centaur_ii_by_mixnjuice). That’s a really interesting combination of Flavorah flavors: Cactus Apple, Ripe Mango, Wild Melon, and ... Vanilla Pudding? **TASK 5**
 
 [Flavorah Gives You Wings](https://alltheflavors.com/recipes/222645#flavorah_gives_you_wings_by_rug_ly). I don’t actually trust FLV Energy Drink not be weird, but it’s in a couple of other things I’m already planning to mix and I’m interested in the how the other three FLV flavors work together: Cactus Apple, Citrus Soda, Pink Guava. **TASK 6**
-  
+
 **Candy Roll**
 
-**TRASH 4**.  I can’t use this. I want to, but I can’t. I don’t know what’s in this flavor that makes me react so strongly to it, but every single time I take that first hit or three from a fresh drip of any recipe using this flavor, I taste something like rubbing alcohol. Every single time, even down at 0.5%. It never steeps out. It does go away after the first few hits, but every time I drip more of it, there’s that rubbing alcohol back, and it’s unpleasant. That’s why I can’t use it at all. I want the first hit of something to be impressive, not unpleasant. Between redrippings though, it’s pretty nice. It’s not quite American Smarties (Smarties means something much different in the UK and Canada) because it’s a bit sharper and more tart than those, but it’s not as sharp and tart as Sweet-Tarts, either. It’s like Smarties and Sweet-Tarts had a baby. It does a compressed powdered sugar thing very well without being too chalky or dry and has a thick, full-bodied flavor. The fruit, though more forward than Smarties and and less in your face than a Sweet-Tart, is not really identifiable. I can pick out orange and enough other stuff to know that orange is definitely not alone, it’s a mishmash of fruity on top of that sweet powdery base.
+**TRASH 4**. I can’t use this. I want to, but I can’t. I don’t know what’s in this flavor that makes me react so strongly to it, but every single time I take that first hit or three from a fresh drip of any recipe using this flavor, I taste something like rubbing alcohol. Every single time, even down at 0.5%. It never steeps out. It does go away after the first few hits, but every time I drip more of it, there’s that rubbing alcohol back, and it’s unpleasant. That’s why I can’t use it at all. I want the first hit of something to be impressive, not unpleasant. Between redrippings though, it’s pretty nice. It’s not quite American Smarties (Smarties means something much different in the UK and Canada) because it’s a bit sharper and more tart than those, but it’s not as sharp and tart as Sweet-Tarts, either. It’s like Smarties and Sweet-Tarts had a baby. It does a compressed powdered sugar thing very well without being too chalky or dry and has a thick, full-bodied flavor. The fruit, though more forward than Smarties and and less in your face than a Sweet-Tart, is not really identifiable. I can pick out orange and enough other stuff to know that orange is definitely not alone, it’s a mishmash of fruity on top of that sweet powdery base.
 
 **Cantaloupe**
 
@@ -87,7 +87,7 @@ Fantastic ingredient, terrible caramel. Thin and dry, mostly tastes like raw bro
 
 The only thing I already know I need it for is my [Retaliatory Tariffs](https://alltheflavors.com/recipes/108011#retaliatory_tariffs_by_id10_t) recipe. Mmmmm... **TASK 9**
 
-But it shows up in a few things I’m already planning to mix, and there are a couple  more that look too good to pass up.
+But it shows up in a few things I’m already planning to mix, and there are a couple more that look too good to pass up.
 
 [Toffee Cookie Crack](https://alltheflavors.com/recipes/248615#return_of_the_mac_toffee_cookie_crack_by_spdrjrslm) has a ton of ingredients, but it looks like it might be worth pulling all that out, and has glowing reviews. **TASK 10**
 
@@ -103,7 +103,7 @@ Tastes like pipe tobacco with some cherry and spice notes. I’ve tried a few re
 
 **Chai Spice**
 
-Boldly cardamom forward Chai Spice blend with some softer cinnamon and another spice note I can’t ID behind it, maybe clove, but gentle and blended in. The cardamom tastes a bit vaguely overly citrusy, like there’s a bit of lemony orange in there as well. I’m thinking that citrusy quality might hopefully get covered up in a mix or come across as just a brighter cardamom. Top-heavy flavor, like spice flavors usually are, not a much base to it, perfect for topping things off. Not much to say about it, but it’s not off and it’s very flavorful.  
+Boldly cardamom forward Chai Spice blend with some softer cinnamon and another spice note I can’t ID behind it, maybe clove, but gentle and blended in. The cardamom tastes a bit vaguely overly citrusy, like there’s a bit of lemony orange in there as well. I’m thinking that citrusy quality might hopefully get covered up in a mix or come across as just a brighter cardamom. Top-heavy flavor, like spice flavors usually are, not a much base to it, perfect for topping things off. Not much to say about it, but it’s not off and it’s very flavorful.
 
 I’m hesitant to throw it out because I’m working on a papaya chai recipe and might wind up needing it for that. In the meantime, I’ll try:
 
@@ -124,7 +124,7 @@ I don’t feel like I need to have a bunch of cheesecake flavors, likely making 
 
 The best I can do when it comes to describing what custard apple flavors - which tend to be pretty interesting and complex - taste like is listing the various fruit notes I get from them. From this one I get pineapple, red apple, pear, coconut, and some mango or maybe papaya. Many of them have a banana note as well, so it’s probably worth noting that I don’t get any banana here.
 
-The tart top notes that are mostly pineapple, mixed with something else, something like red apple, with a softer, sweeter base that’s more vaguely tropical than anything in particular, but kind of like coconut mixed with ripe pear and a bit of some ripe mango or papaya, some kind of orange tropical fruit. Not as thick as other custard apple flavors, as it has a lot more emphasis on that pineapple-apple type flavor up front, but there is a bit of bit body there. It’s just a little bit funky throughout, but that funkiness is more concentrated right after that initial sharp, thinner, more acidic pineapple bite. Base has a sweetness that tastes overtly natural. Lingering sharp pineapple mouthfeel.  
+The tart top notes that are mostly pineapple, mixed with something else, something like red apple, with a softer, sweeter base that’s more vaguely tropical than anything in particular, but kind of like coconut mixed with ripe pear and a bit of some ripe mango or papaya, some kind of orange tropical fruit. Not as thick as other custard apple flavors, as it has a lot more emphasis on that pineapple-apple type flavor up front, but there is a bit of bit body there. It’s just a little bit funky throughout, but that funkiness is more concentrated right after that initial sharp, thinner, more acidic pineapple bite. Base has a sweetness that tastes overtly natural. Lingering sharp pineapple mouthfeel.
 
 This is not my favorite custard apple. It’s not even my favorite FLV custard apple (FLV Guanabana!), but it’s not a bad flavor, either. It’s good enough that I want to try a couple of fruity messes that make use of it,
 
@@ -136,7 +136,7 @@ This is not my favorite custard apple. It’s not even my favorite FLV custard a
 
 100% a floral flavor. It tastes like just the cherry blossoms in cherry blossom tea, the traditional kind that’s just dried cherry blossoms and no actual tea. It’s also a little green and dry, though slightly sweet. Some cherry blossom teas also use actual dried cherries in there with the blossoms, this is not one of those. No cherry. I guess you could say the sweetness in it is a little fruity tasting, but mostly it just happens to come from the same tree as cherries. It’s not a cherry flavor. I think it cries out for creams and maybe some actual tea if you can balance out those drier notes with creams. However, I didn’t see a recipe like that and it doesn't sufficiently motivate me to try to make one. **TRASH 6**
 
- **Cherry Filling**
+**Cherry Filling**
 
 This one breaks my heart because there really is a very sweet, bright sort of cherry gummy candy but I get a strong plastic off note along with it, though slightly different than the shower curtain liner flavor, more like the plasticky weirdness of some gummy candy flavors, or something between those two. An odd plastic. Although it’s still pretty terrible, this is quite a bit less offensive at 0.75% than it was when I made the mistake of trying it at 3%, but still with lots of flavor... maybe there’s hope for it at 0.5% or less, but I’m not sticking around to find out. **TRASH 7**
 
@@ -150,7 +150,7 @@ And I need it for Shyndo’s [Mint Chip Cookies and Cream](https://alltheflavors
 
 As long as we’re messin with mint, chocolate, and baked goods, why not [a mint chocolate donut](https://alltheflavors.com/recipes/242988#charity_fraud_by_prepaidthemage). **TASK 21**
 
-I’m excited to try this [Tobacco Mint Meltaway](https://alltheflavors.com/recipes/205624#tobacco_mint_meltaway_developedflv_by_kurplop), it looks amazing.  **TASK 22**
+I’m excited to try this [Tobacco Mint Meltaway](https://alltheflavors.com/recipes/205624#tobacco_mint_meltaway_developedflv_by_kurplop), it looks amazing. **TASK 22**
 
 Apparently I helped with this [Sous Chef](https://alltheflavors.com/recipes/209870#sous_chef_by_nowar) recipe. No recollection of doing that, but I feel kind of obliged to try it now. Also, it looks yummy. Another mint chocolate tobacco. **TASK 23**
 
@@ -164,7 +164,7 @@ Finally, this [Ore’holy Shit](https://alltheflavors.com/recipes/227932#ore_hol
 
 **Cinnamon Crunch**
 
-Super tasty, it pretty much tastes like cinnamon toast crunch cereal, with just a hint of a maple off-note when pushed up too high. Toasty wheat cereal with cinnamon and sugar in and on it. Same great cinnamon as FLV Rich Cinnamon, but nowhere near as potent. About the same level of cinnamon as FLV Apple Filling. It’s not as crunchy and it’s not as cinnamony as real CTC. It’s sweet but not quite as sweet as CTC. But it’s a solid cinnamon toast crunch that can easily be improved if you want CTC. And because it’s not as crunchy as the real deal, it can be versatile. it doesn’t need to only be used for cereal. It can be quite useful in all kinds of bakeries, bread pudding, cobbler, you name it. Anywhere where cinnamon and toasty bready flavor might be desirable.  
+Super tasty, it pretty much tastes like cinnamon toast crunch cereal, with just a hint of a maple off-note when pushed up too high. Toasty wheat cereal with cinnamon and sugar in and on it. Same great cinnamon as FLV Rich Cinnamon, but nowhere near as potent. About the same level of cinnamon as FLV Apple Filling. It’s not as crunchy and it’s not as cinnamony as real CTC. It’s sweet but not quite as sweet as CTC. But it’s a solid cinnamon toast crunch that can easily be improved if you want CTC. And because it’s not as crunchy as the real deal, it can be versatile. it doesn’t need to only be used for cereal. It can be quite useful in all kinds of bakeries, bread pudding, cobbler, you name it. Anywhere where cinnamon and toasty bready flavor might be desirable.
 
 I need it to mix my own [Saturday Morning Macaron](https://alltheflavors.com/recipes/95350#saturday_morning_macaron_by_id10_t). **TASK 28** I wonder if I could replace that TFA AP with CAP Cereal 27? I’ll think about that while vaping it again.
 
@@ -211,7 +211,7 @@ Finally, here it is [fizzing up a grape soda](https://alltheflavors.com/recipes/
 Tastes like chewing on a partially smoked cigarette. As horrible as that sounds, it’s been used to create two recipes I absolutely love and am very happy to mix again.
 
 [2 Flavor Banger](https://alltheflavors.com/recipes/90634#2_flavor_banger_by_jj_sumbetch). It’s just 1% Classic Cigarette and 1% FA Walnut. **TASK 43**
-  
+
 [Chem Twista Lime](https://alltheflavors.com/recipes/102517#chem_twista_lime_by_chemicalburnvictim), no joke, cigarette with a pinch of lime, and it’s really cool. **TASK 44**
 
 I want to try this [American Slang](https://alltheflavors.com/recipes/66864#american_slang_by_chemicalburnvictim) three-ingredient, 2% total flavor recipe while I’ve got it out. **TASK 45**
@@ -224,7 +224,7 @@ It is my favorite clove mostly because it tastes more realistic and has some dep
 
 **Coconut**
 
-Useful ingredient, not a great coconut on its own. Very strong, use low or it starts to both get overpowering and sickeningly rich. Very buttery - so buttery it can probably be used as butter in a mix as effectively as a butter flavor, if not more so. This is fantastic but it’s not really an accurate coconut. It’s not lotion-y, either. It’s more like eating a spoonful of coconut oil straight from the jar, but more buttery. Very good for thickening and enriching other coconut flavors when used carefully. Extremely silky smooth.  
+Useful ingredient, not a great coconut on its own. Very strong, use low or it starts to both get overpowering and sickeningly rich. Very buttery - so buttery it can probably be used as butter in a mix as effectively as a butter flavor, if not more so. This is fantastic but it’s not really an accurate coconut. It’s not lotion-y, either. It’s more like eating a spoonful of coconut oil straight from the jar, but more buttery. Very good for thickening and enriching other coconut flavors when used carefully. Extremely silky smooth.
 
 I need it because I know [Deer Lodge](https://alltheflavors.com/recipes/90272#deer_lodge_by_concreteriver) just wouldn’t be the same without the 0.25% of it in there. But, I just added Deer Lodge to the to-do list last week. It’s also in another ConcreteRiver favorite of mine, [Feint](https://alltheflavors.com/recipes/38680#feint_by_concreteriver). It’s a pina colada swisher! **TASK 47**
 
@@ -232,7 +232,7 @@ I also want to try this [Creamy Vanilla Pudding](https://alltheflavors.com/recip
 
 **Coffee**
 
-First off, that’s mocha, not just coffee. It’s quite chocolately. Tastes like dark roasted mocha, almost but not quite burnt, not the same kind of burnt popcorn taste some coffee flavors have, more just like slightly burnt coffee. Kind of a burnt bitterness in the top notes.  Gas station mocha that’s been on the burner too long kind of thing. People report coconut as a strong note in this one, I do not get any coconut at 0.25% and it does not taste under flavored at that concentration - it’s really potent. But I do get a feeling like coconut cream. Feels oddly creamy without actually tasting like cream, it’s actually rich, but it’s an odd sort of richness. At 0.5% there’s that coconut, and even more burnt mocha flavor. I just don’t see this working well because it’s burnt and yucky. **TRASH 9**
+First off, that’s mocha, not just coffee. It’s quite chocolately. Tastes like dark roasted mocha, almost but not quite burnt, not the same kind of burnt popcorn taste some coffee flavors have, more just like slightly burnt coffee. Kind of a burnt bitterness in the top notes. Gas station mocha that’s been on the burner too long kind of thing. People report coconut as a strong note in this one, I do not get any coconut at 0.25% and it does not taste under flavored at that concentration - it’s really potent. But I do get a feeling like coconut cream. Feels oddly creamy without actually tasting like cream, it’s actually rich, but it’s an odd sort of richness. At 0.5% there’s that coconut, and even more burnt mocha flavor. I just don’t see this working well because it’s burnt and yucky. **TRASH 9**
 
 **Cola**
 

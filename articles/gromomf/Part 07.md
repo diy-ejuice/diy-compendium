@@ -7,9 +7,9 @@ date: '2022-09-25'
 
 Starting Flavor Count: 2,885 (Down from 2,975 Originally)
 
-TASK OR TRASH - Each flavor gets assigned a task or goes in the trash.  
+TASK OR TRASH - Each flavor gets assigned a task or goes in the trash.
 
-# CAPELLA
+## CAPELLA
 
 This is going to be an all-Capella chapter of Getting Rid of Most of My Flavors. Not to be confused with an acapella chapter, don’t worry, I won’t be serenading anyone today.
 
@@ -27,35 +27,35 @@ V1 has been discontinued, I think. V2 is artificial coconut with a hint of pinea
 
 There’s not a single recipe on ATF that uses this. And none of the ones on ELR really looked like they would float my boat.
 
-Fine, then. I’ll make my own Tiger’s Blood.  
+Fine, then. I’ll make my own Tiger’s Blood.
 
 Tiger’s Blood Attempt V1 **TASK 2**
 
-Co. | Flavor | %
----|---|----
-RFSC | Strawberry | 3
-CAP | Pina Colada V2| 4
-PUR | Watermelon | 5
-CAP | Hibiscus | 1
-BCF | WS 23 (30%) | 0.5
-BNDR | Blackjack | 21
-BNDR | Hookers | 69
+| Co.  | Flavor         | %   |
+| ---- | -------------- | --- |
+| RFSC | Strawberry     | 3   |
+| CAP  | Pina Colada V2 | 4   |
+| PUR  | Watermelon     | 5   |
+| CAP  | Hibiscus       | 1   |
+| BCF  | WS 23 (30%)    | 0.5 |
+| BNDR | Blackjack      | 21  |
+| BNDR | Hookers        | 69  |
 
 **Pink Lemonade**
 
 I STILL don’t really know what makes pink lemonade pink. Most say it’s a bit of berry but there’s some disagreement about which one - strawberry, raspberry, cranberry? I’ve even heard grape and pomegranate. But after trying some lemonades and pink lemonades side by side, I’m pretty sure it’s just Red #40 or whatever. If you blindfolded me and had me drink some lemonade I’m not sure I could tell whether it was pink lemonade or lemonade. But if you had me drink both lemonade and pink lemonade by the same company I’m fairly certain I could tell you which one is the pink one. They just taste pinker, and I’m sorry I can’t make any more sense of it than that.
 
-CAP Pink Lemonade is sweet and candylike, very - almost violently - artificial lemon, no real lemon at all. Bright with some acidity and tartness not unlike powdered lemonade mix. Just a little floral and pledge-y at 4%.. Not a bold flavor at 4% but I’m not sure I want to try it higher because I’m afraid those off notes will come up, also slightly above average harshness and don’t want to increase it.  When comes to Pink Lemonade flavors I definitely prefer Liquid Barn’s, and there isn’t anything I really want to make out of it, not interested in Pink Punch Lemonade clones. **TRASH 2**  
+CAP Pink Lemonade is sweet and candylike, very - almost violently - artificial lemon, no real lemon at all. Bright with some acidity and tartness not unlike powdered lemonade mix. Just a little floral and pledge-y at 4%.. Not a bold flavor at 4% but I’m not sure I want to try it higher because I’m afraid those off notes will come up, also slightly above average harshness and don’t want to increase it. When comes to Pink Lemonade flavors I definitely prefer Liquid Barn’s, and there isn’t anything I really want to make out of it, not interested in Pink Punch Lemonade clones. **TRASH 2**
 
 **Pomegranate V2**
 
 I think V1 is discontinued. This is NOT butyric - no reason to be scared of the V2. 3% is good, kind of a syrupy, candy pomegranate, think cherry/cranberry candy with raspberry and a little grape, not far from grenadine but not nearly as sugary sweet, probably never going to be the main flavor in a mix, kind of a push over, little hard plastic off note at 5%. No floral edge like FA or TFA. It is a bit waxy as opposed to juicy, has a dense character but not as much deep saturation of flavor as some of the other pomegranate flavors.
 
-As bad as CAP Grenadine was, I was prepared for this to be much, much worse. It’s still not great, but it’s really not that bad at all. I want to toss it, but I want to at least try [Smootchie](https://alltheflavors.com/recipes/102262#smootchie_by_besejuiced) first. I’m kind of a sucker for the lots of fruit, little bit of cream type of recipe. **TASK 3**  
+As bad as CAP Grenadine was, I was prepared for this to be much, much worse. It’s still not great, but it’s really not that bad at all. I want to toss it, but I want to at least try [Smootchie](https://alltheflavors.com/recipes/102262#smootchie_by_besejuiced) first. I’m kind of a sucker for the lots of fruit, little bit of cream type of recipe. **TASK 3**
 
 **Powerful Sour**
 
-Do not buy this just because it’s the most sour, it’s actually terrible. Smells like maybe someone decided to try the acetic acid route to sour. Very weird, since other sour additives were odorless to nearly odorless, but just opening the concentrate bottle to mix it I was blown back in my chair by the odor, it’s a potent smell.  It really is the most sour, or the closest to sour, out of all of the additives I have tried, at least at the concentrations I tried them, but it’s simultaneously very disgusting. It’s the wrong kind of sour. It tastes like that hot water bottle hanging in my grandma's shower. At least, I thought it was a hot water bottle, until I later found out it was a literal douche bag. So like vinegar, basically, but with a dash of granny's hoo-ha. Maybe not literally my grandma’s vagina, but vinegar plus something worse than vinegar, something a little rotten. It’s foul. Licked some, it really is very sour, and I did not get that weird earthy off note, but it’s still the wrong kind of sour. It might be good in a salad dressing or something like that. **TRASH 3**  
+Do not buy this just because it’s the most sour, it’s actually terrible. Smells like maybe someone decided to try the acetic acid route to sour. Very weird, since other sour additives were odorless to nearly odorless, but just opening the concentrate bottle to mix it I was blown back in my chair by the odor, it’s a potent smell. It really is the most sour, or the closest to sour, out of all of the additives I have tried, at least at the concentrations I tried them, but it’s simultaneously very disgusting. It’s the wrong kind of sour. It tastes like that hot water bottle hanging in my grandma's shower. At least, I thought it was a hot water bottle, until I later found out it was a literal douche bag. So like vinegar, basically, but with a dash of granny's hoo-ha. Maybe not literally my grandma’s vagina, but vinegar plus something worse than vinegar, something a little rotten. It’s foul. Licked some, it really is very sour, and I did not get that weird earthy off note, but it’s still the wrong kind of sour. It might be good in a salad dressing or something like that. **TRASH 3**
 
 **Pralines & Cream**
 
@@ -65,13 +65,13 @@ Another one I’d be fine with chucking, but I want to at least try this [Hazal 
 
 **Pumpkin Spice**
 
-Just a terrible nutmeg and clove duo and that’s about all there is to it. It’s intensely nutmeggy with some clove behind it and a strong burning paper off note. Like you just lit a wad of paper on fire and tried to douse it with nutmeg and a little clove or are trying to kill yourself by smoking nutmeg rolled in notebook paper. It’s hard to tell when the cotton is getting dry when it pretty much tastes like it is when it’s soaking wet. Really, CAP Pumpkin Pie Spice is truly awful stuff, and it’s going directly into the **TRASH 4**  
+Just a terrible nutmeg and clove duo and that’s about all there is to it. It’s intensely nutmeggy with some clove behind it and a strong burning paper off note. Like you just lit a wad of paper on fire and tried to douse it with nutmeg and a little clove or are trying to kill yourself by smoking nutmeg rolled in notebook paper. It’s hard to tell when the cotton is getting dry when it pretty much tastes like it is when it’s soaking wet. Really, CAP Pumpkin Pie Spice is truly awful stuff, and it’s going directly into the **TRASH 4**
 
 **Rainbow Candy**
 
 Very tart and somewhat sweet kinda fruity candy thing. Some throat hit, about what I’d expect with this level of tartness. Tartness is its most defining characteristic. This is not Skittles, it’s nowhere near fruity enough for Skittles. I can’t pick out any specific fruit from this, but it’s bright and lightly fruity. Maybe some lemon and lime with darker grape-berry candy fruit behind it, but more freestyle top note tartness than a specific tart fruit. There’s some dry chalky sweetness under that and it comes across more like a Spree or Sweet-Tart base than a Skittle. Seems like this could be a better tart additive for fruit candy than a bunch of the other stuff called “Sour.”
 
-I can’t trash Rainbow Candy just yet because I need it for one of the recipes from my Part 6 to-do list. Went looking for another one. Seeing [Gamer Fuel](https://alltheflavors.com/recipes/80296#gamer_fuel_by_countrychicken) did NOT make me regret throwing out CAP Chocolate Glazed Donut, although maybe I’m just losing my sense of adventure as I get longer in the tooth. Hopefully I won’t regret fishing out the huge long list of flavors needed to mix [Skittles Classic Candy](https://alltheflavors.com/recipes/162389#skittles_classic_candy_by_humanpuck) by the Humanpuck. **TASK 5**  
+I can’t trash Rainbow Candy just yet because I need it for one of the recipes from my Part 6 to-do list. Went looking for another one. Seeing [Gamer Fuel](https://alltheflavors.com/recipes/80296#gamer_fuel_by_countrychicken) did NOT make me regret throwing out CAP Chocolate Glazed Donut, although maybe I’m just losing my sense of adventure as I get longer in the tooth. Hopefully I won’t regret fishing out the huge long list of flavors needed to mix [Skittles Classic Candy](https://alltheflavors.com/recipes/162389#skittles_classic_candy_by_humanpuck) by the Humanpuck. **TASK 5**
 
 **Raspberry**
 
@@ -81,11 +81,11 @@ So many great raspberry flavors available, what do I need this one for? Probably
 
 **Raspberry V2**
 
-CAP Raspberry V2 isn’t very different from V1, but it is a little better. It’s more flavorful, and a little more fresh and juicy, a little more tart, sweeter while at the same time not quite as thick. Still has the greenish floral thing. So if CAP Raspberry V1 is steeping raspberry blossoms and stems in raspberry syrup, this is just raspberry blossoms and stems steeped in a looser syrup, with maybe some real raspberry or raspberry juice involved in making it. Those green floral top notes in CAP Raspberry V2 still pretty much ruin it for me for most things, though this might be my pick for a raspberry tea or a raspberry mix with florals. It is less annoying at 2% vs. 3%, without really sacrificing flavor. So I’d keep CAP Raspberry V2 under 3%. Or rather, you should keep it under 3%. I’m going to put it in the **TRASH 5** because there isn't anything I want to do with it.  
+CAP Raspberry V2 isn’t very different from V1, but it is a little better. It’s more flavorful, and a little more fresh and juicy, a little more tart, sweeter while at the same time not quite as thick. Still has the greenish floral thing. So if CAP Raspberry V1 is steeping raspberry blossoms and stems in raspberry syrup, this is just raspberry blossoms and stems steeped in a looser syrup, with maybe some real raspberry or raspberry juice involved in making it. Those green floral top notes in CAP Raspberry V2 still pretty much ruin it for me for most things, though this might be my pick for a raspberry tea or a raspberry mix with florals. It is less annoying at 2% vs. 3%, without really sacrificing flavor. So I’d keep CAP Raspberry V2 under 3%. Or rather, you should keep it under 3%. I’m going to put it in the **TRASH 5** because there isn't anything I want to do with it.
 
 **Rhubarb**
 
-Doesn’t taste “bad” at all to me, but doesn’t really taste like rhubarb, I wouldn’t know it was supposed to be rhubarb if it didn’t say it on the bottle.  It tastes like some kind of very weird candy that’s tart and a little green tasting. But if you told me it was supposed to be green apple or green grape or underripe strawberry candy, I’d believe that just as easily as believing it is supposed to be rhubarb. Gooseberry, maybe? CAP Rhubarb tastes like candy based on someone’s idea of what a raw and unripe gooseberry tastes like. Very sweet and candy-like.
+Doesn’t taste “bad” at all to me, but doesn’t really taste like rhubarb, I wouldn’t know it was supposed to be rhubarb if it didn’t say it on the bottle. It tastes like some kind of very weird candy that’s tart and a little green tasting. But if you told me it was supposed to be green apple or green grape or underripe strawberry candy, I’d believe that just as easily as believing it is supposed to be rhubarb. Gooseberry, maybe? CAP Rhubarb tastes like candy based on someone’s idea of what a raw and unripe gooseberry tastes like. Very sweet and candy-like.
 
 Fine, I’ll try this [rhabarberbarbara](https://alltheflavors.com/recipes/191060#rhabarberbarbara_by_eyemsam), just to be sure I don’t really need CAP Rhubarb. **TASK 7**
 
@@ -95,9 +95,9 @@ One of the best strawberry flavors I’ve tried. A realistic strawberry, with de
 
 I’ve got some recipes to mix!
 
-This [Simple Sugar Strawberry Cookie](https://alltheflavors.com/recipes/276172#simple_sugar_strawberry_cookie_by_nolles) is kinda what I had in mind when I went looking for a CAP Ripe Strawberries recipe to mix, and I bet it’s going to be deeeeelicious. Good thing I haven’t thrown out CAP Butter Cream yet.  **TASK 8**
+This [Simple Sugar Strawberry Cookie](https://alltheflavors.com/recipes/276172#simple_sugar_strawberry_cookie_by_nolles) is kinda what I had in mind when I went looking for a CAP Ripe Strawberries recipe to mix, and I bet it’s going to be deeeeelicious. Good thing I haven’t thrown out CAP Butter Cream yet. **TASK 8**
 
-[Simplistic Squeezed Strawberry](https://alltheflavors.com/recipes/212544#simplistic_squeezed_strawberry_by_danielthevapeman)  **TASK 9**
+[Simplistic Squeezed Strawberry](https://alltheflavors.com/recipes/212544#simplistic_squeezed_strawberry_by_danielthevapeman) **TASK 9**
 
 [Even Sides](https://alltheflavors.com/recipes/168004#even_sides_by_ebc88) **TASK 10**
 
@@ -109,7 +109,7 @@ This [Simple Sugar Strawberry Cookie](https://alltheflavors.com/recipes/276172#s
 
 Would you look at that? Another bottle that never got opened.
 
-I will mix 4 and 8% samples. **TASK 13**  
+I will mix 4 and 8% samples. **TASK 13**
 
 **Shortbread**
 
@@ -121,7 +121,7 @@ It does not taste like any kind of shortbread I’ve ever tasted, but it is yumm
 
 [Blueberry Cream Cookies](https://alltheflavors.com/recipes/263272#blueberry_cream_cookies_by_corvape) **TASK 16**
 
-[Apple Custard Cake](https://alltheflavors.com/recipes/255927#apple_custard_cake_homestyle_by_h_g)  **TASK 17**
+[Apple Custard Cake](https://alltheflavors.com/recipes/255927#apple_custard_cake_homestyle_by_h_g) **TASK 17**
 
 **Simply Vanilla**
 
@@ -131,14 +131,14 @@ This is the recipe. You won’t find it on my ATF, initially due to a deal with 
 
 Climbing
 
-Co. | Flavor | %
----|---|----
-TFA | Key Lime | 3.5
-CAP | Lemon Lime | 1.5
-FLV | Lime | 0.25
-FA | Oba Oba | 1
-TFA | Vanilla Swirl | 2
-TFA | Sweetener | 1
+| Co. | Flavor        | %    |
+| --- | ------------- | ---- |
+| TFA | Key Lime      | 3.5  |
+| CAP | Lemon Lime    | 1.5  |
+| FLV | Lime          | 0.25 |
+| FA  | Oba Oba       | 1    |
+| TFA | Vanilla Swirl | 2    |
+| TFA | Sweetener     | 1    |
 
 It’s been awhile, so I should probably mix the original first for comparison. **TASK 18**
 
@@ -146,15 +146,15 @@ This is what I’m thinking with the Simply Vanilla:
 
 Climbing Higher V1 **TASK 19**
 
-Co. | Flavor | %
----|---|----
-TFA | Key Lime | 3.5
-CAP | Lemon Lime |1.5
-FLV | Lime | 0.25
-FA | Oba Oba | 1
-TFA | Vanilla Swirl | 1
-CAP | Simply Vanilla | 1
-CAP | Super Sweet | 0.25
+| Co. | Flavor         | %    |
+| --- | -------------- | ---- |
+| TFA | Key Lime       | 3.5  |
+| CAP | Lemon Lime     | 1.5  |
+| FLV | Lime           | 0.25 |
+| FA  | Oba Oba        | 1    |
+| TFA | Vanilla Swirl  | 1    |
+| CAP | Simply Vanilla | 1    |
+| CAP | Super Sweet    | 0.25 |
 
 A lot of work went into balancing the lime and vanilla candy the first time around, so I don’t expect this first version to be perfect, but I do hope it makes clear whether CAP Simply Vanilla is a direction I want to go in.
 
@@ -164,16 +164,16 @@ Yum! Tastes like a cinnamon roll without the cinnamon. Years and years ago I tri
 
 New Honey Bun V1 **TASK 20**
 
-Co. | Flavor | %
----|---|----
-CAP| Sticky Bun | 6
-CAP| Cinnamon Sugar | 1
-VSO | Honey | 1.5
-WF | Glazed Donut | 1.5
-CAP | Frosting | 1.5
-FW | Sweetener | 0.5
+| Co. | Flavor         | %   |
+| --- | -------------- | --- |
+| CAP | Sticky Bun     | 6   |
+| CAP | Cinnamon Sugar | 1   |
+| VSO | Honey          | 1.5 |
+| WF  | Glazed Donut   | 1.5 |
+| CAP | Frosting       | 1.5 |
+| FW  | Sweetener      | 0.5 |
 
-Sticky Bun being almost there all by itself, I think this will work. The cinnamon spice in these things is subtle, but I want  to emphasize that the vague, light spice note is in fact cinnamon. I think a small amount of CAP Cinnamon Sugar will do it, but if it doesn’t seem to work, there are other options I’ll try replacing it with, like FW Cinnamon Roll, FW Caramel Cinnamon Roll, FLV Cinnamon Crunch, just off the top of my head. Back in the day I discovered that when mixed with cinnamon, FA Butterscotch comes across tasting a lot like honey. I’m going to try VSO Honey first as it is my new favorite non-disgusting honey flavor, but if it doesn’t work I might try another or go back to that old FA Butterscotch trick. WF Glazed Donut is there to reinforce the mass-produced, soybean oil-infusedness of the honey bun. To Little Debbie-ize it. I might switch to trying to see if I can make a little bit of WF Deep Fried Pastry Dough work if the Donut doesn’t. And finally, CAP Frosting, because why not frost that fucker with trashy frosting? If it winds up being too loud I’ll try again with OoO Vanilla Frosting.
+Sticky Bun being almost there all by itself, I think this will work. The cinnamon spice in these things is subtle, but I want to emphasize that the vague, light spice note is in fact cinnamon. I think a small amount of CAP Cinnamon Sugar will do it, but if it doesn’t seem to work, there are other options I’ll try replacing it with, like FW Cinnamon Roll, FW Caramel Cinnamon Roll, FLV Cinnamon Crunch, just off the top of my head. Back in the day I discovered that when mixed with cinnamon, FA Butterscotch comes across tasting a lot like honey. I’m going to try VSO Honey first as it is my new favorite non-disgusting honey flavor, but if it doesn’t work I might try another or go back to that old FA Butterscotch trick. WF Glazed Donut is there to reinforce the mass-produced, soybean oil-infusedness of the honey bun. To Little Debbie-ize it. I might switch to trying to see if I can make a little bit of WF Deep Fried Pastry Dough work if the Donut doesn’t. And finally, CAP Frosting, because why not frost that fucker with trashy frosting? If it winds up being too loud I’ll try again with OoO Vanilla Frosting.
 
 **Strawberries & Cream**
 
@@ -192,7 +192,7 @@ I looked at dozens of recipes using it and the one that wound up being most inte
 
 **Sugar Cookie**
 
-You’re outside of your whole mind if you think there’s a chance I’m parting with this anytime soon. It’s definitely one of my favorite flavors. Not that it’s perfect or anything, but I still love it. It does have its detractors. Some find it too soft, not enough crunch to it, some find it too distinctive, some get various off notes from it... I don’t know, basically you can’t please everybody. I also think there is almost no excuse not to have this flavor. It’s almost worth buying for the room note alone; it makes people swear someone is baking sugar cookies nearby. It doesn’t vape with quite that much authenticity but that's what makes it such a versatile, indispensable bakery ingredient. Used high (at least 4%, on up to 8%) it’s a rich, thick, buttery and slightly grainy baked good mostly reminiscent of a soft, mass-produced or “slice and bake”-type of sugar cookie. It blends well with other ingredients and can be the base for pretty much any baked thing you want it to be with the right helpers. It is not a cookie with a dry, crisp snap, at all. It doesn't take much to turn it into a dense cake base, or, say, a shortbread layer. Used lower, it can fill in cracks in other baked things and bring texture and fullness where it might be missing. Of note, there’s some ethyl alcohol in here, not very much, but some, and if especially if you’re sensitive to it, it will need some time to steep out. “Breathing” your mix is something I wouldn’t normally advocate at all - it allows those precious aroma volatiles to escape - but depending on what else is in there, something with a large amount of CAP Sugar Cookie in there might benefit from that in lieu of waiting out a longer steep.  
+You’re outside of your whole mind if you think there’s a chance I’m parting with this anytime soon. It’s definitely one of my favorite flavors. Not that it’s perfect or anything, but I still love it. It does have its detractors. Some find it too soft, not enough crunch to it, some find it too distinctive, some get various off notes from it... I don’t know, basically you can’t please everybody. I also think there is almost no excuse not to have this flavor. It’s almost worth buying for the room note alone; it makes people swear someone is baking sugar cookies nearby. It doesn’t vape with quite that much authenticity but that's what makes it such a versatile, indispensable bakery ingredient. Used high (at least 4%, on up to 8%) it’s a rich, thick, buttery and slightly grainy baked good mostly reminiscent of a soft, mass-produced or “slice and bake”-type of sugar cookie. It blends well with other ingredients and can be the base for pretty much any baked thing you want it to be with the right helpers. It is not a cookie with a dry, crisp snap, at all. It doesn't take much to turn it into a dense cake base, or, say, a shortbread layer. Used lower, it can fill in cracks in other baked things and bring texture and fullness where it might be missing. Of note, there’s some ethyl alcohol in here, not very much, but some, and if especially if you’re sensitive to it, it will need some time to steep out. “Breathing” your mix is something I wouldn’t normally advocate at all - it allows those precious aroma volatiles to escape - but depending on what else is in there, something with a large amount of CAP Sugar Cookie in there might benefit from that in lieu of waiting out a longer steep.
 
 The question is, what do I feel like mixing with it right now?
 
@@ -200,7 +200,7 @@ I’ll take any excuse to mix myself some [Mango Blossom Macaron](https://allthe
 
 I’ll finally try this [Holiday Pie](https://alltheflavors.com/recipes/81155#holiday_pie_by_gachatay) that people have raved about. **TASK 25**
 
-And I’ll make some [New Pistachio RY4](https://alltheflavors.com/recipes/3354#the_new_pistachio_ry4_u_by_enyawreklaw) because of how much I loved Charlie Noble’s Pistachio RY4, maybe I’ll like this one too, or get inspired to make and even better one.  **TASK 26**
+And I’ll make some [New Pistachio RY4](https://alltheflavors.com/recipes/3354#the_new_pistachio_ry4_u_by_enyawreklaw) because of how much I loved Charlie Noble’s Pistachio RY4, maybe I’ll like this one too, or get inspired to make and even better one. **TASK 26**
 
 **Sugar Cookie V2**
 
@@ -213,7 +213,7 @@ It’s like eating a Splenda packet. Once for science I mixed it at 2% and tried
 
 When it comes down to it, if I feel like I need to eliminate a sweetener or two to get that flavor count lower, FW Sweetener is going to survive longer than CAP Super Sweet. It’s just more versatile (and I have a giant bottle of it to use up or waste). But for now, I’m just going through and clearing out flavors that are plain bad, super difficult, useless to me for some other reason, or just (in my opinion) very inferior to other, similar flavors. Super Sweet is not one of those.
 
-I’m going to try this brand new [Punk Rock Peach](https://alltheflavors.com/recipes/289079#punkedelic_peach_by_buriedalive) recipe because SSA Sweet Type Peach is AWESOME and for the phrase “riding buck naked on a Big Wheel.” I better feel like I’m doing that while vaping it or I’m going to be so disappointed. **TASK 27**  
+I’m going to try this brand new [Punk Rock Peach](https://alltheflavors.com/recipes/289079#punkedelic_peach_by_buriedalive) recipe because SSA Sweet Type Peach is AWESOME and for the phrase “riding buck naked on a Big Wheel.” I better feel like I’m doing that while vaping it or I’m going to be so disappointed. **TASK 27**
 
 And Sam’s [Caramel Apple Popcorn](https://alltheflavors.com/recipes/288956#caramel_apple_popcorn_by_eyemsam). If it’s bad the review is going to be ruthless. **TASK 28**
 

@@ -9,9 +9,9 @@ Starting flavor count: 2,605 (down from 2,972)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-*This was the rest of Part 26. Character limit cut me off*
+_This was the rest of Part 26. Character limit cut me off_
 
-# FLAVORAH
+## FLAVORAH
 
 **Basil**
 
@@ -25,7 +25,7 @@ I feel obligated to try this [Gin Basil Smash](https://alltheflavors.com/recipes
 
 I feel silly pointing this out, but just in case anyone sees beer and thinks WTF: Beer nuts has nothing to do with beer except that they’re often eaten while people are drinking beer. It’s actually the brand name of a snack company that has a lot of salty snacks and probably their most popular is just a bag of mixed salted nuts, like you find free for the taking in a bowl at a bar.
 
-The flavor itself is one of a precious few legitimately salty flavors I have tried, and it gives me hope that one day there might be a salt additive that opens all kinds of possibilities in mixing. I think this works as a salt additive as is, but only for nuts, as the salt here can’t be divorced from a strong mixed nut flavor. It starts out tasting like roasted redskin peanuts, sharp and kind of intense, really salty, just right out front with the saltiness, and kind of crunchy, and then mellows out into a sweeter almond-like flavor that’s a bit creamier. Has a dense body that trails off and then a lingering salty-sweetness. Highly concentrated flavor, 1% is a lot and it has some throat hit to it which is not surprising considering it tastes salty. I would start adding this at 0.25% or maybe even less  and work up, in just about anything that’s supposed to be nutty and salty.  
+The flavor itself is one of a precious few legitimately salty flavors I have tried, and it gives me hope that one day there might be a salt additive that opens all kinds of possibilities in mixing. I think this works as a salt additive as is, but only for nuts, as the salt here can’t be divorced from a strong mixed nut flavor. It starts out tasting like roasted redskin peanuts, sharp and kind of intense, really salty, just right out front with the saltiness, and kind of crunchy, and then mellows out into a sweeter almond-like flavor that’s a bit creamier. Has a dense body that trails off and then a lingering salty-sweetness. Highly concentrated flavor, 1% is a lot and it has some throat hit to it which is not surprising considering it tastes salty. I would start adding this at 0.25% or maybe even less and work up, in just about anything that’s supposed to be nutty and salty.
 
 I’ve yet to try a recipe I need this for. But one of these might change that:
 
@@ -37,9 +37,9 @@ Adding [The Nut Sack](https://alltheflavors.com/recipes/298733#the_nut_sack_mwc_
 
 **Berry Blend**
 
-Fairly solid and unique mixed berry flavor, but a softer type of flavor, not especially juicy-feeling, with a light floral edge.  It tastes a lot like FLV Boysenberry mixed with some brighter red raspberry flavor and the bit of realistic tartness that brings along. Slight floral edge attached to that thinner raspberry on top. Base is thicker, sweeter, jammy and indistinguishable from FLV Boysenberry, then it gives you a hit of blueberry right on the end. Definitely a jammy fruit rather than a fresh or candied one. 3% brings out too much floral, keep at 2% or below.
+Fairly solid and unique mixed berry flavor, but a softer type of flavor, not especially juicy-feeling, with a light floral edge. It tastes a lot like FLV Boysenberry mixed with some brighter red raspberry flavor and the bit of realistic tartness that brings along. Slight floral edge attached to that thinner raspberry on top. Base is thicker, sweeter, jammy and indistinguishable from FLV Boysenberry, then it gives you a hit of blueberry right on the end. Definitely a jammy fruit rather than a fresh or candied one. 3% brings out too much floral, keep at 2% or below.
 
-I need to hang on to it a bit for at least one recipe already on the task list. I’ll try [22 Questions](https://alltheflavors.com/recipes/165345#22_questions_by_strong_island_remix_flavorah_by_fadedjay1) as well,  because grape-berry lemonade sounds great. **TASK 5**
+I need to hang on to it a bit for at least one recipe already on the task list. I’ll try [22 Questions](https://alltheflavors.com/recipes/165345#22_questions_by_strong_island_remix_flavorah_by_fadedjay1) as well, because grape-berry lemonade sounds great. **TASK 5**
 
 [Le Grand Bleu](https://alltheflavors.com/recipes/185245#le_grand_bleu_by_vensyboy), too, because I’m making a point to try blue razz recipes. **TASK 6**
 
@@ -59,7 +59,7 @@ Tastes like you were making homemade vanilla marshmallows and accidentally spill
 
 **Black Currant**
 
-If I say it tastes like decaying carnations coated with just-add-water grape Kool-aid powder, that makes it sound terrible, but I don’t think it is terrible, while at the same time I don’t have a better way of succinctly describing it. It’s a conundrum. It reminds me a lot of FLV Blackberry Blossom, but at the same time it’s very different. It has a strong floral note, but it’s funkier and more ripe and musky than the also musky, yet brighter floral tones in the Blackberry Blossom. The fruit is very dark and has a mixed berry vibe to it, like a grape-raspberry-blueberry but more grape than anything, but a really tart, candy grape, like drink mix with some citric acid involved. The sweetness in Blackberry Blossom tastes almost like a honey while this is more like straight sugar along with the mixed berry grape thing around that deeply musky floral heart.  
+If I say it tastes like decaying carnations coated with just-add-water grape Kool-aid powder, that makes it sound terrible, but I don’t think it is terrible, while at the same time I don’t have a better way of succinctly describing it. It’s a conundrum. It reminds me a lot of FLV Blackberry Blossom, but at the same time it’s very different. It has a strong floral note, but it’s funkier and more ripe and musky than the also musky, yet brighter floral tones in the Blackberry Blossom. The fruit is very dark and has a mixed berry vibe to it, like a grape-raspberry-blueberry but more grape than anything, but a really tart, candy grape, like drink mix with some citric acid involved. The sweetness in Blackberry Blossom tastes almost like a honey while this is more like straight sugar along with the mixed berry grape thing around that deeply musky floral heart.
 
 I don’t think I’m going to be keeping this, but I’ll give it three recipes to change my mind.
 
@@ -71,7 +71,7 @@ I don’t think I’m going to be keeping this, but I’ll give it three recipes
 
 **Black Tea**
 
-I get a floral edge on this one that might make it the best choice for a floral black tea but not much good outside of a floral tea. It’s full bodied and slightly sweet and mostly tastes like a solid black tea. That floral edge is mostly undefined like you could bend it however you want with another floral, but it leans a little toward rose. Like a warm cup of slightly sweetened black tea with a rose petal or two floating in it. It’s not a particularly perfumey floral, or at least it doesn’t taste as perfumy up against a strong black tea as it might up against a fruit or something.  
+I get a floral edge on this one that might make it the best choice for a floral black tea but not much good outside of a floral tea. It’s full bodied and slightly sweet and mostly tastes like a solid black tea. That floral edge is mostly undefined like you could bend it however you want with another floral, but it leans a little toward rose. Like a warm cup of slightly sweetened black tea with a rose petal or two floating in it. It’s not a particularly perfumey floral, or at least it doesn’t taste as perfumy up against a strong black tea as it might up against a fruit or something.
 
 This is another one that I don’t think will be sticking around, but once again, three chances:
 
@@ -101,11 +101,11 @@ Blacco V1 **TASK 15**
 
 All FLV
 
-Flavor| %
----|---
-Blackberry Blossom | 1
-Cured Tobacco | 1.5
-Red Burley | 0.75
+| Flavor             | %    |
+| ------------------ | ---- |
+| Blackberry Blossom | 1    |
+| Cured Tobacco      | 1.5  |
+| Red Burley         | 0.75 |
 
 If you’re pretty sure you have a better combination of tobaccos to mix with FLV Blackberry Blossom, I would love to hear it, otherwise I’m just throwing it in with some old reliable and seeing what happens.
 
@@ -119,7 +119,7 @@ I’ve tried a bunch of recipes that used FLV Blood Orange, my favorite being a 
 
 [1 2 3 Time for Vegas Baby](https://alltheflavors.com/recipes/126320#1_2_3_it_s_time_for_vegas_baby_orange_vanilla_cream_by_chrisdvr1) I doubt it’s going to blow me away but I bet it’s pretty tasty. **TASK 17**
 
-[Charizard](https://alltheflavors.com/recipes/249450#charizard_red_yellow_orange_fruit_blend_by_danielthevapeman)  .. Interesting.... **TASK 18**
+[Charizard](https://alltheflavors.com/recipes/249450#charizard_red_yellow_orange_fruit_blend_by_danielthevapeman) .. Interesting.... **TASK 18**
 
 [Hawaiian Hammer](https://alltheflavors.com/recipes/264174#hawaiian_hammer_by_capiadiy). HOLY CRAP THAT LOOKS AMAZING. Pineapple, coconut, banana, orange. Probably tastes like half non-alcoholic pina colada, half Dole orange banana drink. Yes please! **TASK 19**
 
@@ -141,7 +141,7 @@ Until this dropped, I thought it was strange that FLV didn’t have a Blue Raspb
 
 **Blueberry**
 
-This one’s kind of a mess. It tastes like a grape, blueberry, raspberry blend. It doesn’t even taste blue, it tastes kind of pinkish purple. The grape here is 100% grape soda, but there’s also definitely some artificial blueberry in there as well, it tastes like the blueberry flavor added to cheap blueberry wine, and yet the top notes have a bit of a floral edge on them like a natural raspberry. So the whole thing is a bit of an odd mess, like half grape soda, half blueberry wine, with raspberries floating in it. I’m sure people can find some great uses for this weird flavor, maybe filling in a grape soda or grape candy recipe, I don’t know. It’s very weird. This [DEW ME BABY](https://alltheflavors.com/recipes/269028#dew_me_baby_by_jay2kob) recipe is a little tempting, I’m sure it’s not bad and it looks like the right way to use FLV Blueberry to me, but the number of tasks this week is getting out of hand. Also the mixer specifically asked for feedback on how to make it more authentic to the profile, but the profile is Mt. Dew Voltage and I can’t help with that, never tried the stuff. I’m just gonna **TRASH 3** this flavor.  
+This one’s kind of a mess. It tastes like a grape, blueberry, raspberry blend. It doesn’t even taste blue, it tastes kind of pinkish purple. The grape here is 100% grape soda, but there’s also definitely some artificial blueberry in there as well, it tastes like the blueberry flavor added to cheap blueberry wine, and yet the top notes have a bit of a floral edge on them like a natural raspberry. So the whole thing is a bit of an odd mess, like half grape soda, half blueberry wine, with raspberries floating in it. I’m sure people can find some great uses for this weird flavor, maybe filling in a grape soda or grape candy recipe, I don’t know. It’s very weird. This [DEW ME BABY](https://alltheflavors.com/recipes/269028#dew_me_baby_by_jay2kob) recipe is a little tempting, I’m sure it’s not bad and it looks like the right way to use FLV Blueberry to me, but the number of tasks this week is getting out of hand. Also the mixer specifically asked for feedback on how to make it more authentic to the profile, but the profile is Mt. Dew Voltage and I can’t help with that, never tried the stuff. I’m just gonna **TRASH 3** this flavor.
 
 **Blueberry Muffin**
 
@@ -161,15 +161,15 @@ I’m sad that I don’t need it for [Bour-BAM!](https://alltheflavors.com/recip
 
 Bour-BAM! ‘23 V1 **TASK 29**
 
-Co.| Flavor | %
----|---|----
-FLV | Bourbon| 0.5
-JF | Dulce de Leche| 2
-WF | Vanilla Ice Cream | 3
-TFA | Vanilla Swirl | 2
-SSA | Ice Cream Vanilla | 1
-TFA | Kentucky Bourbon | 3
-TFA | Toasted Marshmallow | 1
+| Co. | Flavor              | %   |
+| --- | ------------------- | --- |
+| FLV | Bourbon             | 0.5 |
+| JF  | Dulce de Leche      | 2   |
+| WF  | Vanilla Ice Cream   | 3   |
+| TFA | Vanilla Swirl       | 2   |
+| SSA | Ice Cream Vanilla   | 1   |
+| TFA | Kentucky Bourbon    | 3   |
+| TFA | Toasted Marshmallow | 1   |
 
 And if it doesn’t, maybe this [Delectable Bourbon Custard](https://alltheflavors.com/recipes/280248#delectable_bourbon_custard_by_canadianvapor) will fill the gap left in my list of favorite recipes left by Bour-BAM! **TASK 30**
 
@@ -177,7 +177,7 @@ And if it doesn’t, maybe this [Delectable Bourbon Custard](https://alltheflavo
 
 **Boysenberry**
 
-Is this the “best” boysenberry? It’s certainly the most popular and has been used to create some amazing things, so I’m going to go with yes. It’s a sweet, dark, jammy berry with some of the tartness of raspberry but not the sharp brightness of raspberry, none of the more aggressive floral tones that a lot of blackberry & raspberry flavors have. Dark, but not as deep and dark as a blackberry. It’s a very interesting ingredient in that it isn’t a very strong, punch you in the face flavor as a standalone, but even a small amount of it really makes a difference in a mix. Just a touch of sweet-tart at 0.25%, fuller berry flavor at 1%, maximum jammy sweetness at 3%. Starts to get a little floral/medicine at 4%, seems to top out at 3% in an average sub-ohm setup.  
+Is this the “best” boysenberry? It’s certainly the most popular and has been used to create some amazing things, so I’m going to go with yes. It’s a sweet, dark, jammy berry with some of the tartness of raspberry but not the sharp brightness of raspberry, none of the more aggressive floral tones that a lot of blackberry & raspberry flavors have. Dark, but not as deep and dark as a blackberry. It’s a very interesting ingredient in that it isn’t a very strong, punch you in the face flavor as a standalone, but even a small amount of it really makes a difference in a mix. Just a touch of sweet-tart at 0.25%, fuller berry flavor at 1%, maximum jammy sweetness at 3%. Starts to get a little floral/medicine at 4%, seems to top out at 3% in an average sub-ohm setup.
 
 FLV Boysenberry makes an appearance in a large number of the recipes I’m already going to mix. Adding a couple more:
 
@@ -191,11 +191,11 @@ I like the thick creamy body with that tangy cheesiness, especially if it’s be
 
 **Brulee**
 
-So, that’s not gross, but it’s not creme brulee and it’s a bit weird. It’s definitely caramelized sugar but it’s not hard and crusty, it’s sort of fluffy, like a “toasted caramel cereal marshmallow” if such a thing existed. There’s also something a little sour in there, not like dairy or yogurt sour, but more like a fruity tartness. Very slight custard flavor, no smooth buttery eggy custard creaminess, and overall dry like their regular Custard (as opposed to their Vanilla Custard and Vanilla Pudding which are awesome). Think instant custard powder still in powdered form. The whole thing is really sort of a hot mess, not the kind of hot mess that makes you want to puke but the kind that makes you just sort of scratch your head like “huh, well, uh.. Ok.” Not really sure what to do with this, mostly because that bit of tartness upfront is so weird.  Probably the only thing I would do with it is play with mixing it with tobaccos, but I didn’t see any recipes doing that and I don’t care enough about finding a use for it to do that myself. **TRASH 5**
+So, that’s not gross, but it’s not creme brulee and it’s a bit weird. It’s definitely caramelized sugar but it’s not hard and crusty, it’s sort of fluffy, like a “toasted caramel cereal marshmallow” if such a thing existed. There’s also something a little sour in there, not like dairy or yogurt sour, but more like a fruity tartness. Very slight custard flavor, no smooth buttery eggy custard creaminess, and overall dry like their regular Custard (as opposed to their Vanilla Custard and Vanilla Pudding which are awesome). Think instant custard powder still in powdered form. The whole thing is really sort of a hot mess, not the kind of hot mess that makes you want to puke but the kind that makes you just sort of scratch your head like “huh, well, uh.. Ok.” Not really sure what to do with this, mostly because that bit of tartness upfront is so weird. Probably the only thing I would do with it is play with mixing it with tobaccos, but I didn’t see any recipes doing that and I don’t care enough about finding a use for it to do that myself. **TRASH 5**
 
 **Brut Bubble Wine**
 
-Excellent sparkling wine flavor. Maybe a little too sweet to be called “Brut” but still. Fairly effervescent. Notably dry, not in the dry champagne sense, but it leaves my mouth dry. I think that’s a function of whatever makes it seem a bit bubbly. Slightly boozy. Bit of an apple off-note, if you can even call tasting a little apple juice as an off-note. Bit bubblegummy if used too high. Not strongly, but it just gets a slight undercurrent of pink bubblegum at 2%, keep it below that.  
+Excellent sparkling wine flavor. Maybe a little too sweet to be called “Brut” but still. Fairly effervescent. Notably dry, not in the dry champagne sense, but it leaves my mouth dry. I think that’s a function of whatever makes it seem a bit bubbly. Slightly boozy. Bit of an apple off-note, if you can even call tasting a little apple juice as an off-note. Bit bubblegummy if used too high. Not strongly, but it just gets a slight undercurrent of pink bubblegum at 2%, keep it below that.
 
 I need it to make more [Blueberry Champagne](https://alltheflavors.com/recipes/155904#blueberry_champagne_developed_by_developed), one of my all-time faves. **TASK 34**
 
@@ -219,6 +219,6 @@ I’m going all-tobacco on the recipes I want to try with this, all four of them
 
 And [Hippy’s Gold Reserve V3](https://alltheflavors.com/recipes/289237#hippy_s_gold_reserve_v3_by_hippyvapes66). **TASK 39**
 
-*Dammit, Flavorah. Really messing up my task-to-trash ratio here*
+_Dammit, Flavorah. Really messing up my task-to-trash ratio here_
 
 New Flavor Count: 2600

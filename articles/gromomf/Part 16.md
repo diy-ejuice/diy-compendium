@@ -5,12 +5,11 @@ title: 'Getting Rid of Most of My Flavors - Part 16'
 date: '2022-11-20'
 ---
 
-
 Starting flavor count: 2,753 (down from 2,975 originally)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-# Elli’s
+## Elli’s
 
 Elli’s is a German flavor company, these flavors were sent to me by my friend Felix all the way from Germany.
 
@@ -40,7 +39,7 @@ A spicy licorice, rather than an herbal or artificial one. Very anise-y. It’s 
 
 Pretty weird, I can definitely taste Rosemary in there, but also a strong eucalyptus taste, without the menthol that’s usually added to eucalyptus, with hints of rosy floral and sweet lemon. It’s actually more interesting and complex of a single flavor than just a straight rosemary would be, but probably deeply limited in usability because of all these odd sort of side dishes of flavor that are going on in there. I don’t know what the hell to do with it. Maybe there’s some kind of Mediterranean dessert I’ve never heard of that you need a rosemary-lyptus-lemon-rose flavor to complete, maybe. Full flavored at 0.5%. **TRASH 3**
 
-# Euro Flavor
+## Euro Flavor
 
 **Blue Raspberry**
 
@@ -49,7 +48,7 @@ Both concentrations have fairly prominent odd kinda dry powdery or chalky base, 
 
 **Burley Tobacco**
 
-It’s almost impossible to overstate how terrible this flavor is. I can’t even fathom what the Euro Flavors folks were thinking selling this to people. There’s some raisiny cigarette tobacco with a bit of ash in the middle there, but it’s mostly just a collection of awful. It’s hard to even describe this awfulness, but I can kind of pick out hints of underarm stench, cough syrup, and original yellow Listerine. Just absolutely foul.  A pox on this flavor’s house. **TRASH 4**
+It’s almost impossible to overstate how terrible this flavor is. I can’t even fathom what the Euro Flavors folks were thinking selling this to people. There’s some raisiny cigarette tobacco with a bit of ash in the middle there, but it’s mostly just a collection of awful. It’s hard to even describe this awfulness, but I can kind of pick out hints of underarm stench, cough syrup, and original yellow Listerine. Just absolutely foul. A pox on this flavor’s house. **TRASH 4**
 
 **Cherimoya**
 
@@ -68,13 +67,13 @@ Fuck it, lets mess with honeysuckle and make a really weird bubblegum recipe in 
 
 Honeysuckle Chew V1 **TASK 5**
 
-Co. | Flavor | %
----|---|----
-EF | Energy Red | 5
-TFA | Honeysuckle | 2
-TFA | Honeydew | 0.25
-MB | American Bubble Gum | 3
-VT | Bubble Gum Base | 2
+| Co. | Flavor              | %    |
+| --- | ------------------- | ---- |
+| EF  | Energy Red          | 5    |
+| TFA | Honeysuckle         | 2    |
+| TFA | Honeydew            | 0.25 |
+| MB  | American Bubble Gum | 3    |
+| VT  | Bubble Gum Base     | 2    |
 
 I’m borrowing the bubblegum combo from [Daki](https://alltheflavors.com/recipes/270433), thanks Wolfwheeler!
 
@@ -102,15 +101,15 @@ It tastes like equal parts honey and moldy sawdust. It’s very sweet and the sw
 
 **Plum**
 
-Plum Candy.  I knew when I tried EF Plum at 2 and 4% there would be a sweet spot in the middle where it didn’t taste weak like it did at 2% and didn’t taste just a little like air freshener like it did at 4%. I was right, 3% is the sweet spot. It’s not a natural plum, but it tastes a lot like this mouthwatering sweet plum gummy candy I had once. It’s kind of a soft flavor though, I wish it could be bolder. I don’t want to mess with this anymore, after those three samples I had my fill of it. **TRASH 11**  
+Plum Candy. I knew when I tried EF Plum at 2 and 4% there would be a sweet spot in the middle where it didn’t taste weak like it did at 2% and didn’t taste just a little like air freshener like it did at 4%. I was right, 3% is the sweet spot. It’s not a natural plum, but it tastes a lot like this mouthwatering sweet plum gummy candy I had once. It’s kind of a soft flavor though, I wish it could be bolder. I don’t want to mess with this anymore, after those three samples I had my fill of it. **TRASH 11**
 
 **Ripe Papaya**
 
-It tastes like someone put microwave popcorn residue all over some kind of tropical fruit. It has a bit of that fake butter taste right on top, along with a honey-sweet but unclear tropical fruit that I guess could be a papaya, like a part-mango part-melon with a bit of citrus brightness. Whatever they tried to do to make it taste ripe comes across tasting remarkably like microwave popcorn butter to me.  **TRASH 12**
+It tastes like someone put microwave popcorn residue all over some kind of tropical fruit. It has a bit of that fake butter taste right on top, along with a honey-sweet but unclear tropical fruit that I guess could be a papaya, like a part-mango part-melon with a bit of citrus brightness. Whatever they tried to do to make it taste ripe comes across tasting remarkably like microwave popcorn butter to me. **TRASH 12**
 
 **Rose**
 
-Almost straight up grandma’s perfume, really what I’d expect, but not hope, for a Rose flavor to taste like. If you’re not a fan of floral flavors and are thinking that vaping rose sounds horrible, this is what you’re probably imagining. High floral perfume, clearly rose but with hints of lilac or lavender or something pushing it even deeper into perfume territory versus something like rose water or rose syrup. Some tartness, but not much. A little dry sweetness behind it but mostly just perfume, not like a rose candy.  **TRASH 13**
+Almost straight up grandma’s perfume, really what I’d expect, but not hope, for a Rose flavor to taste like. If you’re not a fan of floral flavors and are thinking that vaping rose sounds horrible, this is what you’re probably imagining. High floral perfume, clearly rose but with hints of lilac or lavender or something pushing it even deeper into perfume territory versus something like rose water or rose syrup. Some tartness, but not much. A little dry sweetness behind it but mostly just perfume, not like a rose candy. **TRASH 13**
 
 **Tobacco Chocolate**
 
@@ -122,18 +121,18 @@ Candy sweet French vanilla upfront with some milky cream underneath it and some 
 
 French Vanilla Hard Candy V1 **TASK 9**
 
-Co. | Flavor | %
----|---|----
-CAP | French Vanilla | 2.25
-FW | Hard Candy | 0.5
-FA | Oba Oba| 1
-CAP | Super Sweet| 0.5
+| Co. | Flavor         | %    |
+| --- | -------------- | ---- |
+| CAP | French Vanilla | 2.25 |
+| FW  | Hard Candy     | 0.5  |
+| FA  | Oba Oba        | 1    |
+| CAP | Super Sweet    | 0.5  |
 
 I just want to see if that’s better than EF Vanilla Custard. It’s definitely going to be similar.
 
 **Woodruff**
 
-1% tastes like a weird cherry lollop or maybe a cherry cough drop without the menthol that you’d expect in a cough drop. Candy sweet and tastes cherry-ish, but with an herbal quality that’s unfamiliar to me. More herbal than floral but if you told me it was supposed to be a cherry blossom tea flavor I wouldn’t be surprised. Seriously tastes like just add some menthol and a little INW Euc with mint, just a little bit of another maybe INW Cherries, and you’ve got yourself a solid cherry cough drop vape. Probably with the EF Woodruff a little higher, 1% seems a little soft.  2% - Same as 1%, just a little bolder. 4% - Very busy flavor, very interesting. Still basically the same, menthol-less herbal cherry cough drop. But a lot more going on. Pretty sweet, with hints of vanilla and cinnamon-like spice. I don’t know what to do with it it up this high, seems like 2 maybe 3% is where it tops out as far as being useful for cherry cough drop vape. But interesting, and not plasticky or otherwise unpleasant. Just cherry, herbal, vanilla, cinnamon, sweetness. I would say mix it with a tobacco but the cherry seems awfully artificial and candyish for that.  
+1% tastes like a weird cherry lollop or maybe a cherry cough drop without the menthol that you’d expect in a cough drop. Candy sweet and tastes cherry-ish, but with an herbal quality that’s unfamiliar to me. More herbal than floral but if you told me it was supposed to be a cherry blossom tea flavor I wouldn’t be surprised. Seriously tastes like just add some menthol and a little INW Euc with mint, just a little bit of another maybe INW Cherries, and you’ve got yourself a solid cherry cough drop vape. Probably with the EF Woodruff a little higher, 1% seems a little soft. 2% - Same as 1%, just a little bolder. 4% - Very busy flavor, very interesting. Still basically the same, menthol-less herbal cherry cough drop. But a lot more going on. Pretty sweet, with hints of vanilla and cinnamon-like spice. I don’t know what to do with it it up this high, seems like 2 maybe 3% is where it tops out as far as being useful for cherry cough drop vape. But interesting, and not plasticky or otherwise unpleasant. Just cherry, herbal, vanilla, cinnamon, sweetness. I would say mix it with a tobacco but the cherry seems awfully artificial and candyish for that.
 
 Someone has put it in a tea, I’ll give that a try before I chuck it: [ACME Chai Harder](https://e-liquid-recipes.com/recipe/4109619/ACME%20Chai%20Harder). **TASK 10**
 
@@ -141,15 +140,15 @@ Someone has put it in a tea, I’ll give that a try before I chuck it: [ACME Cha
 
 Underripe yellow peach, lemon pledge, and pinesol, with very little of a sort of funky mango flavor. Maybe a bit over flavored at 3%, I’ve heard some people like this one a lot. I don’t have much hope for it, but I’ll try again at 1.5% and see. **TASK 11**
 
-# Faerie’s Finest
+## Faerie’s Finest
 
 **Black Currant**
 
-Soapy. And oddly a little smoky, like charred wood, but these are just slight off-notes in what otherwise tastes like grape-raspberry candy.  Don’t know about you, but I like my grape-raspberry candy without soap and smoke. **TRASH 15**
+Soapy. And oddly a little smoky, like charred wood, but these are just slight off-notes in what otherwise tastes like grape-raspberry candy. Don’t know about you, but I like my grape-raspberry candy without soap and smoke. **TRASH 15**
 
 **Blackberry**
 
- I guess that tastes like blackberry, more or less, but it’s harsh. There’s some tartness on top but it’s out of proportion with how rough that is on the old throat. Beyond that, it’s not very flavorful. It’s sweet, but fairly thin, without as much going on there. If something’s gonna be Throat Razors it should at least have some really good flavor to make up for it. **TRASH 16**
+I guess that tastes like blackberry, more or less, but it’s harsh. There’s some tartness on top but it’s out of proportion with how rough that is on the old throat. Beyond that, it’s not very flavorful. It’s sweet, but fairly thin, without as much going on there. If something’s gonna be Throat Razors it should at least have some really good flavor to make up for it. **TRASH 16**
 
 **Blue Raspberry**
 
@@ -157,7 +156,7 @@ Does taste like blue raspberry up front, but very soft and more than a little so
 
 **Burnt Sugar**
 
-Baby powder. FF Brown Sugar tasted like WF Champagne Soda, which tastes like baby powder, mixed with FA Caramel, which tastes halfway between brown sugar and caramel. YUCK! **TRASH 18**  
+Baby powder. FF Brown Sugar tasted like WF Champagne Soda, which tastes like baby powder, mixed with FA Caramel, which tastes halfway between brown sugar and caramel. YUCK! **TRASH 18**
 
 **Cream Soda**
 
@@ -183,7 +182,7 @@ Tastes like FA Pomegranate but about half as potent and a little less vibrant, b
 
 Powdered sugar with soft pumpkin and clove backnotes. Reminds me a lot of OoO Powdered Sugar, which is an excellent flavor, but like, what would happen if you ruined it by adding some authentic pumpkin flavor and a teensy bit of clove. I’m kind of joking when I say “ruined” because it was pleasant enough and seems like this could be usable to add some pumpkin into a bakery, like a pumpkin-infused cupcake type situation. That dry sweet confectioner's sugar tastes like it would do fine as an icing component and there’s enough pumpkin here to give a cake some pumpkinness, you’re just going to want to supplement the clove with some nutmeg, cinnamon, and ginger. You’ll wind up using a bunch of ingredients and where two or three better ingredients probably do the job, and no one will want to try your recipe, but it’s not a “bad” flavor at all. Just not one I feel in need of. **TRASH 22**
 
-# Flavor Jungle
+## Flavor Jungle
 
 Not to be confused with Jungle Flavors, these are one-shots I picked up at Flavor Jungle.
 
@@ -200,22 +199,22 @@ I wish it had a better balance of pumpkin spice spices - more cinnamon and ginge
 
 P.S. Cheesecake V1 **TASK 15**
 
-Co. | Flavor | %
----|---|----
-FLV | Pumpkin Spice | 0.75
-VSO | Pumpkin | 2
-INW | Yes We Cheesecake | 3
-CAP | NY Cheesecake | 3
-TFA | Graham Cracker Clear | 2
-FLV | Cream | 1
-FLV | Caramel | 1
-FW | Sweetener | 0.5
+| Co. | Flavor               | %    |
+| --- | -------------------- | ---- |
+| FLV | Pumpkin Spice        | 0.75 |
+| VSO | Pumpkin              | 2    |
+| INW | Yes We Cheesecake    | 3    |
+| CAP | NY Cheesecake        | 3    |
+| TFA | Graham Cracker Clear | 2    |
+| FLV | Cream                | 1    |
+| FLV | Caramel              | 1    |
+| FW  | Sweetener            | 0.5  |
 
 **Strawberry Lemonade**
 
 Unbalanced badly in favor of the lemon, and the lemon isn’t great. Lemonheads candy upfront with a slight cleaning product edge to it, and a bit of candyish vague red fruit in the background. Very sweet. I took it to 12% trying to get the strawberry to come out more but it just makes the lemon worse the higher you go. **TRASH 24**
 
-# Flavor Phoenix
+## Flavor Phoenix
 
 **Blackberry Fizz**
 
@@ -229,7 +228,7 @@ Not Cake Batter. It tastes like eating a caramel cupcake in a tire shop. The cup
 
 Tastes like a mango melon starburst with a dollop of dish soap. People who aren't as sensitive to things tasting soapy as I am should give it a shot, because it would be pretty good otherwise, but I can’t enjoy it. **TRASH 27**
 
-# Flavor Revolution
+## Flavor Revolution
 
 **Cantaloupe**
 
@@ -237,11 +236,11 @@ It has some vanilla notes that seem pretty out of place, but worse than that it 
 
 **Honeycake**
 
-I didn’t enjoy vaping this because it irritated my throat. Light and bright slightly floral honey flavor (but without the thick gooey heavy honey body) dominates, followed by what seems to be a very stale, dry angel food cake. Tastes like an angel food cake but with all the moisture sucked out. If you don’t find it harsh, could be made to taste more like it’s name with the addition of a moist bakery or work as a honey note addition to a bakery, but it’s gonna taste more like clover honey poured on a bakery rather than baked into it because of its brightness and light floral quality. On a scale of 1 to litterbox, maybe a 2 on the ammonia room note, but not really getting that in the vape. Too harsh for me, though. **TRASH 29**  
+I didn’t enjoy vaping this because it irritated my throat. Light and bright slightly floral honey flavor (but without the thick gooey heavy honey body) dominates, followed by what seems to be a very stale, dry angel food cake. Tastes like an angel food cake but with all the moisture sucked out. If you don’t find it harsh, could be made to taste more like it’s name with the addition of a moist bakery or work as a honey note addition to a bakery, but it’s gonna taste more like clover honey poured on a bakery rather than baked into it because of its brightness and light floral quality. On a scale of 1 to litterbox, maybe a 2 on the ammonia room note, but not really getting that in the vape. Too harsh for me, though. **TRASH 29**
 
 **Mango**
 
-Kinda odd but not bad. Has a bit of that piney peel mango note, but the body is more like some kind of tropical melon or mango-papaya combination rather than really tasting like a mango. It’s pretty nice to vape if you don’t mind the bit of pine, as it’s very sweet and juicy, but it tastes off to me, because of that funky melon not-really-a-mango thing. **TRASH 30**  
+Kinda odd but not bad. Has a bit of that piney peel mango note, but the body is more like some kind of tropical melon or mango-papaya combination rather than really tasting like a mango. It’s pretty nice to vape if you don’t mind the bit of pine, as it’s very sweet and juicy, but it tastes off to me, because of that funky melon not-really-a-mango thing. **TRASH 30**
 
 **Red Raspberry**
 
@@ -249,11 +248,11 @@ Pretty yucky. It’s flavorful, but I’d rather it not be. It’s different, an
 
 **Strawberry Cantaloupe**
 
-This is nice, it doesn’t taste like they just took that yucky Flavor Revolution Cantaloupe and added strawberry to it, but maybe they did and the strawberry part is covering up a lot.  It tastes like JF Sweet Strawberry with some not quite authentic cantaloupe behind it. It’s candish - obviously the strawberry up front is a candy strawberry - and the melon behind it tastes like a sweet candy take on a Canary melon or some kind of cantaloupe-honeydew hybrid, with a creamish, taffy-like mouthfeel that fills in more at 2.5% than it did at 2%. Overall, FR Strawberry Cantaloupe makes for a pleasant vape. As an ingredient, might be interesting in anything that combines bright artificial strawberry and any melon. I don’t want to toss it without first trying Daniel’s [Strawberry Cantaloupe](https://alltheflavors.com/recipes/212543#strawberry_cantaloupe_by_danielthevapeman) recipe that uses it. **TASK 16**
+This is nice, it doesn’t taste like they just took that yucky Flavor Revolution Cantaloupe and added strawberry to it, but maybe they did and the strawberry part is covering up a lot. It tastes like JF Sweet Strawberry with some not quite authentic cantaloupe behind it. It’s candish - obviously the strawberry up front is a candy strawberry - and the melon behind it tastes like a sweet candy take on a Canary melon or some kind of cantaloupe-honeydew hybrid, with a creamish, taffy-like mouthfeel that fills in more at 2.5% than it did at 2%. Overall, FR Strawberry Cantaloupe makes for a pleasant vape. As an ingredient, might be interesting in anything that combines bright artificial strawberry and any melon. I don’t want to toss it without first trying Daniel’s [Strawberry Cantaloupe](https://alltheflavors.com/recipes/212543#strawberry_cantaloupe_by_danielthevapeman) recipe that uses it. **TASK 16**
 
-# Flavor West
+## Flavor West
 
-I have so many of these to get through, I just wanted to get a tiny head start before putting this edition of GRoMoMF to bed.  
+I have so many of these to get through, I just wanted to get a tiny head start before putting this edition of GRoMoMF to bed.
 
 **555 Tobacco**
 

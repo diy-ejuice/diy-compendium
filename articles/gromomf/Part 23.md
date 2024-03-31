@@ -11,7 +11,7 @@ Starting flavor count: 2,634 (down from 2,973)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-# Baker Flavors
+## Baker Flavors
 
 **Chocolate Truffle**
 
@@ -20,13 +20,13 @@ One is a Girl Scout Thin Mint. Turns out [this recipe](https://alltheflavors.com
 
 Skinny Mint ‘23 v1 **TASK 1**
 
-Co. | Flavor | %
----|---|----
-FLV | Chocolate Deutsch | 0.8
-FA | Vanilla Cookie | 2
-FLV | Creme de Menthe | 2.25
-FLV | Milk & Honey | 0.5
-FW| Sweetener | 0.5
+| Co. | Flavor            | %    |
+| --- | ----------------- | ---- |
+| FLV | Chocolate Deutsch | 0.8  |
+| FA  | Vanilla Cookie    | 2    |
+| FLV | Creme de Menthe   | 2.25 |
+| FLV | Milk & Honey      | 0.5  |
+| FW  | Sweetener         | 0.5  |
 
 Basically the same recipe, I just want a little more Menthe and a little sweetener, and am hoping that I can use FA Vanilla Cookie in place of both the FA Cookie and the FLV Vanilla Custard.
 
@@ -36,20 +36,20 @@ Raven 2, v3 **TASK 2**
 
 All FLV
 
-Flavor | %
----|---
-RY4 | 1.75
-Red Burley | 0.66
-Kentucky Blend | 0.13
-Chocolate Deutsche | 0.66
-Butterscotch | 0.66
-Milk Chocolate | 0.13
+| Flavor             | %    |
+| ------------------ | ---- |
+| RY4                | 1.75 |
+| Red Burley         | 0.66 |
+| Kentucky Blend     | 0.13 |
+| Chocolate Deutsche | 0.66 |
+| Butterscotch       | 0.66 |
+| Milk Chocolate     | 0.13 |
 
-# CAPELLA
+## CAPELLA
 
 **Cinnamon Danish Swirl**
 
-Update. I mixed [Pheasant Ridge](https://alltheflavors.com/recipes/64553#pheasant_ridge_by_fear) and as soon as I took a rip I knew I would not be getting rid of CAP CDS anytime soon, even if I find or create a great snickerdoodle recipe and apple butter cookie recipe that don’t require it. Now I feel like I should try to find more solid gold uses for it. It’s a similar sentiment to “if you can’t beat ‘em, join ‘em.”  
+Update. I mixed [Pheasant Ridge](https://alltheflavors.com/recipes/64553#pheasant_ridge_by_fear) and as soon as I took a rip I knew I would not be getting rid of CAP CDS anytime soon, even if I find or create a great snickerdoodle recipe and apple butter cookie recipe that don’t require it. Now I feel like I should try to find more solid gold uses for it. It’s a similar sentiment to “if you can’t beat ‘em, join ‘em.”
 
 [Derailed 1-2-3](https://alltheflavors.com/recipes/176318#derailed_1_2_3_suicide_bunny_clone_by_slushy) **TASK 3**
 
@@ -61,11 +61,11 @@ Update. I mixed [Pheasant Ridge](https://alltheflavors.com/recipes/64553#pheasan
 
 [Almost a Sugar Bear](https://alltheflavors.com/recipes/292330#almost_a_sugar_bear_by_fadedjay1) **TASK 7**
 
-# Flavor West
+## Flavor West
 
 **Pink Lemonade**
 
-Oops, I meant to include this one last time. Sweet candy lemon windex at 4%. Seems like it might  be usable down low as an accent to add some lemony acidity to other fruits but not as a main lemon flavor, strong cleaning product off note.
+Oops, I meant to include this one last time. Sweet candy lemon windex at 4%. Seems like it might be usable down low as an accent to add some lemony acidity to other fruits but not as a main lemon flavor, strong cleaning product off note.
 
 On the other hand, some really subpar flavors have been used to create some amazing stuff, so I want to give [Cotton Joose](https://alltheflavors.com/recipes/235261#cotton_joose_by_coil_pop) a try before I go chucking FW Pink Lemonade. I do love that WF Cotton Candy Jelly Bean. **TASK 8**
 
@@ -81,11 +81,11 @@ That was based on this simple [Salted Caramel Praline](https://alltheflavors.com
 
 Salted Caramel Praline ‘23 V1 **TASK 10**
 
-Co. | Flavor | %
----|---|----
-WF | Salted Caramel | 3
-FW | Pralines & Cream | 4
-WF | Tahitian Vanilla Cream | 3
+| Co. | Flavor                 | %   |
+| --- | ---------------------- | --- |
+| WF  | Salted Caramel         | 3   |
+| FW  | Pralines & Cream       | 4   |
+| WF  | Tahitian Vanilla Cream | 3   |
 
 [Melted: The Cream of Pralines](https://alltheflavors.com/recipes/190890#melted_the_cream_of_pralines_by_bjorama) looks fantastic and has glowing reviews, sign me up! **TASK 11**
 
@@ -93,7 +93,7 @@ Want to try this [Praline Ice Cream](https://alltheflavors.com/recipes/218726#pr
 
 And of course [Prapple Bacco 2021](https://alltheflavors.com/recipes/235253#prapple_bacco_2021_by_nowar) goes on the list. **TASK 13**
 
-Finally, [Sweet Nuts](https://alltheflavors.com/recipes/194221#sweet_nuts_by_microbe), because while the mixer admits to missing the mark of their original intent, it was at least inspired by something I adore, “wonderful, sweet, cinnamony toasted pecans you sometimes find at fairs or carnivals.” Or Buc-ee’s. I can’t go  on a Texas road trip without stopping at Buc-ee’s coming and going and can’t leave Buc-ee’s without them. **TASK 14**
+Finally, [Sweet Nuts](https://alltheflavors.com/recipes/194221#sweet_nuts_by_microbe), because while the mixer admits to missing the mark of their original intent, it was at least inspired by something I adore, “wonderful, sweet, cinnamony toasted pecans you sometimes find at fairs or carnivals.” Or Buc-ee’s. I can’t go on a Texas road trip without stopping at Buc-ee’s coming and going and can’t leave Buc-ee’s without them. **TASK 14**
 
 **Rainbow Sherbet**
 
@@ -111,9 +111,9 @@ Mostly a very artificial tasting red raspberry candy candy flavor, which would b
 
 **Razzleberry**
 
-I love this flavor. It is 100% candy, no one would mistake it for real fruit. But it is super good candy. It tastes like a darker candy raspberry, or more precisely, a mix of candy raspberry and candy blackberry, which is what I think it’s supposed to be, like those bumpy little black and red candies that are sugary on the outside and gummy on the inside. Fair amount of tart, almost sour top note. Not thin at all, a nice, deep flavor and a thick body that’s a little chalky and a little chewy at the same time, like Chewy Sweet-Tarts.  
+I love this flavor. It is 100% candy, no one would mistake it for real fruit. But it is super good candy. It tastes like a darker candy raspberry, or more precisely, a mix of candy raspberry and candy blackberry, which is what I think it’s supposed to be, like those bumpy little black and red candies that are sugary on the outside and gummy on the inside. Fair amount of tart, almost sour top note. Not thin at all, a nice, deep flavor and a thick body that’s a little chalky and a little chewy at the same time, like Chewy Sweet-Tarts.
 
-FW Razzleberry is sweet, but because it tastes so much like candy, it seems like it could stand to be even sweeter and a little Super Sweet would go really well with it. It also tastes like a small amount of it could do amazing things to a candy strawberry or even candy cherry mix, though I wouldn’t bring it anywhere near something that’s supposed to be a natural berry. Overall, just a really excellent candy-type flavor.  
+FW Razzleberry is sweet, but because it tastes so much like candy, it seems like it could stand to be even sweeter and a little Super Sweet would go really well with it. It also tastes like a small amount of it could do amazing things to a candy strawberry or even candy cherry mix, though I wouldn’t bring it anywhere near something that’s supposed to be a natural berry. Overall, just a really excellent candy-type flavor.
 
 Been itching off and on to do something with this one and now that I’m finally getting around to it, I want to start with these:
 
@@ -131,14 +131,14 @@ I’m not really wanting to vape Red Bull. I don’t even drink it unless it’s
 
 **Red Licorice**
 
-Bold Red Vines-ish flavored top notes. Mostly cherry, with something like raspberry behind it. Has a kind of cool spice to it that I didn’t understand until I saw that TFA Red Licorice shares an aroma called Methyl Salicylate  METH-il sa-LIS-i-late
+Bold Red Vines-ish flavored top notes. Mostly cherry, with something like raspberry behind it. Has a kind of cool spice to it that I didn’t understand until I saw that TFA Red Licorice shares an aroma called Methyl Salicylate METH-il sa-LIS-i-late
 That comes from the wintergreen plant, with only a few flavors such as Bubblegum and Wintergreen - as well as all of their root beer flavors. I’m guessing that aroma is in actual Red Vines because the flavor is pretty spot on, especially TFA’s, but also FW. Some sweet, waxy candy body but kind of top heavy and even a little thin, with a bit of accompanying throat hit. Has an odd off note like the taste of koolada minus the cold sensation, kind of chemically, faint enough that it’s not nasty, but still. TFA Red Licorice is a little better. **TRASH 4**
 
 **Red White & Blue**
 
 From the name alone you’d probably expect something like a bomb pop, but Flavor Jungle tries to sell it with “Show off your patriotic streak with Red White and Blue, the famous combination of raspberry, blueberry and yogurt flavors. We recommend mixing this flavor with fruit or custard flavors in your DIY recipe.” Meanwhile, FlavorWest describes it as a blend of Starfruit, Blackberry, and Strawberry “perfectly mixed to create a sweet, delicious and aromatic flavoring.” So what the hell is it?
 
-It really doesn’t matter because it contains 20 to 30% sugar syrup and no one should be vaping that, but I get neither of those things.  It tastes like blueberry lemonade. So no raspberry, strawberry, yogurt, or starfruit. Just blueberry lemonade. But the blueberry is a little candied and the lemonade is very weak, and there’s a faint chemical/plasticy type of off note. All this does is make me want a GOOD blueberry lemonade vape. **TRASH 5**
+It really doesn’t matter because it contains 20 to 30% sugar syrup and no one should be vaping that, but I get neither of those things. It tastes like blueberry lemonade. So no raspberry, strawberry, yogurt, or starfruit. Just blueberry lemonade. But the blueberry is a little candied and the lemonade is very weak, and there’s a faint chemical/plasticy type of off note. All this does is make me want a GOOD blueberry lemonade vape. **TRASH 5**
 
 **Rice Treat**
 
@@ -151,13 +151,13 @@ I’d be fine without it but there’s [a recipe mixing it with FLV Mango](https
 
 Mango Rock v1 **TASK 18**
 
-Co. | Flavor | %
----|---|----
-FW | Rockstar Type | 8
-FLV | Citrus Soda | 1.25
-FA | Indian Mango | 2
-CAP | Super Sweet | 0.5
-BCF | WS-23 (30%)| 0.5
+| Co. | Flavor        | %    |
+| --- | ------------- | ---- |
+| FW  | Rockstar Type | 8    |
+| FLV | Citrus Soda   | 1.25 |
+| FA  | Indian Mango  | 2    |
+| CAP | Super Sweet   | 0.5  |
+| BCF | WS-23 (30%)   | 0.5  |
 
 Looks like something I might be able to fuck with.
 
@@ -177,7 +177,7 @@ Holy god that’s awful. It’s rose and lemon pledge candy. No sign of tobacco 
 
 **Ruby Red Grapefruit**
 
-AWESOME. Appropriately bitter grapefruit zest over a sweet and very red grapefruit body. Lots of zest, and it’s throughout and lingering. The body part is a little waxy like candy, but against that zest it’s mouthwatering overall, and there’s a blood orange sort of earthiness that makes it both taste more natural and more like a ruby red grapefruit than a white grapefruit. It’s a punchier, bolder flavor with much more citrus tartness than most other grapefruit flavors. A bit harsh for flavors overall, but on par for citrus. Does vape a little warm, like citruses unfortunately can do.  
+AWESOME. Appropriately bitter grapefruit zest over a sweet and very red grapefruit body. Lots of zest, and it’s throughout and lingering. The body part is a little waxy like candy, but against that zest it’s mouthwatering overall, and there’s a blood orange sort of earthiness that makes it both taste more natural and more like a ruby red grapefruit than a white grapefruit. It’s a punchier, bolder flavor with much more citrus tartness than most other grapefruit flavors. A bit harsh for flavors overall, but on par for citrus. Does vape a little warm, like citruses unfortunately can do.
 
 I need it for the beloved [Terrorhawk](https://alltheflavors.com/recipes/13499#terrorhawk_by_concreteriver) **TASK 18**
 
@@ -211,7 +211,7 @@ And finally, my friend’s recipe that looks really weird to me, [Cool Caramel C
 
 **Salted Caramel**
 
-Right, so, no salt. None. Zero. Hard to stay mad at it over that for long, though. I’m pretty sure that until WF came out with their salted caramel, this was the best caramel flavor out there. There is some great caramel flavor here. Rich-tasting and a little creamy and buttery but not super-thick or even as thick as I want it to be. Smooth. Could be the only or main caramel in a caramel-forward recipe but could also benefit from some thicker cream. No off notes, other than a slight, vague, intermittent nuttiness where there should be more sweetness, I guess that’s supposed to be the “salt.” Not really as sweet by itself as you want a caramel to be but that’s an easy fix with sweeter flavors or sweeteners; or could be a bonus in situations like tobaccos (which it blends very well with) and alcohol flavors like bourbon and rum (which it also blends well with). Wild range on this one, a small amount will make a big difference in a mix, but you can also push it really high if you want caramel upfront.  
+Right, so, no salt. None. Zero. Hard to stay mad at it over that for long, though. I’m pretty sure that until WF came out with their salted caramel, this was the best caramel flavor out there. There is some great caramel flavor here. Rich-tasting and a little creamy and buttery but not super-thick or even as thick as I want it to be. Smooth. Could be the only or main caramel in a caramel-forward recipe but could also benefit from some thicker cream. No off notes, other than a slight, vague, intermittent nuttiness where there should be more sweetness, I guess that’s supposed to be the “salt.” Not really as sweet by itself as you want a caramel to be but that’s an easy fix with sweeter flavors or sweeteners; or could be a bonus in situations like tobaccos (which it blends very well with) and alcohol flavors like bourbon and rum (which it also blends well with). Wild range on this one, a small amount will make a big difference in a mix, but you can also push it really high if you want caramel upfront.
 
 Even though WF’s version is quite a bit better, I need FW Salted Caramel for several recipes already on my to-mix list, including the Cool Caramel Chew recipe that I just added to it literally a minute ago.
 
@@ -224,5 +224,5 @@ This [Salted Caramel Tiramisu](https://alltheflavors.com/recipes/271765#tiramisu
 Same mixer, this time with a [Cinnamon Dusted Caramel Apple Dainty](https://alltheflavors.com/recipes/266639#cinnamon_dusted_caramel_apple_dainty_by_kuri_santou). I’ll be subbing JF for the FA cookie, but either way, that cookie layer looks fantastic, and why not put cinnamon apple and salted caramel on it? **TASK 31**
 
 Not many flavors tossed this week but it still feels good to get back to work on it.
-  
-New Flavor Count:  2,623
+
+New Flavor Count: 2,623

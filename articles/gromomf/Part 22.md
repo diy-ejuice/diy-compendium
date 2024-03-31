@@ -9,7 +9,7 @@ Starting flavor count: 2,644 (down from 2,973)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-# CAPELLA
+## CAPELLA
 
 **Caramel**
 
@@ -17,12 +17,12 @@ Update. I tried [Maple Art](https://alltheflavors.com/recipes/84004#maple_art_by
 
 Maple FArt V1 **TASK 1**
 
-Co. | Flavor | %
----|---|----
-CAP | Caramel | 1.25
-FA | Maple Syrup | 2
-FLV | Cured Tobacco | 1.5
-FLV | Red Burley | 2
+| Co. | Flavor        | %    |
+| --- | ------------- | ---- |
+| CAP | Caramel       | 1.25 |
+| FA  | Maple Syrup   | 2    |
+| FLV | Cured Tobacco | 1.5  |
+| FLV | Red Burley    | 2    |
 
 **Cereal 27**
 
@@ -34,17 +34,17 @@ I’m still irked about one thing, though. One of the stated goals was to consol
 
 Manson & The Pebbles Reunion Tour V1 **TASK 2**
 
-Co. | Flavor | %
----|---|----
-CAP | Cereal 27| 3.75
-WF | Lemon Orange Rice Candy | 2.25
-FA | Marzipan | 0.5
-TFA | Meringue | 2
-FA | Milk | 2
-CAP | Sugar Cookie | 2
-FW | Sweetener | 0.5
+| Co. | Flavor                  | %    |
+| --- | ----------------------- | ---- |
+| CAP | Cereal 27               | 3.75 |
+| WF  | Lemon Orange Rice Candy | 2.25 |
+| FA  | Marzipan                | 0.5  |
+| TFA | Meringue                | 2    |
+| FA  | Milk                    | 2    |
+| CAP | Sugar Cookie            | 2    |
+| FW  | Sweetener               | 0.5  |
 
-# Flavor West
+## Flavor West
 
 **Orange**
 
@@ -56,7 +56,7 @@ Odd flavor. The orange part tastes more natural and a bit zesty - it seems like 
 
 **Peach**
 
-That is gross. It’s sweet and syrupy and peachy but tastes like a horribly overripe peach, bordering right up on rotten. The rottenness is hits me first, then the peach, following with a sweet and less punchy finish, but that rotten and slightly perfumy taste lingers in the aftertaste. I could see this being useful much lower than the 3% I tried it at, especially in a cooked peach profile, since it’s not a far leap from overripe to cooked, but by itself it’s actually kind of sickening. I will say I get zero irritation from this one, it’s totally smooth, but I’d rather the razors than the rot.  **TRASH 3**
+That is gross. It’s sweet and syrupy and peachy but tastes like a horribly overripe peach, bordering right up on rotten. The rottenness is hits me first, then the peach, following with a sweet and less punchy finish, but that rotten and slightly perfumy taste lingers in the aftertaste. I could see this being useful much lower than the 3% I tried it at, especially in a cooked peach profile, since it’s not a far leap from overripe to cooked, but by itself it’s actually kind of sickening. I will say I get zero irritation from this one, it’s totally smooth, but I’d rather the razors than the rot. **TRASH 3**
 
 **Peach Tobacco**
 
@@ -72,7 +72,7 @@ It’s not a spot-on peanut butter cup. It kinda tastes like what would happen i
 
 **Pear**
 
-This is a badly underrated flavor, I think. It tastes like a pear, not the sweetest, juiciest, most perfect pear, but it’s a sweet, and somewhat juicy pear. It’s a little flat, not exactly thin but just a bit one-dimensional.  It seems like it could get lost in a mix, as it’s not a very bold flavor. It does not have that real pear mealy body. But it tastes like a reasonably natural pear without off notes. I got a slightly floral edge at 4% but about the same amount of flavor without that at 3%. I’ve tried it in a recipe or two where it worked well, and it might be just right for adding some sweetness and a little juiciness to a pear layer. If you’re working with pears, might not want to overlook this one.
+This is a badly underrated flavor, I think. It tastes like a pear, not the sweetest, juiciest, most perfect pear, but it’s a sweet, and somewhat juicy pear. It’s a little flat, not exactly thin but just a bit one-dimensional. It seems like it could get lost in a mix, as it’s not a very bold flavor. It does not have that real pear mealy body. But it tastes like a reasonably natural pear without off notes. I got a slightly floral edge at 4% but about the same amount of flavor without that at 3%. I’ve tried it in a recipe or two where it worked well, and it might be just right for adding some sweetness and a little juiciness to a pear layer. If you’re working with pears, might not want to overlook this one.
 
 I’m sadly missing the Delosi Pear I would need to try the best-looking use of FW Pear I could find: [Ap-pear-antly](https://alltheflavors.com/recipes/191773#ap_pear_antly_by_cinn). I’m sure it’s awesome but I’m not in the buying more flavors business here.
 
@@ -86,7 +86,7 @@ I need it for my [Tedious Tobacco](https://alltheflavors.com/recipes/260159#tedi
 
 **Pie Crust**
 
-It’s a richer, more buttery tasting pie crust than FA Apple Pie. It’s also softer, less dry, maybe less “baked,” less crunchy. It’s also less identifiable as a pie crust, but it is what a pie crust is, just a nondescript bakery note.  It’s sweeter, and the sweetness in it tastes a little brown sugary, which is nice if you want that in a recipe.
+It’s a richer, more buttery tasting pie crust than FA Apple Pie. It’s also softer, less dry, maybe less “baked,” less crunchy. It’s also less identifiable as a pie crust, but it is what a pie crust is, just a nondescript bakery note. It’s sweeter, and the sweetness in it tastes a little brown sugary, which is nice if you want that in a recipe.
 
 Can you believe I’ve never tried [Obsidian](https://alltheflavors.com/recipes/44101#obsidian_by_enyawreklaw_by_enyawreklaw)? I’ll do that now, with JF Cookie in for FA. **TASK 5**
 
@@ -98,7 +98,7 @@ Pineapple-Coconut hard candy, without all the plastic removed. No rum. The pinea
 
 **Pink Champagne**
 
-Also known as Pink Bubbly. Has a sort of damp powdery thing going on around the edges that’s maybe kinda sorta like a very light effervescent effect or at least a nod to that, but doesn’t really taste boozy or champagne-like, more like mostly but not entirely flat nonalcoholic sparkling white grape juice, only pink. And the thing that makes it pink isn’t so much like an actual pink champagne or blush wine, it’s more like an added candy strawberry-ish flavor. It’s very very sweet. I actually find it pretty enjoyable just as an interesting candy grape strawberry-ish flavor, but it’s not a great champagne. Seems like it would fit really well in a sweet-tarts type situation because what doesn’t really do bubbles that well seems like it would do very well as a sugary-type candy texture. Also, can have a role as an additive for the body in something like a slushy or snow cone.  
+Also known as Pink Bubbly. Has a sort of damp powdery thing going on around the edges that’s maybe kinda sorta like a very light effervescent effect or at least a nod to that, but doesn’t really taste boozy or champagne-like, more like mostly but not entirely flat nonalcoholic sparkling white grape juice, only pink. And the thing that makes it pink isn’t so much like an actual pink champagne or blush wine, it’s more like an added candy strawberry-ish flavor. It’s very very sweet. I actually find it pretty enjoyable just as an interesting candy grape strawberry-ish flavor, but it’s not a great champagne. Seems like it would fit really well in a sweet-tarts type situation because what doesn’t really do bubbles that well seems like it would do very well as a sugary-type candy texture. Also, can have a role as an additive for the body in something like a slushy or snow cone.
 
 I need it for [Blue Frost Revisited](https://alltheflavors.com/recipes/54784#blue_frost_revisited_by_apexified) **TASK 7**
 
@@ -132,8 +132,8 @@ At the rate I’m going on these tasks it’ll be fall before I get around to mi
 
 [Pumpkin Eggnog Cheesecake](https://alltheflavors.com/recipes/171914#pumpkin_eggnog_cheesecake_by_bigred) **TASK 13**
 
-_____
+---
 
-Just a brief edition this week, too busy with all the Christmas crap. Plus on Friday my dog died and nothing productive was accomplished that day. If anyone knows how to make that not still feel like a hammer to the sternum, I'd love to hear it. No wonder this experience has become a country-song cliché, it fucking hurts. She was the best dog ever and I miss my daddy's girl fur baby so much. Fuck cancer.  
+Just a brief edition this week, too busy with all the Christmas crap. Plus on Friday my dog died and nothing productive was accomplished that day. If anyone knows how to make that not still feel like a hammer to the sternum, I'd love to hear it. No wonder this experience has become a country-song cliché, it fucking hurts. She was the best dog ever and I miss my daddy's girl fur baby so much. Fuck cancer.
 
 New Flavor Count: 2,634

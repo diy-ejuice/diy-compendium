@@ -9,7 +9,7 @@ Starting flavor count: 2,704 (down from 2,975 originally)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-# Capella
+## Capella
 
 **Butter Cream**
 
@@ -25,15 +25,15 @@ In other CAP Butter Cream news, my first attempt to remake my old Apple Butter D
 
 New ABDC V2 **TASK 3**
 
-Co. | Flavor | %
----|---|----
-CAP | Cinnamon Sugar | 1.25
-FLV | Rich Cinnamon | 0.10
-CAP | Sugar Cookie | 4
-JF | Cookie | 1
-WF | Cookie Butter | 1.25
-WF | Apple Butter | 1.25
-FLV | Caramel | 0.75
+| Co. | Flavor         | %    |
+| --- | -------------- | ---- |
+| CAP | Cinnamon Sugar | 1.25 |
+| FLV | Rich Cinnamon  | 0.10 |
+| CAP | Sugar Cookie   | 4    |
+| JF  | Cookie         | 1    |
+| WF  | Cookie Butter  | 1.25 |
+| WF  | Apple Butter   | 1.25 |
+| FLV | Caramel        | 0.75 |
 
 I’m dropping the Apple Filling to reduce the overall apple, but adding Rich Cinnamon to make up for the lost cinnamon. The Sugar Cookie isn’t holding up well to all the rest of the stuff so I’m trying to back it up with some JF Cookie. I love Pudding Base but it softens cookies and CAP is soft enough here by itself, so I’m pulling that out. I had multiple sources of butter in Custard Premium and WF Cookie Butter which is most likely unnecessary, so I’m pulling out the Custard and just going with Cookie Butter, and less of it. Liquid Amber is almost certainly the main source of the booze so goodbye to that. WF Apple Butter isn’t quite apple butter on its own, it needs to be darkened. Without the Liquid Amber in there, I’m going to probably need a little more FLV Caramel to help with that, so I’m bumping that up a little.
 
@@ -41,7 +41,7 @@ I’m dropping the Apple Filling to reduce the overall apple, but adding Rich Ci
 
 Update. I tried [Strawberry Marshmallow Dip](https://alltheflavors.com/recipes/199611) rather than trashing CAP Cake Batter. Of course that tastes good, how could it not, just look at the ingredients. But I need a little more strawberry flavor intensity. I get the biscuit dipped in strawberry-marshmallow cream, but the strawberry is softened or washed out just a little too much by the other ingredients. Or possibly I'm slowly becoming a strawberry non-taster? I think ditching the FA Vienna Cream and using a bolder strawberry than Red Touch to augment that wonderful OoO Strawberry Jam would make this over-the-top good.
 
-As it is, I would not use this as a reason to keep Cake Batter. But I’ll try just one more thing before giving up on it:  [CV Moist Supreme](https://alltheflavors.com/recipes/243460#cv_moist_supreme_by_chainvapor). **TASK 4**
+As it is, I would not use this as a reason to keep Cake Batter. But I’ll try just one more thing before giving up on it: [CV Moist Supreme](https://alltheflavors.com/recipes/243460#cv_moist_supreme_by_chainvapor). **TASK 4**
 
 **Cantaloupe**
 
@@ -53,11 +53,11 @@ This is totally off topic, but while I was enjoying it, I started thinking, what
 
 1-2-3 Experiment 626 V1 **TASK 5**
 
-Co. | Flavor | %
----|---|----
-FLV| Pink Guava | 1
-VT | Red Dates | 2
-CAP | Sweet Guava | 3
+| Co. | Flavor      | %   |
+| --- | ----------- | --- |
+| FLV | Pink Guava  | 1   |
+| VT  | Red Dates   | 2   |
+| CAP | Sweet Guava | 3   |
 
 Where were we? Oh, CAP Cantaloupe. Now that I’m keeping it for more Zenitsu, I want to look for other reasons to hang on to it.
 
@@ -69,7 +69,7 @@ And a couple others that looked especially tasty to me:
 
 [Malonee](https://alltheflavors.com/recipes/283658#malonee_mwc_pool_party_by_buriedalive) **TASK 8**
 
-# Flavor West
+## Flavor West
 
 **C. Crunch Berries**
 
@@ -79,9 +79,9 @@ AKA Crunchy Berry Cereal, AKA Crunchy Cereal with Berries, AKA whatever they’r
 
 Coffee Candy with a hint of caramel. Not quite Bali’s Best coffee candy, because of the hint of caramel in the finish, but nowhere near as much caramel as a Wherther’s Coffee Caramel hard candy. The actual coffee flavor tastes like artificial coffee flavoring and the sweetness and even the mouthfeel is very candylike. So for actual coffee, this is a no, but for a coffee candy with a hint of caramel, yes, nothing weird or off there. I kind of want to add some of it to toffee for a coffee toffee. Worth noting his flavor is black as night and hell on coils. I [made a recipe with this](https://alltheflavors.com/recipes/92920#1_2_3_caramel_coffee_candy_by_id10_t), but the purpose of that was to give people who might already have it something tasty to do with it. Definitely was not to make anyone think they should buy it. I’m throwing it away because it’s not worth the gunky coil carnage. **TRASH 2**
 
- **Cake Batter Dip**
+**Cake Batter Dip**
 
-Cake batter dip is a real thing, and it’s just Cool Whip, Vanilla Cake Mix, Cream Cheese, and Milk. Usually sprinkles are added too. It tastes pretty much like cake batter mixed with cake icing, and it’s awesome. And FW pretty much nailed it, you can pick up all of those components except milk, but that’s just there to make the real thing wet and mix it together. It’s very sweet, with a bright vanilla flavor very much like vanilla cake mix has. Unfortunately, it’s one of those flavors with sugar in it, and it’s up to you whether you want to risk that health-wise, and it will destroy your cotton and gunk up your coils pretty severely. Aside from that, it’s smooth and kind of creamy, not super heavy, not eggy or oily, it’s whipped and fluffy almost to the point of being a marshmallow type of flavor, like a cake batter-flavored marshmallow. You could use it to make a cake batter, add some cooked bakery to it to make a cake, put it in a cake donut to grab some of that fluffy sweet.  It’s extremely versatile and will work in all kinds of bakery applications at a low %, but it’s pretty full flavored at 3%. Just for fun I tried it at 7% and it was intense, and a bit more cake like - like a light fluffy vanilla cake complete with frosting, and not as fluffy, but not bad, but RIP my cotton after that. I know I should toss it over the sugar, but the best I can do is maybe not replace it once it’s gone.
+Cake batter dip is a real thing, and it’s just Cool Whip, Vanilla Cake Mix, Cream Cheese, and Milk. Usually sprinkles are added too. It tastes pretty much like cake batter mixed with cake icing, and it’s awesome. And FW pretty much nailed it, you can pick up all of those components except milk, but that’s just there to make the real thing wet and mix it together. It’s very sweet, with a bright vanilla flavor very much like vanilla cake mix has. Unfortunately, it’s one of those flavors with sugar in it, and it’s up to you whether you want to risk that health-wise, and it will destroy your cotton and gunk up your coils pretty severely. Aside from that, it’s smooth and kind of creamy, not super heavy, not eggy or oily, it’s whipped and fluffy almost to the point of being a marshmallow type of flavor, like a cake batter-flavored marshmallow. You could use it to make a cake batter, add some cooked bakery to it to make a cake, put it in a cake donut to grab some of that fluffy sweet. It’s extremely versatile and will work in all kinds of bakery applications at a low %, but it’s pretty full flavored at 3%. Just for fun I tried it at 7% and it was intense, and a bit more cake like - like a light fluffy vanilla cake complete with frosting, and not as fluffy, but not bad, but RIP my cotton after that. I know I should toss it over the sugar, but the best I can do is maybe not replace it once it’s gone.
 
 At the moment, I need it for my own recipe, [Lucky’s Charms](https://alltheflavors.com/recipes/99041#lucky_s_charms_by_id10_t), but I’ve hypothesized that PUR Simply Cake could replace the Cake Batter Dip in there, so I’m going to start tinkering with that using 2% PUR Simply Cake in place of the Cake Batter Dip, and see if any other adjustments are needed. **TASK 9**
 
@@ -99,11 +99,11 @@ I”m really partial to the bitey cold peppermint flavors like FLV Peppermint an
 
 **Candy Corn**
 
-I know I tried this, but I can barely remember it. Best I can recall it was very accurate, including being waxy as hell, like eating a corn syrup flavored candle with hints of honey and maybe vanilla.  I don’t need that. Real candy corns are actually gross, I don’t know why I somehow forget about once a year and have to remind myself with a handful or two, but they are. **TRASH 3**
+I know I tried this, but I can barely remember it. Best I can recall it was very accurate, including being waxy as hell, like eating a corn syrup flavored candle with hints of honey and maybe vanilla. I don’t need that. Real candy corns are actually gross, I don’t know why I somehow forget about once a year and have to remind myself with a handful or two, but they are. **TRASH 3**
 
 **Candy Watermelon**
 
-The first thing I noticed when trying this is how it lacks that thicker candy body. It’s really quite thin, but wet thinness instead of a dry one. Like watered down watermelon snow cone syrup, but really watered down because it’s also missing that sweetness. Instead, it also seems to have a little bit of soapy aftertaste for me. I’m prone to getting that from melons and others aren’t so you might not have a problem with it, but as for me,  I’ll probably avoid this one in favor of other options. **TRASH 4**
+The first thing I noticed when trying this is how it lacks that thicker candy body. It’s really quite thin, but wet thinness instead of a dry one. Like watered down watermelon snow cone syrup, but really watered down because it’s also missing that sweetness. Instead, it also seems to have a little bit of soapy aftertaste for me. I’m prone to getting that from melons and others aren’t so you might not have a problem with it, but as for me, I’ll probably avoid this one in favor of other options. **TRASH 4**
 
 **Cantaloupe**
 
@@ -121,7 +121,7 @@ I’ll give this interesting one a try: [Dirty White Boy and a Uno Dos Tres](htt
 
 **Caramel Cinnamon Roll**
 
-I get a bit of maple as an off-note in here, but for the most part, it’s just their cinnamon roll with nice gooey caramel just infused throughout the vape. Not as much cinnamon as the regular Cinnamon Roll. So many things you can do with it. Maybe just add some more cinnamon, maybe nuts and raisins, some cream cheese icing and make it a big ol ooey gooey cinnamon roll with everything.  
+I get a bit of maple as an off-note in here, but for the most part, it’s just their cinnamon roll with nice gooey caramel just infused throughout the vape. Not as much cinnamon as the regular Cinnamon Roll. So many things you can do with it. Maybe just add some more cinnamon, maybe nuts and raisins, some cream cheese icing and make it a big ol ooey gooey cinnamon roll with everything.
 
 I want to try Emily’s [Caramel Cinnamon Cronut](https://alltheflavors.com/recipes/192755#mlnikon_s_caramel_cinnamon_cronut_by_mixinvixens). **TASK 14**
 
@@ -131,7 +131,7 @@ And this [Cinnamon Streusel 4321.5](https://alltheflavors.com/recipes/291186#cin
 
 **Cheesecake**
 
-Tastes more like cream cheese frosting than a cheesecake, but with a little less vanilla and a little more richness and cheesiness, while still not quite getting there as cheesecake. Creamy, just not quite as dense as I want from cheesecake, but still a good cheesecake component. Very sweet. Maybe a little bakery accent, but not a distinct crust. That cream cheese tartness tastes a bit funky in the finish.  Not vomit, but there’s a little bit of that belchy quality there. Like when you burp and it tastes good, but also a bit yucky. The burpiness can definitely be covered up in a mix, but it’s a bit off-putting standalone. And I didn’t see anything that made me want to keep it. **TRASH 7**
+Tastes more like cream cheese frosting than a cheesecake, but with a little less vanilla and a little more richness and cheesiness, while still not quite getting there as cheesecake. Creamy, just not quite as dense as I want from cheesecake, but still a good cheesecake component. Very sweet. Maybe a little bakery accent, but not a distinct crust. That cream cheese tartness tastes a bit funky in the finish. Not vomit, but there’s a little bit of that belchy quality there. Like when you burp and it tastes good, but also a bit yucky. The burpiness can definitely be covered up in a mix, but it’s a bit off-putting standalone. And I didn’t see anything that made me want to keep it. **TRASH 7**
 
 **Cherry Balsam Tobacco**
 
@@ -143,7 +143,7 @@ Too much Berry to just be Cherry, but if you’re looking to mix a cherry with b
 
 **Cherry Blast**
 
-Do you want to vape a cherry cough drop? Well, here it is buddy. A cough droppy red cherry with no shower curtain liner, with a medium - not heavy or light - menthol that tastes almost exactly like a Halls cherry cough drop. If you wanted it to be absolutely perfect maybe get a little INW Euc with mint in there, but it’s already very close. If you are a person looking for a cough drop flavor on purpose for whatever reason, knock yourself out. I”m not interested in that. **TRASH 10**  
+Do you want to vape a cherry cough drop? Well, here it is buddy. A cough droppy red cherry with no shower curtain liner, with a medium - not heavy or light - menthol that tastes almost exactly like a Halls cherry cough drop. If you wanted it to be absolutely perfect maybe get a little INW Euc with mint in there, but it’s already very close. If you are a person looking for a cough drop flavor on purpose for whatever reason, knock yourself out. I”m not interested in that. **TRASH 10**
 
 **Cherry Crush**
 
@@ -161,7 +161,7 @@ Should be called charcoal tobacco. And that it is a shame because chocolate toba
 
 **Cinnamon**
 
-Candy cinnamon with a hint of clove and more harshness than it should have for the amount of flavor. Cinnamon with a hint of clove sounds like a start to a nice bakery spice blend, but when the cinnamon taste like cinnamon bears candy, having a hint of clove is really weird. Like, let’s just sprinkle some clove on these cinnamon bears, that makes sense. I think it’s eugenol that’s supposed to make the cinnamon taste more like bakery cinnamon but it doesn’t fit together properly. Also making sense is cinnamon flavors being a bit rough, that’s a thing. But this one seems to hit me in the throat harder than it should. Thick but bland and not particularly sweet body more along the lines of cinnamon bears than Red Hots or Hot Tamales. The clove could get covered up, though, in a mix, so it might work for a good cinnamon candy, but the harshness I get from it would also have to be mitigated.  **TRASH 13**
+Candy cinnamon with a hint of clove and more harshness than it should have for the amount of flavor. Cinnamon with a hint of clove sounds like a start to a nice bakery spice blend, but when the cinnamon taste like cinnamon bears candy, having a hint of clove is really weird. Like, let’s just sprinkle some clove on these cinnamon bears, that makes sense. I think it’s eugenol that’s supposed to make the cinnamon taste more like bakery cinnamon but it doesn’t fit together properly. Also making sense is cinnamon flavors being a bit rough, that’s a thing. But this one seems to hit me in the throat harder than it should. Thick but bland and not particularly sweet body more along the lines of cinnamon bears than Red Hots or Hot Tamales. The clove could get covered up, though, in a mix, so it might work for a good cinnamon candy, but the harshness I get from it would also have to be mitigated. **TRASH 13**
 
 **Cinnamon Churro**
 
@@ -179,7 +179,7 @@ And finally, getting a little wacky, [Brainy](https://alltheflavors.com/recipes/
 
 **Citrus Soda**
 
-Also known as “Max Dew” at Flavor Jungle.  Can confirm these are the same thing by taste. Also, FW doesn’t even have a Max Dew on their website, this is just Flavor Jungle relabeling shit, or maybe using one of FW’s old names before they got a C&D from Mountain Dew.  Anyway, don’t buy both Max Dew and Citrus Soda, exact same thing.  Really does mostly taste like Mountain Dew - lemon lime with some orange and lots of sugar, basically - even has a slight almost bubbly sort of minerally powder thing going on that mimics some carbonation. I was surprised and impressed by this flavor, though it’s far from perfect. It all comes across a little soapy to me, first of all. But I’m always whining about soapy and I’m not whining very loud about this one. The top notes are a little too zesty or rindy for Mountain Dew. It’s so sticky sweet that it gets dry with extended vaping. And once you get past the zestier top notes, the sweet flavor is otherwise a bit soft and tastes like it might get lost in a mix. But if you really want to vape Mountain Dew, this by itself at 3 to 4% ought to do it, though of course you could jazz it up a bit, especially with some juicier and bolder components. Maybe even just a little of that LB Dew Mountain (3%ish?) to fill in the base more would fix it completely.
+Also known as “Max Dew” at Flavor Jungle. Can confirm these are the same thing by taste. Also, FW doesn’t even have a Max Dew on their website, this is just Flavor Jungle relabeling shit, or maybe using one of FW’s old names before they got a C&D from Mountain Dew. Anyway, don’t buy both Max Dew and Citrus Soda, exact same thing. Really does mostly taste like Mountain Dew - lemon lime with some orange and lots of sugar, basically - even has a slight almost bubbly sort of minerally powder thing going on that mimics some carbonation. I was surprised and impressed by this flavor, though it’s far from perfect. It all comes across a little soapy to me, first of all. But I’m always whining about soapy and I’m not whining very loud about this one. The top notes are a little too zesty or rindy for Mountain Dew. It’s so sticky sweet that it gets dry with extended vaping. And once you get past the zestier top notes, the sweet flavor is otherwise a bit soft and tastes like it might get lost in a mix. But if you really want to vape Mountain Dew, this by itself at 3 to 4% ought to do it, though of course you could jazz it up a bit, especially with some juicier and bolder components. Maybe even just a little of that LB Dew Mountain (3%ish?) to fill in the base more would fix it completely.
 
 I'll give a couple of things a try.
 
@@ -189,7 +189,7 @@ I'll give a couple of things a try.
 
 **Coconut Cream Pie**
 
- It tastes like a coconut-flavored marshmallow. I didn’t get pie crust or distinct layers of whipped cream and coconut cream from it, but I did get a pretty tasty coconut-flavored marshmallow. At 4% the coconut is mild and not aggressively artificial. It has a thick, full, sweet mouthfeel and the base flavor here tastes pretty distinctly like a marshmallow. Unfortunately FW Coconut Cream Pie one of those that contains a form of sugar. And there are plenty of options that don’t. **TRASH 15**
+It tastes like a coconut-flavored marshmallow. I didn’t get pie crust or distinct layers of whipped cream and coconut cream from it, but I did get a pretty tasty coconut-flavored marshmallow. At 4% the coconut is mild and not aggressively artificial. It has a thick, full, sweet mouthfeel and the base flavor here tastes pretty distinctly like a marshmallow. Unfortunately FW Coconut Cream Pie one of those that contains a form of sugar. And there are plenty of options that don’t. **TRASH 15**
 
 **Coffee Cake**
 
@@ -199,7 +199,7 @@ I think this one somehow slipped the cracks and never got tested. At least, I do
 
 Man, fuck this flavor. I hate this fucking flavor so much. It’s a how many licks does it take to get to the center?-type game only instead it’s how many puffs until my cotton and coils are ruined.
 
-Some of my hate for this stuff stems from the idea that it’s supposed to taste like Cookie Butter. It does not taste like cookie butter, and if you’re hoping that it will, it tastes like the bitterest of disappointments.  
+Some of my hate for this stuff stems from the idea that it’s supposed to taste like Cookie Butter. It does not taste like cookie butter, and if you’re hoping that it will, it tastes like the bitterest of disappointments.
 
 Cookie Butter is.... It's super addictive orgasmic drug butter that tastes like a handful of sexy gingerbread people having an orgy in your mouth on a bed of uncut cocaine and cumming gooey Christmas mornings and sugar-crusted rainbows all over the place. The first time you try it, it's like getting your virginity back and then losing it again, but to Marilyn Monroe while she's singing happy birthday to you, because you're the fucking president. Real cookie butter tests my lack of faith because it's the strongest evidence I've seen that there is a god and he or she loves us.
 
@@ -215,7 +215,7 @@ I assume it’s supposed to be an Oreo Ice Cream as opposed to just an Oreo. If 
 
 **Cranberry**
 
-This is an odd one. The first thing that came to mind wasn’t cranberry, but sweet-tarts candy. Digging into it, it doesn’t really precisely taste like sweet tarts, but it does taste more like sweet tarts than any kind of cranberry I’ve ever had. The berry flavor in here lightly floral and does taste more like cranberry than any other berry, but not quite right. It’s also a little harsh at 3%.  But there’s a base to it and that base is sweet tart candy. Maybe a cranberry flavored sweet tart, maybe? It also starts to feel a little soapy with extended vaping. **TRASH 18**
+This is an odd one. The first thing that came to mind wasn’t cranberry, but sweet-tarts candy. Digging into it, it doesn’t really precisely taste like sweet tarts, but it does taste more like sweet tarts than any kind of cranberry I’ve ever had. The berry flavor in here lightly floral and does taste more like cranberry than any other berry, but not quite right. It’s also a little harsh at 3%. But there’s a base to it and that base is sweet tart candy. Maybe a cranberry flavored sweet tart, maybe? It also starts to feel a little soapy with extended vaping. **TRASH 18**
 
 **Cream Soda Type**
 
@@ -241,7 +241,7 @@ But it’s not unnecessary if it’s used in a recipe that’s necessary, and th
 
 **Creamy Sponge Cake**
 
-Emphasis on the creamy. It’s mostly cream, just a bit of bakery that does kinda taste like an eggy and slightly buttery sponge cake. Like 80% cream, 20% cake. The cream does taste quite a bit like the cream from the inside of a Twinkie or Ding-Dong. A light, bright artificial vanilla cream. It’s also a little dry and doesn’t have that oily mouth-coating thing -- It’s like a poor man’s VT Sweet Cream. There’s some nice separation between the cream and cake but not just a lot of cake here. Very slight plasticky weirdness near the end, probably not much cause for concern in a mix. Lingering sweetness. Seems like you would need to help both the cream and the cake to make a Twinkie or Swiss Roll out of this, and that point... do you really need this? There are a number of great-looking recipes out there that do exactly that but I wonder if they couldn’t be revised to not need it? As for as using it for less-obvious or more abstract things, I swear it tastes like it would be amazing mixed with banana, like in a banana cream recipe, but I couldn’t tell you why, it’s just a weird hunch.  
+Emphasis on the creamy. It’s mostly cream, just a bit of bakery that does kinda taste like an eggy and slightly buttery sponge cake. Like 80% cream, 20% cake. The cream does taste quite a bit like the cream from the inside of a Twinkie or Ding-Dong. A light, bright artificial vanilla cream. It’s also a little dry and doesn’t have that oily mouth-coating thing -- It’s like a poor man’s VT Sweet Cream. There’s some nice separation between the cream and cake but not just a lot of cake here. Very slight plasticky weirdness near the end, probably not much cause for concern in a mix. Lingering sweetness. Seems like you would need to help both the cream and the cake to make a Twinkie or Swiss Roll out of this, and that point... do you really need this? There are a number of great-looking recipes out there that do exactly that but I wonder if they couldn’t be revised to not need it? As for as using it for less-obvious or more abstract things, I swear it tastes like it would be amazing mixed with banana, like in a banana cream recipe, but I couldn’t tell you why, it’s just a weird hunch.
 
 Well, here it is with some banana, so I pretty much have try that: [Banana Stacks](https://alltheflavors.com/recipes/212012#banana_stacks_by_folkart). **TASK 27**
 
@@ -257,7 +257,7 @@ Might as well try a couple of Twinkie recipes while I’m at it:
 
 **Creme de Menthe**
 
-Lovely flavor used wonderfully in Shyndo’s [Mint Chip Cookies and Cream](https://alltheflavors.com/recipes/117147#mint_chip_cookies_and_cream_by_shyndo)  recipe. I need it to make more of that **TASK 32**
+Lovely flavor used wonderfully in Shyndo’s [Mint Chip Cookies and Cream](https://alltheflavors.com/recipes/117147#mint_chip_cookies_and_cream_by_shyndo) recipe. I need it to make more of that **TASK 32**
 
 FW Creme de Menthe is a sweet and mild peppermint with a touch of creaminess underneath. It doesn’t have any of the booze note like you might expect from an accurate Creme de Menthe flavor, but aside from that and the mint being a bit subdued, it’s a great ingredient for something like a mint chocolate chip ice cream, thin mint cookie, or mint hot chocolate. By itself, even with the concentration cranked up, lacks the minty intensity for things like Junior Mints or Peppermint Patties or an actual Creme de Menthe vape.
 
@@ -293,7 +293,7 @@ First of all, it’s one of those flavors that has sugar in it, not a good idea 
 
 **Eggnog**
 
-Imagine your job in quality control is “Nutmeg Taster.” You wouldn’t want to taste test straight nutmeg, so you come up with the plan of mixing the freshly grated warm spice with a small amount of Cool Whip. That’s what this is. There’s a very light, fairly fluffy sweet cream base, but it’s nothing at all like the thickness and depth of flavor of eggnog. Or even anything at all that makes it read eggnog and not just a small amount of generic light sweet cream. I can’t find any weird off notes or anything like that, though. It seems like a great option for a smoother, more forgiving nutmeg option vs the highly potent DEATH BY NUTMEG flavor that is TFA Holiday Spice.But it’s mostly just nutmeg.  I can’t imagine needing to use this when I have FLV Eggnog. **TRASH 25**
+Imagine your job in quality control is “Nutmeg Taster.” You wouldn’t want to taste test straight nutmeg, so you come up with the plan of mixing the freshly grated warm spice with a small amount of Cool Whip. That’s what this is. There’s a very light, fairly fluffy sweet cream base, but it’s nothing at all like the thickness and depth of flavor of eggnog. Or even anything at all that makes it read eggnog and not just a small amount of generic light sweet cream. I can’t find any weird off notes or anything like that, though. It seems like a great option for a smoother, more forgiving nutmeg option vs the highly potent DEATH BY NUTMEG flavor that is TFA Holiday Spice.But it’s mostly just nutmeg. I can’t imagine needing to use this when I have FLV Eggnog. **TRASH 25**
 
 **Extreme Ice**
 
@@ -305,7 +305,7 @@ Not unpleasant, but also, not a fig. Like not at all. It tastes kinda bubblegumm
 
 **French Vanilla**
 
- Is it vanilla? Yes. Is it perfectly good enough to use? Yes again. But, it’s kinda chalky/dry, and it’s not what I have in mind at all when I’m going for “french vanilla” - It’s really bright like candy vanilla or cheap poor kid’s birthday party vanilla ice cream. Pretty sweet, but not much else going on. Pretty plain beyond being really bright vanilla, some body, but nothing like cream or custard body, more like chalky candy, almost like the stick that comes with Fun Dip, but not as authentic to that as the WF Candy Stick Candy.  
+Is it vanilla? Yes. Is it perfectly good enough to use? Yes again. But, it’s kinda chalky/dry, and it’s not what I have in mind at all when I’m going for “french vanilla” - It’s really bright like candy vanilla or cheap poor kid’s birthday party vanilla ice cream. Pretty sweet, but not much else going on. Pretty plain beyond being really bright vanilla, some body, but nothing like cream or custard body, more like chalky candy, almost like the stick that comes with Fun Dip, but not as authentic to that as the WF Candy Stick Candy.
 
 Gotta hang on to it at least long enough to mix one of the recipes added to the list last week. I’d also like to try this [Lonesome Custard](https://alltheflavors.com/recipes/180417#lonesome_custard_by_lonesomerhodestn), as this mixer has made some amazing recipes and I’m always on the lookout for my new favorite vanilla custard recipe. **TASK 38**
 

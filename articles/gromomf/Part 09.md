@@ -9,7 +9,7 @@ Starting Flavor Count: 2,869 (Down from 2,975 originally)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-# Capella
+## Capella
 
 **Bavarian Cream**
 
@@ -29,9 +29,9 @@ Finally, 1% CAP Bavarian Cream. I like this choice because it enhances the sweet
 
 **Biscuit**
 
-Update. I mixed [Picheimon Coconut Cobbler](https://alltheflavors.com/recipes/113800#picheimon_coconut_cobbler_by_leilani) to see if it gave me a reason to hang on to CAP Biscuit, because it was the only recipe that caught my eye and acknowledged just how stinkin coconutty that flavor is. It was yummy, but very heavy on the crust when I really wanted more gooey fruit inside of the cobbler. But on the upside, it wasn’t harsh, which is a very real risk when messing with FLV Persimmon. Anyway, CAP Biscuit is going in the **TRASH 2**  
+Update. I mixed [Picheimon Coconut Cobbler](https://alltheflavors.com/recipes/113800#picheimon_coconut_cobbler_by_leilani) to see if it gave me a reason to hang on to CAP Biscuit, because it was the only recipe that caught my eye and acknowledged just how stinkin coconutty that flavor is. It was yummy, but very heavy on the crust when I really wanted more gooey fruit inside of the cobbler. But on the upside, it wasn’t harsh, which is a very real risk when messing with FLV Persimmon. Anyway, CAP Biscuit is going in the **TRASH 2**
 
-# CBV Aromen
+## CBV Aromen
 
 This is a German flavor company, I have four of their flavors, all sent to me by one of my German friends. I think CBV is just some dude’s initials, unfortunately not ChemicalBurnVictim (I would definitely buy ChemicalBurnVictim flavors if they existed).
 
@@ -49,9 +49,9 @@ Good dark chocolate, very full and thick, almost a chocolate cake if it just had
 
 **Waffelteig**
 
-Looks like I never got around to trying this one. Maybe it is pretty spectacular? I still haven’t found a waffle quite like the long-ago-discontinued INW Waffle. (Pour out a little for tha homie, [Dutchie](https://alltheflavors.com/recipes/1921#dutchie_a_delicious_stroopwafel_by_runtdastardly)). I will mix samples at 2 and 4%. **TASK 1**  
+Looks like I never got around to trying this one. Maybe it is pretty spectacular? I still haven’t found a waffle quite like the long-ago-discontinued INW Waffle. (Pour out a little for tha homie, [Dutchie](https://alltheflavors.com/recipes/1921#dutchie_a_delicious_stroopwafel_by_runtdastardly)). I will mix samples at 2 and 4%. **TASK 1**
 
-# Chef’s Choice
+## Chef’s Choice
 
 I believe these are Chef’s-rebranded Cupcake World flavors. I only have a few of them.
 
@@ -76,7 +76,7 @@ Also, I’m pretty sure I ordered this in order to try a specific recipe that us
 I’ve only ever sampled this once, at 4%. It was very sweet. The coconut was aggressively artificial, maybe even a little on the suntan oil side at 4%. I also got slight notes of butter and vanilla. Was very thick and smooth and seemed like it might be useful in lower amounts.  
 This [SNOWBALL](https://alltheflavors.com/recipes/188700#snowball_a_coconut_candy_by_bigred) suggests that 4% was too high for this flavor, and looks great. Also looks like white chocolate research for something else I might want to make. **TASK 8**
 
- **Devon Cream**
+**Devon Cream**
 
 Well, it’s in 3/5 of the recipes I want to mix that use Clotted Cream so I can’t be tossing it just yet.
 
@@ -106,11 +106,11 @@ There’s an identifiable rhubarb flavor here, but it’s overly sweet and missi
 
 **Rhubarb & Custard**
 
-If Chef’s Choice Rhubarb is rhubarb flavored candy, this is Rhubarb & Custard flavored candy. Which is apparently a very real thing in the UK. For all I know, this is a perfectly authentic copy of that candy, but it seems like it will have limited use for anything except that. It’s pretty much a one-shot. It’s very sweet. The vegetal, earthy, and very slight astringent edge of the CC Rhubarb is toned down quite a bit and the tart finish actually comes in a little more, though it’s mingled with a custardy finish that tastes like the cream part of a Chupa Chups strawberry & cream sucker.  It’s hard to explain how the custard tastes more like custard-flavored candy than actual custard, but it does. It might be the effect that CC Rhubarb would have on any custard. Anyway, it’s not bad, but again, I’m not over here wondering how I would survive without a rhubarb-and-custard-flavored candy vape. **TRASH 8**
+If Chef’s Choice Rhubarb is rhubarb flavored candy, this is Rhubarb & Custard flavored candy. Which is apparently a very real thing in the UK. For all I know, this is a perfectly authentic copy of that candy, but it seems like it will have limited use for anything except that. It’s pretty much a one-shot. It’s very sweet. The vegetal, earthy, and very slight astringent edge of the CC Rhubarb is toned down quite a bit and the tart finish actually comes in a little more, though it’s mingled with a custardy finish that tastes like the cream part of a Chupa Chups strawberry & cream sucker. It’s hard to explain how the custard tastes more like custard-flavored candy than actual custard, but it does. It might be the effect that CC Rhubarb would have on any custard. Anyway, it’s not bad, but again, I’m not over here wondering how I would survive without a rhubarb-and-custard-flavored candy vape. **TRASH 8**
 
 **Salted Caramel**
 
-Not actually salted, something about about it tastes a little strange, kind of chemical, like an attempt was made, but not actually salty. It did make me thirsty like something salted would, if that counts. Sticky sweet and tastes like a lighter caramel, but a little on the thin and dry side. No butteriness. I wouldn’t be adverse to using it to add a caramel top note to something that could use that, as that chemical edge that it leads with isn’t very strong.  
+Not actually salted, something about about it tastes a little strange, kind of chemical, like an attempt was made, but not actually salty. It did make me thirsty like something salted would, if that counts. Sticky sweet and tastes like a lighter caramel, but a little on the thin and dry side. No butteriness. I wouldn’t be adverse to using it to add a caramel top note to something that could use that, as that chemical edge that it leads with isn’t very strong.
 
 Probably gonna toss it but I’ll try this [Barista Brew](https://alltheflavors.com/recipes/137625#barista_brew_scm_remix_by_nickevz) first. **TASK 15**
 
@@ -128,7 +128,7 @@ And while I’ve got it out, add [Queen Anne](https://alltheflavors.com/recipes/
 
 And [Vanilla Fudge Filled Snickerdoodle](https://alltheflavors.com/recipes/128736#vanilla_fudge_filled_snickerdoodle_by_mech_mod_rn) too. Why not? **TASK 18**
 
-# Chefs Flavours
+## Chefs Flavours
 
 These are some one-shots I’ve picked up from Chefs or were sent to me by a friend who bought them from Chefs
 
@@ -136,7 +136,7 @@ These are some one-shots I’ve picked up from Chefs or were sent to me by a fri
 
 Mixed this up and was blown away. It’s supposed to be a creamy authentic apricot and that’s exactly what it is, I mean exactly. It tastes like the inside of granny’s apricot fried pie, with the fried pie crust tossed and replaced with a bit of cream that’s blended into the apricot fried pie filling. This is magnificent. TamVapes made it, kudos and thank you to her. I think the recipe for it might be on ATF under a different recipe name, [Apricot Cream](https://alltheflavors.com/recipes/196539#apricot_dream_by_tamvapes).
 
-I’m going to mix a big ass bottle. But this time when I vape it, I’m going to think about how it might work as an ingredient. Maybe put Granny’s missing fried pie crust back on it, or do a dump cake-type situation. Or add more cream and make it a full-on apricot ice cream. That would probably be the easiest. But I’m leaning toward dump cake.  **TASK 19**
+I’m going to mix a big ass bottle. But this time when I vape it, I’m going to think about how it might work as an ingredient. Maybe put Granny’s missing fried pie crust back on it, or do a dump cake-type situation. Or add more cream and make it a full-on apricot ice cream. That would probably be the easiest. But I’m leaning toward dump cake. **TASK 19**
 
 **Friday**
 
@@ -148,7 +148,7 @@ I don’t think I’ve tried this one yet, but they do still sell it, so I will.
 
 **Jam on Toast**
 
- It’s clearly strawberry jam on toast but the jam tastes like it was made at least in part out of underripe strawberries, kinda green. I didn’t get a distinct butter note from it, but there’s definitely an added richness. The sweetness was encompassing like both a strawberry with lots of ethyl maltol in it upfront and as well as some added sucralose sweetener. The toast was fairly prominent, and had some dry toast body to it.  I just don’t really want to vape toast that badly. Why would you vape butter and jam on boring old toast when you could vape it on cake, cookies, pies? **TRASH 11**
+It’s clearly strawberry jam on toast but the jam tastes like it was made at least in part out of underripe strawberries, kinda green. I didn’t get a distinct butter note from it, but there’s definitely an added richness. The sweetness was encompassing like both a strawberry with lots of ethyl maltol in it upfront and as well as some added sucralose sweetener. The toast was fairly prominent, and had some dry toast body to it. I just don’t really want to vape toast that badly. Why would you vape butter and jam on boring old toast when you could vape it on cake, cookies, pies? **TRASH 11**
 
 **Jam Roly Poly**
 
@@ -160,7 +160,7 @@ I have to admit, I don’t know what a jam roly poly is. I’m picturing somethi
 
 **Lemon Meringue Pie**
 
-This is from the Epic Shots line. Apparently they do not have this anymore, or at least I couldn’t find it. What a shame, because it’s almost perfect.  I’d love for the lemon to be just a tiny hair more lemony tart, maybe add a teensy bit of FE Lemon to it, or VT Sour Lemon, but wow. I got all the things without anything off. Lovely meringue on top, a rich lemon curd, and a distinct but not too prominent, well done but not burnt, basic bakery crust, and again, other than maybe a little stronger lemon, just an excellent Lemon Meringue Pie. Full flavored and deep.
+This is from the Epic Shots line. Apparently they do not have this anymore, or at least I couldn’t find it. What a shame, because it’s almost perfect. I’d love for the lemon to be just a tiny hair more lemony tart, maybe add a teensy bit of FE Lemon to it, or VT Sour Lemon, but wow. I got all the things without anything off. Lovely meringue on top, a rich lemon curd, and a distinct but not too prominent, well done but not burnt, basic bakery crust, and again, other than maybe a little stronger lemon, just an excellent Lemon Meringue Pie. Full flavored and deep.
 
 13% is what I mixed it at, as recommended. It’s bound for the trash or at least not being replaced when it runs out (how could I replace it? Does anyone have the recipe?) but at the moment an LMP vape sounds pretty nice so rather than waste it all, I’m going to mix it at 12% plus 1% FE/SC Lemon. **TASK 21**
 
@@ -168,7 +168,7 @@ This is from the Epic Shots line. Apparently they do not have this anymore, or a
 
 Custard Cream isn’t a custard. It’s a cookie in the UK. Or they probably call it a biscuit. It’s a cookie sandwich, and I don’t know what the filling is but maybe it’s custard-flavored because that would explain the name. Why doesn’t Oreo make a custard-flavored creme filling? They make every other kind of flavored creme filling these days.
 
-It mostly tastes like a dry-yet-buttery cookie, dipped in some kind of sweet vanilla cream. I don’t like the 20% recommendation that came with this. It tastes like there’s way too much INW Biscuit in there - too dry, too sharp, and having a bit of that coconutty off-note you get with too much INW Biscuit. I’m sure it’s fine used at a lower concentration, but 20% is too much. The vanilla cream has a bright, forward vanilla, but I’m not getting that custard eggyness flavor, just some creamy dairy base. I think I planned to try this again someday at 10 or 15%, but you caught me on a fuckit day so Nice Custard Cream is going to get chucked into the fuckit bucket, which looks pretty identical to the **TRASH 14**  
+It mostly tastes like a dry-yet-buttery cookie, dipped in some kind of sweet vanilla cream. I don’t like the 20% recommendation that came with this. It tastes like there’s way too much INW Biscuit in there - too dry, too sharp, and having a bit of that coconutty off-note you get with too much INW Biscuit. I’m sure it’s fine used at a lower concentration, but 20% is too much. The vanilla cream has a bright, forward vanilla, but I’m not getting that custard eggyness flavor, just some creamy dairy base. I think I planned to try this again someday at 10 or 15%, but you caught me on a fuckit day so Nice Custard Cream is going to get chucked into the fuckit bucket, which looks pretty identical to the **TRASH 14**
 
 **Queen of Puddings**
 
@@ -183,7 +183,7 @@ I could work with Chef’s Raspberry Jam & Scone Cream, but it doesn't seem to b
 **Spotted Dick & Custard**
 
 The first time I tried this, at the 20% recommended by Chefs, it was overwhelmingly musty raisin, plus a little vanilla custard. That prompted me to give it another try at 5%, specifically because I wanted to evaluate it for possible use as a raisin flavor to add to bakeries and stuff. But at 5% it’s mostly delicious, rich vanilla custard, with just the slightest “dark dried fruit” kind of note that makes it really interesting. Not at all what I expected. It was enjoyable down that low, but so much for my idea of it working as a raisin, there’s barely even any raisin there.. Makes me think there’s probably some concentration between 6 and 19% where this will taste to me exactly like it’s supposed to, a kind of bread pudding type of thing filled with raisins, with vanilla custard poured over it. It’s just a matter of finding it. Part of me wants to let that remain a mystery as well, but this isn’t like an unopened bottle of something they don’t even sell anymore. This is still available and I’m already a little invested in it, partially due to being so wrong when guessing what 5% of it was going to taste like. This time I’ll mix two bottles, one at 10% and one at 15%. **TASK 22**
-  
+
 **Strawberry Vapetto**
 
 Someone sent this to me, I think. It doesn’t seem like something I’d go out and buy on my own. Haven’t gotten around to trying it yet, but I’ll give it a shot. Chefs recommends 20 to 30%. I think I’ll start at the very low end of that. **TASK 23**
@@ -210,6 +210,6 @@ A proper vanilla custard. Extremely rich, very sweet, creamy, thick, full, eggy,
 
 Much better balance of tasks and trashes this time.
 
-Stay tuned for part 10, I’ll start in on the Chefs Super Concentrates  
+Stay tuned for part 10, I’ll start in on the Chefs Super Concentrates
 
 New Flavor Count: 2,848

@@ -13,7 +13,7 @@ TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the tr
 
 ### Amarena Cherry
 
-This one is unique. You know what a cherry amaretto sour is? It’s a cocktail I don’t like, but some people do. It’s just usually amaretto and sweet & sour mix with a maraschino cherry and some grenadine or some of the syrup from the cherry jar. This pretty much tastes like that. Lots of amaretto flavor, but some tart citrusy taste right on top and the cherry tastes a quite bit darker than the bright red maraschino. Like black cherry amaretto sour, maybe? It’s odd and has a baby powder finish like some of that WF Champagne Soda got in there. No cough syrup or shower curtain, though.  **TRASH 1**
+This one is unique. You know what a cherry amaretto sour is? It’s a cocktail I don’t like, but some people do. It’s just usually amaretto and sweet & sour mix with a maraschino cherry and some grenadine or some of the syrup from the cherry jar. This pretty much tastes like that. Lots of amaretto flavor, but some tart citrusy taste right on top and the cherry tastes a quite bit darker than the bright red maraschino. Like black cherry amaretto sour, maybe? It’s odd and has a baby powder finish like some of that WF Champagne Soda got in there. No cough syrup or shower curtain, though. **TRASH 1**
 
 ### Birne
 
@@ -21,7 +21,7 @@ Candy pear and model glue. At 6% it’s mostly model glue. At 3% it’s a light 
 
 ### Birne Joghurt
 
-This is literally un-vapable, easily one of the worst flavors that I have ever tried. The pear top note tastes as much like model glue as pear, really sharp and painfully offensive, and it’s piled on top of a pool of sweet creamy vomit. Usually even if something is terrible I can at least vape it dry enough to take the cotton out and rewick, with this stuff I could not make myself vape it dry. It’s that bad. **TRASH 3**  
+This is literally un-vapable, easily one of the worst flavors that I have ever tried. The pear top note tastes as much like model glue as pear, really sharp and painfully offensive, and it’s piled on top of a pool of sweet creamy vomit. Usually even if something is terrible I can at least vape it dry enough to take the cotton out and rewick, with this stuff I could not make myself vape it dry. It’s that bad. **TRASH 3**
 
 ### Black Cherry
 
@@ -57,10 +57,10 @@ This is pretty yummy. It doesn’t really taste like nougat, but it tastes like 
 
 Hazelnut Caramel Test V1 **TASK 1**
 
-Co.| Flavor | %
----|---|----
-GF | Nougat | 2
-FW | Hazelnut | 2
+| Co. | Flavor   | %   |
+| --- | -------- | --- |
+| GF  | Nougat   | 2   |
+| FW  | Hazelnut | 2   |
 
 ### Rum
 
@@ -68,7 +68,7 @@ Nail Polish. Just nail polish, with a little bit of a weird buttery undertone. *
 
 ### RY4 Blend
 
-Thin and dry, with an acrid burnt sugar inhale, slightly sweet-and-sour not tobacco but ashy/hay + caramel exhale with a very light nail polish note. This is definitely under-flavored at 4% but nothing about it put me in the mood to try mixing up a stronger concentration.  **TRASH 12**
+Thin and dry, with an acrid burnt sugar inhale, slightly sweet-and-sour not tobacco but ashy/hay + caramel exhale with a very light nail polish note. This is definitely under-flavored at 4% but nothing about it put me in the mood to try mixing up a stronger concentration. **TRASH 12**
 
 ### Sweet Cherry
 

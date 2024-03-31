@@ -9,7 +9,9 @@ Starting flavor count: 2,487 (down from 2,972)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-# CAPELLA FRUIT CIRCLES
+## CAPELLA
+
+**Fruit Circles**
 
 Update. I tried two recipes that used CAP Fruit Circles. One of them I think had just a little too much Cereal 27. Kinda tasted like you put a bit of honey on a mixture of 3/4 Froot Loops and 1/4 Frosted Flakes. The other one, [Loopy Cake](https://alltheflavors.com/recipes/190699) was delicious and I think it Perfectly matches description of "a medium bodied, fluffy vanilla cheesecake with speckled flecks of [fruity] cereal notes." It was a bit more lemony than I anticipated from the ingredients, but I like lemon, so it's all good. 5 stars, but just as a matter of personal profile preference, it won’t be going on my list of all-time favorite recipes. However, it did make me want to give CAP Fruit Circles recipes another look. All three of these look terrific, and if none of them reach favorite recipe status, I’ll be done with CAP Fruit Circles.
 
@@ -19,7 +21,7 @@ Update. I tried two recipes that used CAP Fruit Circles. One of them I think had
 
 [mlNikon’s Pebble Donut](https://alltheflavors.com/recipes/203438#mlnikon_s_pebble_donut_by_mixinvixens). **TASK 3**
 
-# FLAVOUR ART
+## FLAVOUR ART
 
 **Caramel**
 
@@ -43,7 +45,7 @@ I’ll also try this [Pancardamom ‘N Pyrup](https://alltheflavors.com/recipes/
 
 **Catalan Cream**
 
-So this is supposed to be something like a crème brulee, but more milky, and infused with vanilla, lemon, orange, and cinnamon. I’ve enjoyed it in some of the recipes I’ve tried and commended for finding great uses for a difficult ingredient because I definitely consider this to be a difficult ingredient. It has a mildly creamy finish but does not have any of the custardy richness it’s supposed to have. It leads with a spicy vanilla, dry cinnamon, and light hints of citrus, has some bittersweet brown sugar flavor underneath that, but none of the torched sugar crust of a real crème brulee. People have described the citrus as lemon and orange but I don’t get a discreet lemon or orange, more of a generic citrus that leans toward lemon. It’s a little harsh to vape solo on top but sort of soothes itself in the finish. That brown sugar tastes just a little chemically and weird. So kudos to those who’ve made it work, I’ll mix your recipes with it but there’s little chance of me reaching for this flavor for my own creations.  
+So this is supposed to be something like a crème brulee, but more milky, and infused with vanilla, lemon, orange, and cinnamon. I’ve enjoyed it in some of the recipes I’ve tried and commended for finding great uses for a difficult ingredient because I definitely consider this to be a difficult ingredient. It has a mildly creamy finish but does not have any of the custardy richness it’s supposed to have. It leads with a spicy vanilla, dry cinnamon, and light hints of citrus, has some bittersweet brown sugar flavor underneath that, but none of the torched sugar crust of a real crème brulee. People have described the citrus as lemon and orange but I don’t get a discreet lemon or orange, more of a generic citrus that leans toward lemon. It’s a little harsh to vape solo on top but sort of soothes itself in the finish. That brown sugar tastes just a little chemically and weird. So kudos to those who’ve made it work, I’ll mix your recipes with it but there’s little chance of me reaching for this flavor for my own creations.
 
 Although the recipes I’ve tried in the past were great, they weren’t all-time favorites that I’m attached to.
 
@@ -67,7 +69,7 @@ I feel like my cinnamon needs are pretty well covered by quite a few other flavo
 
 **Cheesecake Olympic**
 
-I think it’s delicious, but it is not a cheesecake. I don’t know what it is. It’s a very creamy, very sweet, silky smooth, dairy based... something. With a hint of coconut.  It doesn’t taste cheesy at all, it tastes almost like lightly cotton-candy flavored yogurt. Which is totally a thing, my kid wanted some in a tube and I bought it for him and tried it. It was pretty good if you like cotton candy, and this tastes similar, but with a bit of coconut. No kind of cheesecake crust at all, doesn’t have anything really making it taste like it’s been baked, not especially cheesy. I might use it to sweeten a cheesecake? IDK. I’m not really sure what to do with it, but it’s yummy to me. As soon as I tried it, I had a feeling people would use it in amazing ways.
+I think it’s delicious, but it is not a cheesecake. I don’t know what it is. It’s a very creamy, very sweet, silky smooth, dairy based... something. With a hint of coconut. It doesn’t taste cheesy at all, it tastes almost like lightly cotton-candy flavored yogurt. Which is totally a thing, my kid wanted some in a tube and I bought it for him and tried it. It was pretty good if you like cotton candy, and this tastes similar, but with a bit of coconut. No kind of cheesecake crust at all, doesn’t have anything really making it taste like it’s been baked, not especially cheesy. I might use it to sweeten a cheesecake? IDK. I’m not really sure what to do with it, but it’s yummy to me. As soon as I tried it, I had a feeling people would use it in amazing ways.
 
 I can hardly wanted to try this [M A L T E D](https://alltheflavors.com/recipes/306466#m_a_l_t_e_d_by_sensory_overload) recipe for malted vanilla milkshake - it looks stupendous. **TASK 12**
 
@@ -79,7 +81,7 @@ LOL Nope. Lots of new vinyl shower curtain taste, doesn’t rise to the level of
 
 **Cherry Juice Sweet**
 
-Well, it doesn’t taste like a new vinyl shower curtain, so it has that going for it at least. But it does taste pretty weird to me. I get real cherry juice, but not as tart/bitter as real cherry juice but an identifiable flavor, but also a slight perfumy off note that tastes a little like baby shit. I don’t mean actual poop, I mean like baby powder, baby lotion, baby oil. Whatever the hell that “baby” scent is. And also an underlying, faint kind of cinnamony spice. It seems like a small amount of it could really do something interesting in a mix, but it would need to be a very small amount, because even 0.75% is pretty gnarly. **TRASH 3**  
+Well, it doesn’t taste like a new vinyl shower curtain, so it has that going for it at least. But it does taste pretty weird to me. I get real cherry juice, but not as tart/bitter as real cherry juice but an identifiable flavor, but also a slight perfumy off note that tastes a little like baby shit. I don’t mean actual poop, I mean like baby powder, baby lotion, baby oil. Whatever the hell that “baby” scent is. And also an underlying, faint kind of cinnamony spice. It seems like a small amount of it could really do something interesting in a mix, but it would need to be a very small amount, because even 0.75% is pretty gnarly. **TRASH 3**
 
 **Chestnut**
 
@@ -100,7 +102,7 @@ Same weird baby product off-note as Cherry Juice. Same underlying kind of cinnam
 **Citrus Mix**
 
 It’s neat because you can taste all of the individual citruses in there - grapefruit, lemon, and orange. It’s grapefruit forward, enough that I’d call it a grapefruit flavor. The others more in the back, tastes very fresh and though it could be juicier, it’s not dry. It’s thin-tasting but without being harsh. I like it, but I’ll be ok without it. **TRASH 7**
-  
+
 **Clove**
 
 Strong clear clove, sweet warm spice, but a little thin and sour in a way it shouldn’t be. This is not really a problem, I’ve tried a few recipes that use FA Clove in the past and I think [Mjuk Pepparkaka](https://alltheflavors.com/recipes/206522#mjuk_pepparkaka_by_wallebiela) alone is worth picking up FA Clove for.
@@ -113,7 +115,7 @@ Pretty authentic to plain dry cocoa, bitter and very dry, powdery, pretty unplea
 
 **Coconut**
 
-It’s realistic, natural, not suntan oily, but a little flat and dull. It has some body to it, so it’s not thin, but it’s nothing like the thickness and riches of so many other coconuts. It’s also a little dry, while lacking the condensed flavor of dry coconut flakes.  More like coconut meat. Tastes like it badly needs some help from another coconut flavor or needs to be used to help another, more artificial coconut flavor taste more like the real thing.
+It’s realistic, natural, not suntan oily, but a little flat and dull. It has some body to it, so it’s not thin, but it’s nothing like the thickness and riches of so many other coconuts. It’s also a little dry, while lacking the condensed flavor of dry coconut flakes. More like coconut meat. Tastes like it badly needs some help from another coconut flavor or needs to be used to help another, more artificial coconut flavor taste more like the real thing.
 
 I need it for: Leche De Coco, Mango Colada, IYSLPC, and Galadriel’s Light.
 
@@ -127,7 +129,7 @@ Also want to mix: [Bounty](https://alltheflavors.com/recipes/70669#bounty_abuela
 
 **Cocoon**
 
-Dumb name for what is supposed to taste like a caramel apple; “Our interpretation of the moment when the warm embrace of the caramel melds with the sweetness of the apple, another amazing fairground flavour,” is what FA says about it.  I’d love a good sweet sticky caramel apple flavor so I was excited to try this one, but what I got wasn’t what I expected. Rather than tasting like a caramel-coated apple, it tastes more like a caramelized apple. Like someone made an apple pie or apple crumble but forgot the cinnamon, and this is mostly that cooked un-spiced apple from it, with just a little of the pastry. There’s a bit of dry pastry note in the finish. It’s sweet but not sweet and sticky like caramel coating or apple juice sweet, it’s more of a dry powdered sugary sweetness. The entire thing is vapes really dry overall. I could see this playing an important role in a apple pie, apple crumble, or apple-topped funnel cake mix or something like that, but it sure ain’t no caramel apple.
+Dumb name for what is supposed to taste like a caramel apple; “Our interpretation of the moment when the warm embrace of the caramel melds with the sweetness of the apple, another amazing fairground flavour,” is what FA says about it. I’d love a good sweet sticky caramel apple flavor so I was excited to try this one, but what I got wasn’t what I expected. Rather than tasting like a caramel-coated apple, it tastes more like a caramelized apple. Like someone made an apple pie or apple crumble but forgot the cinnamon, and this is mostly that cooked un-spiced apple from it, with just a little of the pastry. There’s a bit of dry pastry note in the finish. It’s sweet but not sweet and sticky like caramel coating or apple juice sweet, it’s more of a dry powdered sugary sweetness. The entire thing is vapes really dry overall. I could see this playing an important role in a apple pie, apple crumble, or apple-topped funnel cake mix or something like that, but it sure ain’t no caramel apple.
 
 I didn’t see a recipe I needed to make that uses it, and I prefer PUR Country Apple for unspiced cooked apple. **TRASH 9**
 
@@ -157,7 +159,7 @@ I’ll add [Cinna Crunchies Cereal Drizzle](https://alltheflavors.com/recipes/18
 
 **Croissant**
 
- Tastes like you sprayed a pastry with a ton of lemon pledge. It’s vile. **TRASH 10**
+Tastes like you sprayed a pastry with a ton of lemon pledge. It’s vile. **TRASH 10**
 
 **Cuban Supreme**
 
@@ -185,11 +187,11 @@ It’s just butyric enough to ruin an otherwise good milky pudding-like vanilla 
 
 Maybe with a longer steep FA Custard Extra 1 works out. Probably it does, just like CAP Vanilla Custard V2 gets a lot better after a steep. Minus the vomit taste, it’s a light, airy, custard, more of a Jello Instant pudding situation. Heavy on the dairy, not really any butter to speak of, a touch of barely there medium range vanilla.
 
-I looked at all the recipes on All The Flavors and while they otherwise looked pretty good, I could not imagine that they wouldn’t be better with some other ingredient taking the place of FA Custard Extra 1. **TRASH 12**  
+I looked at all the recipes on All The Flavors and while they otherwise looked pretty good, I could not imagine that they wouldn’t be better with some other ingredient taking the place of FA Custard Extra 1. **TRASH 12**
 
 **Custard Extra 2**
 
-Not really unpleasant, but very weird.  If it weren’t for the very sweet dark sweetness in there, like a dark brown sugar or almost molasses, I would swear I’m vaping creamed corn. Very rich and creamy, with a very distinct corn flavor and just a bit of vanilla. Why is there corn in the custard? No freaking clue. Why is there brown sugar in the creamed corn? Can’t answer that either. All I can say is that someone will find a use for this that plays into the corn note rather than trying to cover it up, and that will be the best use for it. Otherwise, this is just weird and pretty bad for something called “Custard.”  Corn is the extra in Custard Extra 2. **TRASH 13**
+Not really unpleasant, but very weird. If it weren’t for the very sweet dark sweetness in there, like a dark brown sugar or almost molasses, I would swear I’m vaping creamed corn. Very rich and creamy, with a very distinct corn flavor and just a bit of vanilla. Why is there corn in the custard? No freaking clue. Why is there brown sugar in the creamed corn? Can’t answer that either. All I can say is that someone will find a use for this that plays into the corn note rather than trying to cover it up, and that will be the best use for it. Otherwise, this is just weird and pretty bad for something called “Custard.” Corn is the extra in Custard Extra 2. **TRASH 13**
 
 **Custard Premium**
 
@@ -201,7 +203,7 @@ You’re outside your mind if you think I’m getting rid of FA Custard Premium.
 
 [Joker Reloaded](https://alltheflavors.com/recipes/156147#joker_reloaded_by_nachef) I love key lime pie! **TASK 26**
 
-[Skip around the Guava](https://alltheflavors.com/recipes/316332#skip_around_the_guava_by_jbitts). Not sure how these flavors will work together, but I like guava and I like custard (and coconut and cactus) so we’ll see.  **TASK 27**
+[Skip around the Guava](https://alltheflavors.com/recipes/316332#skip_around_the_guava_by_jbitts). Not sure how these flavors will work together, but I like guava and I like custard (and coconut and cactus) so we’ll see. **TASK 27**
 
 **Dark Bean**
 

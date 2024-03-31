@@ -9,7 +9,7 @@ Starting flavor count: 2,622 (down from 2,972)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-# CAPELLA
+## CAPELLA
 
 **Cinnamon Danish Swirl** and **Cinnamon Sugar**
 
@@ -19,21 +19,21 @@ At the same time, I mixed the first version of a snickerdoodle cookie of my own 
 
 Snickerdoodle Credit CV, V1 **TASK 1**
 
-Co. | Flavor | %
----|---|----
-CAP | Cinnamon Sugar | 2
-WF  | Cookie Butter | 2.5
-TFA | Marshmallow | 1.5
-FA  | Meringue | 1
-FLV | Rich Cinnamon | 0.06
-FA | Soho | 1.5
-FW | Sweetener | 0.5
-FA | Vanilla Cookie | 2.5
-CAP | Sugar Cookie | 2
+| Co. | Flavor         | %    |
+| --- | -------------- | ---- |
+| CAP | Cinnamon Sugar | 2    |
+| WF  | Cookie Butter  | 2.5  |
+| TFA | Marshmallow    | 1.5  |
+| FA  | Meringue       | 1    |
+| FLV | Rich Cinnamon  | 0.06 |
+| FA  | Soho           | 1.5  |
+| FW  | Sweetener      | 0.5  |
+| FA  | Vanilla Cookie | 2.5  |
+| CAP | Sugar Cookie   | 2    |
 
 I’m swapping the sweeteners. Dropping the FA Butter because I think that’s where the smeared-on butter impression was coming from. Increasing the Rich Cinnamon from the 0.04% in CV’s version to make it a bit more cinnamon-y, but keeping it much lower than the whopping 0.1% my dumb ass had used in mine. A little less Soho and FA Vanilla Cookie to make it a little less crunchy, adding 2% CAP Sugar Cookie to replace the lost bakery notes from doing that with some softer cookie flavor, but not the 4.5% I mistakenly thought was a good concentration to build a snickerdoodle around.
-  
-# FLAVOR WEST
+
+## FLAVOR WEST
 
 **Sweet Cream**
 
@@ -41,15 +41,15 @@ Accidentally skipped over this last time. It mostly tastes like canned whipped c
 
 **Toasted Marshmallow**
 
-This doesn’t really taste anything like a toasted marshmallow, and it’s pretty weird, but it does seem like it might be used in some interesting ways. It’s very sweet in the finish but it’s like a blank voluminous sweetness, doesn’t really taste like a marshmallow. Not finding any vanilla. Upfront where it should be toasted, instead there’s some light and slightly roasted nutty weirdness with a touch of something savory, almost like an unsalted soy sauce taste thing, that reminds me of the sweet yet savory aspects of Mom & Pops Calipitter Chow and OSDIY Lucky Shot a little bit. I wouldn’t be super shocked if I found out this is one of the components to those things. It’s pretty dry by itself though, to the point it seems like it would dry a mix out. Like a dry cereal marshmallow, without the marshmallow flavor. Just dense, dry, and gritty sweet. Truly an oddball flavor, but I could see it working in bakeries, especially dry gritty ones, and sweet tobacco mixes, and who knows what else, just don’t piss on my head and tell me we’re toasting marshmallows.  Again, nothing I want to mix uses it. **TRASH 2**
+This doesn’t really taste anything like a toasted marshmallow, and it’s pretty weird, but it does seem like it might be used in some interesting ways. It’s very sweet in the finish but it’s like a blank voluminous sweetness, doesn’t really taste like a marshmallow. Not finding any vanilla. Upfront where it should be toasted, instead there’s some light and slightly roasted nutty weirdness with a touch of something savory, almost like an unsalted soy sauce taste thing, that reminds me of the sweet yet savory aspects of Mom & Pops Calipitter Chow and OSDIY Lucky Shot a little bit. I wouldn’t be super shocked if I found out this is one of the components to those things. It’s pretty dry by itself though, to the point it seems like it would dry a mix out. Like a dry cereal marshmallow, without the marshmallow flavor. Just dense, dry, and gritty sweet. Truly an oddball flavor, but I could see it working in bakeries, especially dry gritty ones, and sweet tobacco mixes, and who knows what else, just don’t piss on my head and tell me we’re toasting marshmallows. Again, nothing I want to mix uses it. **TRASH 2**
 
 **Toffee Dream Cream**
 
-I think it’s supposed to be vanilla toffee ice cream in a cone. The in a cone part is the only way I can explain the weird sharp, nutty bakery taste it has. It tastes like just straight up acetyl pyrazine right on top, not really like a ice cream cone or cookie or whatever it’s supposed to be, and it’s odd. Beyond that, there is something toffee-ish, a darker crisp brown sugary sweetness, as well as an underlying rich, sweet vanilla cream. That weird bakery note, though. I wish it didn’t have that. It seems like it could be covered up with other, better bakery ingredients for all kinds of dessert things, but I don’t know about just using it as a toffee ice cream flavor and pretending it’s not there.  Again, nothing I want to mix uses it. **TRASH 3**
+I think it’s supposed to be vanilla toffee ice cream in a cone. The in a cone part is the only way I can explain the weird sharp, nutty bakery taste it has. It tastes like just straight up acetyl pyrazine right on top, not really like a ice cream cone or cookie or whatever it’s supposed to be, and it’s odd. Beyond that, there is something toffee-ish, a darker crisp brown sugary sweetness, as well as an underlying rich, sweet vanilla cream. That weird bakery note, though. I wish it didn’t have that. It seems like it could be covered up with other, better bakery ingredients for all kinds of dessert things, but I don’t know about just using it as a toffee ice cream flavor and pretending it’s not there. Again, nothing I want to mix uses it. **TRASH 3**
 
- **Tres Leches**
+**Tres Leches**
 
- It’s really unfortunate that it has 10 to 20% sugar syrup in it. It’s not as gunky as some of the other SUGAR WARNING Flavor West flavors, but seriously, don’t vape sugar, people. I will not be replacing it when it runs out for that reason, but I don’t want to toss it because it tastes really good. A very sweet, creamy, thick, and slightly sour - just enough to be perfectly authentic - condensed milk flavor, with a little sweet cake behind it and just a touch of dark, carmelly sweetness near the finish. It’s in some recipes I already plan to try, and there are a couple more that look good to me.
+It’s really unfortunate that it has 10 to 20% sugar syrup in it. It’s not as gunky as some of the other SUGAR WARNING Flavor West flavors, but seriously, don’t vape sugar, people. I will not be replacing it when it runs out for that reason, but I don’t want to toss it because it tastes really good. A very sweet, creamy, thick, and slightly sour - just enough to be perfectly authentic - condensed milk flavor, with a little sweet cake behind it and just a touch of dark, carmelly sweetness near the finish. It’s in some recipes I already plan to try, and there are a couple more that look good to me.
 
 [Blue Milk Cake](https://alltheflavors.com/recipes/230544#blue_milk_cake_by_alan_vapes) **TASK 2**
 
@@ -59,11 +59,11 @@ I think it’s supposed to be vanilla toffee ice cream in a cone. The in a cone 
 
 Mostly tastes like sweet candy orange with fluffy and milky smooth cream base, similar to a dreamsicle bar, but with enough hints of mango mixed with the orange and a touch of coconut attached to the cream to make “tropical” an apt description. Kind of an odd, busy flavor but very tasty. It’s a little weak on top before you get that candy orange/mango thing, then the milkier cream and a sweet coconut finish that is a bit like FLV Sweet Coconut and makes for a velvety smooth finish.
 
-I'll give this 5-year-old recipe that still looks pretty tasty to me a try before I toss it. [3 days 2 nights](https://alltheflavors.com/recipes/69328#3_days_2_nights_by_thadentman). **TASK 4**  
+I'll give this 5-year-old recipe that still looks pretty tasty to me a try before I toss it. [3 days 2 nights](https://alltheflavors.com/recipes/69328#3_days_2_nights_by_thadentman). **TASK 4**
 
 **Tropical Punch**
 
- It’s not a “red” Hawaiian punch, it’s more of an orange-yellow mix of fake fruit flavors, not natural fruit juice. Candied/artificial orange-pineapple mix up front, with a lot of sweetness right up top, surprisingly smooth and not harsh for orange or pineapple, with sweet apple juice behind it and maybe a hint of mango. I think this is one of their flavors that has actual sugar in it. I’d mess around with other oranges and pineapples before this; it doesn’t have that Yellow Cake or Cake Batter Dip amazingness that might cause you to overlook the cancer/coil gore. **TRASH 4**
+It’s not a “red” Hawaiian punch, it’s more of an orange-yellow mix of fake fruit flavors, not natural fruit juice. Candied/artificial orange-pineapple mix up front, with a lot of sweetness right up top, surprisingly smooth and not harsh for orange or pineapple, with sweet apple juice behind it and maybe a hint of mango. I think this is one of their flavors that has actual sugar in it. I’d mess around with other oranges and pineapples before this; it doesn’t have that Yellow Cake or Cake Batter Dip amazingness that might cause you to overlook the cancer/coil gore. **TRASH 4**
 
 **Unicorn Vomit**
 
@@ -89,7 +89,7 @@ Tonight when I go to bed, I’m definitely going to be thinking about how stupid
 
 **Vanilla Cupcake**
 
-Uncooked vanilla cake mix. It’s vanilla and sweet and but very dry, dry enough to make me thirsty. It’s full but kind of bland and doesn’t have anything to suggest cream, eggs, butter, oil, or anything moist at all. I have to imagine that this is what it would taste like if you had vanilla cake mix and just ate the mix. I could see it working with both some sweet, buttery, custardy cream to moisten it and a soft bakery like CAP Sugar Cookie to create a vanilla cupcake but at that point you might as well get just any other vanilla and go from there.  
+Uncooked vanilla cake mix. It’s vanilla and sweet and but very dry, dry enough to make me thirsty. It’s full but kind of bland and doesn’t have anything to suggest cream, eggs, butter, oil, or anything moist at all. I have to imagine that this is what it would taste like if you had vanilla cake mix and just ate the mix. I could see it working with both some sweet, buttery, custardy cream to moisten it and a soft bakery like CAP Sugar Cookie to create a vanilla cupcake but at that point you might as well get just any other vanilla and go from there.
 
 I don’t have super high expectations for them, but I’ll try this [Cup of Cake](https://alltheflavors.com/recipes/195183#a_cup_of_cake_by_kylezkloudz) **TASK 11**
 
@@ -107,11 +107,11 @@ Supposedly it [helps three other common flavors turn into Golden Grahams](https:
 
 **Watermelon**
 
-That is a foul thing.. It does not taste like watermelon.  It kind of tastes like lipstick, but not just a little, like a whole mouthful just all up in the facehole, just eating lipstick for a snack. Really unpleasant, chemcialish, awful. It does have quite a bit of almost creamy body to it but when something is this yucky and tastes like some kind of cosmetic product, that’s not helpful. Not helpful at all. **TRASH 6**
+That is a foul thing.. It does not taste like watermelon. It kind of tastes like lipstick, but not just a little, like a whole mouthful just all up in the facehole, just eating lipstick for a snack. Really unpleasant, chemcialish, awful. It does have quite a bit of almost creamy body to it but when something is this yucky and tastes like some kind of cosmetic product, that’s not helpful. Not helpful at all. **TRASH 6**
 
 **Whipped Cream**
 
-Very meh. It’s not very flavorful, and I think it could have a slight cardboardy off note but that might also just be what my brain is filling into an absence of flavor.  The heart of “whipped cream” is there - it’s smooth and sweet and fluffy, with some dairy taste and teensy hint of vanilla, but it’s light and not very thick, without any richness to it at all.
+Very meh. It’s not very flavorful, and I think it could have a slight cardboardy off note but that might also just be what my brain is filling into an absence of flavor. The heart of “whipped cream” is there - it’s smooth and sweet and fluffy, with some dairy taste and teensy hint of vanilla, but it’s light and not very thick, without any richness to it at all.
 
 I really liked this [Raincoat](https://alltheflavors.com/recipes/67279#raincoat_by_jigsaw314) recipe years ago, but I don’t remember whether I love it enough to keep FW Whipped Cream to make more. Need a refresher course. **TASK 14**
 
@@ -135,7 +135,7 @@ And this [Car-Nilla Custard Cake](https://alltheflavors.com/recipes/294242#car_n
 
 **White Chocolate**
 
-Imperfect, but workable. There’s something a little bakery-esque and borderline cardboardy at the start of the exhale that throws it off profile a bit. At higher concentrations than around 4%, it even gets a little raisin-y. There’s also a bit of chalkiness in the finish. But the 80% in the middle gets it done; smooth, dense, heavy, thick, buttery, creamy, hint of vanilla and authentic cocoa butter.  I’m still on the lookout for an even better white chocolate option, but until I find it, a FW White Chocolate and FLV White Chocolate combo works pretty well.
+Imperfect, but workable. There’s something a little bakery-esque and borderline cardboardy at the start of the exhale that throws it off profile a bit. At higher concentrations than around 4%, it even gets a little raisin-y. There’s also a bit of chalkiness in the finish. But the 80% in the middle gets it done; smooth, dense, heavy, thick, buttery, creamy, hint of vanilla and authentic cocoa butter. I’m still on the lookout for an even better white chocolate option, but until I find it, a FW White Chocolate and FLV White Chocolate combo works pretty well.
 
 I need it for [GTKK 2019](https://alltheflavors.com/recipes/136863#gtkk_2019_by_id10_t), at least until I find a better white chocolate and create a better green tea kit kat. The original sounds pretty good right now, though. **TASK 19**
 
@@ -157,7 +157,7 @@ It vapes really smooth, especially for a slightly tangy flavor, but also tastes 
 
 **Wildberry Cobbler**
 
-Also sold as Wildberry Cobbler a la mode. I don’t know what that “a la mode” business is about, it doesn’t taste like there’s any ice cream there, but otherwise, pretty damn legit... Warm, dark, sweet, jammy cooked mixed berries that mostly taste like a combination of blackberries and strawberries up front and later in the exhale, a soft and somewhat doughy bakery. No floral or medicinal notes. It’s well rounded and a solid as a single flavor so I’m not sure what to do with it, because toss in some spice (cardamom comes to mind first, maybe cinnamon)  or of course some whipped cream or ice cream (though that might require adding some more bakery - like CAP Sugar Cookie - to boost the relatively light and soft bakery flavor here).  Bakery is just a bit buttery. Very smooth compared to many other mixed berry flavors.  
+Also sold as Wildberry Cobbler a la mode. I don’t know what that “a la mode” business is about, it doesn’t taste like there’s any ice cream there, but otherwise, pretty damn legit... Warm, dark, sweet, jammy cooked mixed berries that mostly taste like a combination of blackberries and strawberries up front and later in the exhale, a soft and somewhat doughy bakery. No floral or medicinal notes. It’s well rounded and a solid as a single flavor so I’m not sure what to do with it, because toss in some spice (cardamom comes to mind first, maybe cinnamon) or of course some whipped cream or ice cream (though that might require adding some more bakery - like CAP Sugar Cookie - to boost the relatively light and soft bakery flavor here). Bakery is just a bit buttery. Very smooth compared to many other mixed berry flavors.
 
 I need it for the Crumberry Cream mentioned above under FW VBIC, but oh my goodness, the things people have done with this one look so good.
 
@@ -168,24 +168,24 @@ For example:
 [Bleeding Berry Cobbler](https://alltheflavors.com/recipes/66359#bleeding_berry_cobbler_by_tamvapes) **TASK 25**
 
 [Mixed Berry Crumble Tart](https://alltheflavors.com/recipes/218646#mixed_berry_crumble_tart_by_sensory_overload) **TASK 26**
-  
+
 **Wine Blush Chablis**
 
 It’s a little light, not a flavor that really slaps, probably needs to try higher, but I’ll be damned if it doesn’t really taste just like a nice pink wine, like a white zen or rose. Very sweet but a little boozy, just unmistakably tastes like it’s supposed to.
-  
+
 I’m going to try to make a froze rose vape out of it.
 
 1-2-3 Froze Rose **TASK 27**
 
-Co. | Flavor | %
----|---|----
-FW| Wine Blush Chablis | 3
-FW  | Pink Bubbly | 2
-BCF | WS-23 (30%) | 1
+| Co. | Flavor             | %   |
+| --- | ------------------ | --- |
+| FW  | Wine Blush Chablis | 3   |
+| FW  | Pink Bubbly        | 2   |
+| BCF | WS-23 (30%)        | 1   |
 
 **Wine Merlot**
 
-A little gross. It’s dark and grapey and very sweet berry notes and a deep, almost rich base, and mostly tastes like it should, it has some of that same yeasty thing going on. Like there’s a bit of FA Joy in there.. It’s not strong, but it lingers in the aftertaste and just ruins it. Also it apparently contains some sugar syrup, so I’m glad it’s not good.  **TRASH 10**  
+A little gross. It’s dark and grapey and very sweet berry notes and a deep, almost rich base, and mostly tastes like it should, it has some of that same yeasty thing going on. Like there’s a bit of FA Joy in there.. It’s not strong, but it lingers in the aftertaste and just ruins it. Also it apparently contains some sugar syrup, so I’m glad it’s not good. **TRASH 10**
 
 **Wine Red**
 
@@ -193,7 +193,7 @@ I did not find it unpleasant at all, but it is deeply weird. It tastes like some
 
 **Wine White**
 
-Sweet white grape with a side of yeast. Genuinely fermented, but more beer-ish than wine-like. Maybe homemade white toilet wine, made from bread and Welch's white grape.  It’s a little gross. **TRASH 12**  
+Sweet white grape with a side of yeast. Genuinely fermented, but more beer-ish than wine-like. Maybe homemade white toilet wine, made from bread and Welch's white grape. It’s a little gross. **TRASH 12**
 
 **Yellow Cake**
 

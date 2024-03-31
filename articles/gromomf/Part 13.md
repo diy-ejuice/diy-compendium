@@ -9,7 +9,7 @@ Starting Flavor Count: 2,805 (Down from 2,975 originally)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-# Capella
+## Capella
 
 **Blackberry**
 
@@ -17,18 +17,18 @@ Update. I gave CAP Blackberry one recipe to convince me to keep it, and [French 
 
 Dark and Deep Frenchie V1 **TASK 1**
 
-Co. | Flavor | %
----|---|----
-VT | Croissant | 3
-WF | Croissant | 2
-CAP | Sugar Cookie | 1
-VT | Bilberry Ripe | 1.5
-FLV | Jammy Berry | 1
-FW | Sweetener | 0.25
+| Co. | Flavor        | %    |
+| --- | ------------- | ---- |
+| VT  | Croissant     | 3    |
+| WF  | Croissant     | 2    |
+| CAP | Sugar Cookie  | 1    |
+| VT  | Bilberry Ripe | 1.5  |
+| FLV | Jammy Berry   | 1    |
+| FW  | Sweetener     | 0.25 |
 
 I’m not expecting the first version to make me happier than French Mornings, but it should tell me if I’m headed in the right direction or if I should just give up and keep CAP Blackberry.
 
-# Chemnovatic
+## Chemnovatic
 
 Oops, I left off a couple of these last week.
 
@@ -46,19 +46,19 @@ A sample at 3% tasted super gross, but I have to note that I’ve been told to t
 
 When it comes to Donut flavors, I really like Wonder Flavours version. It’s not perfect, but it’s going to be hard to beat.
 
-I don’t want to try CNV Donut much lower yet, maybe I will later, but first this recipe: [Kenpachi Zaraki](https://alltheflavors.com/recipes/276362#kenpachi_zaraki_by_wolfwheeler). If I like it at all, I’ll revisit CNV Donut, if I don’t, I’m just going to toss it.  **TASK 5**
+I don’t want to try CNV Donut much lower yet, maybe I will later, but first this recipe: [Kenpachi Zaraki](https://alltheflavors.com/recipes/276362#kenpachi_zaraki_by_wolfwheeler). If I like it at all, I’ll revisit CNV Donut, if I don’t, I’m just going to toss it. **TASK 5**
 
-# Club der Dampfer
+## Club der Dampfer
 
 My German friend Felix sent me quite a few bottles of flavors from this German flavor company. Danke, Felix.
 
 **Ahornsirup**
 
-Maple syrup.  Mostly tastes like maple syrup mixed with honey, which is a thing you can buy at the store if you want. But unfortunately, with that honey taste, comes the awful honey “cat pee” off note. I might mention that it also has that hay-like grassy note that you get from some tobaccos, but without the rest of the tobacco taste, for whatever reason. So basically it’s a mess, and not very good, I would avoid it. **TRASH 1**
+Maple syrup. Mostly tastes like maple syrup mixed with honey, which is a thing you can buy at the store if you want. But unfortunately, with that honey taste, comes the awful honey “cat pee” off note. I might mention that it also has that hay-like grassy note that you get from some tobaccos, but without the rest of the tobacco taste, for whatever reason. So basically it’s a mess, and not very good, I would avoid it. **TRASH 1**
 
 **Apfelkuchen**
 
-Apple Cake? Nope. That’s weird. There’s some cinnamon apple in there, but it’s also weirdly boozy and even more weirdly, chocolatey. Also has a slight butyric sour note.It’s like mixing a shot of apple pie vodka with chocolate milk only the milk has gone off.  I don’t know what the hell kind of apple pie this is supposed to be, but it’s wrong. Just all terribly wrong and badly fucked up. **TRASH 2**
+Apple Cake? Nope. That’s weird. There’s some cinnamon apple in there, but it’s also weirdly boozy and even more weirdly, chocolatey. Also has a slight butyric sour note.It’s like mixing a shot of apple pie vodka with chocolate milk only the milk has gone off. I don’t know what the hell kind of apple pie this is supposed to be, but it’s wrong. Just all terribly wrong and badly fucked up. **TRASH 2**
 
 **Aprikose**
 
@@ -70,11 +70,11 @@ This is another one where what’s wrong with it is, that’s just not what cran
 
 **Dattel**
 
-Date. This flavor has a very nice authentic dry-ish and just musty enough sweet date body and finish. Maybe a little fermented-tasting but overall really solid. However the top notes are a bit gnarly. It has a strange warmth to it, like a warm spice without the spice, and comes across a bit medicinal because of the way it combines with the kinda grape-like fruit up front. Like how sometimes medicine feels warm going down. Not quite the same as boozy but very similar, a warming grape medicine top note.  I bet if you wanted to mix date with spice, CdD Date would do very nicely. Cinnamon, clove, ginger, nutmeg - any of those might fix that by giving the disembodied warmth a recognizable spice to attach itself too. Otherwise seems like it would be a struggle to tame that in a workable way. **TRASH 4**
+Date. This flavor has a very nice authentic dry-ish and just musty enough sweet date body and finish. Maybe a little fermented-tasting but overall really solid. However the top notes are a bit gnarly. It has a strange warmth to it, like a warm spice without the spice, and comes across a bit medicinal because of the way it combines with the kinda grape-like fruit up front. Like how sometimes medicine feels warm going down. Not quite the same as boozy but very similar, a warming grape medicine top note. I bet if you wanted to mix date with spice, CdD Date would do very nicely. Cinnamon, clove, ginger, nutmeg - any of those might fix that by giving the disembodied warmth a recognizable spice to attach itself too. Otherwise seems like it would be a struggle to tame that in a workable way. **TRASH 4**
 
 **Dunkle Pflaume**
 
-Dark Plum. Nearly unvapeable at the recommended 2.5%, but maybe better lower.  At 2.5%, there’s just so much wrong with it. The off notes are diverse and intense. It’s perfumy, medicinal, a little plasticky, and has a weird warm spice like potpourri, AND it has something like a green banana note, not the full banana, but just the part that makes it still green and not great to eat.. I’m sure it’s at least a little better at a lower concentration, some of these off notes are bound to disappear or at least be less intense, but don’t care to bother with it and because it’s probably still not great. Underneath all the nonsense in CDd Dunkle Pflume there’s a dark cherry mixed with peach plum-like flavor with a powdered sugar type of sweetness. More of that would be great, but it’s just such a mess.  **TRASH 5**
+Dark Plum. Nearly unvapeable at the recommended 2.5%, but maybe better lower. At 2.5%, there’s just so much wrong with it. The off notes are diverse and intense. It’s perfumy, medicinal, a little plasticky, and has a weird warm spice like potpourri, AND it has something like a green banana note, not the full banana, but just the part that makes it still green and not great to eat.. I’m sure it’s at least a little better at a lower concentration, some of these off notes are bound to disappear or at least be less intense, but don’t care to bother with it and because it’s probably still not great. Underneath all the nonsense in CDd Dunkle Pflume there’s a dark cherry mixed with peach plum-like flavor with a powdered sugar type of sweetness. More of that would be great, but it’s just such a mess. **TRASH 5**
 
 **French Toast**
 
@@ -84,7 +84,7 @@ I don’t think I’ve tried this one yet. I’ll mix a sample at 2%. **TASK 7**
 
 Solid natural grapefruit, little zestier and harsher/citrus throaty than I’d like it to be but full-flavored and without glaring off notes. Only slightly pinkish, not a fully white or ruby red grapefruit. Also a bit top heavy. I’m going to toss it even though it’s not bad, because I don’t see a recipe for it and don’t feel inspired to make one when I could just as easily use FW Ruby Red Grapefruit, FLV Pink Guava, MF Grapefruit, VT, SSA, FA, a couple of INWs. So many grapefruits I don’t have to ask Felix to send more of. **TRASH 6**
 
- **Honig**
+**Honig**
 
 Honey. Horrendous cat piss room note, not nearly as bad to vape as the smell that clings to a room would have you think, but still pretty nasty. Very sweet and syrupy, but enough of that cat pee flavor coming though to make it sickening. Not extremely floral, but the bit of flower flavor that’s there tastes more like chrysanthum than clover or rose, which is kind of interesting. It tastes like it might work as a honey accent at a dilution level, maybe. But this 0.25% at steeping for a week and half is still very strong and very bad. **TRASH 7**
 
@@ -96,14 +96,14 @@ I was of two minds on this one. Despite being impressed by it, I really don’t 
 
 Kaktusfeige Soda V1 **TASK 8**
 
-Co.| Flavor| %
----|---|----
-CdD | Kaktusfeige| 2
-CAP| Lemon Lime | 3
-VT | Fizzy Sherbet | 2
-INW | Prickly Pear | 1
-BCF | WS-23 (30%) | 0.25
-CAP | Super Sweet | 0.25
+| Co. | Flavor        | %    |
+| --- | ------------- | ---- |
+| CdD | Kaktusfeige   | 2    |
+| CAP | Lemon Lime    | 3    |
+| VT  | Fizzy Sherbet | 2    |
+| INW | Prickly Pear  | 1    |
+| BCF | WS-23 (30%)   | 0.25 |
+| CAP | Super Sweet   | 0.25 |
 
 **Kasekuchen**
 
@@ -115,18 +115,18 @@ Tastes like lemon lime kiwi. Tart, green strawberry-ish kiwi top note, but I als
 
 Kiwi Soda V1 **TASK 9**
 
-Co. | Flavor | %
----|---|----
-CdD | Kiwi Gold | 2
-FW | Kiwi | 3
-FLV | Citrus Soda | 1.25
-BCF | WS-23 (30%) | 0.5
+| Co. | Flavor      | %    |
+| --- | ----------- | ---- |
+| CdD | Kiwi Gold   | 2    |
+| FW  | Kiwi        | 3    |
+| FLV | Citrus Soda | 1.25 |
+| BCF | WS-23 (30%) | 0.5  |
 
 It’s basically using Bert’s Soda Base, shout out Staybert, the soda guy, but I think the Kiwi Gold lemon aspect means I don’t need the CAP Lemon Lime that’s in Bert’s Soda Base.
 
 **Lakritz**
 
-Licorice. Tastes like herbal, European-style licorice, complex, not that flat black American Twizzler or Jelly Bean. Sweet, molassesesy, but a little lighter than that really dark black molasses. Problem: They’ve added some menthol-type cooling to it. And I get that licorice is a cool spice, but not like this. And it’s really light, so it seems like people who want some menthol with their licorice will want more of it than this, and people who don’t want any menthol with their licorice will hate it, so what’s it even good for?  It’s good for the **TRASH 9**, IMO.
+Licorice. Tastes like herbal, European-style licorice, complex, not that flat black American Twizzler or Jelly Bean. Sweet, molassesesy, but a little lighter than that really dark black molasses. Problem: They’ve added some menthol-type cooling to it. And I get that licorice is a cool spice, but not like this. And it’s really light, so it seems like people who want some menthol with their licorice will want more of it than this, and people who don’t want any menthol with their licorice will hate it, so what’s it even good for? It’s good for the **TRASH 9**, IMO.
 
 **Mango**
 
@@ -140,25 +140,25 @@ There are a couple of recipes on ELR I checked out. One of them is just mixing a
 
 Chilled Mango V1 **TASK 10**
 
-Co. | Flavor| %
----|---|----
-CdD | Mango | 2.75
-BCF | WS-23 (30%) | 0.25
-FW | Sweetener | 0.25
+| Co. | Flavor      | %    |
+| --- | ----------- | ---- |
+| CdD | Mango       | 2.75 |
+| BCF | WS-23 (30%) | 0.25 |
+| FW  | Sweetener   | 0.25 |
 
 Another ELR recipe is called “Mango de’ Merda” and if the word “Merda” looks vaguely familiar to you, well... CdD apparently has a flavor that’s supposed to taste like LITERAL SHIT. CdD Kuhmist. It means “cow dung.”
 
-What the fuck?!  If I wanted to relive my elementary school field trips to the Fort Worth Stock Show & Rodeo I’d just go to the Fort Worth Stockyards. I’m not vaping cow dung flavor, what the actual fuckity Cleveland steamin fuck?!! You scheiß porno-watching bastards have gone entirely too far this time.
+What the fuck?! If I wanted to relive my elementary school field trips to the Fort Worth Stock Show & Rodeo I’d just go to the Fort Worth Stockyards. I’m not vaping cow dung flavor, what the actual fuckity Cleveland steamin fuck?!! You scheiß porno-watching bastards have gone entirely too far this time.
 
-Although, it’s just a three-ingredient recipe and the other ingredient besides mango and FUCKING FECES is TFA Bav Cream and you know, a very simple mango cream made hat way sounds pretty good, minus the BOVINE BUTT JUICE of course.  
+Although, it’s just a three-ingredient recipe and the other ingredient besides mango and FUCKING FECES is TFA Bav Cream and you know, a very simple mango cream made hat way sounds pretty good, minus the BOVINE BUTT JUICE of course.
 
 No Shit Mango Cream V1 **TASK 11**
 
-Co. | Flavor| %
----|---|----
-CdD | Mango | 3
-TFA | Bavarian Cream| 3
-TFA | Vanilla Swirl | 2
+| Co. | Flavor         | %   |
+| --- | -------------- | --- |
+| CdD | Mango          | 3   |
+| TFA | Bavarian Cream | 3   |
+| TFA | Vanilla Swirl  | 2   |
 
 **Maracuja**
 
@@ -178,7 +178,7 @@ Pistachio. Have not tried. Will mix a 2% sample. **TASK 13**
 
 **Rose**
 
-Pretty intensely rose, also very sweet, a little tart, but not lemony. It’s a bit like just putting sugar and powdered citric acid on a fresh, raw rose and shoving the whole thing in your mouth. Has a strong depth of flavor with a lot of mid-range and lower notes, and not so much of that grandma perfume top note. It’s more tart than perfumey. Also a little green and vegetal underneath that, like you got a bit of stem and a petal or two in there as well, but not a darker earthiness like FA Rose has that tastes a little like poop. The greenness might be covered up in a mix, and this might be a good rose flavor for a sweeter application for someone looking for a more intense rose for whatever reason. When it comes to vaping rose flavors, this is number 2 for me behind FLV Rose Essence. And do I really need multiple rose flavors? No, I don’t think I do. **TRASH 12**  
+Pretty intensely rose, also very sweet, a little tart, but not lemony. It’s a bit like just putting sugar and powdered citric acid on a fresh, raw rose and shoving the whole thing in your mouth. Has a strong depth of flavor with a lot of mid-range and lower notes, and not so much of that grandma perfume top note. It’s more tart than perfumey. Also a little green and vegetal underneath that, like you got a bit of stem and a petal or two in there as well, but not a darker earthiness like FA Rose has that tastes a little like poop. The greenness might be covered up in a mix, and this might be a good rose flavor for a sweeter application for someone looking for a more intense rose for whatever reason. When it comes to vaping rose flavors, this is number 2 for me behind FLV Rose Essence. And do I really need multiple rose flavors? No, I don’t think I do. **TRASH 12**
 
 **Salatgurke**
 
@@ -190,7 +190,7 @@ Sour Lime is the translation but not only is it not at all sour, it’s not even
 
 **Schlagsahne**
 
-Whipped Cream. Not super terrible, but it has an overly sour taste. Like slightly spoiled whipped cream. Like a whipped cream bikini that’s been on too long before being licked off. More like yogurt than whipped cream, really, it kind of tastes like a very sweetened vanilla yogurt, that sourness is a bit yogurty, except there’s also a mild buttery element to it and I can’t say I’ve had a yogurt this buttery. I dunno about you, but I lick whipped cream bikinis off fast, long before they have a chance to turn yogurty. **TRASH 15**  
+Whipped Cream. Not super terrible, but it has an overly sour taste. Like slightly spoiled whipped cream. Like a whipped cream bikini that’s been on too long before being licked off. More like yogurt than whipped cream, really, it kind of tastes like a very sweetened vanilla yogurt, that sourness is a bit yogurty, except there’s also a mild buttery element to it and I can’t say I’ve had a yogurt this buttery. I dunno about you, but I lick whipped cream bikinis off fast, long before they have a chance to turn yogurty. **TRASH 15**
 
 **Tabak No. 1**
 
@@ -198,13 +198,13 @@ Described as a sweet, strong tobacco to me. Not entirely a dessert tobacco by it
 
 Cherry Bourbon RY4 V1 **TASK 14**
 
-Co. | Flavor | %
----|---|----
-CdD | Tabak No. 1 | 2
-TFA | Cherry Extract | 3
-FLV | Bourbon | 1
-INW  | Marzipan | 1
-CAP | French Vanilla| 2
+| Co. | Flavor         | %   |
+| --- | -------------- | --- |
+| CdD | Tabak No. 1    | 2   |
+| TFA | Cherry Extract | 3   |
+| FLV | Bourbon        | 1   |
+| INW | Marzipan       | 1   |
+| CAP | French Vanilla | 2   |
 
 **Tabak No. 178**
 
@@ -212,28 +212,28 @@ This was described to me as “mild burley tobacco.” I don’t know how accura
 
 Almond Bacco V1 **TASK 15**
 
-Co. | Flavor | %
----|---|----
-CdD | Tabak No. 178 | 2.25
-FLV | Native Tobacco | 1
-FLV | Red Burley | 0.25
-FA | Almond | 2
-WF | Almond Cookie| 2
+| Co. | Flavor         | %    |
+| --- | -------------- | ---- |
+| CdD | Tabak No. 178  | 2.25 |
+| FLV | Native Tobacco | 1    |
+| FLV | Red Burley     | 0.25 |
+| FA  | Almond         | 2    |
+| WF  | Almond Cookie  | 2    |
 
 **Tabak No. 245**
 
-This was described as a sweet, strong tobacco to me. It’s a realistic tobacco flavor that’s bright and grassy like hay, but not too bright, not too dry, and very sweet. It’s more cigar-type tobacco than pipe or cigarette tobacco, like one of those sweet flavored cigars but with just the sweetness and not whatever the flavor is. Full-bodied and it doesn’t have any weird off notes. On par with the best tobaccos from INW and FLV. It’s just sweet tobacco, I’m not getting much of anything extra added to it other than increased sweetness, probably more than you want from a tobacco that’s not being used for some kind of dessert tobacco recipe. That extra sweetness isn’t clearly anything but has a creamy, butterscotch-ish quality to it.  
+This was described as a sweet, strong tobacco to me. It’s a realistic tobacco flavor that’s bright and grassy like hay, but not too bright, not too dry, and very sweet. It’s more cigar-type tobacco than pipe or cigarette tobacco, like one of those sweet flavored cigars but with just the sweetness and not whatever the flavor is. Full-bodied and it doesn’t have any weird off notes. On par with the best tobaccos from INW and FLV. It’s just sweet tobacco, I’m not getting much of anything extra added to it other than increased sweetness, probably more than you want from a tobacco that’s not being used for some kind of dessert tobacco recipe. That extra sweetness isn’t clearly anything but has a creamy, butterscotch-ish quality to it.
 
 Watch me just lean into those cigar-ish and butterscotch-ish qualities.
 
 Butterscotch Cigar V1 **TASK 16**
 
-Co. | Flavor | %
----|---|----
-CdD | Tabak No. 245 | 2.5
-FW| Butterscotch | 4
-FLV | Cured Tobacco | 0.75
-FLV | Connecticut Shade | 0.15
+| Co. | Flavor            | %    |
+| --- | ----------------- | ---- |
+| CdD | Tabak No. 245     | 2.5  |
+| FW  | Butterscotch      | 4    |
+| FLV | Cured Tobacco     | 0.75 |
+| FLV | Connecticut Shade | 0.15 |
 
 **Tabak No. 30**
 
@@ -257,4 +257,4 @@ Wood mint? Um, ok. I’ll give it a try finally, at 2% I guess. **TASK 21**
 
 That’s it for now. Next up: Decadent Vapours.
 
-New Flavor Count:  2,790
+New Flavor Count: 2,790

@@ -7,9 +7,9 @@ date: '2022-09-30'
 
 Starting Flavor Count: 2,879 (Down from 2,975 Originally)
 
-TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.  
+TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-# CAPELLA
+## CAPELLA
 
 **Apple Pie**
 
@@ -19,15 +19,15 @@ Update. I really liked [42nd Bourbon](https://alltheflavors.com/recipes/30130#42
 
 Update. I just made [an easy little recipe](https://alltheflavors.com/recipes/290169#4321_apple_pie_bourbon_by_id10_t) out of this! Success! And when it runs out, I think I would like to make some more. CAP Apple Pie V2 is sticking around for at least until I don’t have any more of it (might not be worth replacing).
 
-In the meantime, I’ll try someone else’s recipe with it.  
+In the meantime, I’ll try someone else’s recipe with it.
 
 [Apple Pie A La Mode V1](https://alltheflavors.com/recipes/223190#apple_pie_ala_mode_v1_by_alch3m1st) **TASK 1**
 
 **Sweet Blend**
 
-CAP calls it  “A delightful fruity blend with notes of cherry, berries, pineapple and a smooth anise eucalyptus finish.” I did not get exactly that.  Tastes like horehound cough drops or a combination of anise and light menthol, mixed with tart berries and simple syrup. I don’t get the eucalyptus finish they’re talking about, but maybe I’m taking the word “finish” too literally. What I get is menthol up front, with a strong hit of anise, then tart berry syrup. Does a warm and cool thing at first with the menthol and warm spice. Sweetness builds and it has a very sweet finish. It tastes very European.
+CAP calls it “A delightful fruity blend with notes of cherry, berries, pineapple and a smooth anise eucalyptus finish.” I did not get exactly that. Tastes like horehound cough drops or a combination of anise and light menthol, mixed with tart berries and simple syrup. I don’t get the eucalyptus finish they’re talking about, but maybe I’m taking the word “finish” too literally. What I get is menthol up front, with a strong hit of anise, then tart berry syrup. Does a warm and cool thing at first with the menthol and warm spice. Sweetness builds and it has a very sweet finish. It tastes very European.
 
-It pretty much tastes like adding CAP Anise and light touch of menthol to FW Beetle Juice. Which is why I’m inclined to **TRASH 2** it. If I wanted a blend of fruits and spices and menthol I would make my own.  
+It pretty much tastes like adding CAP Anise and light touch of menthol to FW Beetle Juice. Which is why I’m inclined to **TRASH 2** it. If I wanted a blend of fruits and spices and menthol I would make my own.
 
 **Sweet Candy**
 
@@ -37,11 +37,11 @@ And might as well try some recipes while I’ve got it out.
 
 [PEZ](https://alltheflavors.com/recipes/221090#pez_developed_by_developed) **TASK 3**
 
-[Peach Slush](https://alltheflavors.com/recipes/162177#peach_slush_developed_by_developed ) **TASK 4**
+[Peach Slush](https://alltheflavors.com/recipes/162177#peach_slush_developed_by_developed) **TASK 4**
 
 **Sweet Cream**
 
-It’s a sweet, creamy, smooth heavy dairy cream that’s just a little buttery. It’s mostly just a very plain sweetened heavy cream. And I’ve always thought it had a strange warmth to it, like slightly heated cream. 2% seems to be the sweet spot for it. 3% starts to get a little waxy and slightly cheesy in a cream cheese or Brie sort of way, but not Parmesan. 6% is way too much, it tastes like putrid margarine. There should be no trouble using this as the main or even only cream in a creamy recipe, but if the result tastes waxy, it might be due to the CAP Sweet Cream.  
+It’s a sweet, creamy, smooth heavy dairy cream that’s just a little buttery. It’s mostly just a very plain sweetened heavy cream. And I’ve always thought it had a strange warmth to it, like slightly heated cream. 2% seems to be the sweet spot for it. 3% starts to get a little waxy and slightly cheesy in a cream cheese or Brie sort of way, but not Parmesan. 6% is way too much, it tastes like putrid margarine. There should be no trouble using this as the main or even only cream in a creamy recipe, but if the result tastes waxy, it might be due to the CAP Sweet Cream.
 
 A super-staple flavor with which I’m in no hurry to part.
 
@@ -53,7 +53,7 @@ And another one of my all-time favorites, [Notorious](https://alltheflavors.com/
 
 **Sweet Currant**
 
-I think this is gonna be a love-it-or-hate-it flavor. Personally, I’m firmly planting my freak flag right in the middle of the love it camp, but there is a deep and abiding funkiness to this flavor that some people are going to hate. Probably the same people who don’t like that bit of funkiness that you get with flavors like FLV Pink Guava. It tastes more red than most of the other purple or mauve currant flavors, like a funky sort of strawberry-cranberry mix, not so grapey.  It’s a really bold, somewhat acidic tart berry flavor, but also has a deep and thick sticky syrupy sweet base, so it’s a well-rounded, encompassing flavor with a lot going on. It’s also nice and juicy, not at all dry for something so tart. 2% looks like it could take over a mix a little bit, but I could see 1% adding interesting accents to just about any fruit, especially strawberry, really any berry. Maybe grape.
+I think this is gonna be a love-it-or-hate-it flavor. Personally, I’m firmly planting my freak flag right in the middle of the love it camp, but there is a deep and abiding funkiness to this flavor that some people are going to hate. Probably the same people who don’t like that bit of funkiness that you get with flavors like FLV Pink Guava. It tastes more red than most of the other purple or mauve currant flavors, like a funky sort of strawberry-cranberry mix, not so grapey. It’s a really bold, somewhat acidic tart berry flavor, but also has a deep and thick sticky syrupy sweet base, so it’s a well-rounded, encompassing flavor with a lot going on. It’s also nice and juicy, not at all dry for something so tart. 2% looks like it could take over a mix a little bit, but I could see 1% adding interesting accents to just about any fruit, especially strawberry, really any berry. Maybe grape.
 
 My favorite Currant flavor!
 
@@ -75,20 +75,20 @@ I personally think [Bare Necessities](https://alltheflavors.com/recipes/26487#ba
 
 Cran-Bare-y Nes-Sprite-ities (name needs some work, a little help here?) **TASK 12**
 
-Co. | Flavor | %
----|---|----
-FA | Pear | 0.75
-FA | Red Summer | 2.25
-CAP | Sweet Guava | 2.5
-FLV | Cranberry | 1
-VT | Fizzy Sherbet | 2
-CAP | Lemon Lime | 3
+| Co. | Flavor        | %    |
+| --- | ------------- | ---- |
+| FA  | Pear          | 0.75 |
+| FA  | Red Summer    | 2.25 |
+| CAP | Sweet Guava   | 2.5  |
+| FLV | Cranberry     | 1    |
+| VT  | Fizzy Sherbet | 2    |
+| CAP | Lemon Lime    | 3    |
 
 I’ve been meaning to try [Rainforest](https://alltheflavors.com/recipes/136775#rainforest_by_rockyharlow) for a long time. **TASK 13**
 
 I would need this for [Counter Punch](https://alltheflavors.com/recipes/154364#counter_punch_by_id10_t) , but here’s the deal, I think WF Hawaiian Punch might have somewhat rendered this recipe obsolete. Recipe was designed to taste like Hawaiian Punch because none of the flavors that were available at the time that were supposed to taste like Hawaiian Punch really did. Then WF comes out with a Hawaiian Punch that tastes just the real deal. Counterpoint: WF Hawaiian Punch is pretty intensely harsh on my poor baby throat.
 
-This seems like as good a time as any to see if one of these recipes that use WF Hawaiian Punch turn out too harsh for me, or whether the other flavors used minimize that somehow. It’s not unheard of for a harsh flavor to be smoothed over by a smooth one.  
+This seems like as good a time as any to see if one of these recipes that use WF Hawaiian Punch turn out too harsh for me, or whether the other flavors used minimize that somehow. It’s not unheard of for a harsh flavor to be smoothed over by a smooth one.
 
 [Hawaiian Blue](https://alltheflavors.com/recipes/280219#hawaiian_blue_by_davidn2kl). Maybe coconut calms it **TASK 14**
 
@@ -118,17 +118,17 @@ Useful and recognizable as a mango but has serious problems. Perfumy inhale and 
 
 I want to chuck this in the garbage, because that is what we do with inferior mangos.
 
-On the other hand, I’m grateful to it for making it possible for me to create some things I wouldn’t have been able to create without it.  FLV Sweet Mango tastes like it was designed to put CAP Sweet Mango out of business and should be successful at that. I’m already working on replacing CAP Sweet Mango in my [Mango Colada](https://alltheflavors.com/recipes/12259#mango_colada_by_id10_t), [Spicy Icy](https://alltheflavors.com/recipes/116249#spicy_icy_chamoyada_mangonada_by_id10_t), and [Mango Tango](https://alltheflavors.com/recipes/29425#mango_tango_by_id10_t) recipes with FLV Sweet Mango and/or other mango flavors like FLV Ripe Mango and FA Indian Mango. It’s safe from being tossed out until those efforts come to fruition. In the meantime, I would also like to know I can make a great Mango Ice Cream without it. I’ll start fairly simple and see where that leads.
+On the other hand, I’m grateful to it for making it possible for me to create some things I wouldn’t have been able to create without it. FLV Sweet Mango tastes like it was designed to put CAP Sweet Mango out of business and should be successful at that. I’m already working on replacing CAP Sweet Mango in my [Mango Colada](https://alltheflavors.com/recipes/12259#mango_colada_by_id10_t), [Spicy Icy](https://alltheflavors.com/recipes/116249#spicy_icy_chamoyada_mangonada_by_id10_t), and [Mango Tango](https://alltheflavors.com/recipes/29425#mango_tango_by_id10_t) recipes with FLV Sweet Mango and/or other mango flavors like FLV Ripe Mango and FA Indian Mango. It’s safe from being tossed out until those efforts come to fruition. In the meantime, I would also like to know I can make a great Mango Ice Cream without it. I’ll start fairly simple and see where that leads.
 
 Mango Ice Cream V1 **TASK 21**
 
-Co. | Flavor | %
----|---|----
-WF | Vanilla Ice Cream | 3
-TFA | Vanilla Swirl | 2
-SSA | Ice Cream Vanilla | 1
-FLV | Sweet Mango | 2
-FLV | Mango | 1
+| Co. | Flavor            | %   |
+| --- | ----------------- | --- |
+| WF  | Vanilla Ice Cream | 3   |
+| TFA | Vanilla Swirl     | 2   |
+| SSA | Ice Cream Vanilla | 1   |
+| FLV | Sweet Mango       | 2   |
+| FLV | Mango             | 1   |
 
 Might come back later with some FA Violet and try to make that a purple mango.
 
@@ -136,17 +136,17 @@ And I would also like a Banana-Papaya-Mango recipe reminiscent of Philosopher’
 
 1-2-3 Bamanaya V1 **TASK 22**
 
-Co. | Flavor | %
----|---|----
-TFA | Papaya | 1
-FLV | Ripe Mango | 2
-VT | Banana Custard | 3
+| Co. | Flavor         | %   |
+| --- | -------------- | --- |
+| TFA | Papaya         | 1   |
+| FLV | Ripe Mango     | 2   |
+| VT  | Banana Custard | 3   |
 
 Notice neither of my CAP Sweet Mango tasks involve actually using CAP Sweet Mango. This flavor very much has one foot out the door.
 
 **Sweet Strawberry**
 
-I find it needs a short steep. Can’t really shake and vape it. I get kind of a chemically off note from it and a little harshness until it steeps for a day or three.  After it steeps, no chemically note or any harshness at all. Very sweet and unapologetically artificial, with some tartness to it, like a melted strawberry jolly rancher, but duller than that. Some depth to that sweet-tart dichotomy but no other complexity to it, just a plain strawberry candy flavor.  
+I find it needs a short steep. Can’t really shake and vape it. I get kind of a chemically off note from it and a little harshness until it steeps for a day or three. After it steeps, no chemically note or any harshness at all. Very sweet and unapologetically artificial, with some tartness to it, like a melted strawberry jolly rancher, but duller than that. Some depth to that sweet-tart dichotomy but no other complexity to it, just a plain strawberry candy flavor.  
 ATF has like 600 recipes with this stuff in it. But there are so many better strawberries now, and I can’t think of a recipe I need it for. Grack Juice was a wild ride but I’ve been on that roller coaster a few times and don’t feel a great need to stand in line for it again.
 There are just a couple I think I’d better try before I go tossing it, but after this, I’m only keeping it if I simply cannot live without one of these three recipes.
 
@@ -160,7 +160,7 @@ There are just a couple I think I’d better try before I go tossing it, but aft
 
 Sweet, syrupy versatile vibrant sharp tangerine flavor. Very candied and artificial, think tangerine lollipop, not so much inherently juicy as mouthwatering like candy. People say it tastes like Tang but I think it’s way more specifically tangerine than that, but maybe some other tangerine drink mix would be accurate. After it’s mixed, not the powder. It’s not powdery at all. Also has some mild throat hit as is typical for citrus.
 I require it to make [Titanic](https://alltheflavors.com/recipes/48608#titanic_by_id10_t), [In A Godda Da Vida](https://alltheflavors.com/recipes/26946#in_a_godda_da_vida_by_mlnikon), and my tribute to In A Godda Da Vida, [Goddaron](https://alltheflavors.com/recipes/95356#goddaron_by_id10_t). Mmmm Goddaron sounds really good right now, I’m going to mix some of that up. **TASK 26**
-  
+
 I turned 11 in 1990 so I’m also really interested in this [Sharkleberry Fin](https://alltheflavors.com/recipes/92070#sharkleberry_fin_by_gachatay) recipe. **TASK 27**
 
 **Sweet Tea**
@@ -191,7 +191,7 @@ And here goes Emily making me get into the FW Yellow Cake again: [Almond Pound C
 
 **Tropical Fruit Punch**
 
-It’s about 25% sweet red Hawaiian Punch and 75% new vinyl shower curtain. Someone at CAP is somehow immune to evil cherry nightmare bullshit plastic off note or they never would have put out this or their apocalyptic Grenadine disaster. There’s really no sense even talking about what this does well, but it has a juicy beverage feel and that sweet soft artificial pineapple and red candy guava upfront and really tastes like Hawaiian punch for a second... and then the cherry plastic hits, and it hits hard. **TRASH 7**  
+It’s about 25% sweet red Hawaiian Punch and 75% new vinyl shower curtain. Someone at CAP is somehow immune to evil cherry nightmare bullshit plastic off note or they never would have put out this or their apocalyptic Grenadine disaster. There’s really no sense even talking about what this does well, but it has a juicy beverage feel and that sweet soft artificial pineapple and red candy guava upfront and really tastes like Hawaiian punch for a second... and then the cherry plastic hits, and it hits hard. **TRASH 7**
 
 **Vanilla Bean Ice Cream**
 
@@ -207,30 +207,30 @@ I would also need it if I wanted to mix more [Swashbuckle Shake](https://allthef
 
 Swashbuckle Up V1 **TASK 32**
 
-Co. | Flavor | %
----|---|----
-CAP | Milkshake | 4
-WF | Vanilla Ice Cream | 3
-TFA | Vanilla Swirl | 2
-SSA | Ice Cream Vanilla | 1
-TFA | Coconut Candy | 2
-FA | Jamaican Rum | 2
+| Co. | Flavor            | %   |
+| --- | ----------------- | --- |
+| CAP | Milkshake         | 4   |
+| WF  | Vanilla Ice Cream | 3   |
+| TFA | Vanilla Swirl     | 2   |
+| SSA | Ice Cream Vanilla | 1   |
+| TFA | Coconut Candy     | 2   |
+| FA  | Jamaican Rum      | 2   |
 
-I could maybe use WF Coconut Rum instead of the two flavors for coconut rum, but TFA Coconut Candy is so sweet I think this might not need sweetener (it probably would with WF Coconut Rum), and FA Jamaican Rum tastes like a higher quality rum, not straight-up Parrot Bay like WF Coconut Rum. Although, it is possible that the malty aspect of CAP Milkshake would create the impression of a better rum. Shit. I’d better give that a try.  
+I could maybe use WF Coconut Rum instead of the two flavors for coconut rum, but TFA Coconut Candy is so sweet I think this might not need sweetener (it probably would with WF Coconut Rum), and FA Jamaican Rum tastes like a higher quality rum, not straight-up Parrot Bay like WF Coconut Rum. Although, it is possible that the malty aspect of CAP Milkshake would create the impression of a better rum. Shit. I’d better give that a try.
 
 Swashbuckle Up V2 **TASK 33**
 
-Co. | Flavor | %
----|---|----
-CAP | Milkshake | 4
-WF | Vanilla Ice Cream | 3
-TFA | Vanilla Swirl | 2
-SSA | Ice Cream Vanilla | 1
-WF | Coconut Rum | 3
+| Co. | Flavor            | %   |
+| --- | ----------------- | --- |
+| CAP | Milkshake         | 4   |
+| WF  | Vanilla Ice Cream | 3   |
+| TFA | Vanilla Swirl     | 2   |
+| SSA | Ice Cream Vanilla | 1   |
+| WF  | Coconut Rum       | 3   |
 
 **Vanilla Cupcake**
 
-Under-sweetened commercial French Vanilla frosting. There’s a tub of French Vanilla frosting in the bakery aisle of my local grocery store that tastes similar to this, but sweeter. It IS sweet, just not as sweet as eating frosting with a spoon. It has that oily thick feel of mass-produced frosting made with soybean oil under that vanilla. There’s something in there that might be a hint of white cake but it’s almost entirely just frosting.  
+Under-sweetened commercial French Vanilla frosting. There’s a tub of French Vanilla frosting in the bakery aisle of my local grocery store that tastes similar to this, but sweeter. It IS sweet, just not as sweet as eating frosting with a spoon. It has that oily thick feel of mass-produced frosting made with soybean oil under that vanilla. There’s something in there that might be a hint of white cake but it’s almost entirely just frosting.
 
 Pretty innocuous flavor. Not offensive at all. It probably used to be the best option for any kind of frosting but we have many more now. All that matters to me is, is there a recipe I need it for? Maybe. I’ll try one and see.
 
@@ -238,7 +238,7 @@ Pretty innocuous flavor. Not offensive at all. It probably used to be the best o
 
 **Vanilla Cupcake V2**
 
-I don’t get any barfy notes from it. I don’t think they took out the dikey tones and replaced it with puke. I think they just took them, and also changed the vanilla. It’s still almost entirely frosting, but it’s a very bright, deeply saturated, and blatantly artificial vanilla with a creamy but slightly dry frosting flavor. Vanilla is almost obnoxious here. It’s dense and sweet but not greasy or very buttery. A little undersweet for frosting, but sweet.Underneath that there’s some white cakey flavor, more than V1, but it’s very light. I give this one an edge over V1 just because of how much of a vibrant punch that vanilla has and how it’s a little more cakey, even though it’s still almost all frosting. It’s just that between CAP Frosting, FLV Frosting, WF and VT butter cream frostings, I just don’t feel like I need this. I will give one recipe a try.  
+I don’t get any barfy notes from it. I don’t think they took out the dikey tones and replaced it with puke. I think they just took them, and also changed the vanilla. It’s still almost entirely frosting, but it’s a very bright, deeply saturated, and blatantly artificial vanilla with a creamy but slightly dry frosting flavor. Vanilla is almost obnoxious here. It’s dense and sweet but not greasy or very buttery. A little undersweet for frosting, but sweet.Underneath that there’s some white cakey flavor, more than V1, but it’s very light. I give this one an edge over V1 just because of how much of a vibrant punch that vanilla has and how it’s a little more cakey, even though it’s still almost all frosting. It’s just that between CAP Frosting, FLV Frosting, WF and VT butter cream frostings, I just don’t feel like I need this. I will give one recipe a try.
 
 [Toast My Ass](https://alltheflavors.com/recipes/35326#toast_my_ass_by_folkart) How does this have zero reviews? **TASK 35**
 
@@ -248,7 +248,7 @@ Eggy, rich, buttery, unmistakable, unique French Vanilla-type flavor that I call
 
 Of course I’m not ready to toss CAP Vanilla Custard, even though there are at least four or five custards I’d rather use. No particular recipe stands out in my mind, but there are 1000s of recipes that use it, surely I’d be missing out on something fantastic if I tossed it. I’ll try some new things, or new-to-me things, and see if I can find something specific that makes CAP Vanilla Custard impossible to part with.
 
-[Peanut Butter RY4 Cookie](https://alltheflavors.com/recipes/167806#peanut_butter_ry4_cookie_developed_by_developed) - I’ll be subbing JF Cookie for the FA in there and in a few others.  **TASK 36**
+[Peanut Butter RY4 Cookie](https://alltheflavors.com/recipes/167806#peanut_butter_ry4_cookie_developed_by_developed) - I’ll be subbing JF Cookie for the FA in there and in a few others. **TASK 36**
 
 [Nobleman Pistachio Pudding](https://alltheflavors.com/recipes/69229#nobleman_pistachio_pudding_by_steamon) **TASK 37**
 
@@ -274,7 +274,7 @@ CAP VMF wasn’t a ton of fun to vape standalone, but I think if you want an aut
 
 I’ve found I don’t really care to vape coffee, not even the ones that aren’t too bad, which seems like it would rule out keeping Vanilla Milk Froth. But what I do love to do is to find or create recipes that make a great first vape of the day and pair especially well with my morning coffee.
 
-I think I might have found one using Vanilla Milk Froth! Or at least one that’s worth a try.  
+I think I might have found one using Vanilla Milk Froth! Or at least one that’s worth a try.
 
 [Cruel Inventions](https://alltheflavors.com/recipes/262639#cruel_inventions_vanilla_milk_steamer_by_lynda_marie) **TASK 42**
 
@@ -292,29 +292,29 @@ Now, this one I don’t have to wonder about. WF Crispy Wafer is STILL the best 
 
 **Whipped Marshmallow**
 
-Not a fan. It’s sort of vaguely terrible. It’s a soft, dull flavor and has a little bit of a tangy, almost cheesy or almost spoiled milk type of note to it, under a very plain vanilla, and light sweetness. **TRASH 10**  
+Not a fan. It’s sort of vaguely terrible. It’s a soft, dull flavor and has a little bit of a tangy, almost cheesy or almost spoiled milk type of note to it, under a very plain vanilla, and light sweetness. **TRASH 10**
 
 **Wild Cherry With Stevia**
 
 I made myself a note after sampling this at 5% that I should try it again at 2.5% and never got around to it. I’ll do that now. **TASK 43**
 
-At 5% This one is not too terribly bad. The new vinyl shower curtain thing is there, but really really light for the amount of flavor I get. Lots of flavor, very little plastic. It tastes like an artificial black cherry flavor. Dark. Much more like the candy or soda flavor called “black cherry” than the somewhat brighter and more tart “wild cherry.”  Lighter on the offnotes than FA or FW black cherries. It also seems a little grapey, as well as slightly waxy. Very sweet sugar lips sweet finish with just the barest touch of that stevia bittersweetness. I might try to use low as a sweetener for a dark cherry thing if I wanted that, or for a grape maybe. Better black cherries? INW Black Cherry Tobacco, OoO Black Cherry, maybe WF Black Cherry Jelly Bean all seem like better black cherries compared to 5% CAP Wild Cherry With Stevia. But since there’s plenty of flavor at 5%, trying it lower is to see if there could still be enough flavor without getting any plastic at all.
+At 5% This one is not too terribly bad. The new vinyl shower curtain thing is there, but really really light for the amount of flavor I get. Lots of flavor, very little plastic. It tastes like an artificial black cherry flavor. Dark. Much more like the candy or soda flavor called “black cherry” than the somewhat brighter and more tart “wild cherry.” Lighter on the offnotes than FA or FW black cherries. It also seems a little grapey, as well as slightly waxy. Very sweet sugar lips sweet finish with just the barest touch of that stevia bittersweetness. I might try to use low as a sweetener for a dark cherry thing if I wanted that, or for a grape maybe. Better black cherries? INW Black Cherry Tobacco, OoO Black Cherry, maybe WF Black Cherry Jelly Bean all seem like better black cherries compared to 5% CAP Wild Cherry With Stevia. But since there’s plenty of flavor at 5%, trying it lower is to see if there could still be enough flavor without getting any plastic at all.
 
 While I’ve got it out anyway, I’ll try a simple recipe and see how that shakes out. I’m missing a couple of ingredients for this [Cola Cola](https://alltheflavors.com/recipes/229507#cola_cola_by_darthy) but it deserves major credit if this works out. I tried SSA Cola along with so many other SSA flavors in such a short period of time that I had forgotten SSA Cola is a thing, which I have, that is pretty awesome, compared to so many inferior cola flavors. Seeing that recipe reminded me of it.
 
 1-2-3 Cherry Vanilla Coke **TASK 44**
 
-Co. | Flavor | %
----|---|----
-FA | Madagascar (Vanilla Classic) | 1
-CAP | Wild Cherry w/ Stevia | 2
-SSA | Cola | 3
+| Co. | Flavor                       | %   |
+| --- | ---------------------------- | --- |
+| FA  | Madagascar (Vanilla Classic) | 1   |
+| CAP | Wild Cherry w/ Stevia        | 2   |
+| SSA | Cola                         | 3   |
 
 That’s probably going to need another cola or something similar to fill it in if I want to finish it out fully, but I’ll worry about that later.
 
 **Yellow Cake**
 
-So I can tell it’s definitely supposed to be a cake, but it’s weird. There’s a strange sort of spice note in there, close but not identical to anise, with some vanilla behind it. It’s sweet and not dry but also fairly light and airy and not especially rich and buttery like I’d expect from a yellow cake. Kinda flat. There’s another weird and drier note in the end, where it tastes kind of like raw flour. You can probably make some good stuff out of it, especially if you cover that anise-type thing with another strong spice like cinnamon or maybe some other strong top note, but it’s a pretty weird flavor.  
+So I can tell it’s definitely supposed to be a cake, but it’s weird. There’s a strange sort of spice note in there, close but not identical to anise, with some vanilla behind it. It’s sweet and not dry but also fairly light and airy and not especially rich and buttery like I’d expect from a yellow cake. Kinda flat. There’s another weird and drier note in the end, where it tastes kind of like raw flour. You can probably make some good stuff out of it, especially if you cover that anise-type thing with another strong spice like cinnamon or maybe some other strong top note, but it’s a pretty weird flavor.
 
 I will try this [Simply Rollin’](https://alltheflavors.com/recipes/25482#simply_rollin_by_coop34) because I bet all that Rich Cin simply steamrolls those off notes. **TASK 45**
 
@@ -322,13 +322,13 @@ However, I also bet I can do it better. So at the same time, I’ll mix this:
 
 Keep it Simply Rollin V1 **TASK 46**
 
-Co. | Flavor | %
----|---|----
-CAP | Sticky Bun | 5
-FLV | Rich Cinnamon | 0.15
-OoO | Vanilla Custard Cheesecake | 2
+| Co. | Flavor                     | %    |
+| --- | -------------------------- | ---- |
+| CAP | Sticky Bun                 | 5    |
+| FLV | Rich Cinnamon              | 0.15 |
+| OoO | Vanilla Custard Cheesecake | 2    |
 
-Now, if I wanted to do it *even* better than that, I’d start by trying add something to enhance the brown sugar notes - maybe FLV Caramel - and maybe add some butter. But that is not the name of the game. The name of the game is, apparently, “three-ingredient frosted cinnamon roll without using FW Cinnamon Roll for... reasons.” I’m going to win that game, watch.
+Now, if I wanted to do it _even_ better than that, I’d start by trying add something to enhance the brown sugar notes - maybe FLV Caramel - and maybe add some butter. But that is not the name of the game. The name of the game is, apparently, “three-ingredient frosted cinnamon roll without using FW Cinnamon Roll for... reasons.” I’m going to win that game, watch.
 
 And this [Kryptonite](https://alltheflavors.com/recipes/266889#kryptonite_by_mixnjuice) because it only uses a teensy bit of it mixed with a bunch of tasty stuff, and because the “it’s not supposed to be anything but yummy, really” aspect appeals to me. **TASK 47**
 
@@ -344,6 +344,6 @@ What else should I try, while I’ve got it out?
 
 The notes are... odd. But the recipe looks great. Peach mango dragonfruit? Yes please. [And now a word from our sponsor!](https://alltheflavors.com/recipes/270061#and_now_a_word_from_our_sponsor_by_chumbles) **TASK 50**
 
-And that’s it for my first pass through my Capella collection. Of course they’ll keep coming up as I mix and vape my way through this massive task list, but in the meantime I’ll move on to some smaller selections of lesser-used flavors out of Germany and the UK.  
+And that’s it for my first pass through my Capella collection. Of course they’ll keep coming up as I mix and vape my way through this massive task list, but in the meantime I’ll move on to some smaller selections of lesser-used flavors out of Germany and the UK.
 
 New Flavor Count: 2,869 (Nice!)

@@ -9,11 +9,11 @@ Starting flavor count: 2,669 (down from 2,973)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-# Flavor West
+## Flavor West
 
 **Desert Llama Tobacco**
 
-Oops, skipped over this one last time. I was seriously afraid this was going to taste like an actual llama. Turns out it’s not actually that bad, but it is pretty deeply weird. There’s a fairly prominent creamy-ish fruity vanilla,  a bunch of dry earthy dirty something that is obviously *supposed* to be tobacco but really isn’t,  and an accent of some strange light not quite mintiness to it, not cold though, something like a mix of watered down peppermint tea, bell pepper juice, and celery juice, but not exactly like any of those things. Something weird and green, anyway, accenting that dirty, dirty vanilla in the FW Desert Llama. **TRASH 1**
+Oops, skipped over this one last time. I was seriously afraid this was going to taste like an actual llama. Turns out it’s not actually that bad, but it is pretty deeply weird. There’s a fairly prominent creamy-ish fruity vanilla, a bunch of dry earthy dirty something that is obviously _supposed_ to be tobacco but really isn’t, and an accent of some strange light not quite mintiness to it, not cold though, something like a mix of watered down peppermint tea, bell pepper juice, and celery juice, but not exactly like any of those things. Something weird and green, anyway, accenting that dirty, dirty vanilla in the FW Desert Llama. **TRASH 1**
 
 **Happy Hour**
 
@@ -29,14 +29,14 @@ But it has only one review, which is mostly suggestions to try to make it better
 
 Blue Razz Ring Pop Revisited V1 **TASK 2**
 
-Co. | Flavor | %
----|---|----
-LB | Blue Raspberry | 6.5
-LA | Pina Colada | 1.25
-VT | Boysenberry | 0.75
-FLV | Blue Raspberry | 0.75
-CAP | Super Sweet | 0.5
-FW | Hard Candy| 0.25
+| Co. | Flavor         | %    |
+| --- | -------------- | ---- |
+| LB  | Blue Raspberry | 6.5  |
+| LA  | Pina Colada    | 1.25 |
+| VT  | Boysenberry    | 0.75 |
+| FLV | Blue Raspberry | 0.75 |
+| CAP | Super Sweet    | 0.5  |
+| FW  | Hard Candy     | 0.25 |
 
 Some more FW Hard Candy recipes that have successfully tempted me:
 
@@ -46,7 +46,7 @@ Some more FW Hard Candy recipes that have successfully tempted me:
 
 **Hawaiian Island Punch Type**
 
-About 75% nearly perfect (but not quite sweet or punchy enough) Hawaiian Punch, 25% new vinyl shower curtain liner.  **TRASH 3**
+About 75% nearly perfect (but not quite sweet or punchy enough) Hawaiian Punch, 25% new vinyl shower curtain liner. **TRASH 3**
 
 **Hawaiian Limeade**
 
@@ -82,7 +82,7 @@ It’s not as terrible as it is weird. Sugary Flower Butter? Rich and kinda butt
 
 **Honeydew**
 
-Mostly a bright and very sweet melon flavor. It starts out tasting like the sharper parts of apple or ripe pear before getting into the sweeter but kinda fluffy melon body. Concentrate has some nice depth to it but isn’t especially accurate due to that apple-pear like note and the fact that it’s not really very juicy, but has a marshmallow like fluffiness instead. But, combining pear and honeydew flavors is a classic combo so it seems like it might do well in that sort of setting, except that, at 3%, hints of perfume and something else nasty, is that nail polish? Especially in the middle and finish of the vape.  Screw that. **TRASH 6**
+Mostly a bright and very sweet melon flavor. It starts out tasting like the sharper parts of apple or ripe pear before getting into the sweeter but kinda fluffy melon body. Concentrate has some nice depth to it but isn’t especially accurate due to that apple-pear like note and the fact that it’s not really very juicy, but has a marshmallow like fluffiness instead. But, combining pear and honeydew flavors is a classic combo so it seems like it might do well in that sort of setting, except that, at 3%, hints of perfume and something else nasty, is that nail polish? Especially in the middle and finish of the vape. Screw that. **TRASH 6**
 
 **Honeywood Tobacco**
 
@@ -94,7 +94,7 @@ Part cinnamon, part red hots, with vanilla creme. The cinnamon stops short of fu
 
 **Huckleberry**
 
-It tastes like a red blueberry is the most succinctly I can sum it up. Like a combination of raspberry and blueberry, but all mixed together into one thing. I got light, red-berry tasting tartness at first, then sweeter blueberry sweetness later. Mostly artificial/candied blueberry, but there’s something a little funky in there that kind of makes it taste natural and maybe authentic, I don’t really know, can’t say I’ve eaten a huckleberry. Lingering blueberry sweetness. Full bodied, just a bit dry, and coming across more waxy than syrupy but not offensively waxy.  I’ve read a review by Concrete River that called out very light hints of spearmint and anise in FW Huckleberry but I did not taste either of those and am usually pretty sensitive to anise. There is an odd coolness to it that could be kind of spearminty, but it’s more of just a fresh clean taste upfront, before it gets funky and more sticky sweet. He also calls it a little floral and harsh over 2% and while I did get a little harshness at 3%, it did not taste floral to me.  Definitely tastes like it could add some interesting tarter accent to a blueberry mix or a darker, slightly funky body to a raspberry or other berry mix.
+It tastes like a red blueberry is the most succinctly I can sum it up. Like a combination of raspberry and blueberry, but all mixed together into one thing. I got light, red-berry tasting tartness at first, then sweeter blueberry sweetness later. Mostly artificial/candied blueberry, but there’s something a little funky in there that kind of makes it taste natural and maybe authentic, I don’t really know, can’t say I’ve eaten a huckleberry. Lingering blueberry sweetness. Full bodied, just a bit dry, and coming across more waxy than syrupy but not offensively waxy. I’ve read a review by Concrete River that called out very light hints of spearmint and anise in FW Huckleberry but I did not taste either of those and am usually pretty sensitive to anise. There is an odd coolness to it that could be kind of spearminty, but it’s more of just a fresh clean taste upfront, before it gets funky and more sticky sweet. He also calls it a little floral and harsh over 2% and while I did get a little harshness at 3%, it did not taste floral to me. Definitely tastes like it could add some interesting tarter accent to a blueberry mix or a darker, slightly funky body to a raspberry or other berry mix.
 
 I’ll see how it tastes in [Huckenade](https://alltheflavors.com/recipes/255604#huckenade_by_stardustcoyote) **TASK 13** and [Huck Your Melon](https://alltheflavors.com/recipes/215434#huck_your_melon_by_qszwax). **TASK 14**
 
@@ -108,7 +108,7 @@ Contains sugar & tastes like rotten fruit. **TRASH 10**
 
 **Jagerbomb**
 
-It tastes drinking red bull through a black licorice straw. Or like you dropped a shot of FW Absinthe into a glass of Red Bull. So not really a jagerbomb, because it’s missing the booze and all the herbal complexity of Jägermeister, but the Red Bull part is on point. So licorice, sweet tarts, batteries, and taurine? I wouldn’t call it gross, but if  I really wanted to vape a Jagerbomb for some crazy reason it would need a lot of work to taste like jager. **TRASH 11**
+It tastes drinking red bull through a black licorice straw. Or like you dropped a shot of FW Absinthe into a glass of Red Bull. So not really a jagerbomb, because it’s missing the booze and all the herbal complexity of Jägermeister, but the Red Bull part is on point. So licorice, sweet tarts, batteries, and taurine? I wouldn’t call it gross, but if I really wanted to vape a Jagerbomb for some crazy reason it would need a lot of work to taste like jager. **TRASH 11**
 
 **Jaw Breaking Candy**
 
@@ -118,17 +118,17 @@ If you’re looking for an additive to help turn a whatever random fruit flavor 
 
 I need to hang on to it for a bit anyway, because I want to try [Dummies](https://alltheflavors.com/recipes/20441#dummies_by_crazyndalazdayz) again. **TASK 15**
 
-It’s a spot-on Smarties. Also, I remember thinking of something I wanted to try to make shortly after vaping Dummies for the first time, something only somewhat related to Dummies, but I’ve forgotten what it was. Vaping Smarties isn’t high up on my priority list, but I’m trying to get re-inspired. Something about almond and vanilla, I think. Almond and vanilla and a floral. Cherry Blossom? Honeysuckle? Hibiscus? I don’t know. I keep trying to remember and my brain keeps going: “WF Candy Stick Candy.” And I’m like, “No, Brain, we are trying to think of a floral. Candy Stick Candy is not a floral.”  IDK. It’s lost. Hopefully Dummies helps bring it back.
+It’s a spot-on Smarties. Also, I remember thinking of something I wanted to try to make shortly after vaping Dummies for the first time, something only somewhat related to Dummies, but I’ve forgotten what it was. Vaping Smarties isn’t high up on my priority list, but I’m trying to get re-inspired. Something about almond and vanilla, I think. Almond and vanilla and a floral. Cherry Blossom? Honeysuckle? Hibiscus? I don’t know. I keep trying to remember and my brain keeps going: “WF Candy Stick Candy.” And I’m like, “No, Brain, we are trying to think of a floral. Candy Stick Candy is not a floral.” IDK. It’s lost. Hopefully Dummies helps bring it back.
 
 But I also really need to try out my theory of FW Jawbreaker being a better gum base for fruit-flavored bubblegum than any bubblegum flavor. What should I try, though? Grape? Watermelon? No: Green Apple.
 
 1-2-3 Green Ap B-Gum V1 **TASK 16**
 
-Co. | Flavor | %
----|---|----
-FW | Jawbreaker | 3
-WF | Green Jolly Candy | 2
-FLV | Sour Apple | 1
+| Co. | Flavor            | %   |
+| --- | ----------------- | --- |
+| FW  | Jawbreaker        | 3   |
+| WF  | Green Jolly Candy | 2   |
+| FLV | Sour Apple        | 1   |
 
 **Kettle Corn**
 
@@ -184,7 +184,7 @@ Also:
 
 **Macadamia Nut**
 
-Contains corn syrup which will fuck up your coils and maybe your life, and unlike Yellow Cake, isn’t maybe sometimes worth it anyway. It’s kind of boring, black as night, and doesn’t taste like macadamia nut at all. It’s kind of an earthy nutty flavor, with a creamy base, but a weird sort of burnt caramel chemical-ish off-note.  **TRASH 15**
+Contains corn syrup which will fuck up your coils and maybe your life, and unlike Yellow Cake, isn’t maybe sometimes worth it anyway. It’s kind of boring, black as night, and doesn’t taste like macadamia nut at all. It’s kind of an earthy nutty flavor, with a creamy base, but a weird sort of burnt caramel chemical-ish off-note. **TRASH 15**
 
 **Malt**
 
@@ -200,12 +200,12 @@ It’s strange that this is way better than either of the FW Mangoes and way bet
 
 **Maple Pecan**
 
-Very dry, yet sweet. Not quite maple syrup sticky sweet, and so dry you’d pretty much have to say dusted with maple powder rather than drizzled with maple syrup, but solid roasted pecan-ish nut flavor. Not as rich as the butter pecan and a little thin, but heavy enough for a nut. Some people put maple in their pecan pies, it might work for that. Although the maple isn’t too assertive, it’s still very present and would need to be accounted for. I think the nut part could get covered up pretty well in any kind of bakery, though, so it could work in something like a maple bar, in theory?  But it’s still probably going to be pretty nutty and roasty, so I’m really not sure.
+Very dry, yet sweet. Not quite maple syrup sticky sweet, and so dry you’d pretty much have to say dusted with maple powder rather than drizzled with maple syrup, but solid roasted pecan-ish nut flavor. Not as rich as the butter pecan and a little thin, but heavy enough for a nut. Some people put maple in their pecan pies, it might work for that. Although the maple isn’t too assertive, it’s still very present and would need to be accounted for. I think the nut part could get covered up pretty well in any kind of bakery, though, so it could work in something like a maple bar, in theory? But it’s still probably going to be pretty nutty and roasty, so I’m really not sure.
 
 I need it for a recipe already on my to-mix list under FW Creamy Sponge Cake, and I need it for my [Tedious Tobacco](https://alltheflavors.com/recipes/260159#tedious_tobacco_by_id10_t) recipe. **TASK 30**
 
 **Maraschino Cherry**
-  
+
 I can’t emphasize enough how very deeply waxy this is. It might as well be called Maraschino Cherry Candle flavor.
 
 If it wasn’t for that the tiny bit of it in that Cherry Bomb reicpe above, I would be tossing this now. But since I’m not, I’ll try a couple more DaveNK2L recipes that use it.
@@ -216,22 +216,22 @@ If it wasn’t for that the tiny bit of it in that Cherry Bomb reicpe above, I w
 
 **Margarita**
 
-Weak lime nuts? Dull, slightly tangy lime flavor, a hint of something light and vaguely nutty up front and with a lot of raw VG coming though by the end. I thought it was possibly underflavored at 4% and tried it again. Shake and vape 8%ish is pretty much the same thing, but that vague nut upfront also has a bit of a floral/perfume thing going on and I guess that’s supposed to be booze? It tastes more like nut flowers. The lime is a little more fleshed out but still dull and muted-tasting, I think this flavor is just crap.  **TRASH 18**
+Weak lime nuts? Dull, slightly tangy lime flavor, a hint of something light and vaguely nutty up front and with a lot of raw VG coming though by the end. I thought it was possibly underflavored at 4% and tried it again. Shake and vape 8%ish is pretty much the same thing, but that vague nut upfront also has a bit of a floral/perfume thing going on and I guess that’s supposed to be booze? It tastes more like nut flowers. The lime is a little more fleshed out but still dull and muted-tasting, I think this flavor is just crap. **TRASH 18**
 
 **Marshmallow**
 
-It’s not super strong as far off-notes go, but I do get a black licorice off note with this one, and I’d very much prefer my marshmallow have no black licorice at all. Aside from that it’s really sweet, thick, and has some flat sort of not too bright not to dark artificial vanilla on top of the licorice. FWIW, I’ve heard that it’s really authentic to old-timey marshmallows that were actually made from mallow root, which gave them a licorice-y taste, but now marshmallows are made of sugar or corn syrup or both, vanilla, gelatin, and sugar and this just makes me sad for past generations that had to endure licorice-y marshmallows.  If you’re looking for something sweet to add thick fluffy volume to a licorice recipe this might be just the thing, or maybe it would fit in something like a root beer float, otherwise I can’t really think of a great use for it. Even though it’s not strong, there’s a depth to that licorice off note that makes it seem like it would be hard to cover up in some settings where you’d just want a plain marshmallow.
+It’s not super strong as far off-notes go, but I do get a black licorice off note with this one, and I’d very much prefer my marshmallow have no black licorice at all. Aside from that it’s really sweet, thick, and has some flat sort of not too bright not to dark artificial vanilla on top of the licorice. FWIW, I’ve heard that it’s really authentic to old-timey marshmallows that were actually made from mallow root, which gave them a licorice-y taste, but now marshmallows are made of sugar or corn syrup or both, vanilla, gelatin, and sugar and this just makes me sad for past generations that had to endure licorice-y marshmallows. If you’re looking for something sweet to add thick fluffy volume to a licorice recipe this might be just the thing, or maybe it would fit in something like a root beer float, otherwise I can’t really think of a great use for it. Even though it’s not strong, there’s a depth to that licorice off note that makes it seem like it would be hard to cover up in some settings where you’d just want a plain marshmallow.
 
 It’s in at least one of the Duchess Reserve-type recipes on my task list. It does not appear to be used in any other published recipes that I really want to mix, but I have an idea.
 
 1-2-3-4 Root Beer Float V1 **TASK 33**
 
-Co. | Flavor | %
----|---|----
-FLV | Root Beer| 4
-FW | Marshmallow | 3
-SSA | Ice Cream Vanilla | 2
-BCF | WS-23 (30%) | 1
+| Co. | Flavor            | %   |
+| --- | ----------------- | --- |
+| FLV | Root Beer         | 4   |
+| FW  | Marshmallow       | 3   |
+| SSA | Ice Cream Vanilla | 2   |
+| BCF | WS-23 (30%)       | 1   |
 
 Yeah, 1% is a lot of WS-23, but I want that shit ice cold.
 
@@ -241,7 +241,7 @@ There is no gin here. There’s no olive (thankfully, if you ask me). But can we
 
 I need it to remix [Pickle Gibson](https://alltheflavors.com/recipes/66029#pickle_gibson_by_id10_t), with a better gin, though to do that, I’ll also need a better pickle and a replacement for INW Lemon Mix. I haven’t found that pickle yet.
 
-For now I’ll just give Concrete River’s [The Pattern](https://alltheflavors.com/recipes/129315#the_pattern_by_concreteriver) a mix **TASK 34** and be disappointed in the lack of recipes combining those wonderful FlavourMonks gins or at least FLV Juniper Gin or VT Botanical Gin with FW Martini. It just seems so obvious.  
+For now I’ll just give Concrete River’s [The Pattern](https://alltheflavors.com/recipes/129315#the_pattern_by_concreteriver) a mix **TASK 34** and be disappointed in the lack of recipes combining those wonderful FlavourMonks gins or at least FLV Juniper Gin or VT Botanical Gin with FW Martini. It just seems so obvious.
 
 **Max Dew**
 
@@ -261,7 +261,7 @@ It’s so wrong. It mostly tastes like you put coconut milk on the stove and for
 
 **Milk Chocolate**
 
-That is a special type of awful. A disaster in a bottle. Perfumy, chemical like nail polish, bizarre, very sweet, nauseating. Very dark tasting but not remotely chocolate, probably more like sugar mixed with used motor oil.  **TRASH 20**
+That is a special type of awful. A disaster in a bottle. Perfumy, chemical like nail polish, bizarre, very sweet, nauseating. Very dark tasting but not remotely chocolate, probably more like sugar mixed with used motor oil. **TRASH 20**
 
 **Mojito**
 
@@ -273,7 +273,7 @@ Oops, where was a mistake, I’ve got Butterscotch (Natural) and Natural Butters
 
 **Natural Green Apple**
 
-It tastes dirty, like it has literal dirt in it. Does not taste like a natural green apple. It tastes like a jolly rancher coated in dirt. Tobacco is pretty good at covering up dirt taste so maybe if you’re looking for a candy green apple to mix with tobacco this might be useful?  **TRASH 22**
+It tastes dirty, like it has literal dirt in it. Does not taste like a natural green apple. It tastes like a jolly rancher coated in dirt. Tobacco is pretty good at covering up dirt taste so maybe if you’re looking for a candy green apple to mix with tobacco this might be useful? **TRASH 22**
 
 **Natural Mango**
 
@@ -281,15 +281,15 @@ Some of the FW “Natural” flavors are identical to the ones that aren’t cal
 
 **Natural Papaya**
 
-This is a really nice flavor, but I can’t tell whether it tastes more like a papaya candy or a fresh natural papaya that’s a bit underripe? There’s a high tart and floral note, that’s normal for some papaya, especially when it’s not super ripe. Not perfumy, just a floral tartness. There’s a ripe accent to it, but it’s missing that deep funky tropical ripeness that should be there for a very ripe papaya. And it’s not juicy, though it is sweet. Without that deeper funkier right ripeness the sweet base comes across a little flat and candied. Also a touch on the thin side. It seems like a fairly decent option for papaya but I have better ones.  **TRASH 24**
+This is a really nice flavor, but I can’t tell whether it tastes more like a papaya candy or a fresh natural papaya that’s a bit underripe? There’s a high tart and floral note, that’s normal for some papaya, especially when it’s not super ripe. Not perfumy, just a floral tartness. There’s a ripe accent to it, but it’s missing that deep funky tropical ripeness that should be there for a very ripe papaya. And it’s not juicy, though it is sweet. Without that deeper funkier right ripeness the sweet base comes across a little flat and candied. Also a touch on the thin side. It seems like a fairly decent option for papaya but I have better ones. **TRASH 24**
 
 **Natural Tangerine**
 
-A zesty, top-heavy realistic natural tangerine. Base is sweet but thin, airy, and not fleshy or juicy. What body is there is more waxy than anything, but not overbearingly waxy, even seems a bit effervescent where it meets that zest.  A bit harsh on the throat even for a citrus. I don’t know that I’d use this for anything but a tangerine zest accent, which is not something I feel like I have a need for. **TRASH 25**
+A zesty, top-heavy realistic natural tangerine. Base is sweet but thin, airy, and not fleshy or juicy. What body is there is more waxy than anything, but not overbearingly waxy, even seems a bit effervescent where it meets that zest. A bit harsh on the throat even for a citrus. I don’t know that I’d use this for anything but a tangerine zest accent, which is not something I feel like I have a need for. **TRASH 25**
 
 **Nutella**
 
-Dark as sin, has daap but not sugar, apparently. Actually tastes pretty good. Cocoa note is not violently artificial and it seems to be free of band-aids or rubber or all the various other things wrong with chocolates, but maybe needs to be brought forward a bit with additional chocolate.. Hazelnut flavor is good, as you’d expect from FW. Overall though, not nearly thick, creamy, or sweet enough for Nutella. Could be it just needs a higher concentration, could be it needs some added cream like maybe a Bavarian Cream. Could be a little TFA Dulce De Leche wouldn’t hurt it, if you already have that, but I wouldn’t buy it just to try to make a better Nutella vape. Don’t know how it would hold up in a mix but if it holds its own, could work well in bakeries like cupcakes with nutella frosting or waffles with nutella. Could be an ingredient that would tie together any kind of chocolate and nut recipe.  
+Dark as sin, has daap but not sugar, apparently. Actually tastes pretty good. Cocoa note is not violently artificial and it seems to be free of band-aids or rubber or all the various other things wrong with chocolates, but maybe needs to be brought forward a bit with additional chocolate.. Hazelnut flavor is good, as you’d expect from FW. Overall though, not nearly thick, creamy, or sweet enough for Nutella. Could be it just needs a higher concentration, could be it needs some added cream like maybe a Bavarian Cream. Could be a little TFA Dulce De Leche wouldn’t hurt it, if you already have that, but I wouldn’t buy it just to try to make a better Nutella vape. Don’t know how it would hold up in a mix but if it holds its own, could work well in bakeries like cupcakes with nutella frosting or waffles with nutella. Could be an ingredient that would tie together any kind of chocolate and nut recipe.
 
 I’ll gladly give [This Recipe](https://alltheflavors.com/recipes/230210#nutella_and_vanilla_cupcake_with_frosting_by_joesjuice) a try. **TASK 39**
 

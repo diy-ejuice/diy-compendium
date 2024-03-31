@@ -9,26 +9,28 @@ Starting flavor count: 2,473 (down from 2,972)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-# CAPELLA Fuji Apple  
+## CAPELLA
+
+**Fuji Apple**
 
 Update. I’d forgotten just how juicy CAP Fuji Apple is, but [Midnight Marauder](https://alltheflavors.com/recipes/83580) reminded me. It also gave me a new recipe to add to the list of favorites, and another reason to keep CAP 27 Fish (and all of the other ingredients to make it). Click the link. Read the description. If that sounds good to you, give it a mix. I don’t think you’ll regret it. It MIGHT even change your mind about vaping licorice flavors. **TASK 1** to mix some more!
 
 Because CAP Fuji Apple it is so juicy and has that nice apple body, I really want to mix it with watermelon, [Water-malone](https://alltheflavors.com/recipes/53215#water_malone_live_mixing_summertime_recipes_by_enyawreklaw) style. My beef with Water-Malone is that although it is tasty, that CAP Double Apple sticks out too much, it’s too sharp. I saw this Water-Malone-ish recipe, [Country Melon](https://alltheflavors.com/recipes/265561#country_melon_by_riotcoon), but it’s missing the watermelon aside from the little bit of watermelon in FLV Wild Melon, and I don’t need FLV Cucumber in there. I already plan to mix this [Malonee](https://alltheflavors.com/recipes/283658#malonee_mwc_pool_party_by_buriedalive) recipe very soon. It looks like what it set out to be, Water-malone, only better. The only differences are taking out TFA Dragonfruit and replacing it with CAP Hibiscus, taking out CAP Double Apple and replacing it with CAP Cantaloupe, and adding some cooling. I’m going to make another Water-malone remix.
 
-Seed Spittin Summer V1  **TASK 2**
+Seed Spittin Summer V1 **TASK 2**
 
-Co. | Flavor | %
----|---|----
-CAP | Fuji Apple | 4
-FA | Red Summer | 2
-FLV | Watermelon | 3
-FLV | Wild Melon | 1
-FW | Sweetener| 0.5
-BCF | WS=23 (30%) | 0.25
+| Co. | Flavor      | %    |
+| --- | ----------- | ---- |
+| CAP | Fuji Apple  | 4    |
+| FA  | Red Summer  | 2    |
+| FLV | Watermelon  | 3    |
+| FLV | Wild Melon  | 1    |
+| FW  | Sweetener   | 0.5  |
+| BCF | WS=23 (30%) | 0.25 |
 
 Ditching the CAP Double Apple for the juicier and more subtle CAP Fuji Apple. Ditching the Dragonfruit for more realistic watermelon. Keeping the same FLV Watermelon/Wild Melon combo. Going a little easier on the sucralose sweetener. Adding cooling a la Melonee, but going easier on that as well. Betcha this shakes out to be a top-shelf watermelon vape even better than Water-malone.
 
-# FLAVOUR ART
+## FLAVOUR ART
 
 **Decano Tobacco**
 
@@ -36,7 +38,7 @@ It barely even tastes like tobacco, but it does taste like something that would 
 
 **Desert Ship**
 
-**TRASH 2** True story, having this be the first DIY tobacco flavor I ever tried turned me off of all tobacco flavors for like two years before I tried FLV tobaccos. In retrospect it’s not *that* bad and doesn’t even come close to the 20 or 30 worst flavors I’ve tried. But it’s still pretty yucky. It mostly tastes like wet Camel cigarettes that someone tried and mostly failed to dry out in a toaster oven, then mixed up with a bunch of minced green bell pepper, a little ashy mud, and a hint of sweet vanilla. Not too dry, fairly smooth. Maybe in some kind of mix FA Desert Ship works, but after trying several over the years, I doubt it. But I don’t know why so many of these FA tobaccos have this weird green bell pepper note in there. Seems pretty disgusting to me, but I also don’t really like green bell pepper.  Think about it. What can you possibly make using a green bell pepper that wouldn’t be at least a little better if you used some other pepper instead?
+**TRASH 2** True story, having this be the first DIY tobacco flavor I ever tried turned me off of all tobacco flavors for like two years before I tried FLV tobaccos. In retrospect it’s not _that_ bad and doesn’t even come close to the 20 or 30 worst flavors I’ve tried. But it’s still pretty yucky. It mostly tastes like wet Camel cigarettes that someone tried and mostly failed to dry out in a toaster oven, then mixed up with a bunch of minced green bell pepper, a little ashy mud, and a hint of sweet vanilla. Not too dry, fairly smooth. Maybe in some kind of mix FA Desert Ship works, but after trying several over the years, I doubt it. But I don’t know why so many of these FA tobaccos have this weird green bell pepper note in there. Seems pretty disgusting to me, but I also don’t really like green bell pepper. Think about it. What can you possibly make using a green bell pepper that wouldn’t be at least a little better if you used some other pepper instead?
 
 **Doughnut Crispy**
 
@@ -48,7 +50,7 @@ Already planning to keep it around at least long enough to mix [Baker’s Pipe](
 
 **Dragon Fruit**
 
-Very similar to FLV Dragonfruit, with that hibiscusy floral top note and sweeter almost pineapple body, but it’s thicker and a little more funky and ripe, while being a little more tart at the same time. More punchy overall in the fruit department. It tastes even more like something found in nature. Fairly juicy, especially for FA. Doesn’t taste like something I’d want to mix with creams because it seems like that would clash with the floral and ripe tropical goings-on here, doesn’t seem as suited to tea as FLV, leaves some question for me as far as what to do with it other than mixing with other fruit flavors, especially pineapple ones but really anything tropical, and making something fun, like some kind of real fruit punch.  
+Very similar to FLV Dragonfruit, with that hibiscusy floral top note and sweeter almost pineapple body, but it’s thicker and a little more funky and ripe, while being a little more tart at the same time. More punchy overall in the fruit department. It tastes even more like something found in nature. Fairly juicy, especially for FA. Doesn’t taste like something I’d want to mix with creams because it seems like that would clash with the floral and ripe tropical goings-on here, doesn’t seem as suited to tea as FLV, leaves some question for me as far as what to do with it other than mixing with other fruit flavors, especially pineapple ones but really anything tropical, and making something fun, like some kind of real fruit punch.
 
 Speaking of mixing something fun and tropical, I need it for one of my new favorite recipes, [Deez Dragon Nuts](https://alltheflavors.com/recipes/261981#deez_dragon_nuts_by_mixnjuice). **TASK 4**
 
@@ -56,7 +58,7 @@ I hate for that to be the only reason to keep it, but I don’t see anything els
 
 **Dusk**
 
-FA says “Dusk is a soft and very delicate tobacco, suitable for use all day long. Wisely combines the soft taste of licorice with a background of fine tobacco and wood.” It is indeed soft, and very smooth. I would call it an intricate, detailed flavor. The tobacco is indeed woody, and it doesn't have the weird green bell pepper-ish off note or awful chemical off notes I get from several FA tobaccos. The black licorice is there, but fairly light. If you love licorice, you might be very disappointed that it isn’t stronger. They didn’t say anything about dark chocolate or berry notes and this has a lot of chocolate and a little berry, as well as a hint of mint. More chocolate than licorice and maybe about the same berry as licorice. It’s not bad if you want a woody tobacco-chocolate-licorice-berry-mint flavor, but if you just want licorice and woody tobacco you might be let down. There’s nothing I want to make with it. **TRASH 3**  
+FA says “Dusk is a soft and very delicate tobacco, suitable for use all day long. Wisely combines the soft taste of licorice with a background of fine tobacco and wood.” It is indeed soft, and very smooth. I would call it an intricate, detailed flavor. The tobacco is indeed woody, and it doesn't have the weird green bell pepper-ish off note or awful chemical off notes I get from several FA tobaccos. The black licorice is there, but fairly light. If you love licorice, you might be very disappointed that it isn’t stronger. They didn’t say anything about dark chocolate or berry notes and this has a lot of chocolate and a little berry, as well as a hint of mint. More chocolate than licorice and maybe about the same berry as licorice. It’s not bad if you want a woody tobacco-chocolate-licorice-berry-mint flavor, but if you just want licorice and woody tobacco you might be let down. There’s nothing I want to make with it. **TRASH 3**
 
 **Eclipse**
 
@@ -64,11 +66,11 @@ FA says “Suddenly everything goes dark and began the journey in your emotions.
 
 **Egg Yolk (Cooked)**
 
- It’s not far off but it’s sharper than an egg yolk should be and a little gamey, like I don’t know what kind of bird this egg came from but it’s not a chicken. You know how if you accidentally overcook a hard-boiled egg, the yolk is gray on the outside? Imagine if you had to eat a pile of just that gray shit that’s caused by an interaction between sulfur in the egg white and iron in the egg yolk. And you don’t have any salt or pepper for it. Foul.  **TRASH 5**
+It’s not far off but it’s sharper than an egg yolk should be and a little gamey, like I don’t know what kind of bird this egg came from but it’s not a chicken. You know how if you accidentally overcook a hard-boiled egg, the yolk is gray on the outside? Imagine if you had to eat a pile of just that gray shit that’s caused by an interaction between sulfur in the egg white and iron in the egg yolk. And you don’t have any salt or pepper for it. Foul. **TRASH 5**
 
 **Euphoria**
 
-“When the freshness of citrus is married with the harmony of exotic fruit and soft tobacco notes, a positively beautiful flavour emerges,” say FA. No, no it doesn’t. Or maybe it does, but this isn’t it. It tastes like wintergreen tobacco. There’s some kind of minty coolness to this and it tastes like wintergreen to me. I get the citrus and some other unidentifiable pruney fruit along with that smooth tobacco, but I get more of that wintergreen type of flavor upfront and the overall effect is like some kind of bizarro dirty root beer. I think there’s a hint of anise as well.   **TRASH 6**
+“When the freshness of citrus is married with the harmony of exotic fruit and soft tobacco notes, a positively beautiful flavour emerges,” say FA. No, no it doesn’t. Or maybe it does, but this isn’t it. It tastes like wintergreen tobacco. There’s some kind of minty coolness to this and it tastes like wintergreen to me. I get the citrus and some other unidentifiable pruney fruit along with that smooth tobacco, but I get more of that wintergreen type of flavor upfront and the overall effect is like some kind of bizarro dirty root beer. I think there’s a hint of anise as well. **TRASH 6**
 
 **Florida Key Lime**
 
@@ -92,7 +94,7 @@ I see four key lime pie recipes that all look good and two key lime cookies that
 
 **Forest Fruit**
 
-A dark berry (blackberry, blueberry, touches of raspberry and maybe currant) blend that’s a little top heavy and a little dry but has a nice sharp punch of flavor. I’ve always tasted a little something else besides berry in there, sometimes it seems more like a stone fruit (peach or apricot), sometimes I think it tastes more like pineapple.  Sweet, not super tart. Natural tasting, not candied. Drawback: serious throat hit, bordering on  harsh. Can be tamed with creams and other flavors, though.
+A dark berry (blackberry, blueberry, touches of raspberry and maybe currant) blend that’s a little top heavy and a little dry but has a nice sharp punch of flavor. I’ve always tasted a little something else besides berry in there, sometimes it seems more like a stone fruit (peach or apricot), sometimes I think it tastes more like pineapple. Sweet, not super tart. Natural tasting, not candied. Drawback: serious throat hit, bordering on harsh. Can be tamed with creams and other flavors, though.
 
 Already plan to try 8 recipes that use it. Found a few more:
 
@@ -132,7 +134,7 @@ Already plan to mix this fantastic-looking [Port Royale](https://alltheflavors.c
 
 3% WF Sour Watermelon Candy **TASK 22**
 
-2.5% WF Strawberry Gummy Candy  **TASK 23**
+2.5% WF Strawberry Gummy Candy **TASK 23**
 
 And 1.5% WF Thai Apple **TASK 24**
 
@@ -148,21 +150,21 @@ I think I’m going to toss FA Fuji in favor of JF very soon, but before I do, I
 
 Slightly Better Strap-on **TASK 25**
 
-Co.| Flavor | %
----|---|----
-JF | Fuji Apple| 2
-FA | Red Summer | 3
-FA | Red Touch |3
+| Co. | Flavor     | %   |
+| --- | ---------- | --- |
+| JF  | Fuji Apple | 2   |
+| FA  | Red Summer | 3   |
+| FA  | Red Touch  | 3   |
 
 **Gin**
 
-Mostly just juniper flavor. Which is of course the main thing with gin, but certainly not the only thing. It’s not even boozy, but it’s a little harsh, which I guess could substitute for boozy. Some odd sweetness on the tail end but I think that might just be VG poking through a thin, top-heavy flavor and contrasting with the evergreen flavor. Also it’s pretty dry, like it would definitely need something wetter like cucumber or cactus.  But if you just want to add a little juniper to something to imply a bit of gin, it’ll probably do. There’s a little bit of something lemony about the soft base here, not much, but maybe something to be aware of if you’re mixing gin and lemon you might not need as much lemon as you think you do. And it tastes like a tiny bit of it might do some interesting things to all sorts of fruits. It might be the secret ingredient you need to make a fruit really pop.
+Mostly just juniper flavor. Which is of course the main thing with gin, but certainly not the only thing. It’s not even boozy, but it’s a little harsh, which I guess could substitute for boozy. Some odd sweetness on the tail end but I think that might just be VG poking through a thin, top-heavy flavor and contrasting with the evergreen flavor. Also it’s pretty dry, like it would definitely need something wetter like cucumber or cactus. But if you just want to add a little juniper to something to imply a bit of gin, it’ll probably do. There’s a little bit of something lemony about the soft base here, not much, but maybe something to be aware of if you’re mixing gin and lemon you might not need as much lemon as you think you do. And it tastes like a tiny bit of it might do some interesting things to all sorts of fruits. It might be the secret ingredient you need to make a fruit really pop.
 
 I don’t need this. I don’t even need to mention the expensive, difficult to obtain, super-amazing Flavormonks gins. I don’t need it because even FLV Juniper Gin and VT Botanical Gin are so superior to FA’s. **TRASH 7**
 
 **Grape Concord**
 
-Basically grape skin without the juicy sweet inside of the grape. A more natural dark grape, with just the tiniest bit of purple artificial grape in there. Has that tannic grape skin note, and is a little tart, but also quite floral, not at all sweet, and has an unpleasant bitter floral aftertaste. I also found it to be a little harsh. Not at all juicy.  Probably very useful in a small quantity to make another grape flavor taste more like hand-picked fresh grape, but not very good as a solo grape. Nothing I want to mix uses this. **TRASH 8**
+Basically grape skin without the juicy sweet inside of the grape. A more natural dark grape, with just the tiniest bit of purple artificial grape in there. Has that tannic grape skin note, and is a little tart, but also quite floral, not at all sweet, and has an unpleasant bitter floral aftertaste. I also found it to be a little harsh. Not at all juicy. Probably very useful in a small quantity to make another grape flavor taste more like hand-picked fresh grape, but not very good as a solo grape. Nothing I want to mix uses this. **TRASH 8**
 
 **Grapefruit**
 
@@ -184,7 +186,7 @@ It’s like the slime from a can of Spam but at least Spam can pork goop is salt
 
 **Hazel Grove**
 
-Realistic nut, very lightly sweet, really has some nut meat body to it, slightly roasty, not thin like many FA flavors, not too dry, around 1.25% starts to get a little bit of a green nut skin off note so stay at or below 1% and you’re good.  
+Realistic nut, very lightly sweet, really has some nut meat body to it, slightly roasty, not thin like many FA flavors, not too dry, around 1.25% starts to get a little bit of a green nut skin off note so stay at or below 1% and you’re good.
 
 I would be tossing this if I didn’t want to try [Top Tier Cookie](https://alltheflavors.com/recipes/248694#top_tier_cookie_by_sensory_overload), but since it’s sticking around for now, [Amandette](https://alltheflavors.com/recipes/213193#amandette_by_saspi) - buttery soft almond cookie with hazelnut-vanilla filling looks pretty good. **TASK 27**
 

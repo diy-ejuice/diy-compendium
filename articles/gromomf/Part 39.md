@@ -9,11 +9,11 @@ Starting flavor count: 2,514 (down from 2,972)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-# FLAVORS EXPRESS
+## FLAVORS EXPRESS
 
 **Green Tea**
 
-No bad, mostly green tea, but pretty floral. If I had to name it, I’d say it tastes a bit like wildflowers, maybe the way dandelions smell, but the flower, not dandelion greens. It doesn’t quite taste just  like jasmine which is a little more common of a floral to find in tea. So it tastes a little weird, but mostly ok. Floral increases with more concentration, but can be tamed a little with creams. I remember a time when this was the best green tea we could get, way better than TFA or FA green tea flavors. But then Flavorah came out with Eisai Tea. This [Pure Green Tea](https://alltheflavors.com/recipes/174925#pure_green_tea_by_donttrusttherabbit) recipe looks great if you really want to vape just straight-up green tea, but since I don’t want to do that, I don’t have a use for FE Green Tea. **TRASH 1**
+No bad, mostly green tea, but pretty floral. If I had to name it, I’d say it tastes a bit like wildflowers, maybe the way dandelions smell, but the flower, not dandelion greens. It doesn’t quite taste just like jasmine which is a little more common of a floral to find in tea. So it tastes a little weird, but mostly ok. Floral increases with more concentration, but can be tamed a little with creams. I remember a time when this was the best green tea we could get, way better than TFA or FA green tea flavors. But then Flavorah came out with Eisai Tea. This [Pure Green Tea](https://alltheflavors.com/recipes/174925#pure_green_tea_by_donttrusttherabbit) recipe looks great if you really want to vape just straight-up green tea, but since I don’t want to do that, I don’t have a use for FE Green Tea. **TRASH 1**
 
 **Guava**
 
@@ -63,7 +63,7 @@ Weirdly warm sweet lemon. Like that kind of weird warmth that makes you check to
 
 **Lychee**
 
-This is actually my favorite lychee. I’ve had a lychee hard candy from Taiwan that I’m certain was made out of this. The flavor was identical. Very subtle rosy floral upfront, sugary sweet flatter more artificial base with a subtle funky ripeness to that white grape plus grapefruit tartness that lychee does. Strong, punchy flavor. I’m not sure if there’s actually some hard candy body here or if it’s just my mind playing tricks on me because of how much this tastes like that lychee candy. But it’s even sweeter than more syrupy flavors. Drier floral at first, but overall mouthwatering. Very bold, full-flavored.  
+This is actually my favorite lychee. I’ve had a lychee hard candy from Taiwan that I’m certain was made out of this. The flavor was identical. Very subtle rosy floral upfront, sugary sweet flatter more artificial base with a subtle funky ripeness to that white grape plus grapefruit tartness that lychee does. Strong, punchy flavor. I’m not sure if there’s actually some hard candy body here or if it’s just my mind playing tricks on me because of how much this tastes like that lychee candy. But it’s even sweeter than more syrupy flavors. Drier floral at first, but overall mouthwatering. Very bold, full-flavored.
 
 Love it. It’s in a couple of things I already plan to mix. Really excited to try this [Lychee Candy](https://alltheflavors.com/recipes/285804#yachiru_kusajishi_by_wolfwheeler) recipe too, it looks fantastic. **TASK 15**
 
@@ -93,14 +93,14 @@ There is seriously not a single recipe on ATF using this super-interesting flavo
 
 Mile Seven Experiment V1 **TASK 18**
 
-Co. | Flavor | %
----|---|----
-FLV | Red Burley | 1.75
-FE | Mile Seven | 2
+| Co. | Flavor     | %    |
+| --- | ---------- | ---- |
+| FLV | Red Burley | 1.75 |
+| FE  | Mile Seven | 2    |
 
 **Milk Chocolate**
 
-Comes pretty close to milk chocolate. Lighter milk chocolate flavor, thick creamy feel. Very sweet, noticeably sweet above and beyond the sweetener put in my base for testing this. Some issues - it just isn’t super flavorful, and has a very slight chemical taste at 2%. Four percent brings out that chemical unbearably and makes that sweetness run a little fruity, 1% is just weak. 2% is too weak to pull off all the milk chocolate flavor of something like a candy bar, but maybe it could help move a darker chocolate flavor into more of a milk chocolate direction?  
+Comes pretty close to milk chocolate. Lighter milk chocolate flavor, thick creamy feel. Very sweet, noticeably sweet above and beyond the sweetener put in my base for testing this. Some issues - it just isn’t super flavorful, and has a very slight chemical taste at 2%. Four percent brings out that chemical unbearably and makes that sweetness run a little fruity, 1% is just weak. 2% is too weak to pull off all the milk chocolate flavor of something like a candy bar, but maybe it could help move a darker chocolate flavor into more of a milk chocolate direction?
 
 All five of the recipes currently on ATF that use it are by the same mixer, Sorteal. I’m going to try the three of them that look best to me.
 
@@ -122,11 +122,11 @@ I already plan to mix [The Baker’s Pipe](https://alltheflavors.com/recipes/292
 
 **Oatmeal N Milk**
 
-This needs a steep. Even a week in, it’s alcoholic. It’s thick and rich but there’s more than a little alcohol in there that did not steep out over a week. Freshly mixed, it tasted like taking a shot half-vodka half-oatmeal with heavy cream and sugar. After a week, I still get a trace of alcohol. Other than that, it tastes sort of like oatmeal with lots of milk, more milk than oats really, and the oats are maybe a little overcooked and lacking texture beyond thickness. They’re also a little...the word that comes to mind is “gamey.”  It tastes like it could be great in a cereal and milk recipe with the cereal flavor providing the texture (after a long steep). I wouldn’t use it as an oatmeal when there are other oat flavors as options.  **TRASH 6**
+This needs a steep. Even a week in, it’s alcoholic. It’s thick and rich but there’s more than a little alcohol in there that did not steep out over a week. Freshly mixed, it tasted like taking a shot half-vodka half-oatmeal with heavy cream and sugar. After a week, I still get a trace of alcohol. Other than that, it tastes sort of like oatmeal with lots of milk, more milk than oats really, and the oats are maybe a little overcooked and lacking texture beyond thickness. They’re also a little...the word that comes to mind is “gamey.” It tastes like it could be great in a cereal and milk recipe with the cereal flavor providing the texture (after a long steep). I wouldn’t use it as an oatmeal when there are other oat flavors as options. **TRASH 6**
 
 **Passion Fruit**
 
-Sweet passionate dryer sheets. Candy sweet but with a somewhat bitter floral top note. Fresh passion fruit should be a little floral, but this is a bit too much and also not quite right. Nectary sweetness, thinner than syrupy. A lot like sweetened and watered down passion fruit juice or thin passion fruit syrup mixed with some sweet guava nectar. Much less tartness than it should have. Instead, where more acidic tartness should be, there’s a bit of a perfumey floral that kind of reminds me of FA Summer Clouds (aka FA Dryer Sheets)  but not so oppressive and blatantly dryer sheet-y as that and not something that would keep me from trying a recipe that uses it. Some mild throat hit, but nothing like FA Passion Fruit (aka FA Throat Razors). It’s not a bad flavor, but it’s definitely one I can live without. **TRASH 7**
+Sweet passionate dryer sheets. Candy sweet but with a somewhat bitter floral top note. Fresh passion fruit should be a little floral, but this is a bit too much and also not quite right. Nectary sweetness, thinner than syrupy. A lot like sweetened and watered down passion fruit juice or thin passion fruit syrup mixed with some sweet guava nectar. Much less tartness than it should have. Instead, where more acidic tartness should be, there’s a bit of a perfumey floral that kind of reminds me of FA Summer Clouds (aka FA Dryer Sheets) but not so oppressive and blatantly dryer sheet-y as that and not something that would keep me from trying a recipe that uses it. Some mild throat hit, but nothing like FA Passion Fruit (aka FA Throat Razors). It’s not a bad flavor, but it’s definitely one I can live without. **TRASH 7**
 
 **Rainbow Sherbet**
 
@@ -144,11 +144,11 @@ However, FE RY4 and the Super Concentrates (SC) RY4 that used to be sold by Bull
 
 **RY4 Double**
 
-Tastes more like caramel coffee than caramel tobacco, and it’s a little green, like extra extra light roast coffee or maybe half coffee/half green tea. Sticky-sweet caramel and light vanilla is at least half of the equation, but that green coffee thing, while not terribly off-putting, is very odd.  I’m so close to tossing this, but here’s a recipe harnessing that coffee aspect: [PSL](https://alltheflavors.com/recipes/242214#psl_live_mixing_by_enyawreklaw). I don’t expect it to be a “keeper” because it’s a “live mixing” thing and not a recipe meticulously crafted over time, but I really want to see how that worked out. **TASK 24**
+Tastes more like caramel coffee than caramel tobacco, and it’s a little green, like extra extra light roast coffee or maybe half coffee/half green tea. Sticky-sweet caramel and light vanilla is at least half of the equation, but that green coffee thing, while not terribly off-putting, is very odd. I’m so close to tossing this, but here’s a recipe harnessing that coffee aspect: [PSL](https://alltheflavors.com/recipes/242214#psl_live_mixing_by_enyawreklaw). I don’t expect it to be a “keeper” because it’s a “live mixing” thing and not a recipe meticulously crafted over time, but I really want to see how that worked out. **TASK 24**
 
 **Strawberry**
 
-Perfectly serviceable but fairly boring strawberry. Reminds me of FW Strawberry except more concentrated. Tastes fairly natural but again there’s that out of season or heat lamp strawberry that just doesn’t have that much flavor, with just a little artificial bump to it. Has a tartness to it -- also similar to FW Strawberry but a little sharper and less soft than FW’s - but similarly doesn’t have a lot of other complexity. It isn’t a very deep flavor but isn’t top heavy, it’s more just in the middle, without much of that brighter top note or ripe, juicy depth.  **TRASH 9**
+Perfectly serviceable but fairly boring strawberry. Reminds me of FW Strawberry except more concentrated. Tastes fairly natural but again there’s that out of season or heat lamp strawberry that just doesn’t have that much flavor, with just a little artificial bump to it. Has a tartness to it -- also similar to FW Strawberry but a little sharper and less soft than FW’s - but similarly doesn’t have a lot of other complexity. It isn’t a very deep flavor but isn’t top heavy, it’s more just in the middle, without much of that brighter top note or ripe, juicy depth. **TRASH 9**
 
 **Sun Seeds**
 
@@ -158,7 +158,7 @@ There’s only one recipe with it that interests me, this [chocolate peanut butt
 
 **Sweet Bread Crust**
 
-Mostly tastes like peeling the crusty outside off a baked Kings Hawaiian roll. Like those rolls are great just out of the bag, but this is the crust from one that’s been put in the oven until the outside is a little crisp. Essentially, the perfect top note for something like a bread pudding. Not yeasty, the only “off” note I’m getting is a light and pleasant but weirdly dark, chocolatey caramel in the finish, like a very watered down melted Rolo. I know from two recipes I tried that it can be covered up fairly easily, as neither of the recipes have any hint of chocolate, though I kinda wanna lean in to that and hit it with some VT Devon Cream and maybe another chocolate, WF Salted Caramel, and come buttery custard like FA Custard Premium and see if I can do like a chocolate bread pudding with salted caramel sauce. But, that sounds like a lot of work, and I’m not sure I’m up to it.  
+Mostly tastes like peeling the crusty outside off a baked Kings Hawaiian roll. Like those rolls are great just out of the bag, but this is the crust from one that’s been put in the oven until the outside is a little crisp. Essentially, the perfect top note for something like a bread pudding. Not yeasty, the only “off” note I’m getting is a light and pleasant but weirdly dark, chocolatey caramel in the finish, like a very watered down melted Rolo. I know from two recipes I tried that it can be covered up fairly easily, as neither of the recipes have any hint of chocolate, though I kinda wanna lean in to that and hit it with some VT Devon Cream and maybe another chocolate, WF Salted Caramel, and come buttery custard like FA Custard Premium and see if I can do like a chocolate bread pudding with salted caramel sauce. But, that sounds like a lot of work, and I’m not sure I’m up to it.
 
 This [Bread Puddn V3](https://alltheflavors.com/recipes/156624#bread_puddn_v3_live_mixing_by_enyawreklaw) recipe by Enyawreklaw is, believe it or not, awesome. I think I can make it even better, though. Going to swap the CAP Super Sweet out for FW Sweetener, same amount, and drop in 0.1% FLV Rich Cinnamon. **TASK 25**
 
@@ -178,38 +178,38 @@ Freakishly authentic fragrant plain white rice, like jasmine rice, for a week or
 
 Mixing with VT Rice Base helps with the fading issue considerably.
 
-I need it for [Clouds of Buddha](https://alltheflavors.com/recipes/151292#clouds_of_buddha_by_kittybit).  I also love the idea behind [Broke Breakfast](https://alltheflavors.com/recipes/51300#broke_breakfast_sweet_rice_milk_w_yeo_layer_by_gachatay), because been there, ate that. Still miss it sometimes. But I think I can do it better than that. Also my family wasn’t quite as broke as Gachatay’s apparently, we got a little pat of butter on our hot rice before pouring milk over it.
+I need it for [Clouds of Buddha](https://alltheflavors.com/recipes/151292#clouds_of_buddha_by_kittybit). I also love the idea behind [Broke Breakfast](https://alltheflavors.com/recipes/51300#broke_breakfast_sweet_rice_milk_w_yeo_layer_by_gachatay), because been there, ate that. Still miss it sometimes. But I think I can do it better than that. Also my family wasn’t quite as broke as Gachatay’s apparently, we got a little pat of butter on our hot rice before pouring milk over it.
 
 My Broke Breakfast V1 **TASK 27**
 
-Co. | Flavor | %
----|---|----
-FE| Sweet Rice| 4.5
-VT | Rice Base | 1.25
-FA | Meringue | 0.75
-FA | Milk | 1.25
-FA | Cream Fresh | 1
-VT | Butter Base | 0.75
-FLV | Rich Cinnamon | 0.13
-FW | Sweetener | 0.5
+| Co. | Flavor        | %    |
+| --- | ------------- | ---- |
+| FE  | Sweet Rice    | 4.5  |
+| VT  | Rice Base     | 1.25 |
+| FA  | Meringue      | 0.75 |
+| FA  | Milk          | 1.25 |
+| FA  | Cream Fresh   | 1    |
+| VT  | Butter Base   | 0.75 |
+| FLV | Rich Cinnamon | 0.13 |
+| FW  | Sweetener     | 0.5  |
 
 **Sweet Strawberry**
 
-Weird, darkly sweet strawberry with a strange funky sort of tropical flavor. Full flavored but almost overripe, while at the same time fairly simple without too much else going on, almost like a candy flavor in its simplicity. Not a clue what to do with this stuff unless mixing with a tropical flavor that isn’t funky enough.  **TRASH 12**
+Weird, darkly sweet strawberry with a strange funky sort of tropical flavor. Full flavored but almost overripe, while at the same time fairly simple without too much else going on, almost like a candy flavor in its simplicity. Not a clue what to do with this stuff unless mixing with a tropical flavor that isn’t funky enough. **TRASH 12**
 
 **Turkish**
 
-Very vague and very light spice notes, light to medium tobacco base, and just a touch of brown sugary sweetness. Woody, with some nutty tones. Peanut, specifically. Like tobacco mixed with peanut shells. Pretty solid amount of flavor at 2%. Pretty good depth, medium thickness. Can’t say I enjoyed it a whole lot by itself but I certainly wouldn’t hesitate to mix a tobacco recipe that uses it.  Unfortunately, I did not see one. **TRASH 13**
+Very vague and very light spice notes, light to medium tobacco base, and just a touch of brown sugary sweetness. Woody, with some nutty tones. Peanut, specifically. Like tobacco mixed with peanut shells. Pretty solid amount of flavor at 2%. Pretty good depth, medium thickness. Can’t say I enjoyed it a whole lot by itself but I certainly wouldn’t hesitate to mix a tobacco recipe that uses it. Unfortunately, I did not see one. **TRASH 13**
 
 **Whipped Cream**
 
-Terrible. It tastes like whipped cream, but also tastes like it has lemon dish soap in it. If you’ve ever used Lemon Joy to hand wash dishes, it’s a pretty recognizable thing. Tastes like I wanted to make vanilla whipped cream with two tsps of vanilla but I only had one tsp of vanilla, so I subbed in Lemon Joy for one of the tsp because I was dropped on my head and fed lead-based paint chips as a child. I can’t understand how this gets manufactured and sold to people, it’s so bad.  **TRASH 14**
+Terrible. It tastes like whipped cream, but also tastes like it has lemon dish soap in it. If you’ve ever used Lemon Joy to hand wash dishes, it’s a pretty recognizable thing. Tastes like I wanted to make vanilla whipped cream with two tsps of vanilla but I only had one tsp of vanilla, so I subbed in Lemon Joy for one of the tsp because I was dropped on my head and fed lead-based paint chips as a child. I can’t understand how this gets manufactured and sold to people, it’s so bad. **TRASH 14**
 
-# FLAVOUR ART
+## FLAVOUR ART
 
 **7 Leaves Ultimate**
 
-Woody, dry tobacco, very light spice, like an autumn spice with the slightest hint of anise, not enough to be licorice-y. It’s not perfumy, but it’s kinda cologne-y in that wood and spice combination and hint of tobacco, kinda tastes like it could be a men’s cologne. The woodiness is similar to sandalwood but not exactly sandalwood.  It’s definitely not pine or oak, though. Very distinctly brown sugar sweetness. That’s mostly what I get, wood and brown sugar, with spice. Not much tobacco really, just a leafy hint of it..
+Woody, dry tobacco, very light spice, like an autumn spice with the slightest hint of anise, not enough to be licorice-y. It’s not perfumy, but it’s kinda cologne-y in that wood and spice combination and hint of tobacco, kinda tastes like it could be a men’s cologne. The woodiness is similar to sandalwood but not exactly sandalwood. It’s definitely not pine or oak, though. Very distinctly brown sugar sweetness. That’s mostly what I get, wood and brown sugar, with spice. Not much tobacco really, just a leafy hint of it..
 
 I need it for [Chem Twista Lime](https://alltheflavors.com/recipes/102517#chem_twista_lime_by_chemicalburnvictim). **TASK 28**
 
@@ -235,19 +235,19 @@ Brighter, spicier anise with some woody accents and a light but almost creamy ba
 
 **Apple Pie**
 
-I really just get pie crust from it. No apple. Just the slightest bit of fruity sweetness. No spice, not really, maybe they like wave some cinnamon over the vat of the stuff at FA HQ but don’t actually drop it in. But it’s a really solid pie crust, probably the most solid.  It’s strong and shows up in a mix and tastes like buttery if a bit doughy crust. Very full and dense crust, no off notes, just missing ones.
+I really just get pie crust from it. No apple. Just the slightest bit of fruity sweetness. No spice, not really, maybe they like wave some cinnamon over the vat of the stuff at FA HQ but don’t actually drop it in. But it’s a really solid pie crust, probably the most solid. It’s strong and shows up in a mix and tastes like buttery if a bit doughy crust. Very full and dense crust, no off notes, just missing ones.
 
 I need it for my [1-2-3 Butter Pecan Pie](https://alltheflavors.com/recipes/132750#1_2_3_butter_pecan_pie_by_id10_t). **TASK 31**
 
 But I will be mixing that and tasting it with the intention of trying to make it better, and this [Butter Pecan Crumble](https://alltheflavors.com/recipes/288635#butter_pecan_crumble_by_kuri_santou) looks like about where I would have wound up, so I’ll go ahead and try that and see if improving Butter Pecan Pie is something I still need to do or something that’s already been done for me. **TASK 32**
 
-Also, here’s a recipe that specifically states that the mixer has already done that for me, so of course I have to try [Butter Tarts](https://alltheflavors.com/recipes/141193) - it looks amazing.  **TASK 33**
+Also, here’s a recipe that specifically states that the mixer has already done that for me, so of course I have to try [Butter Tarts](https://alltheflavors.com/recipes/141193) - it looks amazing. **TASK 33**
 
 I have already planned to mix other recipes that use this, too.
 
 **Apricot**
 
-Very nice, authentic apricot. It’s one that everyone should probably own. It tastes much more natural than candied and not overly sweet. Top notes are mild, subtle yellow peachy-type of flavor. Pushing it higher doesn’t really make it less weak, it’s just a gentle type of fresh fruit flavor. A little dry, or at least not especially juicy, but not too dry.  Of note, I’m aware some people think it is aggressive and does stand out in a mix, but I’ve never had that issue using it with bold fruits. Not a dried or cooked type of flavor at all. I don’t get any sort of harshness from this, overall it’s just a smooth and gentle flavor. Its exhale starts and finishes weaker: it’s more of a middle-range flavor, with a nice full fleshy body like you’d expect from a fresh apricot. Hence why I like to use it to help fill out various other stone fruits - peaches, plums, nectarines, cherries - and it even works for some tropical fruits like mango and papaya. It’s not very aggressive or prone to standing out too much in mix with other fruits, in my experience, although I’ve had a tobacco recipe that used it at 1% and I didn’t think it would show up at all, but it definitely did. . So, mixed results. Works especially well with flavors that have their own aggressive top notes and you want to make it a fuller bodied fruit without pushing those flavors higher and getting more harshness or having them run floral on you, like peaches, or for filling out a cherry without letting it get too mediciny if you want a fresh natural cherry flavor.
+Very nice, authentic apricot. It’s one that everyone should probably own. It tastes much more natural than candied and not overly sweet. Top notes are mild, subtle yellow peachy-type of flavor. Pushing it higher doesn’t really make it less weak, it’s just a gentle type of fresh fruit flavor. A little dry, or at least not especially juicy, but not too dry. Of note, I’m aware some people think it is aggressive and does stand out in a mix, but I’ve never had that issue using it with bold fruits. Not a dried or cooked type of flavor at all. I don’t get any sort of harshness from this, overall it’s just a smooth and gentle flavor. Its exhale starts and finishes weaker: it’s more of a middle-range flavor, with a nice full fleshy body like you’d expect from a fresh apricot. Hence why I like to use it to help fill out various other stone fruits - peaches, plums, nectarines, cherries - and it even works for some tropical fruits like mango and papaya. It’s not very aggressive or prone to standing out too much in mix with other fruits, in my experience, although I’ve had a tobacco recipe that used it at 1% and I didn’t think it would show up at all, but it definitely did. . So, mixed results. Works especially well with flavors that have their own aggressive top notes and you want to make it a fuller bodied fruit without pushing those flavors higher and getting more harshness or having them run floral on you, like peaches, or for filling out a cherry without letting it get too mediciny if you want a fresh natural cherry flavor.
 
 I need it for [Counter Punch](https://alltheflavors.com/recipes/154364#counter_punch_by_id10_t) **TASK 34**
 
@@ -267,7 +267,7 @@ Unfortunately for my getting rid of flavors project, there is one such recipe: [
 
 **Aurora**
 
-Heavy, realistic lime zest top end with some bitterness and a much softer but sweet, limeade-type body that almost feels effervescent. Perfect for the “twist of lime” in a cocktail because of that zesty lime and sweeter body.  
+Heavy, realistic lime zest top end with some bitterness and a much softer but sweet, limeade-type body that almost feels effervescent. Perfect for the “twist of lime” in a cocktail because of that zesty lime and sweeter body.
 
 I need this for something I’m working on. I also want to try [Strawora Limealis](https://alltheflavors.com/recipes/145022#strawrora_limealis_by_humanpuck), though I imagine that if I love it I’ll soon be trying it again with a rum flavor or two or FLV Tequila Agave added to it. **TASK 39**
 
@@ -279,7 +279,7 @@ Very typical FA Flavor. Realistic, sightly underripe banana, all thin, dry top n
 
 **Banana Candy**
 
-When WF came out with a banana candy, I really appreciated the embracing of the candy, since so many other bananas taste like banana runts or banana laffy taffy but don’t just come right out and admit it. But then Chef’s Super Concentrates (RIP) comes out with one that’s super potent and spot-on banana runts but the “at least they’re honest about it” novelty starts to wear off. Then FA’s comes out and by now, I’m not interested in candy banana. But there’s nothing wrong with this one. It  tastes very much like those banana puffy candies, but with a little less punch of flavor than those have. If you’re really into those foamy banana candies you might want to pick this one up, but I don’t feel a need for it personally. **TRASH 18**
+When WF came out with a banana candy, I really appreciated the embracing of the candy, since so many other bananas taste like banana runts or banana laffy taffy but don’t just come right out and admit it. But then Chef’s Super Concentrates (RIP) comes out with one that’s super potent and spot-on banana runts but the “at least they’re honest about it” novelty starts to wear off. Then FA’s comes out and by now, I’m not interested in candy banana. But there’s nothing wrong with this one. It tastes very much like those banana puffy candies, but with a little less punch of flavor than those have. If you’re really into those foamy banana candies you might want to pick this one up, but I don’t feel a need for it personally. **TRASH 18**
 
 I promise updates next week. Things are steeping.
 

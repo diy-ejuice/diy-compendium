@@ -9,7 +9,7 @@ Starting flavor count: 2,566 (down from 2,972)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-# CAPELLA
+## CAPELLA
 
 **Fig**
 
@@ -17,27 +17,27 @@ Update. I tried [Go fig-ure](https://alltheflavors.com/recipes/26440#go_fig_ure_
 
 1-2-3 CAP Fig Experiment 1 **TASK 1**
 
-Co. | Flavor | %
----|---|----
-WF| Bumbleberry | 3
-CAP | Fig | 2
-FLV | Boysenberry | 1
+| Co. | Flavor      | %   |
+| --- | ----------- | --- |
+| WF  | Bumbleberry | 3   |
+| CAP | Fig         | 2   |
+| FLV | Boysenberry | 1   |
 
 1-2-3 CAP Fig Experiment 2 **TASK 2**
 
-Co. | Flavor | %
----|---|----
-WF| Bumbleberry | 2
-CAP | Fig | 1
-VT| Banana Custard | 3
+| Co. | Flavor         | %   |
+| --- | -------------- | --- |
+| WF  | Bumbleberry    | 2   |
+| CAP | Fig            | 1   |
+| VT  | Banana Custard | 3   |
 
 1-2-3 CAP Fig Experiment 3 **TASK 3**
 
-Co. | Flavor | %
----|---|----
-WF| Bumbleberry | 3
-CAP | Fig | 2
-TFA| Papaya| 1
+| Co. | Flavor      | %   |
+| --- | ----------- | --- |
+| WF  | Bumbleberry | 3   |
+| CAP | Fig         | 2   |
+| TFA | Papaya      | 1   |
 
 **Custard Cake**
 
@@ -49,18 +49,18 @@ Update. I tried [Chocomisu](https://alltheflavors.com/recipes/226271) and rounde
 
 This [After 8](https://alltheflavors.com/recipes/194544) recipe is awesome, mostly because FLV Crème De Menthe is awesome. I probably won’t mix it again though, because jbird’s [Skinny Mint](https://alltheflavors.com/recipes/6997#skinny_mint_by_jbird) is a thing that exists. It’s not that Skinny Mint is a “better” recipe, it’s just personal profile preference. I’d rather vape (and rather eat) Thin Mints than After 8 mints. And I only need so many mint chocolate recipes on my list of personal faves.
 
-Even though neither of these recipes wind up on my must-make-again list, they both convinced me that CAP Double Chocolate V2 is an ingredient I should explore further. My first thought is that maybe I’m looking in the wrong place in my attempts to remix my old chocolate RY4 recipe.  I’m gonna try something.
+Even though neither of these recipes wind up on my must-make-again list, they both convinced me that CAP Double Chocolate V2 is an ingredient I should explore further. My first thought is that maybe I’m looking in the wrong place in my attempts to remix my old chocolate RY4 recipe. I’m gonna try something.
 
 Ravenous - CAPDCV2 Version **TASK 5**
 
-Co. | Flavor | %
----|---|----
-JF | RY4 Double| 4
-FLV | Red Burley | 0.75
-FLV | Kentucky Blend | 0.25
-CAP | Double Chocolate V2 | 1.5
-WF | Salted Caramel | 2.0
-CAP| French Vanilla  | 0.75
+| Co. | Flavor              | %    |
+| --- | ------------------- | ---- |
+| JF  | RY4 Double          | 4    |
+| FLV | Red Burley          | 0.75 |
+| FLV | Kentucky Blend      | 0.25 |
+| CAP | Double Chocolate V2 | 1.5  |
+| WF  | Salted Caramel      | 2.0  |
+| CAP | French Vanilla      | 0.75 |
 
 The other thought is that I should try more CAP Double Chocolate V2 recipes, such as:
 [Top Tier Cookie](https://alltheflavors.com/recipes/248694#top_tier_cookie_by_sensory_overload). I have some concerns about a couple of those ingredients but the reviews sold me. **TASK 6**
@@ -81,11 +81,11 @@ No idea how I managed to miss this [Apple Flapple](https://alltheflavors.com/rec
 
 Lots of recipes that mix apple and melon together, but [Deuces Wild](https://alltheflavors.com/recipes/231055#deuces_wild_by_rocky02852) stands out for its simplicity. **TASK 13**
 
-# FLAVORAH
+## FLAVORAH
 
 **Native Tobacco**
 
-Max Savage’s favorite thing to add to everything at 1%. I think this is my favorite standalone tobacco. Pretty much tastes like inhaling from a bag of quality roll-your-own cigarette tobacco, but with a slight spiciness and a hint of honey-like sweetness.  
+Max Savage’s favorite thing to add to everything at 1%. I think this is my favorite standalone tobacco. Pretty much tastes like inhaling from a bag of quality roll-your-own cigarette tobacco, but with a slight spiciness and a hint of honey-like sweetness.
 
 My main need for this is to make more [RY4 Custard](https://alltheflavors.com/recipes/134966#ry4_custard_developed_by_developed). Spiced tobacco with creamy custard and caramel notes and I love it. **TASK 14**
 
@@ -115,7 +115,7 @@ I need it for [Burly Boiz](https://alltheflavors.com/recipes/69680#burly_boiz_by
 
 **Oatmeal Raisin**
 
-Extremely potent, mostly raisin. I do not get a clear oatmeal cookie flavor out of this behind the raisin, but there’s some bakery something hiding back off in there, and a more prominent brown sugar note. Anyway, this can be the raisin in your oatmeal raisin cookie and tastes pretty on point for that, like a raisin that’s been baked into a cookie, but is on the overly musty side. For a raisin that hasn’t been baked and isn’t as funky, I much prefer their Rum Raisin. That bit of rum can be even easier to work around than the serious mustiness here, and it’s a little more forgiving as far as the concentration. Even just 0.75% Oatmeal Raisin can be a steamrolling amount and at 2% the funky mustiness rolls over into rotten-ish and yucky for me.  
+Extremely potent, mostly raisin. I do not get a clear oatmeal cookie flavor out of this behind the raisin, but there’s some bakery something hiding back off in there, and a more prominent brown sugar note. Anyway, this can be the raisin in your oatmeal raisin cookie and tastes pretty on point for that, like a raisin that’s been baked into a cookie, but is on the overly musty side. For a raisin that hasn’t been baked and isn’t as funky, I much prefer their Rum Raisin. That bit of rum can be even easier to work around than the serious mustiness here, and it’s a little more forgiving as far as the concentration. Even just 0.75% Oatmeal Raisin can be a steamrolling amount and at 2% the funky mustiness rolls over into rotten-ish and yucky for me.
 
 Already planning to mix [1312 ACAB](https://alltheflavors.com/recipes/278386#1312_acab_by_wolfwheeler). I’ll try [Apple Oat Crumble RY4](https://alltheflavors.com/recipes/286870#apple_oat_crumble_ry4_by_nowar) even though 2.5% Oatmeal Raisin makes me nervous. **TASK 22**
 
@@ -127,7 +127,7 @@ I get a warm half-orange half tangerine out of this one. The fruit flavor tastes
 
 Bright, slightly spicy, notably nutty, slightly woody, some caramelly sweetness, very smooth tobacco with no ash.
 
-Quite nutty. A bit woody, specifically cedar-y, but that’s very light, just a touch of it.. Surprisingly sweet, not super sweet, but has some caramelly sweetness to it. No Ash.  Very smooth, almost a creamy mouthfeel. Not as bright as FLV Virginia, but pretty bright. Much more complex than Virginia. Not as spicy as FLV Turkish, but has the same kind of spice note, just toned way down. That spice note is similar to a touch of cinnamon and a touch of cardamom, maybe a bit of clove or star anise as well, but it’s indistinct and very light, not prominent like in Turkish. It is actually pretty similar to Turkish otherwise.  It’s brighter than Turkish, which is already pretty bright, but where Turkish is more hay-like or “grassy” as they say, Oriental is more nutty.  It has that same kind of slightly cedar-like woodiness. Pretty forgiving as far as concentration goes, 2% just tasted like 1% only bolder, more robust, didn’t really bring out any off notes other than that caramelly sweetness in the base there getting a hint of butter-like taste to it. Not a lot, but enough to make it really start to taste of buttery caramel rather than being just caramel-ish.
+Quite nutty. A bit woody, specifically cedar-y, but that’s very light, just a touch of it.. Surprisingly sweet, not super sweet, but has some caramelly sweetness to it. No Ash. Very smooth, almost a creamy mouthfeel. Not as bright as FLV Virginia, but pretty bright. Much more complex than Virginia. Not as spicy as FLV Turkish, but has the same kind of spice note, just toned way down. That spice note is similar to a touch of cinnamon and a touch of cardamom, maybe a bit of clove or star anise as well, but it’s indistinct and very light, not prominent like in Turkish. It is actually pretty similar to Turkish otherwise. It’s brighter than Turkish, which is already pretty bright, but where Turkish is more hay-like or “grassy” as they say, Oriental is more nutty. It has that same kind of slightly cedar-like woodiness. Pretty forgiving as far as concentration goes, 2% just tasted like 1% only bolder, more robust, didn’t really bring out any off notes other than that caramelly sweetness in the base there getting a hint of butter-like taste to it. Not a lot, but enough to make it really start to taste of buttery caramel rather than being just caramel-ish.
 
 I need it for the Wild Horses recipe that has come up several times recently. I also need it for [Arabian Night’s](https://alltheflavors.com/recipes/86198#arabian_night_s_by_fear) - love the recipe, hate the apostrophe. Just realized I failed to leave this recipe a review when I had it before. Will correct that this time. **TASK 23**
 

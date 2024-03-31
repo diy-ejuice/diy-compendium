@@ -9,7 +9,7 @@ Starting flavor count: 2,714 (down from 2,975 originally)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-# Flavor West
+## Flavor West
 
 **Absinthe**
 
@@ -17,7 +17,7 @@ Accidentally skipped this one last week. It’s licking melted black jelly bean 
 
 **Birthday Cake**
 
-Mostly vanilla frosting, with some drier cake behind it. Mingled with that vanilla frosting is something that tastes like food coloring, like FW Sprinkles does. Basically tastes like Sprinkles in a lot of vanilla frosting, on a piece of  somewhat crappy, slightly stale cake. Frosting is sweet but not sweet enough. It has some decent body to the cake and does taste like cake, but lacks the kind of richness and butteriness you look for in a cake, and isn’t moist at all.
+Mostly vanilla frosting, with some drier cake behind it. Mingled with that vanilla frosting is something that tastes like food coloring, like FW Sprinkles does. Basically tastes like Sprinkles in a lot of vanilla frosting, on a piece of somewhat crappy, slightly stale cake. Frosting is sweet but not sweet enough. It has some decent body to the cake and does taste like cake, but lacks the kind of richness and butteriness you look for in a cake, and isn’t moist at all.
 
 I used it to make [Holy Peppus!](https://alltheflavors.com/recipes/92939#holy_peepus_yearofmixing_by_id10_t). I think it was supposed to be the start of a series of sacrilegious recipes, but I was told that if I posted the Mohammed one, it would be taken down, so I stopped. Anyway, I know I could do this better now, as it was over 4 years ago. But I would probably still put the FW Birthday Cake in there, because it worked. I’m going to try it again and think about how I could go about improving it. **TASK 1**
 
@@ -67,9 +67,9 @@ It’s a shame because a blackberry mojito vape sounds amazing, but this is just
 
 **Blood Orange**
 
-An orange flavor whose dark and earthy notes clearly make it a blood orange. There’s a lot of love out there for this flavor because it’s such a nice natural, non-candied flavor. But I also get a pretty strong kick in the throat from it, as well as some pithy bitterness. It’s not the bloodiest of blood oranges, but that probably makes it more versatile. It works with other orange/tangerine/mandarin flavors without necessarily turning them into a blood orange.  
+An orange flavor whose dark and earthy notes clearly make it a blood orange. There’s a lot of love out there for this flavor because it’s such a nice natural, non-candied flavor. But I also get a pretty strong kick in the throat from it, as well as some pithy bitterness. It’s not the bloodiest of blood oranges, but that probably makes it more versatile. It works with other orange/tangerine/mandarin flavors without necessarily turning them into a blood orange.
 
-While I can’t off the top of my head think of recipe I *need* this for, it’s used in a lot of them and here are the ones that most interest me:
+While I can’t off the top of my head think of recipe I _need_ this for, it’s used in a lot of them and here are the ones that most interest me:
 
 [POG](https://alltheflavors.com/recipes/263209#p_o_g_by_iloveweed1864) **TASK 10** hard to pass up a good-looking PAWG... Uh, I mean, POG
 
@@ -89,7 +89,7 @@ Edit: [Fantastic](https://alltheflavors.com/recipes/32883). **TASK 16.5**
 
 **Blue Ice**
 
-I’ve seen marketing for this that used a picture of what looks like a blue raspberry slush for some reason, but this does not taste like a blue raspberry. It’s literally just FW Blueberry, which is a fine blueberry, and menthol, and it’s fairly well balanced so that neither overwhelms the other. I like it. Although, if you have both FW Blueberry and some menthol it seems completely unnecessary to own, unless there’s a recipe that calls for it and you don’t want to have to guess the ratio to add the right amounts of blueberry and menthol. I didn’t see a recipe with it that I felt I just *had* to try, so imma **TRASH 4** it.  
+I’ve seen marketing for this that used a picture of what looks like a blue raspberry slush for some reason, but this does not taste like a blue raspberry. It’s literally just FW Blueberry, which is a fine blueberry, and menthol, and it’s fairly well balanced so that neither overwhelms the other. I like it. Although, if you have both FW Blueberry and some menthol it seems completely unnecessary to own, unless there’s a recipe that calls for it and you don’t want to have to guess the ratio to add the right amounts of blueberry and menthol. I didn’t see a recipe with it that I felt I just _had_ to try, so imma **TRASH 4** it.
 
 **Blue Raspberry**
 
@@ -129,7 +129,7 @@ That’s just the ones I already know I need it for. There are others I want to 
 
 I guess this is pretty accurate. It kinda tastes like what I think Blueberry Cotton Candy should taste like, but I can’t say I’ve ever had Blueberry Cotton Candy. Every blue cotton candy I’ve ever seen was blue raspberry flavored, not blueberry, just blue food dyed cotton candy.
 
-And yet, here it is, and it really tastes like blueberry plus cotton candy. Concentration testing, I got a slight chemical edge at 3 and 4%. I don’t recommend taking it up that high. It still seemed to be there at 2%, but very faint, possibly easy to cover up and could even have been my imagination from testing it at 4% first. I did not get any off notes at 1.5%, but it’s not a strong flavor there either. It is dry though. Not the most dry thing ever, but notably dry, like cotton candy flavors can be.  I think I would use FW Blueberry Cotton Candy at around 1.5% before adding straight ethyl maltol to a dark berry mix, but I can’t think of two many cases where I’d be adding EM to a berry mix, so this flavor is gathering dust. CAP Blue Raspberry Cotton Candy will do a similar job, and it’s more likely that if I’m wanting a blue candy flavor it’s that artificial blue razz candy flavor I’m after, rather than blueberry. **TRASH 5**
+And yet, here it is, and it really tastes like blueberry plus cotton candy. Concentration testing, I got a slight chemical edge at 3 and 4%. I don’t recommend taking it up that high. It still seemed to be there at 2%, but very faint, possibly easy to cover up and could even have been my imagination from testing it at 4% first. I did not get any off notes at 1.5%, but it’s not a strong flavor there either. It is dry though. Not the most dry thing ever, but notably dry, like cotton candy flavors can be. I think I would use FW Blueberry Cotton Candy at around 1.5% before adding straight ethyl maltol to a dark berry mix, but I can’t think of two many cases where I’d be adding EM to a berry mix, so this flavor is gathering dust. CAP Blue Raspberry Cotton Candy will do a similar job, and it’s more likely that if I’m wanting a blue candy flavor it’s that artificial blue razz candy flavor I’m after, rather than blueberry. **TRASH 5**
 
 **Blueberry Graham Waffle**
 
@@ -157,7 +157,7 @@ Get in, losers, we’re going butter pecaning! There are so many butter pecan re
 
 So many FW Butter Pecan + CAP Vanilla Custard Recipes, I feel like I need to organize them by categories!
 
-FW Butter Pecan + CAP Vanilla Custard + FW Butterscotch (Natural) + FW Tres Leches  recipes:
+FW Butter Pecan + CAP Vanilla Custard + FW Butterscotch (Natural) + FW Tres Leches recipes:
 
 [Reserved Duchess](https://alltheflavors.com/recipes/32097#reserved_duchess_by_method1).I never tried the original Duchess Reserve so I was never in a hurry to mix clones/remixes, but they look pretty tasty. **TASK 29**
 
@@ -186,13 +186,13 @@ FW Butter Pecan + CAP Vanilla Custard + TFA DX Peanut Butter recipes:
 [CHINCHILLA](https://alltheflavors.com/recipes/212276#chinchilla_by_sensory_overload). **TASK 36**
 
 [Peanut Butta Pie](https://alltheflavors.com/recipes/214842#peanut_butta_pie_by_rug_ly). **TASK 37**
-  
+
 Additional FW Butter Pecan + CAP Vanilla Custard recipes:
 
 [Angels & Demons](https://alltheflavors.com/recipes/114743#angels_and_demons_by_neller).**TASK 38**
 
 [Toffee Custard](https://alltheflavors.com/recipes/174996#toffee_custard_developed_by_developed). **TASK 39**
-  
+
 Now I can put the CAP Vanilla Custard away. FW Butter Pecan + TFA RY4 Double recipes without CAP Vanilla Custard:
 
 [Hazelnut RY4](https://alltheflavors.com/recipes/205627#hazelnut_ry4_developed_by_developed). **TASK 40**
@@ -201,7 +201,7 @@ Now I can put the CAP Vanilla Custard away. FW Butter Pecan + TFA RY4 Double rec
 
 [Naughty Tobacco](https://alltheflavors.com/recipes/252622#naughty_tob_cco_by_dave80). **TASK 42**
 
- FW Butter Pecan + CAP Sugar Cookie recipes:
+FW Butter Pecan + CAP Sugar Cookie recipes:
 
 A couple of the above, plus [Peek-In Pie](https://alltheflavors.com/recipes/55591#peek_in_pie_by_folkart). **TASK 43**
 
@@ -266,7 +266,7 @@ I’ll try this [October’s Nocturnal](https://alltheflavors.com/recipes/243749
 
 **Buttered Popcorn**
 
-Terrible.  It tastes like butter buds - that dry butter flavoring you can sprinkle on stuff - mixed with donut glaze - and then vomited up. At first it’s just a weirdly sweet butter flavor - not aggressively fake butter - but dry - and then towards the end of the exhale it gets increasingly creamy and less dry and more vomity. Between the dryness, and the barf, exhaling this through the nose was so much like puking and having some of the puke come out though my nose and that I could almost feel the burning stomach acid in the sinuses.  **TRASH 9**
+Terrible. It tastes like butter buds - that dry butter flavoring you can sprinkle on stuff - mixed with donut glaze - and then vomited up. At first it’s just a weirdly sweet butter flavor - not aggressively fake butter - but dry - and then towards the end of the exhale it gets increasingly creamy and less dry and more vomity. Between the dryness, and the barf, exhaling this through the nose was so much like puking and having some of the puke come out though my nose and that I could almost feel the burning stomach acid in the sinuses. **TRASH 9**
 
 **Butterscotch**
 
@@ -284,7 +284,7 @@ What else should I mix with it?
 
 **Butterscotch (Natural)**
 
-I don’t know what’s supposed to be natural about it - like what, did they pick it off of a butterscotch tree? It’s pretty similar to the regular Butterscotch but it’s sweeter, creamy without really being buttery - lacking that buttery depth, and the finish is less overtly candied. There’s also a dash of vanilla in middle there. I know the original FW Butterscotch has diketones and this one doesn’t, which would explain why the original has that buttery richness and this one doesn’t. I think they’re using butyric acid for the creaminess but at 3% and a six-day steep it’s not tasting terribly barfy to me, just a hint of burp behind the hint vanilla if I really focus on it. It might be a problem to someone who’s even more sensitive to it than I am, though.  
+I don’t know what’s supposed to be natural about it - like what, did they pick it off of a butterscotch tree? It’s pretty similar to the regular Butterscotch but it’s sweeter, creamy without really being buttery - lacking that buttery depth, and the finish is less overtly candied. There’s also a dash of vanilla in middle there. I know the original FW Butterscotch has diketones and this one doesn’t, which would explain why the original has that buttery richness and this one doesn’t. I think they’re using butyric acid for the creaminess but at 3% and a six-day steep it’s not tasting terribly barfy to me, just a hint of burp behind the hint vanilla if I really focus on it. It might be a problem to someone who’s even more sensitive to it than I am, though.
 
 I need it for a couple of the FW Butter Pecan recipes already on the to-do list.
 
@@ -300,7 +300,7 @@ Add to that:
 
 **Butterscotch Ripple**
 
-I’m aware that some people detect a weird off-note from this one, but I can’t find it. As far as I’m concerned, that’s some tasty stuff right here. It isn’t really what it’s supposed to be, which is ice cream with ripples of butterscotch in it. It’s way too butterscotch-forward for that, while at the same time the butterscotch is a bit more caramelly and not very distinctly butterscotch - I think because it lacks any of that artificial candy disk butterscotch flavor. But it’s also way too vanilla and creamy for just a butterscotch sauce or drizzle. If you want a butterscotch vape, you’re going to need another butterscotch to add to this.  But that’s sort of nitpicky and irrelevant because it’s super duper tasty, almost like a butterscotch and caramel shake with extra butterscotch in a single concentrate. Not quite as thick and custardy as solid ice cream, that’s why I call it a shake. It’s also blended together so it’s sort-of one-noted, but what a delicious note that is! It’s been so good in everything I’ve put it in so far.
+I’m aware that some people detect a weird off-note from this one, but I can’t find it. As far as I’m concerned, that’s some tasty stuff right here. It isn’t really what it’s supposed to be, which is ice cream with ripples of butterscotch in it. It’s way too butterscotch-forward for that, while at the same time the butterscotch is a bit more caramelly and not very distinctly butterscotch - I think because it lacks any of that artificial candy disk butterscotch flavor. But it’s also way too vanilla and creamy for just a butterscotch sauce or drizzle. If you want a butterscotch vape, you’re going to need another butterscotch to add to this. But that’s sort of nitpicky and irrelevant because it’s super duper tasty, almost like a butterscotch and caramel shake with extra butterscotch in a single concentrate. Not quite as thick and custardy as solid ice cream, that’s why I call it a shake. It’s also blended together so it’s sort-of one-noted, but what a delicious note that is! It’s been so good in everything I’ve put it in so far.
 
 I need it for [RY4 Custard](https://alltheflavors.com/recipes/134966#ry4_custard_developed_by_developed), which I’m just going to keep making at least until I run out of TFA Vanilla Custard. TFA Vanilla Custard has a peppery off note for me so I might not restock it, but it works so well here. **TASK 68**
 
@@ -324,11 +324,11 @@ And [RY4 Cow](https://alltheflavors.com/recipes/113428#ry4_cow_by_thevapinglizar
 
 And [Ruyan Butter](https://alltheflavors.com/recipes/214258#ruyan_butter_by_mindfloodz). **TASK 77**
 
-And [Butterscotch Reserve](https://alltheflavors.com/recipes/80057#butterscotch_reserve_by_ihavenoidea).  **TASK 78**
+And [Butterscotch Reserve](https://alltheflavors.com/recipes/80057#butterscotch_reserve_by_ihavenoidea). **TASK 78**
 
-And [Seven Sins: Gluttony](https://alltheflavors.com/recipes/235894#seven_sins_gluttony_by_kitsune).  **TASK 79**
+And [Seven Sins: Gluttony](https://alltheflavors.com/recipes/235894#seven_sins_gluttony_by_kitsune). **TASK 79**
 
-And finally, [Grahamercy](https://alltheflavors.com/recipes/147967#grahamercy_by_catospeakeasy).  **TASK 80**
+And finally, [Grahamercy](https://alltheflavors.com/recipes/147967#grahamercy_by_catospeakeasy). **TASK 80**
 
 **Butterscotch Tobacco**
 

@@ -9,19 +9,21 @@ Starting flavor count: 2,541 - 9 because someone pointed out (thanks again!) tha
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-# CAPELLA Fresh Pineapple
+## CAPELLA
+
+**Fresh Pineapple**
 
 Update. My first attempt to remix this [recipe](https://alltheflavors.com/recipes/195140#iyslpc_by_id10_t) into Another Pina Colada Recipe by consolidating the two pineapples into one with my new favorite, CAP Fresh Pineapple, was unbalanced, unsurprisingly, but promising.
 
 This is what I mixed:
 
-Co. | Flavor | %
----|---|----
-CAP | Fresh Pineapple | 5
-WF | Coconut Custard | 1.25
-FA | Coconut | 1
-FA | Jamaican Rum | 1
-BCF | WS-23 (30%) | 0.5
+| Co. | Flavor          | %    |
+| --- | --------------- | ---- |
+| CAP | Fresh Pineapple | 5    |
+| WF  | Coconut Custard | 1.25 |
+| FA  | Coconut         | 1    |
+| FA  | Jamaican Rum    | 1    |
+| BCF | WS-23 (30%)     | 0.5  |
 
 Not too much pineapple, but too little coconut and too little rum. Too little flavor overall.
 
@@ -29,31 +31,31 @@ This is what I’ll mix next time:
 
 Another Pina Colada V2 **TASK 1**
 
-Co. | Flavor | %
----|---|----
-CAP | Fresh Pineapple | 6
-WF | Coconut Custard | 1.5
-FA | Coconut | 1.25
-FA | Jamaican Rum | 1.5
-BCF | WS-23 (30%) | 0.5
+| Co. | Flavor          | %    |
+| --- | --------------- | ---- |
+| CAP | Fresh Pineapple | 6    |
+| WF  | Coconut Custard | 1.5  |
+| FA  | Coconut         | 1.25 |
+| FA  | Jamaican Rum    | 1.5  |
+| BCF | WS-23 (30%)     | 0.5  |
 
 Because sometimes that’s what we have to do, just keep making minor adjustments until it all clicks into just the right places.
 
-# FLAVORAH
+## FLAVORAH
 
 **Back Bar Bitters**
 
 Getting ready to go in on some fancy gin flavors made me realize I went from part 26 to part 27 and forgot FLV Back Bar Bitters.
 
-Not really bitter to vape. It has a nice spicy depth to it: cinnamon, ginger, and cloves, along with some floral touch. It has some fruity sweetness before it cuts to a much less sweet aftertaste. Aromatic Bitters should taste of orange peel but this is more like candied orange peel, all the sweetness in here is tied to the orange, and it also has just a bit of something darker underneath, like dried fig but not obviously fig. Something in the prune or raisin family. It tastes like it would be great in a holiday bakery like fruitcake, or for something like mulled wine.  I need it for [Gourd is Dead](https://alltheflavors.com/recipes/236620#gourd_is_dead_by_wolfwheeler). I wan to try this [Bitter Sweet Passion](https://alltheflavors.com/recipes/143760#bitter_sweet_passion_passion_fruit_coconut_orange_bitters_by_mech_mod_rn) passionfruit, coconut, orange bitters recipe. **TASK 2**
+Not really bitter to vape. It has a nice spicy depth to it: cinnamon, ginger, and cloves, along with some floral touch. It has some fruity sweetness before it cuts to a much less sweet aftertaste. Aromatic Bitters should taste of orange peel but this is more like candied orange peel, all the sweetness in here is tied to the orange, and it also has just a bit of something darker underneath, like dried fig but not obviously fig. Something in the prune or raisin family. It tastes like it would be great in a holiday bakery like fruitcake, or for something like mulled wine. I need it for [Gourd is Dead](https://alltheflavors.com/recipes/236620#gourd_is_dead_by_wolfwheeler). I wan to try this [Bitter Sweet Passion](https://alltheflavors.com/recipes/143760#bitter_sweet_passion_passion_fruit_coconut_orange_bitters_by_mech_mod_rn) passionfruit, coconut, orange bitters recipe. **TASK 2**
 
 **Banana**
 
 I also forgot banana when doing the Flavorah.
 
-I tastes like odd combination of Laffy Taffy candy banana top notes with rich, very thick, sweet, ripe, banana with a silky smooth mouthfeel. Personally I think it is heavenly! Especially that silky sweetness (sweeter than an actual banana, like a sweetened smooshed banana) - but stay under two 2% to avoid it having a hint of cloves (for me, others might be able to take it higher) but that’s okay because 1.5% is a full-flavored vape. I need it for [Burley Boiz](https://alltheflavors.com/recipes/69680#burly_boiz_by_matthewkocanda) and am very interested in [Bactus](https://alltheflavors.com/recipes/142530#bactus_by_ruderudi) banana + cactus, which would not seem like such a weird combination to you if you're familiar with the work of /u/philosaphucker. Really miss that guy.  **TASK 3**
+I tastes like odd combination of Laffy Taffy candy banana top notes with rich, very thick, sweet, ripe, banana with a silky smooth mouthfeel. Personally I think it is heavenly! Especially that silky sweetness (sweeter than an actual banana, like a sweetened smooshed banana) - but stay under two 2% to avoid it having a hint of cloves (for me, others might be able to take it higher) but that’s okay because 1.5% is a full-flavored vape. I need it for [Burley Boiz](https://alltheflavors.com/recipes/69680#burly_boiz_by_matthewkocanda) and am very interested in [Bactus](https://alltheflavors.com/recipes/142530#bactus_by_ruderudi) banana + cactus, which would not seem like such a weird combination to you if you're familiar with the work of /u/philosaphucker. Really miss that guy. **TASK 3**
 
-# FLAVORMONKS
+## FLAVORMONKS
 
 **Blackberry**
 
@@ -61,9 +63,9 @@ It tastes like real blackberry. It’s sweet and has some jammy body, but the to
 
 [Sagittarius A v3](https://alltheflavors.com/recipes/146548#sagittarius_a_v3_by_ediblemalfunction) is a nice-looking blackberry lemon-lime popsicle recipe. **TASK 4**
 
- **Divine Raspberry**
+**Divine Raspberry**
 
-I have 3 raspberries from Flavour Monks and the other two are much better. The Divine Raspberry is... not Divine. It’s candish raspberry and very sugary sweet, with a solid bit of spearmint, but otherwise tastes softly floral and a bit medicinal and leaves me with a  faint but nasty soapy aftertaste. FM Divine Raspberry is the wrong FM raspberry. Even if it doesn’t taste too floral or medicinal to you, it’s going to have pretty limited use, being raspberry mixed with spearmint.  **TRASH 1**
+I have 3 raspberries from Flavour Monks and the other two are much better. The Divine Raspberry is... not Divine. It’s candish raspberry and very sugary sweet, with a solid bit of spearmint, but otherwise tastes softly floral and a bit medicinal and leaves me with a faint but nasty soapy aftertaste. FM Divine Raspberry is the wrong FM raspberry. Even if it doesn’t taste too floral or medicinal to you, it’s going to have pretty limited use, being raspberry mixed with spearmint. **TRASH 1**
 
 **Gin & Tonic**
 
@@ -73,47 +75,47 @@ I was dismayed to not find a recipe already made for this, so I’ll start one.
 
 G&T V1 **TASK 5**
 
-Co.| Flavor | %
----|---|----
-FM | Gin & Tonic | 4
-FM | Pure Gin | 2
-VT | Persian Lime| 1
-FA | Aurora | 1
-FA | Polar Blast | 0.5
+| Co. | Flavor       | %   |
+| --- | ------------ | --- |
+| FM  | Gin & Tonic  | 4   |
+| FM  | Pure Gin     | 2   |
+| VT  | Persian Lime | 1   |
+| FA  | Aurora       | 1   |
+| FA  | Polar Blast  | 0.5 |
 
 **Gin in Paris**
 
 Deeply weird to me. It’s a nice enough vape, but just weird. FM Says “Our best gin, combined with pure orange based on a soft banana flavor.” It’s supposed to be sort of like mixing gin and a banana into an orange julius. You get how that’s weird, right?
 
-And it does have plenty of banana. It’s predominantly gin, with boozy junipery gin upfront, but it tastes like a ripe and creamy banana with a hint of banana candy after that and a little twist of orange zest on the end. It’s fun and interesting, but odd.What any of that has to do with Paris, I have no idea.  
+And it does have plenty of banana. It’s predominantly gin, with boozy junipery gin upfront, but it tastes like a ripe and creamy banana with a hint of banana candy after that and a little twist of orange zest on the end. It’s fun and interesting, but odd.What any of that has to do with Paris, I have no idea.
 
 I’m already planning to try [Gin Basil Smash](https://alltheflavors.com/recipes/52522#gin_basil_smash_by_besejuiced). The notes on that recipe, combined with the way Gin in Paris tastes to me, gives me an idea. It might be a crazy, stupid idea, but it’s an idea. Gin Basil Smash’s creator suggested that some INW Cactus would be a good addition to it. Cactus and banana... that made me think of the cactus king himself, Philosaphucker. Cactus, banana, and orange? That’s specifically Philosaphucker’s old [Detox](https://alltheflavors.com/recipes/15465#detox_by_philosaphucker) recipe. Could I add gin to a modified version of that? Holy crap, I think I could.
 
 Retox V1 **TASK 6**
 
-Co.| Flavor | %
----|---|----
-FM| Gin in Paris | 3
-VT | Banana Cream | 4
-CAP | Fresh Pineapple | 4
-VT | Yoghurt Drink | 4
-INW | Cactus | 1
+| Co. | Flavor          | %   |
+| --- | --------------- | --- |
+| FM  | Gin in Paris    | 3   |
+| VT  | Banana Cream    | 4   |
+| CAP | Fresh Pineapple | 4   |
+| VT  | Yoghurt Drink   | 4   |
+| INW | Cactus          | 1   |
 
 Gin-infused pineapple-banana-cactus-orange smoothie for those who just got out of detox and need to retox.
 
 **Gin Orange**
 
-Who doesn’t love gin & juice? Unfortunately, this one comes across as more of juniper forward boozy gin made with some bitter orange peel, as well as a sweeter orange finish. I’m missing the real OJ body here. It’s like their Pure Gin, but with the citrus that is part of that gin turned way up, drowning out some of the herbal nuance.  I want gin and OJ, but I’m getting just gin made with extra orange peel, served with an orange slice sunk to the bottom of the glass, basically. I want more orange. But, orange is hard, and there are other oranges, and the orange that’s there is good, so I can work with it, if I want Gin & Juice. It has to be an orange without too much peel though, because this already has peel a’plenty. Really think people are sleeping on a tiny dose of gin flavors to give fruit mixes some zing though, and this flavor is a reminder. Seems like a touch of it could really liven up a citrus mix both with the juniper and the orange peel and zest.  
+Who doesn’t love gin & juice? Unfortunately, this one comes across as more of juniper forward boozy gin made with some bitter orange peel, as well as a sweeter orange finish. I’m missing the real OJ body here. It’s like their Pure Gin, but with the citrus that is part of that gin turned way up, drowning out some of the herbal nuance. I want gin and OJ, but I’m getting just gin made with extra orange peel, served with an orange slice sunk to the bottom of the glass, basically. I want more orange. But, orange is hard, and there are other oranges, and the orange that’s there is good, so I can work with it, if I want Gin & Juice. It has to be an orange without too much peel though, because this already has peel a’plenty. Really think people are sleeping on a tiny dose of gin flavors to give fruit mixes some zing though, and this flavor is a reminder. Seems like a touch of it could really liven up a citrus mix both with the juniper and the orange peel and zest.
 
 I have an idea. It might turn out to have been a bad idea, but it’s an idea. Mimosa meets Gin & Juice.
 
 New Miserable Morning V1 **TASK 7**
 
-Co.| Flavor | %
----|---|----
-VT | Blood Orange Champagne | 5
-FM | Gin Orange | 3
-FW | Sweetener | 0.5
+| Co. | Flavor                 | %   |
+| --- | ---------------------- | --- |
+| VT  | Blood Orange Champagne | 5   |
+| FM  | Gin Orange             | 3   |
+| FW  | Sweetener              | 0.5 |
 
 **Monks in Love**
 
@@ -127,13 +129,13 @@ I have an idea, most of it stolen from [Dry Drunk](https://alltheflavors.com/rec
 
 Wet Drunk (Raspberry-Infused Gin) V1 **TASK 8**
 
-Co.| Flavor | %
----|---|----
-FM| OMGIN | 4
-SSA | Raspberry Syrup | 2
-FA | Raspberry | 1
-CAP | Sweet Currant | 1
-FA | Polar Blast | 0.5
+| Co. | Flavor          | %   |
+| --- | --------------- | --- |
+| FM  | OMGIN           | 4   |
+| SSA | Raspberry Syrup | 2   |
+| FA  | Raspberry       | 1   |
+| CAP | Sweet Currant   | 1   |
+| FA  | Polar Blast     | 0.5 |
 
 Instead of the mixed-berry gin of Dry Drunk, I want to roll all that mixed berry goodness into a distinctly raspberry flavor. Hoping the CAP Sweet Currant will give it some of the magic that the combination of FA Blackcurrant and CAP Sweet Guava gave the original recipe.
 
@@ -147,7 +149,7 @@ This came highly recommended to me so YMMV, but I wasn’t super impressed by it
 
 **Pure Gin**
 
-I’m not sure what exactly I expected, but for as expensive as this is, I expected it to be a lot more than marginally better than FLV and VT gins, and I’m not sure that it is. It’s it better? You bet. But THAT much better? Not really. On the other hand, it is the best, and sometimes you want the best, whether it’s a lot better or even just a bit better. It’s more legitimately boozy than those alternatives, but it also has a lot of complexity, and it’s wet. There’s some throat hit and it seems tied up with that booziness. It’s warm, like taking a shot of liquor, not dry or chemically harsh.  It’s really just straight-up gin. Fairly soft, but not quite as mellow as VT’s. I get a sharper kick of juniper berries than either VT or FLV gins, but not as shoving-Christmas-trees-up-my-nose as FA’s gin. There’s a lot of neat stuff going on behind that. Some aromatic herbals like greens, specifically peppery arugula, hints of orange peel, floral that’s more wildflower than the more lavender-ish floral in FLV’s gin. Sweetness is very mild and seems perfect for a straight gin. Nice body and depth here. Thick enough to be satisfying but thin and juicy-feeling enough for a beverage flavor.  
+I’m not sure what exactly I expected, but for as expensive as this is, I expected it to be a lot more than marginally better than FLV and VT gins, and I’m not sure that it is. It’s it better? You bet. But THAT much better? Not really. On the other hand, it is the best, and sometimes you want the best, whether it’s a lot better or even just a bit better. It’s more legitimately boozy than those alternatives, but it also has a lot of complexity, and it’s wet. There’s some throat hit and it seems tied up with that booziness. It’s warm, like taking a shot of liquor, not dry or chemically harsh. It’s really just straight-up gin. Fairly soft, but not quite as mellow as VT’s. I get a sharper kick of juniper berries than either VT or FLV gins, but not as shoving-Christmas-trees-up-my-nose as FA’s gin. There’s a lot of neat stuff going on behind that. Some aromatic herbals like greens, specifically peppery arugula, hints of orange peel, floral that’s more wildflower than the more lavender-ish floral in FLV’s gin. Sweetness is very mild and seems perfect for a straight gin. Nice body and depth here. Thick enough to be satisfying but thin and juicy-feeling enough for a beverage flavor.
 
 I need it for my aforementioned plan to attempt a gin and tonic.
 
@@ -155,12 +157,12 @@ I also wouldn’t mind straight up martini, at least until I can figure out what
 
 Martini Rocks V1 **TASK 9**
 
-Co.| Flavor | %
----|---|----
-FM| Pure Gin | 4
-FW| Martini | 2
-FA | Bitter Wizard | 0.5
-FA | Polar Blast | 0.5
+| Co. | Flavor        | %   |
+| --- | ------------- | --- |
+| FM  | Pure Gin      | 4   |
+| FW  | Martini       | 2   |
+| FA  | Bitter Wizard | 0.5 |
+| FA  | Polar Blast   | 0.5 |
 
 **Raspberry**
 
@@ -174,14 +176,14 @@ I’ll try to make a Martinez cocktail out of it. A Martinez has a lot in common
 
 Martinez V1 **TASK 10**
 
-Co.| Flavor | %
----|---|----
-FM| Red Gin | 4
-FM | Pure Gin | 2
-FW | Martini | 2
-INW | Cherries | 1
-FLV | Back Bar Bitters | 0.5
-FLV| Rich Cinnamon | 0.1
+| Co. | Flavor           | %   |
+| --- | ---------------- | --- |
+| FM  | Red Gin          | 4   |
+| FM  | Pure Gin         | 2   |
+| FW  | Martini          | 2   |
+| INW | Cherries         | 1   |
+| FLV | Back Bar Bitters | 0.5 |
+| FLV | Rich Cinnamon    | 0.1 |
 
 **Sweet Betsy Blackberry**
 
@@ -199,7 +201,7 @@ FM Sweet Betsy Raspberry tastes like a sugar-free red raspberry Life Saver candy
 
 I don’t remember/can’t find any record of having previously tried this one, I’ll mix a sample at 4% and report back. **TASK 11**
 
-While I have it out, I’ll go ahead and mix [Frank’s Vanilla Cohiba](https://alltheflavors.com/recipes/205284#frank_s_vanilla_cohiba_by_nowar). Frank likes it, and I like Frank, and it’s a simple three-ingredient recipe with two other ingredients I’m very familiar with. Mixing very simple recipes with flavors you’re very familiar with is often just as good, sometimes better, than single-flavor testing. It’s when you put it in complex recipes with one or more other unfamiliar flavors that you don’t learn anything about a flavor.  **TASK 12**
+While I have it out, I’ll go ahead and mix [Frank’s Vanilla Cohiba](https://alltheflavors.com/recipes/205284#frank_s_vanilla_cohiba_by_nowar). Frank likes it, and I like Frank, and it’s a simple three-ingredient recipe with two other ingredients I’m very familiar with. Mixing very simple recipes with flavors you’re very familiar with is often just as good, sometimes better, than single-flavor testing. It’s when you put it in complex recipes with one or more other unfamiliar flavors that you don’t learn anything about a flavor. **TASK 12**
 
 **Tobacco Bastards 17 Dark Fire**
 
@@ -231,21 +233,21 @@ The two recipes on ATF that use it also use an amount of FLV Connecticut Shade t
 
 Two Kentuckies Two, V2 **TASK 19**
 
-Co. | Flavor | %
----|---|----
-FLV | Bourbon | 0.5
-FM | Bourbon Tobacco | 3
-FLV | Connecticut Shade | 0.25
-FLV | Cured Tobacco | 1.0
-FLV | Kentucky Blend | 1.75
-TFA | Kentucky Bourbon | 2.0
-FLV | Red Burley | 0.5
+| Co. | Flavor            | %    |
+| --- | ----------------- | ---- |
+| FLV | Bourbon           | 0.5  |
+| FM  | Bourbon Tobacco   | 3    |
+| FLV | Connecticut Shade | 0.25 |
+| FLV | Cured Tobacco     | 1.0  |
+| FLV | Kentucky Blend    | 1.75 |
+| TFA | Kentucky Bourbon  | 2.0  |
+| FLV | Red Burley        | 0.5  |
 
 **Vero Gin**
 
 I’m not sure what’s going on here. It’s supposed to be gin and raspberry which sounds delightful, instead I am getting gin and banana. Same wonderful FM Gin on top, but the base tastes like a banana. A somewhat thick and natural, if slightly green, banana. I’ve seen Concrete Rick’s review where he got the same thing, and I read the comments where one person disagreed entirely and reported only getting a nice little raspberry behind the gin. IDK. It’s weird. Gin banana. That banana tasting just a little under-ripe makes me not really like it, and leaves me not knowing what to do with it. If you forced me to do something with it, I might try to cover the banana a strong fruit like pineapple or try to ripen it with a riper banana or a guanabana/soursop type flavor. But no one is forcing me to do anything, so it’s another one for the **TRASH 9**
 
-# FLAVORS EXPRESS
+## FLAVORS EXPRESS
 
 **Apricot**
 
@@ -260,13 +262,13 @@ Lemme just try my hand at one of those.
 
 Burleycado V1 **TASK 20**
 
-Co. | Flavor | %
----|---|----
-FE | Avocado | 3
-WF | Salted Caramel | 2
-CAP | French Vanilla | 2
-FLV | Cured Tobacco | 1
-FLV | Red Burley | 1.75
+| Co. | Flavor         | %    |
+| --- | -------------- | ---- |
+| FE  | Avocado        | 3    |
+| WF  | Salted Caramel | 2    |
+| CAP | French Vanilla | 2    |
+| FLV | Cured Tobacco  | 1    |
+| FLV | Red Burley     | 1.75 |
 
 **Blueberry**
 
@@ -278,7 +280,7 @@ Does Wherther’s make a coconut-flavored candy? Because that’s sort of like w
 
 **Desert Ship**
 
-Light touches of spice including anise and cinnamony spice on top, roasted but not ashy cigarette-type tobacco, on a caramelly sweet but dry base.  Unfortunately FE Desert Ship is a little harsh for me, even with good steep on it, but sometimes with a tobacco you want some of that extra throat hit, and it doesn’t have any gross off notes if you don’t mind the light anise much.  Flavorah’s tobaccos have set a high bar, really spoiled me rotten. I kept almost all of those. I don’t need this. **TRASH 13**
+Light touches of spice including anise and cinnamony spice on top, roasted but not ashy cigarette-type tobacco, on a caramelly sweet but dry base. Unfortunately FE Desert Ship is a little harsh for me, even with good steep on it, but sometimes with a tobacco you want some of that extra throat hit, and it doesn’t have any gross off notes if you don’t mind the light anise much. Flavorah’s tobaccos have set a high bar, really spoiled me rotten. I kept almost all of those. I don’t need this. **TRASH 13**
 
 **Fresh Strawberry**
 
@@ -295,7 +297,7 @@ Sweet but very ashy, kinda roll-your-old cigarette-y tobacco plus bunch of dry c
 **Golden Passion Fruit**
 
 Terrible. It tastes like tropical fruit scented cleaning product with a bit of hairspray on top. **TRASH 17**
-  
+
 **Golden Virginia**
 
 Excellent light (blonde, not soft) and dry peanutty tobacco. Sweet, almost a RY4 level sweetness but not caramel. Not clearly honey or maple but similar to both. Very flavorful. I’m dismayed by the lack of recipes that use this one almost to the point of making my own, but then I thought about how if I want a recipe that uses a sweet mild very peanutty tobacco, there are dozens of options for recipes that use INW 555 Gold. I’ll keep that one and let this one go. **TRASH 18**

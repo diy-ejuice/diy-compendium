@@ -9,15 +9,15 @@ Starting flavor count: 2,634 (down from 2,973)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-# CAPELLA
+## CAPELLA
 
 **Coconut**
 
-Update. Well, shit. I really wanted to get rid of CAP Coconut, frankly because I have several coconuts that are just plain better flavors. But then along came [Deez Dragon Nuts](https://alltheflavors.com/recipes/261981), described as “Mrs. MixnJuice's other ADV. It tastes roughly like a Dragon Fruit Paloma we drank in a cafe in Italy.” Mrs. MixnJuice apparently has great taste in vape juice and husbands/mixers. This is lovely. I don't really get the blackcurrant or blood orange separately, and really have to think about it to pick out the dragonfruit. They basically blend together into some kind of fantasy fruit that tastes a bit like pink grapefruit only darker and without the acid or bitterness, a splash of white gummy bear, with a very sweet creamy coconut undercurrent and lingering coconut candy aftertaste.  I’m keeping this one. I did have a thought that probably TFA Coconut Candy or FLV Sweet Coconut would work as a sub, and possibly even an improvement, but I’m not sure how much of which of those to use and don’t want to mess up what might be a delicate balance of flavors. Before I tried it, I thought it would be something I’d like better with a bit of sweetener and/or cooling, but no. It’s quite sweet without any sweetener and cooling could mess up that fantastic fantasy fruit situation.
+Update. Well, shit. I really wanted to get rid of CAP Coconut, frankly because I have several coconuts that are just plain better flavors. But then along came [Deez Dragon Nuts](https://alltheflavors.com/recipes/261981), described as “Mrs. MixnJuice's other ADV. It tastes roughly like a Dragon Fruit Paloma we drank in a cafe in Italy.” Mrs. MixnJuice apparently has great taste in vape juice and husbands/mixers. This is lovely. I don't really get the blackcurrant or blood orange separately, and really have to think about it to pick out the dragonfruit. They basically blend together into some kind of fantasy fruit that tastes a bit like pink grapefruit only darker and without the acid or bitterness, a splash of white gummy bear, with a very sweet creamy coconut undercurrent and lingering coconut candy aftertaste. I’m keeping this one. I did have a thought that probably TFA Coconut Candy or FLV Sweet Coconut would work as a sub, and possibly even an improvement, but I’m not sure how much of which of those to use and don’t want to mess up what might be a delicate balance of flavors. Before I tried it, I thought it would be something I’d like better with a bit of sweetener and/or cooling, but no. It’s quite sweet without any sweetener and cooling could mess up that fantastic fantasy fruit situation.
 
 Since I’m now being forced to keep CAP Coconut, what else can I do with it? The only thing I saw that interested me is this [Coconut Thai Remixed](https://alltheflavors.com/recipes/48929#coconut_thai_remixed_by_seakow). I’ve messed with some similar Thai ideas before that I didn’t think were good enough to share, but maybe this one is. **TASK 1**
 
-# Flavor West
+## Flavor West
 
 **Sassafras**
 
@@ -25,7 +25,7 @@ It tastes like weird hippy molasses with some green plants in it. Or like someon
 
 **Scooby Drink**
 
-According to FW, it tastes “just like the classic banana, coconut, melon, and pineapple cocktail.” That’s half pina colada, with banana and melon. Yum, right? Wrong. I did not get that at all. I get whipped cream, juicy fruit gum, and soap. It tastes and feels like rich, sweet whipped cream, but one flavored with the same flavoring used to make juicy fruit gum, along with a heaping amount of Ivory liquid soap. I think I exhaled bubbles like a cartoon character that drank detergent. Single-flavor accurate Tide Pod vape? I could not change my wick fast enough after this.  **TRASH 2**
+According to FW, it tastes “just like the classic banana, coconut, melon, and pineapple cocktail.” That’s half pina colada, with banana and melon. Yum, right? Wrong. I did not get that at all. I get whipped cream, juicy fruit gum, and soap. It tastes and feels like rich, sweet whipped cream, but one flavored with the same flavoring used to make juicy fruit gum, along with a heaping amount of Ivory liquid soap. I think I exhaled bubbles like a cartoon character that drank detergent. Single-flavor accurate Tide Pod vape? I could not change my wick fast enough after this. **TRASH 2**
 
 **Shirley Temple**
 
@@ -37,11 +37,11 @@ It pretty much much JUST gets the graham and toasted part right. It’s like you
 
 S’more Experiment v1 **TASK 2**
 
-Co.| Flavor | %
----|---|----
-FW| S'mores | 2
-FLV | Smore | 1.75
-CAP | Super Sweet | 0.25
+| Co. | Flavor      | %    |
+| --- | ----------- | ---- |
+| FW  | S'mores     | 2    |
+| FLV | Smore       | 1.75 |
+| CAP | Super Sweet | 0.25 |
 
 **Spearmint**
 
@@ -49,7 +49,7 @@ Sharper and bolder than the FW’s Doublemint Gum flavor but tastes very similar
 
 **Sprinkles**
 
-Spot on Sprinkles. It’s sweet, dry and chalky, without a lot of flavor but with some artificial vanilla and a food dye finish. Those things are loaded with artificial coloring which is supposed to be flavorless, but isn’t really. Artificial coloring tastes... funny. Not funny haha, but funny... off. If you don’t believe me that food dye has a flavor, do side-by-side blindfolded taste tests of two glasses of water, one unadulterated, one loaded up with a bunch of different food colorings. You’ll be able to tell which is which and that bit of oddness is here. Anyway, this FW Sprinkles has that food dye in the finish after that sweet dry chalky body and touch of vanilla. Off note-wise, has the very slightest touch of something like anise. Might be perfect for adding that “sprinkles” note to ice cream or funfetti cake. I could live without it, but there’s at least one interesting-looking recipe I want to try first.  
+Spot on Sprinkles. It’s sweet, dry and chalky, without a lot of flavor but with some artificial vanilla and a food dye finish. Those things are loaded with artificial coloring which is supposed to be flavorless, but isn’t really. Artificial coloring tastes... funny. Not funny haha, but funny... off. If you don’t believe me that food dye has a flavor, do side-by-side blindfolded taste tests of two glasses of water, one unadulterated, one loaded up with a bunch of different food colorings. You’ll be able to tell which is which and that bit of oddness is here. Anyway, this FW Sprinkles has that food dye in the finish after that sweet dry chalky body and touch of vanilla. Off note-wise, has the very slightest touch of something like anise. Might be perfect for adding that “sprinkles” note to ice cream or funfetti cake. I could live without it, but there’s at least one interesting-looking recipe I want to try first.
 
 [Vanilla Buttermilk Cake](https://alltheflavors.com/recipes/215619#vanilla_buttermilk_cake_by_lukeloop) **TASK 3**
 
@@ -69,13 +69,13 @@ So that’s just FW Doublemint Gum sold under a different name. I already threw 
 
 **Strawberry**
 
-Like the elevator music of strawberries. Not glaringly off but just, ho hum blah. Tastes fairly natural but again there’s that out of season strawberry that just doesn’t have that much flavor, with just a little artificial bump to it. Has a soft tartness to it but not a lot of other complexity, isn’t a very deep flavor but isn’t top heavy, it’s more just in the middle, without that brighter top note or ripe, juicy depth.  
+Like the elevator music of strawberries. Not glaringly off but just, ho hum blah. Tastes fairly natural but again there’s that out of season strawberry that just doesn’t have that much flavor, with just a little artificial bump to it. Has a soft tartness to it but not a lot of other complexity, isn’t a very deep flavor but isn’t top heavy, it’s more just in the middle, without that brighter top note or ripe, juicy depth.
 
 I want to trash it for being so aggressively mediocre, but I’m aware that mediocre flavors can be used as a small part of a great recipe, so I’ll give this [Strawberry Milk V2](https://alltheflavors.com/recipes/292332#strawberry_milk_v2_by_fadedjay1) a try first. **TASK 7**
 
 **Strawberry Banana**
 
-Lots of candy banana, especially on top, and light artificial strawberry backnote. A little better balance between the strawberry and banana here and you could be close to something like a strawberry-banana Koolaid or putting a Banana Runt and a Strawberry Runt in your mouth at the same time, which is the best way to eat Runts. Sweet, smooth, can’t find anything wrong with it aside from the blatant artificiality and the banana to strawberry ratio being unbalanced. Still, I feel like putting a better strawberry and a better banana together is the way to go, as is the case with most two-profile-in-one-bottle flavors.   **TRASH 6**
+Lots of candy banana, especially on top, and light artificial strawberry backnote. A little better balance between the strawberry and banana here and you could be close to something like a strawberry-banana Koolaid or putting a Banana Runt and a Strawberry Runt in your mouth at the same time, which is the best way to eat Runts. Sweet, smooth, can’t find anything wrong with it aside from the blatant artificiality and the banana to strawberry ratio being unbalanced. Still, I feel like putting a better strawberry and a better banana together is the way to go, as is the case with most two-profile-in-one-bottle flavors. **TRASH 6**
 
 **Strawberry Kiwi**
 
@@ -89,11 +89,11 @@ Basically for real lemonade with real strawberry, you should just build your own
 
 **Strawberry Milkshake**
 
- Separation between a small amount of an entirely pleasant if somewhat fluffy vanilla cream, like a low dose of their vanilla bean ice cream, underneath a somewhat underwhelming strawberry. The strawberry tastes like a combination of real strawberry and artificial strawberry and that makes it well-rounded, but it just isn’t very vibrant at all. It’s not bad, which is more than can be said for quite a few of these strawberry + cream type flavors, but between the lack of more richness in the cream and the lack of punch in the strawberry, it’s not great either. Smooth, very sweet finish. If I want a strawberry milkshake, I’ll mix a strawberry milkshake that’s better than this. I don’t even have to create my own, there are dozens of recipes for that and I’m sure most if not all of them have FW Strawberry Milkshake beat. **TRASH 9**
+Separation between a small amount of an entirely pleasant if somewhat fluffy vanilla cream, like a low dose of their vanilla bean ice cream, underneath a somewhat underwhelming strawberry. The strawberry tastes like a combination of real strawberry and artificial strawberry and that makes it well-rounded, but it just isn’t very vibrant at all. It’s not bad, which is more than can be said for quite a few of these strawberry + cream type flavors, but between the lack of more richness in the cream and the lack of punch in the strawberry, it’s not great either. Smooth, very sweet finish. If I want a strawberry milkshake, I’ll mix a strawberry milkshake that’s better than this. I don’t even have to create my own, there are dozens of recipes for that and I’m sure most if not all of them have FW Strawberry Milkshake beat. **TRASH 9**
 
 **Strawberry Shortcake**
 
-Contains 10 to 20% fructose. I won’t be buying more of this and don’t recommend anyone else buy it, mainly for that reason. On the other hand, it’s pretty delicious, in a Little Debbie strawberry swiss roll kind of way, but I think that’s just because it’s just their yellow cake mixed with their mediocre strawberry, and yellow cake is delicious. The strawberry isn’t that great and it doesn’t  have any whipped cream like you want a strawberry shortcake to have.
+Contains 10 to 20% fructose. I won’t be buying more of this and don’t recommend anyone else buy it, mainly for that reason. On the other hand, it’s pretty delicious, in a Little Debbie strawberry swiss roll kind of way, but I think that’s just because it’s just their yellow cake mixed with their mediocre strawberry, and yellow cake is delicious. The strawberry isn’t that great and it doesn’t have any whipped cream like you want a strawberry shortcake to have.
 
 I will at least try this [Night Cap](https://alltheflavors.com/recipes/191439#night_cap_strawberry_shortcake_clone_by_bigred) before I ditch it, though. There’s no way that’s not tasty, even if does do nasty things to my cotton and coils. **TASK 8**
 
@@ -128,7 +128,7 @@ Seems to just be sucralose. Cleaner-tasting than super sweet. Tastes like sugar 
 
 I have a big bottle of this and it’s not going anywhere until it gets replaced with a new big bottle of it. I will now use this opportunity as an excuse to mix some of my favorite recipes that employ it, and try a few new ones.
 
-[Alphonse](https://alltheflavors.com/recipes/206999#alphonse_by_wolfwheeler)  Butterscotch Pudding! **TASK 12**
+[Alphonse](https://alltheflavors.com/recipes/206999#alphonse_by_wolfwheeler) Butterscotch Pudding! **TASK 12**
 
 [Gourd is Dead](https://alltheflavors.com/recipes/236620#gourd_is_dead_by_wolfwheeler). Pumpkin-Spiced Old Fashioned. I love it. **TASK 13**
 
@@ -156,4 +156,4 @@ I have a big bottle of this and it’s not going anywhere until it gets replaced
 
 It is more than a little waxy-tasting, as if “swiss” means drizzled in melted crayon, but that there’s some tartness and slight florality on top, and there's a little Tahitian-type vanilla in the base. There’s some harshness along for that tartness ride to be aware of that tartness and touch of vanilla makes it more interesting so it’s not quite like vaping straight up wax like FW’s Maraschino Cherry is, but it’s pretty waxy. I’m keeping that one because small amounts of it are used in 2 or 3 recipes (that would probably be better without it) that I want to try. But I have no such recipes for this one. **TRASH 12**
 
-New Flavor Count:  2,622
+New Flavor Count: 2,622

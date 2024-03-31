@@ -9,7 +9,9 @@ Starting flavor count: 2,558 (down from 2,972)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-# CAPELLA FRENCH VANILLA
+## CAPELLA
+
+**French Vanilla**
 
 Started this week with five steeping CAP French Vanilla recipes all coming of age in the next few days. One of them was an old recipe that I took a chance on and it wasn’t that great. Too much CAP Cake Batter (which can get gnarly) or just overflavoring in general, I think. Another was a mango-passionfruit custard that is delicious but not something that I just gotta mix again.
 
@@ -19,19 +21,19 @@ One of them was a strawberry & cream that I only gave 4 out of 5 stars. Not beca
 
 [BUDDERSTOTCH](https://alltheflavors.com/recipes/35021) was the first one to be mixed and the last one to finish steeping but well worth the wait. It’s been at least a couple years since I last mixed this nearly six-year-old recipe but it’s still every bit as good as I remembered it. I stick to my original review “It’s like breathing sweet pipe tobacco through an unlit pipe while a mouthful of butterscotch sundae from DQ melts in your mouth. An amazing take on RY4 that's hard to put down!” Definitely worth continuing to restock CAP French Vanilla and I want to mix some more, maybe just always have some Budderstotch on the self. **TASK 3**
 
-# FLAVORAH
+## FLAVORAH
 
 **Rainier Cherry**
 
 **TRASH 1** I don’t think this flavor falls above the line of what’s even vapable.
 
-It does taste like sweet-tart natural cherry but there’s so much of that  plastic nightmare stuff along for the ride, especially lingering in the finish and aftertaste, I can’t deal with it. Maybe at 0.5% or something it’s not so offensive, but there’s not enough cherry flavor down at 0.75% for it to really work and it’s bad at 0.75%. The cherry flavor to vinyl shower curtain liner off-note ratio is just too wrong for me.  
+It does taste like sweet-tart natural cherry but there’s so much of that plastic nightmare stuff along for the ride, especially lingering in the finish and aftertaste, I can’t deal with it. Maybe at 0.5% or something it’s not so offensive, but there’s not enough cherry flavor down at 0.75% for it to really work and it’s bad at 0.75%. The cherry flavor to vinyl shower curtain liner off-note ratio is just too wrong for me.
 
 **Raisin Rum**
 
-Tastes like the “raisin rum” flavor of ice cream, without the ice cream, pretty much. Just a little bit more funky or musty than that. FLV really likes their funk sometimes, don’t they? I bet they listen to George Clinton over at FLV Headquarters. Anyway, it’s a pretty good flavor. Seems like 0.75% to 1% of this plus your favorite ice cream base = rum raisin ice cream. But I’m glad it doesn’t have ice cream already added, because it’s more versatile that way.  
+Tastes like the “raisin rum” flavor of ice cream, without the ice cream, pretty much. Just a little bit more funky or musty than that. FLV really likes their funk sometimes, don’t they? I bet they listen to George Clinton over at FLV Headquarters. Anyway, it’s a pretty good flavor. Seems like 0.75% to 1% of this plus your favorite ice cream base = rum raisin ice cream. But I’m glad it doesn’t have ice cream already added, because it’s more versatile that way.
 
-I need it for this [Rum Baba Cake](https://alltheflavors.com/recipes/136673#rum_baba_cake_yellow_cake_soaked_with_rum_and_topped_with_coconut_cream_by_mech_mod_rn) that tastes exactly the way the mixer has described it.  **TASK 4**
+I need it for this [Rum Baba Cake](https://alltheflavors.com/recipes/136673#rum_baba_cake_yellow_cake_soaked_with_rum_and_topped_with_coconut_cream_by_mech_mod_rn) that tastes exactly the way the mixer has described it. **TASK 4**
 
 I’m excited to try more.
 
@@ -45,15 +47,15 @@ Also, I see Wayne’s using FLV Raisin Rum in RY4s [Honey Raisin RY4](https://al
 
 Raisin Rum RY4, V1 **TASK 8**
 
-Co. | Flavor | %
----|---|----
-FLV| Raisin Rum | 1.25
-FLV | Sweet and Smokey Tobacco | 1
-FLV | Native Tobacco | 1
-FLV | Turkish Tobacco | 0.75
-WF | Vanilla Ruyan Custard | 2
-WF | Salted Caramel | 2
-VT | Honeycomb | 1
+| Co. | Flavor                   | %    |
+| --- | ------------------------ | ---- |
+| FLV | Raisin Rum               | 1.25 |
+| FLV | Sweet and Smokey Tobacco | 1    |
+| FLV | Native Tobacco           | 1    |
+| FLV | Turkish Tobacco          | 0.75 |
+| WF  | Vanilla Ruyan Custard    | 2    |
+| WF  | Salted Caramel           | 2    |
+| VT  | Honeycomb                | 1    |
 
 I stole the VT Honeycomb from the Honey Raisin RY4 and the FLV Sweet and Smokey from the Obsidian V1.3. Hopefully that’s not some kind of copyright infringement? Whatever, I’m doin it.
 
@@ -69,7 +71,7 @@ And so does [A bit fruity!](https://alltheflavors.com/recipes/237415#a_bit_fruit
 
 **Red Apple**
 
-Potent, accurate, sweet red apple, with a bit of peel on it. Shaper, more flavorful top note. Noticeable throat hit by itself for a red apple, but no more than the average green apple. Somehow fresh with that crisp skin, but also a little dry, or at least not juicy. Crisp. Has some nice body with a depth of apple flavor. Some sugary gritty apple mouthfeel  is accurate but a little juiciness somewhere would be nice, unless you’re looking for a red apple for tobacco mix, in which case this seems well-suited. Not really tasting anything off at 1% but seems like that peel could get a little grassy or floral if used too high or mixed with the wrong thing. I don’t know that I’d try to cook it and use it in a bakery over some of the other options, but if I wanted something like a fruit punch or sangria with bits of apple floating in it, FLV Red Apple seems like it would work really well for that. Or mix it with other apples that are missing that realistic peel but do have some juiciness to them and build a fuller, juicy red apple that way.
+Potent, accurate, sweet red apple, with a bit of peel on it. Shaper, more flavorful top note. Noticeable throat hit by itself for a red apple, but no more than the average green apple. Somehow fresh with that crisp skin, but also a little dry, or at least not juicy. Crisp. Has some nice body with a depth of apple flavor. Some sugary gritty apple mouthfeel is accurate but a little juiciness somewhere would be nice, unless you’re looking for a red apple for tobacco mix, in which case this seems well-suited. Not really tasting anything off at 1% but seems like that peel could get a little grassy or floral if used too high or mixed with the wrong thing. I don’t know that I’d try to cook it and use it in a bakery over some of the other options, but if I wanted something like a fruit punch or sangria with bits of apple floating in it, FLV Red Apple seems like it would work really well for that. Or mix it with other apples that are missing that realistic peel but do have some juiciness to them and build a fuller, juicy red apple that way.
 
 I have a couple or three Red Apple recipes that I’m already planning to mix. Will also try this [Red Apple Trinity](https://alltheflavors.com/recipes/226166#red_3_2_1_by_sensory_overload). **TASK 11**
 
@@ -98,7 +100,7 @@ Or this: [Dracarys - Fiery Apple Lemonade](https://alltheflavors.com/recipes/146
 
 **Red Raspberry**
 
-In some ways, I think this might be the most realistic raspberry flavor I’ve tried, in some ways, possibly too realistic for its own good. It’s not a bright, fresh raspberry. It’s more like raspberry jam, but doesn’t quite reach the level of jammy sweetness of a jam. The sweetness that’s there is dark and it tastes cooked down. I swear there’s something woody in the top notes, that makes me think of raspberry pips or seeds, so it’s like cooked whole raspberries without the added sugar of a jam. It’s also a little on the dry side. And there’s a little harshness over 1%, but that’s ok because I don’t think it needs to be used higher than 1%. FLV Red Raspberry is kind of odd, but it’s not floral or chemical at all. By itself it definitely tastes like raspberry, but without that brightness or tartness, it seems like it would do just as well in a boysenberry or even blackberry recipe. It also seems like it could add some realism to an otherwise candy-ish raspberry jam layer.  
+In some ways, I think this might be the most realistic raspberry flavor I’ve tried, in some ways, possibly too realistic for its own good. It’s not a bright, fresh raspberry. It’s more like raspberry jam, but doesn’t quite reach the level of jammy sweetness of a jam. The sweetness that’s there is dark and it tastes cooked down. I swear there’s something woody in the top notes, that makes me think of raspberry pips or seeds, so it’s like cooked whole raspberries without the added sugar of a jam. It’s also a little on the dry side. And there’s a little harshness over 1%, but that’s ok because I don’t think it needs to be used higher than 1%. FLV Red Raspberry is kind of odd, but it’s not floral or chemical at all. By itself it definitely tastes like raspberry, but without that brightness or tartness, it seems like it would do just as well in a boysenberry or even blackberry recipe. It also seems like it could add some realism to an otherwise candy-ish raspberry jam layer.
 
 This [Raspberry jelly filled donut](https://alltheflavors.com/recipes/208511#saito_by_wolfwheeler) is already on the list.
 
@@ -173,7 +175,7 @@ Worth noting, I bet this [Bottle Caps](https://alltheflavors.com/recipes/306091#
 Watered down sweetened rose water. The kinder, gentler rose flavor. Lacks that strong perfumey floral top note, a bit more base than other roses, but soft, mellow. Also a bit sweet, and not really earthy at all. It’s like rose water, or maybe smelling a rose but not actually being in a rose garden in full bloom or stuffing a whole rose into your face hole. It doesn’t even have that “concentrated rose water” taste of Turkish Delight, it’s more like what a little splash of rose water in a cocktail would taste like. Tastes like this rose could be a bit of a shrinking violet in a mix. Smooth, not harsh like a lot of florals. Probably not the rose flavor for people who REALLY want to taste a rose, but if this flavor was your introduction to florals, you probably wouldn’t be scared of florals.
 
 I need this for a few things already mentioned, for a few things already planned to try, and for [Clouds of Buddha](https://alltheflavors.com/recipes/151292#clouds_of_buddha_by_kittybit). I’ve been shying away from FE Sweet Rice recipes because they often steep to blah, but the VT Rice Base in this one saves it. **TASK 37**
-  
+
 **RY4**
 
 This one benefits greatly from a 2-week steep. After one week, I got a mild, dry, nutty, slightly smoky tobacco, with caramel bordering on brown sugar sweetness underneath. Overall, the flavor at 2% was pretty light. Two weeks later: Wow. It’s fuller, sweeter and more caramelly underneath that mild, dry, nutty, slightly smoky (with a hint of mocha coffee) tobacco, and a has a much deeper, richer flavor overall. Underneath the tobacco, it’s taken on that very rich, extra gooey caramel aspect I was looking for. This is awesome.
@@ -182,6 +184,6 @@ I might need it for the chocolate RY4 am working on and will mix whatever versio
 
 There are at least a dozen recipes with it I wouldn’t mind trying, but I’m trying to wrap this up so I’ve narrowed them down to just one. [Tobacco’s Dessert](https://alltheflavors.com/recipes/236336#tobacco_s_dessert_by_krawacabana). It’s the FA Vanilla Cookie that intrigues me the most but also butterscotch and... apple? Not to mention the effusive reviews. I’ll give it that 21-day steep. I got time. **TASK 39**
 
-*Really? All that just to get rid of FOUR flavors? Freakin Flavorah, man. I'll be glad when I get through this company and move down into the ones that put out a lot more trash flavors.*
+_Really? All that just to get rid of FOUR flavors? Freakin Flavorah, man. I'll be glad when I get through this company and move down into the ones that put out a lot more trash flavors._
 
 New Flavor Count: 2,554

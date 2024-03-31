@@ -9,7 +9,7 @@ Starting Flavor Count: 2,813 (Down from 2,975 originally)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-# Capella
+## Capella
 
 **Black Currant**
 
@@ -17,7 +17,7 @@ Update. Way back in Part 3 (yes, that’s how far behind I am when it comes to m
 
 Speaking of blackcurrants...
 
-# Chefs Super Concentrates
+## Chefs Super Concentrates
 
 **Blackcurrant**
 
@@ -25,14 +25,14 @@ Last week I blasted through all my CSC flavors, or thought I did. Turns out I in
 
 I’ll try gently increasing it to 0.75% and see how that goes **TASK 1**
 
-# Chemnovatic
+## Chemnovatic
 
 I only have a handful of these.
 
 **Apricot**
 
 Tastes more peachy than apricot to me, but more like a nice, very ripe peach than peach rings candy and could pass for apricot, maybe, in a mix, I guess. It also reminds me of JF Honey Peach, so it’s kind of a question of how much does JF Honey Peach taste like apricot to you? It’s got a lot of darker sweetness and isn’t a really bright flavor. Weak in concentration (I pushed it to 8% based on what someone suggested on ELR), but plenty of flavor. Not really thin, but a little flat, like it hits one note from start to finish other than starting one way and finishing another. I don’t feel compelled to find a way to use this, or see a recipe that uses it that I want to make, so even though it’s fine, I’m going to **TRASH 2** it.
-  
+
 **Butter**
 
 It might disappear into almost any mix but the first thing I noticed about this is that it’s quite a bit too sweet for butter. At the same time, there’s a bit of a sour edge to it, like this butter sat out just a little too long. Not nearly as heavy and rich as I want a butter flavor to be, and a little soft/subtle overall. But for the most part, it tastes like butter. I have betta buttas. **TRASH 3**
@@ -43,21 +43,21 @@ I don’t think I’ve tried this one yet. I’ll mix samples at 2% and 4%. **TA
 
 **Grape**
 
-Powerful purple artificial grape flavor. Not super concentrated, but once you get it up there, like at 5%,  it has some serious flavor. The first time I hit it I thought it had a bit of a medicinal edge, but a couple more hits and I’d pretty much forgotten about that. It tastes like flat grape soda, but way more intensely than so many others that are so soft and meh. It’s not a complex flavor, not super interesting by itself, but if you’re looking for a candy or soda type of grape, I’d pick this up, for sure.
+Powerful purple artificial grape flavor. Not super concentrated, but once you get it up there, like at 5%, it has some serious flavor. The first time I hit it I thought it had a bit of a medicinal edge, but a couple more hits and I’d pretty much forgotten about that. It tastes like flat grape soda, but way more intensely than so many others that are so soft and meh. It’s not a complex flavor, not super interesting by itself, but if you’re looking for a candy or soda type of grape, I’d pick this up, for sure.
 
 Well, it tastes like flat grape soda, so I’ll start by trying to unflatten it using [Bert’s Soda Base](https://alltheflavors.com/recipes/156816#berts_soda_base_by_staybert).
 
 Grape Crush V1 **TASK 3**
 
-Co. | Flavor | %
----|---|----
-CNV | Grape | 5
-FW | Grape Soda | 1
-FLV | Citrus Soda | 1.25
-CAP | Lemon Lime | 1
-BCF | WS-23 (30%) | 0.5
+| Co. | Flavor      | %    |
+| --- | ----------- | ---- |
+| CNV | Grape       | 5    |
+| FW  | Grape Soda  | 1    |
+| FLV | Citrus Soda | 1.25 |
+| CAP | Lemon Lime  | 1    |
+| BCF | WS-23 (30%) | 0.5  |
 
-FW Grape Soda is FILTHY with sucralose, more than most sweeteners. I’m trying to use it mostly in lieu of Super Sweet here, but also for a little bit of grape layering.  
+FW Grape Soda is FILTHY with sucralose, more than most sweeteners. I’m trying to use it mostly in lieu of Super Sweet here, but also for a little bit of grape layering.
 
 **Kiwi**
 
@@ -99,14 +99,14 @@ None of the recipes that use it really made me excited so I’m just gonna mix m
 
 Whipped Pineapple Passion V1 **TASK 13**
 
-Co. | Flavor | %
----|---|----
-CNV | Passion Fruit | 2.5
-CAP | Fresh Pineapple | 2
-INW | Dragon Fruit | 0.25
-CAP | Vanilla Whipped Cream | 2
-OoO | Marshmallow Vanilla | 2
-  
+| Co. | Flavor                | %    |
+| --- | --------------------- | ---- |
+| CNV | Passion Fruit         | 2.5  |
+| CAP | Fresh Pineapple       | 2    |
+| INW | Dragon Fruit          | 0.25 |
+| CAP | Vanilla Whipped Cream | 2    |
+| OoO | Marshmallow Vanilla   | 2    |
+
 **Sponge Cake**
 
 Buttery, but not in a good way. There’s just way too much fake movie theater butter. It’s still overbearing to the point of ruining the flavor. It does taste like a real, eggy sponge cake otherwise, but a sponge cake drizzled with popcorn “butter.” Even if you think that doesn’t sound disgusting, you have to at least admit that it’s super weird. **TRASH 6**
@@ -145,12 +145,12 @@ I’m sure it’s going to be good, because as best I can tell without knowing w
 
 [Mouthgasm](https://alltheflavors.com/recipes/213970#mouthgasm_by_eyemsam). Do you ever feel like sometimes Sam is just weird for the sake of being weird? And yet, curiosity gets the better of me, I need to know what this tastes like. **TASK 24**
 
-[50 Shades of Butterscotch](https://alltheflavors.com/recipes/260912#50_shades_of_butterscotch_by_mindfloodz). Tie me up and do whatever you want to me, baby.  **TASK 25**
+[50 Shades of Butterscotch](https://alltheflavors.com/recipes/260912#50_shades_of_butterscotch_by_mindfloodz). Tie me up and do whatever you want to me, baby. **TASK 25**
 
 [Cum Bubbles](https://alltheflavors.com/recipes/267373#cum_bubbles_by_gablona), gross name but unless that’s too much shortbread cookie for my taste I’m sure it’s yummy. I might just have to abbreviate it “CB” on the bottle. **TASK 26**
 
-________________________________________________________________________
+---
 
 This was a short one because I was out of town most of the week remembering the Alamo, and the next one will probably be short, too, because I'm looking at a busy week of community and personal activities and catching up from being out of town. But I'll at least try to cover all the Club der Dampfer flavors that my friend Felix sent me from Germany.
 
-New Flavor Count:  2,805
+New Flavor Count: 2,805

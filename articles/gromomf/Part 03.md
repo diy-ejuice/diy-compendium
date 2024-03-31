@@ -9,23 +9,23 @@ Starting Flavor Count: 2,952 (down from 2,976 originally)
 
 It’s one or the other: TASK or TRASH
 
-# FLAVOUR ART
+## FLAVOUR ART
 
 **Cookie**
 
 This is way out of order on my spreadsheet of flavors. I reserve the right to do that from time to time. It’s coming up now because mixing this [G’s Thin Mint](https://alltheflavors.com/recipes/24377#gs_thin_mint_by_chrisdvr1) was one of my tasks from Part 1 and I finally got around to trying it. It was part of my decision-making process as far as whether to keep or punt Baker Flavors Chocolate Truffle from my slowly shrinking colossus of a flavor collection. Jury is still out on that one, I’m still trying to figure out whether I can make a chocolate RY4 recipe I like as much as [Raven](https://alltheflavors.com/recipes/73078#raven_by_id10_t) without using it. And now I’m convinced I would also need to find a Thin Mint recipe I love that also doesn’t use it.
 
-As for the G’s Thin Mint recipe, I couldn’t disagree with my friend’s assertion that the Chocolate Truffle *is* perfect for a Thin Mint cookie. It’s a really solid recipe that I very much enjoyed. Definitely tastes like a Thin Mint. It just slightly suffers from two things that I have in common with it, not enough FLV Creme de Menthe and too much cookie. I had just enough drops of Creme de Menthe to make it and then I had to order a new, bigger bottle. The recipe tastes like it could use just a little more, or maybe just have a little less cookie competing with it. Right flavors, every-so-slightly off balance. In my case, I just have a whole bunch of cookie flavors, more than I can ever use. About 30 of them.
+As for the G’s Thin Mint recipe, I couldn’t disagree with my friend’s assertion that the Chocolate Truffle _is_ perfect for a Thin Mint cookie. It’s a really solid recipe that I very much enjoyed. Definitely tastes like a Thin Mint. It just slightly suffers from two things that I have in common with it, not enough FLV Creme de Menthe and too much cookie. I had just enough drops of Creme de Menthe to make it and then I had to order a new, bigger bottle. The recipe tastes like it could use just a little more, or maybe just have a little less cookie competing with it. Right flavors, every-so-slightly off balance. In my case, I just have a whole bunch of cookie flavors, more than I can ever use. About 30 of them.
 
 FA Cookie is dark, crispy, and a little sharp. It tastes like a dry and crunchy, yet sweet and buttery, homemade cookie. It tastes almost overcooked; very dark, but not quite burnt. Personally, I like big soft cookies, even a little undercooked and gooey in the middle. But if you’re into dry crunchy cookies, this is a winner. There’s a ton of AP in here and it gets slightly nutty, but it’s really free of off notes. Strong, does not need to be used over 2% or it gets slightly bitter, definitely overcooked and almost burnt. This is not a bad flavor, very much in the top 10 out of 30. But do I NEED it? I don’t think I do. Jungle Flavors Cookie is so similar, but I like it just a little more. With a few exceptions, it seems like this is what Jungle Flavors does. They take a flavor that already exists and is readily available, then tweak it just a little to make it just a little better than the original. Vaping single flavor samples of FA and JF cookies a week apart, at the same concentration, I’m not even sure I could tell you which one I was tasting, that’s how similar they are. But side by side, there are differences. JF Cookie is a bit softer and sweeter. It’s not quite as crunchy and pushing burnt as FA Cookie. Slightly more buttery, slightly less dry. Maybe a tiny touch of something halfway between maple and caramel that shouldn’t be there, maybe.
 
 I would keep FA Cookie if I had any plans to try to sell any more commercial recipes, but that market seems to have completely dried up. There might be a little work out there, but it’s probably not worth the hassle. The reason for keeping FA Cookie would be that some juice companies might have some concerns about buying bulk JF, while none none of them are going to balk at FA. But since I’m only mixing for myself now, I see no reason to keep both on hand. If a recipe calls for FA, I’ll just have to sub in JF because FA Cookie is going in the **TRASH 1**.
-  
-# BAKER FLAVORS
+
+## BAKER FLAVORS
 
 **Cream Charlotte**
 
-Very rich and thick buttery sweet cream, but also has a heavy buytric sour note, basically like drinking sweetened buttermilk and then barfing it all up. I thought it was not Charles Manson that recommended this flavor to me, but now I think it might have actually been Charles Manson, because convincing me to try this was more or less a homicide attempt. I survived. Barely. **TRASH 2**.  
+Very rich and thick buttery sweet cream, but also has a heavy buytric sour note, basically like drinking sweetened buttermilk and then barfing it all up. I thought it was not Charles Manson that recommended this flavor to me, but now I think it might have actually been Charles Manson, because convincing me to try this was more or less a homicide attempt. I survived. Barely. **TRASH 2**.
 
 **Eis Waffel**
 
@@ -33,7 +33,7 @@ I bought this thinking it meant “ice waffle” and being very curious about wh
 
 The flavor itself is definitely supposed to be a vanilla wafer, but not a Nilla Wafer like banana pudding must have, one of [these guys](https://imgur.com/h4jhhkP). It tastes almost just like it, although the wafer flavor sticks out more than it should when the sweet creamy vanilla (emphasis on sweet, it needs to be a lot more sugary too) should be the one driving. It’s extremely vapeable but I already have WF Crispy Wafer, thanks anyway. **TRASH 3**.
 
-# CAPELLA
+## CAPELLA
 
 **Acai**
 
@@ -45,9 +45,9 @@ I’m going to give Acai one more opportunity to keep its place in stash by maki
 
 **Anise**
 
-Mostly tastes like anise. Awfully sweet for a spice, but not as candied as a candy. Maybe anise syrup? It’s not dry. It’s not thin, it has a sweet syrupy body. I thought it just tasted like licorice when I was first repulsed by it years ago, until I actually tried a licorice flavor, then the difference becomes pretty clear. There’s also a weird hint of a kind of metallic citrus in there.  
+Mostly tastes like anise. Awfully sweet for a spice, but not as candied as a candy. Maybe anise syrup? It’s not dry. It’s not thin, it has a sweet syrupy body. I thought it just tasted like licorice when I was first repulsed by it years ago, until I actually tried a licorice flavor, then the difference becomes pretty clear. There’s also a weird hint of a kind of metallic citrus in there.
 
-Off the top of my head, I could not think of a good enough reason for keeping CAP Anise. There are better anise flavors out there. But then I found a 5-year-old recipe for Papaya Chai Tea and although the recipe even *looks* pretty dated, that profile is intriguing to me. It’s something I might want to work on bringing up to date. Should probably try the original first, so that’s my next **TASK 2**, mixing [Papaya Chai Tea](https://alltheflavors.com/recipes/44225#papaya_chai_tea_light_by_karlitojackson) by Karlito Jackson with an eye toward updating it.
+Off the top of my head, I could not think of a good enough reason for keeping CAP Anise. There are better anise flavors out there. But then I found a 5-year-old recipe for Papaya Chai Tea and although the recipe even _looks_ pretty dated, that profile is intriguing to me. It’s something I might want to work on bringing up to date. Should probably try the original first, so that’s my next **TASK 2**, mixing [Papaya Chai Tea](https://alltheflavors.com/recipes/44225#papaya_chai_tea_light_by_karlitojackson) by Karlito Jackson with an eye toward updating it.
 
 **Apple Pie**
 
@@ -59,37 +59,37 @@ NaChef beat me to the apple cinnamon bourbon profile with his [42nd Bourbon](htt
 
 **Apple Pie V2**
 
- I can barely tell the difference between this and the original, but there are some slight differences. By itself, I’d rather vape the original because it’s more flavorful overall, but this one is a bit more like apple pie simply because that cream note is diminished and less of a distraction from the cinnamon apple. Same cinnamon, still no crust. Apple is a bit brighter and more prominent red apple but that CDS cinnamon is still the star. Unnecessary vanilla cream is still there, but it’s thinner, drier, and not buttery, with a slightly more forward brighter vanilla. I don’t think they took out the diketones from the OG and replaced them with butyric acid because I’m not getting any barfy taste, I think they just took the diketones out. It seems like if you wanted to bring in some crust and make this an apple pie without ice cream, you’d have an easier time covering up the cream with crust than you would with the original, and you wouldn’t need to supplement the apple as much.
+I can barely tell the difference between this and the original, but there are some slight differences. By itself, I’d rather vape the original because it’s more flavorful overall, but this one is a bit more like apple pie simply because that cream note is diminished and less of a distraction from the cinnamon apple. Same cinnamon, still no crust. Apple is a bit brighter and more prominent red apple but that CDS cinnamon is still the star. Unnecessary vanilla cream is still there, but it’s thinner, drier, and not buttery, with a slightly more forward brighter vanilla. I don’t think they took out the diketones from the OG and replaced them with butyric acid because I’m not getting any barfy taste, I think they just took the diketones out. It seems like if you wanted to bring in some crust and make this an apple pie without ice cream, you’d have an easier time covering up the cream with crust than you would with the original, and you wouldn’t need to supplement the apple as much.
 
-This is not a *bad* flavor, especially for a V2, but I can’t find a really good reason to keep it other than maybe this is the flavor I really need for apple pie bourbon rather than V1, since it’s less creamy.
+This is not a _bad_ flavor, especially for a V2, but I can’t find a really good reason to keep it other than maybe this is the flavor I really need for apple pie bourbon rather than V1, since it’s less creamy.
 I should probably go ahead and mix something up before I get too hasty about tossing it.
 
 Simple Apple Bourbon **TASK 4**
 
-Co. | Flavor | %
----|---|----
-FLV | Bourbon | 1
-VT | Bourbon | 2
-TFA | Kentucky Bourbon | 3
-CAP | Apple Pie V2 | 4
+| Co. | Flavor           | %   |
+| --- | ---------------- | --- |
+| FLV | Bourbon          | 1   |
+| VT  | Bourbon          | 2   |
+| TFA | Kentucky Bourbon | 3   |
+| CAP | Apple Pie V2     | 4   |
 
 **Apple Snacks**
 
 Apple Jacks cereal, straight up. Multigrain cereal flavored with dried apples and apple juice and just a hint of cinnamon. No milk. They nailed it. Only thing off I can find is that it tastes a little too toasted, like the machine that makes the apple jacks was running a few degrees hotter that day. The cereal flavor, texture, the taste of the apple, the amount and taste of the apple and cinnamon, all of that takes me right back to eating Apple Jacks.
 
-Other than adding some milk I think you’d have to get pretty creative to find some other uses for this, but if you’re just wanting to vape Apple Jacks cereal, here it is. Want it with milk, add some FA Milk or OoO Creamy Underpants, maybe some FA or TFA Meringue to sweeten it up, and done. I guess you could try to cover the apple with some other fruit to use that crunchy cereal bit but I don’t know how successful that would be. Maybe add a fruit to make it like Apple Jacks with other fruit floating in it, or a bit of a brighter apple to pop that out and make it more interesting, if a little less authentic or if your apple gets thrown out of whack by milk. Or it might work as a muffin component or you could do some VT Golden Syrup or something to glue it together into some kind of cereal bar. IDK. But yeah, Apple Jacks. That’s pretty awesome.  
+Other than adding some milk I think you’d have to get pretty creative to find some other uses for this, but if you’re just wanting to vape Apple Jacks cereal, here it is. Want it with milk, add some FA Milk or OoO Creamy Underpants, maybe some FA or TFA Meringue to sweeten it up, and done. I guess you could try to cover the apple with some other fruit to use that crunchy cereal bit but I don’t know how successful that would be. Maybe add a fruit to make it like Apple Jacks with other fruit floating in it, or a bit of a brighter apple to pop that out and make it more interesting, if a little less authentic or if your apple gets thrown out of whack by milk. Or it might work as a muffin component or you could do some VT Golden Syrup or something to glue it together into some kind of cereal bar. IDK. But yeah, Apple Jacks. That’s pretty awesome.
 
-Silky’s [Apple Slaps](https://alltheflavors.com/recipes/195755#apple_slaps_by_silky) looks perfect to me on paper, and OddDrop’s [JACKER](https://alltheflavors.com/recipes/107017#jacker_apple_cereal_milk_by_odddrop) looks great too, just a slightly different means to the same end.  To be as thorough as possible about this I’ll mix them both and compare and think about possibly keeping this flavor to make the better of the two in the future. **TASK 5** and **TASK 6**
+Silky’s [Apple Slaps](https://alltheflavors.com/recipes/195755#apple_slaps_by_silky) looks perfect to me on paper, and OddDrop’s [JACKER](https://alltheflavors.com/recipes/107017#jacker_apple_cereal_milk_by_odddrop) looks great too, just a slightly different means to the same end. To be as thorough as possible about this I’ll mix them both and compare and think about possibly keeping this flavor to make the better of the two in the future. **TASK 5** and **TASK 6**
 
 **Apricot**
 
-It’s like boiling dried apricots and drinking the water after adding some sugar to it. A light and soft apricot flavor that tastes like it might have come from nature. It’s a little simpler and slightly softer and sweeter than a real apricot, which is already a soft and not terribly or complex flavor, but it doesn’t have that bright fake oversaturated candy-type flavor. It doesn’t taste fully cooked down into something like a jam, because that would be a more intense flavor, but it’s a bit jammy, with a sticky sweetness, almost too sticky sweet for the amount of apricot that actually comes though. Down below 4% it’s pretty thin, but by 6% the sticky sweet fills in more. No throat hit.  
+It’s like boiling dried apricots and drinking the water after adding some sugar to it. A light and soft apricot flavor that tastes like it might have come from nature. It’s a little simpler and slightly softer and sweeter than a real apricot, which is already a soft and not terribly or complex flavor, but it doesn’t have that bright fake oversaturated candy-type flavor. It doesn’t taste fully cooked down into something like a jam, because that would be a more intense flavor, but it’s a bit jammy, with a sticky sweetness, almost too sticky sweet for the amount of apricot that actually comes though. Down below 4% it’s pretty thin, but by 6% the sticky sweet fills in more. No throat hit.
 
 There are better apricot flavors, for sure. But I need this to mix my own recipe, [Titanic](https://alltheflavors.com/recipes/48608#titanic_by_id10_t). I need to make some more of that and decide whether it’s really good enough to be the only reason I’m keeping CAP Apricot. It probably will be, I remember loving that stuff and I have some good memories attached to it, but finding out for sure is the next **TASK 7**. What good memories, you ask? I vaped it all day while riding a bar bike through Oklahoma City with friends. I gotta say, of all the modes of transportation I’ve used in my life, which are many, bar bike has got to be my most favorite way to get around. Your body is the engine, light beer is the gasoline. Amazing.
 
 **Banana**
 
-I got a hint of cloves at 3% and it grossed me out, but I’m also not sure going lower is a good idea; it’s not an especially bold flavor at all at 3%.  Fucking eugenol. Also a bit waxy-textured. Not especially creamy/thick or dry, not especially candy or authentic, pretty middle of the road, if that clove thing wasn’t ruining it. I guess I could try a lower concentration in case 3 was too much but I don’t have high enough hopes for that to be worth my time. There are so many other, better, bananas. **TRASH 4**
+I got a hint of cloves at 3% and it grossed me out, but I’m also not sure going lower is a good idea; it’s not an especially bold flavor at all at 3%. Fucking eugenol. Also a bit waxy-textured. Not especially creamy/thick or dry, not especially candy or authentic, pretty middle of the road, if that clove thing wasn’t ruining it. I guess I could try a lower concentration in case 3 was too much but I don’t have high enough hopes for that to be worth my time. There are so many other, better, bananas. **TRASH 4**
 
 **Banana Split**
 
@@ -97,7 +97,7 @@ Soft candy banana with some vanilla and a thick and sweet but waxy body but a bi
 
 **Bavarian Cream**
 
-I would not say it tastes “Bad,” but out of the eight or nine Bavarian creams I’ve tried, this is the strangest one, in that it has a very strong hazelnut flavor in it.  There’s a buttery taste that’s more of a top note without a buttery base feel, which is noticeably stronger at 4% than 3% and really the only difference between those two concentrations. Fluffy vanilla cream in the middle but with that strong hazelnut. Basically tastes like hazelnut coffee creamer mixed into whipped cream, not really sure what that has to do with Bavarian Cream. Might be a good middle-weight cream to pair with nuts. Light sweetness. That vanilla does not taste exactly the same as their brighter Simply Vanilla or their darker French Vanilla or Vanilla Custard. It’s a bit more of a vanilla bean flavor, I think.
+I would not say it tastes “Bad,” but out of the eight or nine Bavarian creams I’ve tried, this is the strangest one, in that it has a very strong hazelnut flavor in it. There’s a buttery taste that’s more of a top note without a buttery base feel, which is noticeably stronger at 4% than 3% and really the only difference between those two concentrations. Fluffy vanilla cream in the middle but with that strong hazelnut. Basically tastes like hazelnut coffee creamer mixed into whipped cream, not really sure what that has to do with Bavarian Cream. Might be a good middle-weight cream to pair with nuts. Light sweetness. That vanilla does not taste exactly the same as their brighter Simply Vanilla or their darker French Vanilla or Vanilla Custard. It’s a bit more of a vanilla bean flavor, I think.
 
 It would take a truly great recipe to convince me to keep this flavor. I haven’t tried one yet, but I’m going to give Gunslinger317’s [Bavarian Banana Nut Bread](https://alltheflavors.com/recipes/255112#bavarian_banana_nut_bread_by_gunslinger317) a chance to be that recipe. **TASK 8** It looks absolutely delicious. I have some doubt that trying it is going to convince me that 1% CAP Bavarian Cream is absolutely essential to making a recipe like this work, though, so don’t be surprised if CAP Bavarian Cream finds its way to the trash pile soon.
 
@@ -109,11 +109,11 @@ My first thought was this one is an easy choice for the trash. But this [Picheim
 
 **Black Currant**
 
-Very weak. 4% I get just wisp of sweetness, tartness, and barely a wisp of a kind of a mixed berry flavor. 8% it is full-flavored, sort of. It mostly tastes like a cross between a tart grape and blackberry candy and a naturally sweet ripe blueberry. There’s some vague floral around that tartness upfront and I found it a little harsh and hard to vape. It’s dry and thin and has that kind of harshness that drier, thinner flavors tend to have. Very sweet with just a little earthiness to it. I suspect that earthiness makes it less of a full-on candy and more of a failed attempt at something natural, but maybe black currant candy is supposed to have that touch of earthiness, I don’t know. With so many better currant flavors to choose from, it seems like this one is pretty tossable, but this [Black Hole Currant](https://alltheflavors.com/recipes/182705#black_hole_currant_by_parad0x357) recipe is infringing. Black licorice and black currant is a ubiquitous combination thanks to the Europeans, but mixing Back Currant and black licorice AND coconut? Ok. You got me Parad0x357. I’ll make trying that a **TASK 10** for this round, then decide what to do with CAP Black Currant.  
+Very weak. 4% I get just wisp of sweetness, tartness, and barely a wisp of a kind of a mixed berry flavor. 8% it is full-flavored, sort of. It mostly tastes like a cross between a tart grape and blackberry candy and a naturally sweet ripe blueberry. There’s some vague floral around that tartness upfront and I found it a little harsh and hard to vape. It’s dry and thin and has that kind of harshness that drier, thinner flavors tend to have. Very sweet with just a little earthiness to it. I suspect that earthiness makes it less of a full-on candy and more of a failed attempt at something natural, but maybe black currant candy is supposed to have that touch of earthiness, I don’t know. With so many better currant flavors to choose from, it seems like this one is pretty tossable, but this [Black Hole Currant](https://alltheflavors.com/recipes/182705#black_hole_currant_by_parad0x357) recipe is infringing. Black licorice and black currant is a ubiquitous combination thanks to the Europeans, but mixing Back Currant and black licorice AND coconut? Ok. You got me Parad0x357. I’ll make trying that a **TASK 10** for this round, then decide what to do with CAP Black Currant.
 
 **Blackberry**
 
-Not quite a blackberry. It sort of fits the profile of a blackberry - a very dark sweet and slightly floral-tart berry flavor - without really nailing it in terms of authenticity. I guess there might be a blackberry candy that tastes similar to this, but it’s not a natural blackberry or blackberry jam. It’s more of a generic dark berry flavor, and a little grapey. And it does taste like some kind of candy, or syrup. It also has a weird fluffy coconut candy off note that lingers in the finish. I think it’s pleasant, but weird, though some people might hate it for that. It makes me want to lean in and mix it with more coconut, maybe use it in some kind of berry colada thing.  
+Not quite a blackberry. It sort of fits the profile of a blackberry - a very dark sweet and slightly floral-tart berry flavor - without really nailing it in terms of authenticity. I guess there might be a blackberry candy that tastes similar to this, but it’s not a natural blackberry or blackberry jam. It’s more of a generic dark berry flavor, and a little grapey. And it does taste like some kind of candy, or syrup. It also has a weird fluffy coconut candy off note that lingers in the finish. I think it’s pleasant, but weird, though some people might hate it for that. It makes me want to lean in and mix it with more coconut, maybe use it in some kind of berry colada thing.
 
 Tempted to just toss it, but I’ll try it in KittyBit’s [French Mornings](https://alltheflavors.com/recipes/145323#french_mornings_by_kittybit) before deciding whether to give it the boot. **TASK 11**
 
@@ -123,7 +123,7 @@ Mostly tastes like CAP Blackberry V1, minus the coconut finish. Unfortunately, t
 
 **Blue Raspberry Cotton Candy**
 
-Mostly tastes like just what it says, very strong cotton candy flavor and aftertaste, very sweet, some identifiable blue raspberry that kind of takes a backseat to the cotton candy. But, also tastes bitter and a little burned or scorched at main-flavor concentration. I’ve had it work really well down low like 1% to 2% to sweeten another blue raspberry or other berry candy stuff, but any more than that it just tastes too much like burnt sugar to me.  
+Mostly tastes like just what it says, very strong cotton candy flavor and aftertaste, very sweet, some identifiable blue raspberry that kind of takes a backseat to the cotton candy. But, also tastes bitter and a little burned or scorched at main-flavor concentration. I’ve had it work really well down low like 1% to 2% to sweeten another blue raspberry or other berry candy stuff, but any more than that it just tastes too much like burnt sugar to me.
 
 [Blue Frost Revisited](https://alltheflavors.com/recipes/54784#blue_frost_revisited_by_apexified), almost makes it worth keeping all by itself. But it’s not like I’ll never enjoy another blue raspberry recipe if I can’t have that specific one.
 There are a bunch of others I’d like to try though. At the moment the two that catch my eye are
@@ -132,11 +132,11 @@ And [Daki](https://alltheflavors.com/recipes/270433#daki_upper_6_by_wolfwheeler)
 
 **Blueberry**
 
-Mostly candy blueberry with a touch of perfumey floral. Down low at 2.5% it reminds of a watered down, underflavored FW Blueberry, but increasing the concentration to try to get more out of it apparently ramps up the floral fast; I think this flavor might be nearly unusable because of that.  I’m not even going to look for recipes that use this. I’ve had my fill of substandard blueberry flavors. If you have a recipe that uses it, do better. **TRASH 7**.
+Mostly candy blueberry with a touch of perfumey floral. Down low at 2.5% it reminds of a watered down, underflavored FW Blueberry, but increasing the concentration to try to get more out of it apparently ramps up the floral fast; I think this flavor might be nearly unusable because of that. I’m not even going to look for recipes that use this. I’ve had my fill of substandard blueberry flavors. If you have a recipe that uses it, do better. **TRASH 7**.
 
 **Blueberry Cinnamon Crumble**
 
- I’ve heard people praising how well this does a crumble and I can sort of see that in my peripheral vision, but I can’t get past the cinnamon here. It’s prominent, and it tastes a bit more like someone ran out of ground cinnamon for their crumble and tried to use crushed up red hots instead. Cinnamon perceptions seem to differ a bit so YMMV. The crumble is otherwise pretty solid. The so-called blueberry here is pretty slight and indistinct, so if you don’t find it ruined by candy cinnamon taste, you might be able to cover that up with just about any bold fruit flavor for a different sort of cinnamon crumble.
+I’ve heard people praising how well this does a crumble and I can sort of see that in my peripheral vision, but I can’t get past the cinnamon here. It’s prominent, and it tastes a bit more like someone ran out of ground cinnamon for their crumble and tried to use crushed up red hots instead. Cinnamon perceptions seem to differ a bit so YMMV. The crumble is otherwise pretty solid. The so-called blueberry here is pretty slight and indistinct, so if you don’t find it ruined by candy cinnamon taste, you might be able to cover that up with just about any bold fruit flavor for a different sort of cinnamon crumble.
 
 There was a time when I might have tried to use this just for the crumble aspect. WF Crumble Topping has rendered that completely unnecessary. **TRASH 8**.
 
@@ -157,7 +157,7 @@ WF Blueberry Jam is better. VT Bilberry Ripe is a better blueberry jam than eith
 
 **Blueberry Pomegranate**
 
-Oh look, we’ve added some cardboardy blueberry to our underwhelming pomegranate. It’s a shame because in general these flavors go really well together, blueberry and pomegranate, but to translate it into vape form you need a better blueberry, and a better pomegranate wouldn’t hurt. Has a sweet finish without the bitter aftertaste that sometimes comes with stevia, the blueberry is the most disappointing part.  
+Oh look, we’ve added some cardboardy blueberry to our underwhelming pomegranate. It’s a shame because in general these flavors go really well together, blueberry and pomegranate, but to translate it into vape form you need a better blueberry, and a better pomegranate wouldn’t hurt. Has a sweet finish without the bitter aftertaste that sometimes comes with stevia, the blueberry is the most disappointing part.
 
 It’s not that I haven’t enjoyed a recipe or two that uses it. If you have this flavor, give [Pink Stuff](https://alltheflavors.com/recipes/82440) a mix and I bet you won’t regret it. But I didn’t love it enough to keep letting CAP Blueberry Pomegranate take up space here. **TRASH 10**.
 
@@ -169,7 +169,7 @@ This flavor isn’t actually “gross” like I was braced for it to be (Capella
 
 **Bubblegum**
 
-It isn’t an accurate bubblegum flavor that just *has* an off-note. The whole thing basically IS an off note. Which is not to say it’s super gross or horrible or anything, it just doesn’t taste exactly like bubblegum. In a blind taste taste I’m not sure I would identify it as a bubblegum flavor. It tastes vaguely fruity with a thick dry body, some chalky texture, and not a lot of flavor. Like a stick of fruity flavored gum that’s ABC, not pink bubblegum. Not very sweet, either. Might work well as a part of a base for some kind of fruit gum, not sure it even has a place in a pink bubblegum recipe. **TRASH 12**.
+It isn’t an accurate bubblegum flavor that just _has_ an off-note. The whole thing basically IS an off note. Which is not to say it’s super gross or horrible or anything, it just doesn’t taste exactly like bubblegum. In a blind taste taste I’m not sure I would identify it as a bubblegum flavor. It tastes vaguely fruity with a thick dry body, some chalky texture, and not a lot of flavor. Like a stick of fruity flavored gum that’s ABC, not pink bubblegum. Not very sweet, either. Might work well as a part of a base for some kind of fruit gum, not sure it even has a place in a pink bubblegum recipe. **TRASH 12**.
 
 **Butter Cream**
 
@@ -177,25 +177,25 @@ Supposed to be a buttercream frosting, but it’s really more butter than butter
 
 With better butters available I would probably be OK without CAP Butter Cream in my life, but I’ve enjoyed too many great recipes that have used it, so at the moment I’m scared to toss it. Instead, I’ll mix one that’s old, but new to me, DrDoobie’s [Great Scotch!](https://alltheflavors.com/recipes/25210#great_scotch_by_drdoobie) - looks delicious. **TASK 16**.
 
-One of them was my own [ABDC](https://alltheflavors.com/recipes/18315#abdc_by_id10_t) - Apple Butter Doodle Cookie - a snickerdoodle cookie with apple butter mixed into the dough. So, I worked hard on that and was very proud of it - 6 years ago. In the beforetimes, in the long, long ago. But now I’m very sure it could be done much better. I’m going to do that, I’m going to redo this recipe.  
+One of them was my own [ABDC](https://alltheflavors.com/recipes/18315#abdc_by_id10_t) - Apple Butter Doodle Cookie - a snickerdoodle cookie with apple butter mixed into the dough. So, I worked hard on that and was very proud of it - 6 years ago. In the beforetimes, in the long, long ago. But now I’m very sure it could be done much better. I’m going to do that, I’m going to redo this recipe.
 
 I’m thinking something like
 
 ABDC 2, V1 **TASK 17**
 
-Co. | Flavor | %
----|---|----
-CAP | Cinnamon Sugar | 1.25
-CAP | Sugar Cookie | 5.0
-FA | Custard Premium | 1
-FA | Liquid Amber | 0.25
-FLV | Apple Filling | 1.25
-FLV | Caramel | 0.5
-VT | Pudding Base | 1.5
-WF | Apple Butter | 1.25
-WF | Cookie Butter | 2.0
+| Co. | Flavor          | %    |
+| --- | --------------- | ---- |
+| CAP | Cinnamon Sugar  | 1.25 |
+| CAP | Sugar Cookie    | 5.0  |
+| FA  | Custard Premium | 1    |
+| FA  | Liquid Amber    | 0.25 |
+| FLV | Apple Filling   | 1.25 |
+| FLV | Caramel         | 0.5  |
+| VT  | Pudding Base    | 1.5  |
+| WF  | Apple Butter    | 1.25 |
+| WF  | Cookie Butter   | 2.0  |
 
-It’ll probably take all kinds of work to balance the apple/cinnamon/cookie correctly and make the apple really taste like apple butter, but that looks like a tasty start to me.  
+It’ll probably take all kinds of work to balance the apple/cinnamon/cookie correctly and make the apple really taste like apple butter, but that looks like a tasty start to me.
 
 **Butter Pecan**
 
@@ -203,7 +203,7 @@ Really falls short of FW Butter Pecan and others. The only thing it really does 
 
 **Cake Batter**
 
-The dose makes the poison. At 4%,which is a pretty normal single-flavor % for CAP products, this is absolutely horrific. It tastes like cake batter made in the home of someone who lives in the shadows of several oil refineries and plastics manufacturing plants. At the heart of it there’s some pretty accurate gooey, sugary, eggy cake batter with a lot of vanilla, but all around it are off notes like burning plastic, ancient fryer grease, and some kind of spice that tastes like a mix of black pepper and the farts of someone whose diet is primarily nutmeg.  
+The dose makes the poison. At 4%,which is a pretty normal single-flavor % for CAP products, this is absolutely horrific. It tastes like cake batter made in the home of someone who lives in the shadows of several oil refineries and plastics manufacturing plants. At the heart of it there’s some pretty accurate gooey, sugary, eggy cake batter with a lot of vanilla, but all around it are off notes like burning plastic, ancient fryer grease, and some kind of spice that tastes like a mix of black pepper and the farts of someone whose diet is primarily nutmeg.
 
 At 1%, it actually tastes like licking the spoon used to mix box-mix Betty Crocker vanilla cake batter, with plenty of flavor. It’s thick, gooey, a bit oily, raw, sugary, custardy, and loaded with that vanilla that tastes like... I dunno, Capella Vanilla. I could see where some people might not like it, ESPECIALLY if they don’t like CAP VC, but I dig it. Has a lingering sweet and greasy aftertaste that might also be off putting to some but I think that’s actually quite authentic to the experience of eating raw cake batter. If you’re doing that, you’re a bit of a heathen anyway, or a child, and this tastes perfect for heathen with childish palates, but maybe it’s not for more adult, sophisticated ones. I feel like if you don’t enjoy this, you’re probably not fun at parties.
 
@@ -213,7 +213,7 @@ Also it might contain about a quarter percent too much INW Biscuit for my taste,
 
 **Candied Watermelon**
 
-I know a few people who are quite impressed with this one but I’ve got issues with it. It has a picture of a jolly rancher looking candy right on the bottle, but it tastes a whole lot more like one of those dry, hollow green watermelon gumballs, the kind that even seem to have a fake candy watermelon rind flavor to them, and not at all like mouthwatering red or pink hard candy. Concrete Rick says it tastes exactly like Watermelon Bubblicious and just needs something like vanilla swirl to fill it out, but I guess I don’t remember what that tastes like, when I try to think of good watermelon gum, it’s a lot juicier in my head. This is distinctly not juicy. It’s a bit harsh, a bit thin, and kind of chemically.  
+I know a few people who are quite impressed with this one but I’ve got issues with it. It has a picture of a jolly rancher looking candy right on the bottle, but it tastes a whole lot more like one of those dry, hollow green watermelon gumballs, the kind that even seem to have a fake candy watermelon rind flavor to them, and not at all like mouthwatering red or pink hard candy. Concrete Rick says it tastes exactly like Watermelon Bubblicious and just needs something like vanilla swirl to fill it out, but I guess I don’t remember what that tastes like, when I try to think of good watermelon gum, it’s a lot juicier in my head. This is distinctly not juicy. It’s a bit harsh, a bit thin, and kind of chemically.
 
 There are better watermelon candy flavors. **TRASH 14**.
 
@@ -225,7 +225,7 @@ Here it is allegedly tying together a [Jarritos Guava-style recipe](https://allt
 
 **Cantaloupe V2**
 
-I’m not getting any barf from it so it doesn’t seem to be *that* kind of V2. It doesn’t really taste like cantaloupe, though. It’s more like a bright, forward generically melon candy that might be called “cantaloupe” but doesn’t really taste like one. It’s distinctly melony without being a particular, distinct melon. If you told me it was supposed to be yellow watermelon - which is sweeter and mellower, with a bit of honeyish taste to the sweetness - I’d believe you that it was a candy version of that.  Very sweet. A bit top heavy as far as the melon flavor goes, but a sweet, bland, somewhat dry base. Overall, it tastes fake, but maybe not necessarily in a bad way. I think it might be a really good flavor for the specific purpose of something like a melon fruit chew candy recipe. Not Hi-Chew, or one of the other Japanese ones, but more like the melon part of Starburst Mango Melon. Yeah, I’ve just used a whole bunch of words to basically say it tastes like the melon half of Starburst Mango Melon from the tropical pack.
+I’m not getting any barf from it so it doesn’t seem to be _that_ kind of V2. It doesn’t really taste like cantaloupe, though. It’s more like a bright, forward generically melon candy that might be called “cantaloupe” but doesn’t really taste like one. It’s distinctly melony without being a particular, distinct melon. If you told me it was supposed to be yellow watermelon - which is sweeter and mellower, with a bit of honeyish taste to the sweetness - I’d believe you that it was a candy version of that. Very sweet. A bit top heavy as far as the melon flavor goes, but a sweet, bland, somewhat dry base. Overall, it tastes fake, but maybe not necessarily in a bad way. I think it might be a really good flavor for the specific purpose of something like a melon fruit chew candy recipe. Not Hi-Chew, or one of the other Japanese ones, but more like the melon part of Starburst Mango Melon. Yeah, I’ve just used a whole bunch of words to basically say it tastes like the melon half of Starburst Mango Melon from the tropical pack.
 It looks like flavor hasn’t even been added to ATF. I might have missed it, but there doesn’t seem to be a public recipe using it on ELR, either. I’m not in the mood to be a pioneer with this thing. **TRASH 15**.
 
 **Caramel**
@@ -244,9 +244,9 @@ I told myself I wouldn’t **TRASH 16** this if I found a recipe that uses it wi
 
 **Cereal 27**
 
-Ha. I’m not getting rid of this. It’s beyond a staple, it’s a super-staple.  
+Ha. I’m not getting rid of this. It’s beyond a staple, it’s a super-staple.
 
- By itself it just tastes like toasted cornflakes, and although there’s definitely quite a bit of other stuff in there, it mostly tastes like acetyl pyrazine but much more diluted than TFA 5% AP. It can go in just about anything. Very obviously cereals, but any kind of bakery, chocolate, creams, anything really except maybe beverages and fresh, bright fruits without heavy creams. It is kinda sweet, but not very, it sort of emulates the natural corny and a little malty sweetness of cereal.
+By itself it just tastes like toasted cornflakes, and although there’s definitely quite a bit of other stuff in there, it mostly tastes like acetyl pyrazine but much more diluted than TFA 5% AP. It can go in just about anything. Very obviously cereals, but any kind of bakery, chocolate, creams, anything really except maybe beverages and fresh, bright fruits without heavy creams. It is kinda sweet, but not very, it sort of emulates the natural corny and a little malty sweetness of cereal.
 
 I don’t know whether to mix one of my all-time favorite CAP Cereal 27 recipes or try a new one so I guess I’ll just have to do both.
 
@@ -263,7 +263,7 @@ I’ve never even opened this, better mix some samples. **TASK 23**.
 
 **Chocolate Glazed Donut**
 
-Nails that waxy chocolate glaze that you get on a chocolate glazed donut. Some people say they get some of the same play doh  flavor that’s in the regular glazed donut, I don’t really get play doh from this one. It’s a thick, cakey donut, not a fluffy yeast risen donut. There’s not much separation between the waxy chocolate glaze and the cakey donut so it's hard to tell whether it’s a chocolate-glazed chocolate cake donut or a regular cake donut with too much chocolate glaze. It’s a little dry, and a little chalky. Also rough on coils.  
+Nails that waxy chocolate glaze that you get on a chocolate glazed donut. Some people say they get some of the same play doh flavor that’s in the regular glazed donut, I don’t really get play doh from this one. It’s a thick, cakey donut, not a fluffy yeast risen donut. There’s not much separation between the waxy chocolate glaze and the cakey donut so it's hard to tell whether it’s a chocolate-glazed chocolate cake donut or a regular cake donut with too much chocolate glaze. It’s a little dry, and a little chalky. Also rough on coils.
 
 Waxy as hell aaaand gunks coils bad? **TRASH 17**
 

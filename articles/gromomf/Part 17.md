@@ -9,19 +9,19 @@ Starting flavor count: 2,721 (down from 2,975 originally)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-*Just a quick one this week, Thanksgiving and major family drama kept me from making too much headway since part 16.*
+_Just a quick one this week, Thanksgiving and major family drama kept me from making too much headway since part 16._
 
-# Euro Flavor
+## Euro Flavor
 
 **Tobacco Vanilla Custard**
 
 Oops, left this one off last week. I’m not keeping it anyway. It is neither tobacco nor custard. Some of that dirty tobacco-ish thing like some RY4s have, but without the caramel. Some dark syrupy sweetness underneath, but not caramel.. Very sweet and forward vanilla with a light creamy undertone, but no custard notes. I got a bit of a bit of plasticky fruity chemical off-note trying this at 6%, that might have been overflavoring. But still basically just dirty vanilla. This is **TRASH 1** compared to competition like WF Vanilla Ruyan Custard and INW Vanilla For Pipe.
 
-# Flavor West
+## Flavor West
 
 **Anise**
 
-Tastes like a ton of anise, in a limeade. I don’t know why quite a few anise flavors have a bit of citrus in them but this is not just a little off note, there’s a clear backdrop of sweetened lime behind or beneath that anise spice. I prefer my limeades unspiced. **TRASH 2**  
+Tastes like a ton of anise, in a limeade. I don’t know why quite a few anise flavors have a bit of citrus in them but this is not just a little off note, there’s a clear backdrop of sweetened lime behind or beneath that anise spice. I prefer my limeades unspiced. **TRASH 2**
 
 **Ankara Tobacco**
 
@@ -35,7 +35,7 @@ Abominable. Not apple jacks. Maybe cardboard sprayed with a perfume loosely base
 
 Someone on ELR recommended this be used at 0.5% and while that seems awfully low for most Flavor West flavors, it tastes like a good idea. There’s a faint perfumy off note here that tastes like overflavoring, actually, at 0.5%. A little lower might be better. So I guess FW Apricot is like TFA Caramel Cappuccino, just ridiculously potent for no obvious reason.
 
-It tastes quite a bit like apricot, but it’s also a little odd. There’s like a tart floralish quality upfront - that’s where it’s running just a tiny bit perfumy for me. The midsection tastes more like yellow peach to me than apricot, but there’s also a bit of  green vegetable taste that seems more intentional than the perfumy floral top note. Really more under ripe peach there. But it’s a full spectrum of flavor and that base depth is much more apricotty, or like a mild but full sweeter, riper peach with maybe a touch of honey. I’m not saying it’s unusable, but there isn’t anything i want to make out of it, so... **TRASH 5**
+It tastes quite a bit like apricot, but it’s also a little odd. There’s like a tart floralish quality upfront - that’s where it’s running just a tiny bit perfumy for me. The midsection tastes more like yellow peach to me than apricot, but there’s also a bit of green vegetable taste that seems more intentional than the perfumy floral top note. Really more under ripe peach there. But it’s a full spectrum of flavor and that base depth is much more apricotty, or like a mild but full sweeter, riper peach with maybe a touch of honey. I’m not saying it’s unusable, but there isn’t anything i want to make out of it, so... **TRASH 5**
 
 **Banana**
 
@@ -45,7 +45,7 @@ Maybe mango and coconut takes some of the candy-ness away? I’ll give this a sh
 
 **Banana Nut Bread**
 
-I’m mostly just mad at it for having sugar syrup. This concentrate smells just like banana nut bread. Lick some of my mixed sample off the back of my hand, it tastes like banana nut bread, perfectly. Extremely realistic cooked banana, sweet bread, wonderful hints of spices - especially cinnamon - and nuts. Unfortunately, it contains sugar syrup, is black as satan’s asshole, and doesn’t vape right. The banana doesn’t come through very well, it mostly just tastes like spiced bread, and there’s an extremely dark sweetness to it like the spiced bread is soaked in molasses. And it only took a few mls to start crusting up my wicks. The flavor is not worth vaping sugar syrup, it’s not another FW Yellow Cake. I’ll find some kind of use for it in the kitchen instead of my vapes, maybe add it to frosting for a banana cupcake or something like that, IDK.  Banana Nut Bread coffee, anyone? Yeah, I was just about to make some coffee, let’s see what Banana Nut Bread coffee tastes like. But it’s not going back in with my keeper flavors even if it does get to live on in my kitchen, so that counts as **TRASH 6**
+I’m mostly just mad at it for having sugar syrup. This concentrate smells just like banana nut bread. Lick some of my mixed sample off the back of my hand, it tastes like banana nut bread, perfectly. Extremely realistic cooked banana, sweet bread, wonderful hints of spices - especially cinnamon - and nuts. Unfortunately, it contains sugar syrup, is black as satan’s asshole, and doesn’t vape right. The banana doesn’t come through very well, it mostly just tastes like spiced bread, and there’s an extremely dark sweetness to it like the spiced bread is soaked in molasses. And it only took a few mls to start crusting up my wicks. The flavor is not worth vaping sugar syrup, it’s not another FW Yellow Cake. I’ll find some kind of use for it in the kitchen instead of my vapes, maybe add it to frosting for a banana cupcake or something like that, IDK. Banana Nut Bread coffee, anyone? Yeah, I was just about to make some coffee, let’s see what Banana Nut Bread coffee tastes like. But it’s not going back in with my keeper flavors even if it does get to live on in my kitchen, so that counts as **TRASH 6**
 
 **Banana Split**
 
@@ -63,7 +63,7 @@ Probably the most accurate Bavarian cream in terms of being both custardy and fl
 
 **Beetle Juice**
 
-It’s mostly juicy candy raspberry, but also something else, some kind of citrus, and possibly pineapple? There’s a pineapple-ish note that peeks out along with the raspberry upfront, and there's a thicker indistinct fruit base. Some call out mango and strawberry but I’m not getting either of those clearly. It’s very sweet. Bit top heavy on the flavor intensity but plenty of mouthfeel in that base, kind of a sherbet texture.  
+It’s mostly juicy candy raspberry, but also something else, some kind of citrus, and possibly pineapple? There’s a pineapple-ish note that peeks out along with the raspberry upfront, and there's a thicker indistinct fruit base. Some call out mango and strawberry but I’m not getting either of those clearly. It’s very sweet. Bit top heavy on the flavor intensity but plenty of mouthfeel in that base, kind of a sherbet texture.
 
 Never had Tahitian Treat soda, but [this recipe looks pretty neat](https://alltheflavors.com/recipes/213025#tahitian_tweet_diyordie_midweek_critique_by_norcalvapin). **TASK 5**
 
@@ -73,12 +73,12 @@ I also want to try something simple, this is supposed to be mix of red, white, a
 
 Murica Bears V1 **TASK 7**
 
-Co. | Flavor | %
----|---|----
-FW | Beetle Juice | 3.5
-CAP | 27 Bears | 5
-WF | Strawberry Gummy Candy | 2
-FLV | Blue Raz | 2.5
+| Co. | Flavor                 | %   |
+| --- | ---------------------- | --- |
+| FW  | Beetle Juice           | 3.5 |
+| CAP | 27 Bears               | 5   |
+| WF  | Strawberry Gummy Candy | 2   |
+| FLV | Blue Raz               | 2.5 |
 
 I have no idea if that will work at all - only one way to find out!
 

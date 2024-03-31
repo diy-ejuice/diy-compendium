@@ -9,11 +9,11 @@ Starting Flavor Count: 2,429 (down from 2,972)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-# FLAVOUR ART
+## FLAVOUR ART
 
 **Violet**
 
-Yup, that’s violet. It tastes very, very violet, without being perfumy. It’s sweet, too, with some chalky sweetness especially in the finish, like a violet candy. It will get a little laundry-soapish with too much, so start low, but it will turn anything floral-purple long before that happens. I don’t get anything I would call an off-note from this.  
+Yup, that’s violet. It tastes very, very violet, without being perfumy. It’s sweet, too, with some chalky sweetness especially in the finish, like a violet candy. It will get a little laundry-soapish with too much, so start low, but it will turn anything floral-purple long before that happens. I don’t get anything I would call an off-note from this.
 
 I need it to make more [Mango Beauregarde](https://alltheflavors.com/recipe/39457-mango_beauregarde) **TASK 1**, to make a modernized remix of my old Paradise Cream recipe, and because I want to try Violet Hops, and Jazz Hands (while I still have some Holy Vanilla). There really isn’t much else I want to mix that uses it.
 
@@ -23,16 +23,16 @@ That is certainly a waffle. There’s a hint of vanilla baked in but I don’t k
 
 Justwaffle V1 **TASK 2**
 
-Co.| Flavor | %
----|---|----
-FA | Waffles Vanilla | 2
-FA | Maple Syrup | 1.5
-VT | Butter Base | 1
-VT | Golden Syrup | 1
+| Co. | Flavor          | %   |
+| --- | --------------- | --- |
+| FA  | Waffles Vanilla | 2   |
+| FA  | Maple Syrup     | 1.5 |
+| VT  | Butter Base     | 1   |
+| VT  | Golden Syrup    | 1   |
 
 **Walnut**
 
-Walnut milk? Walnut water? I don’t know, but this flavor is wet. Juicy. Or at least, very moist compared to other nuts. I think that throws the accuracy off quite a bit, but it’s a little more walnutty than WF Walnut. It has that earthy, somewhat sharp top note that I expected from a walnut right up front, but a sweeter, much less distinct nutty thick body that also throws it off of walnut a ways. The whole thing was oddly wet. Could be very useful to combat the dryness that is so ubiquitous with nuts, without being tempted to do something gross like add cactus to them.  
+Walnut milk? Walnut water? I don’t know, but this flavor is wet. Juicy. Or at least, very moist compared to other nuts. I think that throws the accuracy off quite a bit, but it’s a little more walnutty than WF Walnut. It has that earthy, somewhat sharp top note that I expected from a walnut right up front, but a sweeter, much less distinct nutty thick body that also throws it off of walnut a ways. The whole thing was oddly wet. Could be very useful to combat the dryness that is so ubiquitous with nuts, without being tempted to do something gross like add cactus to them.
 
 I’ll mix some more [2 Flavor Banger](https://alltheflavors.com/recipe/90634-2_flavor_banger) with twice as much nicotine as I usually use, perfect for when there’s an open bar. **TASK 3**
 
@@ -44,7 +44,7 @@ I have a handful of recipes already in the queue that use this one. Of course I 
 
 **Whipped Cream**
 
-This is my #2 Whipped Cream (OoO is #1). It’s very milky, it manages to very clearly be a dairy product without tasting remotely rancid, like homemade whipped cream. Very full and satisfying, with a lingering milkfat feel like whipped cream. Just a touch of vanilla. It’s a somewhat soft and subtle flavor, lending it an airy, fluffy feel, but not at all drying.  
+This is my #2 Whipped Cream (OoO is #1). It’s very milky, it manages to very clearly be a dairy product without tasting remotely rancid, like homemade whipped cream. Very full and satisfying, with a lingering milkfat feel like whipped cream. Just a touch of vanilla. It’s a somewhat soft and subtle flavor, lending it an airy, fluffy feel, but not at all drying.
 
 Already picked out at least four recipes that use it, here’s a couple more.
 
@@ -58,23 +58,21 @@ Cheap scotch with a big splash of apple juice and a cherry in it. I guess it kin
 
 I have to keep this (for now) to try Kopel’s Fireside recipe again, so I’ll keep it a little longer than than to try his [Castle Longer](https://alltheflavors.com/recipe/135987-castle_longer) as well. **TASK 7**
 
-&nbsp;
-
 **White Grape**
 
-Eating freeze-dried white grapes while wearing a little too much perfume. Very jammy sticky sweet and mostly tastes like white grapes, but vapes pretty dry, or at least not wet and juicy like a grape or grape juice. Maybe needs to be fixed with just a little cactus? But, not sure about that because it already packs quite a floral wallop and cactus might amplify that. There’s a little tart tannic grape skin note that’s appropriate but that musky and slightly bitter floral right on top is unfortunate. I’d use this maybe in a small dose to try to make a “purple” flavor taste a little more like a real grape, as well as add that nice jammy sweetness to it, but not for anything else. Almost certainly not as the main flavor in a mix.  
+Eating freeze-dried white grapes while wearing a little too much perfume. Very jammy sticky sweet and mostly tastes like white grapes, but vapes pretty dry, or at least not wet and juicy like a grape or grape juice. Maybe needs to be fixed with just a little cactus? But, not sure about that because it already packs quite a floral wallop and cactus might amplify that. There’s a little tart tannic grape skin note that’s appropriate but that musky and slightly bitter floral right on top is unfortunate. I’d use this maybe in a small dose to try to make a “purple” flavor taste a little more like a real grape, as well as add that nice jammy sweetness to it, but not for anything else. Almost certainly not as the main flavor in a mix.
 
 Nothing that uses this is something I want to try, and it’s about time I threw something away this week. **TRASH 1**
 
 **White Peach**
 
- It really very accurately, almost freakishly, emulates the difference between a classic yellow peach and a sweeter, sugary white peach. However, it’s a little thin, and a little dry, and I get some throat irritation from it. Gets a bit too sharp and floral if taken up too high, and can overtake a mix while still not being especially bold.
+It really very accurately, almost freakishly, emulates the difference between a classic yellow peach and a sweeter, sugary white peach. However, it’s a little thin, and a little dry, and I get some throat irritation from it. Gets a bit too sharp and floral if taken up too high, and can overtake a mix while still not being especially bold.
 
 Although it can be a little tricky to work with, this is one of the greatest peach flavors by comparison.
 
 I need it for one of my all-time favorites, [Blue Eyes White Dragon](https://alltheflavors.com/recipe/124392-blue_eyes_white_dragon) **TASK 8**
 
-I’ve already picked out about eight recipes that make use of it, including two I hope to find time to mix up today. I’ll also try [Yet Another Peaches and Cream](https://alltheflavors.com/recipe/160459-yet_another_peaches_and_cream) - just four flavors that look great together. **TASK 9**  
+I’ve already picked out about eight recipes that make use of it, including two I hope to find time to mix up today. I’ll also try [Yet Another Peaches and Cream](https://alltheflavors.com/recipe/160459-yet_another_peaches_and_cream) - just four flavors that look great together. **TASK 9**
 
 **Wine Champagne**
 
@@ -92,7 +90,7 @@ It’s not a bad flavor, but I can’t find a recipe I want to mix that uses it,
 
 Sort of tastes like a donut but more of a generic pastry, wrapped around a little bit of fruit that tastes distinctly red but not on point for any particular red fruit such as raspberry or strawberry. Sweet and complex, but also dry and thin, not a thick and rich pastry or especially gooey filling. Also, very slightly harsh. Maybe you could use it to build a fruit-filled donut, but both the donut part and the filling part will need a lot of help, and at that point it’s sort of a why bother type of situation unless maybe it’s a bridge-type of flavor, but arguably that’s not even something you’d want or need if you’re trying to get any separation between pastry and fruit layers.
 
-I’ve planned to try [Bite Me](https://alltheflavors.com/recipe/130699-bite_me) already because it looks fantastic, but had trouble finding anything else I really want to use WoW for.  I guess I’ll try this [Freak Show](https://alltheflavors.com/recipe/230628-freak_show) recipe, **TASK 11**, but I’m not super excited about it like I am for most of the recipes I link.
+I’ve planned to try [Bite Me](https://alltheflavors.com/recipe/130699-bite_me) already because it looks fantastic, but had trouble finding anything else I really want to use WoW for. I guess I’ll try this [Freak Show](https://alltheflavors.com/recipe/230628-freak_show) recipe, **TASK 11**, but I’m not super excited about it like I am for most of the recipes I link.
 
 **Ylang Ylang**
 
@@ -110,11 +108,11 @@ Keeping it to try [Coconut Thai Remixed](https://alltheflavors.com/recipe/48929-
 
 Zen Suckle V1 **TASK 13**
 
-Co.| Flavor | %
----|---|----
-TFA | Honeysuckle| 2.5
-FA | Aurora | 1
-FA | Zen Garden | 0.75
+| Co. | Flavor      | %    |
+| --- | ----------- | ---- |
+| TFA | Honeysuckle | 2.5  |
+| FA  | Aurora      | 1    |
+| FA  | Zen Garden  | 0.75 |
 
 **Zeppola**
 

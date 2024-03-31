@@ -7,7 +7,7 @@ date: '2022-08-21'
 
 Starting Flavor Count: 2,976
 
-This is not a selling my flavors post. This is not even a giving away flavors post. It’s too much of a pain in the ass going to the damn post office. I’m just tossing them. Nobody needs 2,976 flavors. I’m not taking them to the grave with me or leaving them as an inheritance, so they’re all going in the trash *eventually.*
+This is not a selling my flavors post. This is not even a giving away flavors post. It’s too much of a pain in the ass going to the damn post office. I’m just tossing them. Nobody needs 2,976 flavors. I’m not taking them to the grave with me or leaving them as an inheritance, so they’re all going in the trash _eventually._
 
 This post is about which ones get the bin first and why. Just in case one of you might have any interest in that. If it doesn’t interest you, just move along, and I hope you have an awesome day.
 
@@ -15,7 +15,7 @@ I’m just going to start at the top of my spreadsheet ‘o flavors, which I thi
 
 I’m playing a game called TRASH or TASK.
 
-# AMORETTI
+## AMORETTI
 
 All of my Amoretti flavors were sent to me by a mixer whose lovely drawings on the bottles are the main reason I have not already tossed them. But like the hot moms at the hotel pool tell me, take a picture it’ll last longer. [Picture](https://imgur.com/a/c1POwhJ).
 
@@ -29,7 +29,7 @@ VG-based flavor. 4% is not enough for a single flavor, or a week isn’t a long 
 
 **Natural Cloudberry Extract**
 
-I can’t remember trying this, and can’t find any record of having tried this VG-based flavor. Do I owe it to the cute little drawing on the bottle to mix some samples and try this? I guess I do. **TASK 1**  
+I can’t remember trying this, and can’t find any record of having tried this VG-based flavor. Do I owe it to the cute little drawing on the bottle to mix some samples and try this? I guess I do. **TASK 1**
 
 **Natural Persimmon Extract**
 
@@ -39,13 +39,13 @@ Another VG-based flavor I can’t remember trying, and given that FLV Persimmon 
 
 Now this one I did try, it was awful, plastic off note. Maybe I could have gone back and tried it again to see if those steeped out eventually, but who really has time for that? **TRASH 3**
 
-# BAKER FLAVORS
+## BAKER FLAVORS
 
 There are only four ways I know of obtaining Russian-made Baker Flavors. In the US, Vaping Zone has a limited selection of them, rebranded as Gourmet Super Concentrates or SC-Gourmet. There’s a larger selection at Juice Factory in Australia, again sold as Gourmet Super Concentrates. I once found a German (I think?) site that had them and I was able to order some, but the site seems to have disappeared. So, I guess there are just three ways. And the third involves emailing your credit card information to some guy in Russia. Um, I do not recommend that route. Since I’m narrowing the supply of flavors I’ll be using, I want to take ease of re-upping supply into consideration.
 
 **Almond**
 
-This bottle was sent to me by a friend, love you J-Bird. Not almond, amaretto. It tasted like they studied Disaronno Amaretto to make it. This  was frustrating for me because unfortunately I also found it very harsh to the point of being difficult to vape. I tried and steeping it and mixing it with smooth ingredients, it didn’t seem to help. I think I’ll put this in the kitchen and see what a little of it does to my morning coffee. But it’s being evicted from the mixing shelf and that’s close enough to the **TRASH 4**.
+This bottle was sent to me by a friend, love you J-Bird. Not almond, amaretto. It tasted like they studied Disaronno Amaretto to make it. This was frustrating for me because unfortunately I also found it very harsh to the point of being difficult to vape. I tried and steeping it and mixing it with smooth ingredients, it didn’t seem to help. I think I’ll put this in the kitchen and see what a little of it does to my morning coffee. But it’s being evicted from the mixing shelf and that’s close enough to the **TRASH 4**.
 
 **Black Currant**
 
@@ -63,23 +63,23 @@ is my own recipe, based on Cardinal by Fear. I just mixed a batch of Cardinal th
 
 When it does run out, I have a couple of options. I could buy some of that Holy RY4 from Flavor Jungle and trying it as a 1:1 replacement. I’m going to have to do that eventually with the original Cardinal anyway, right? But a more intriguing option is found in a note I just found that I made for myself back in May 2020, which reads, “This could be an all FLV recipe with this pre-release Mild Tobacco. Mix that with Smooth Vanilla for the RY4 part, ditch the HS and BF flavors for a little Chocolate Deutsch, add a touch of Butterscotch. Boom.” I miss that guy, the one who wrote “boom” at the end of notes to himself. He was so young and full of life. Anyway, need to try this. Haven’t determined %s to use in this, probably need to sample the original Raven first. Well, the original Raven vape juice recipe. The original Raven was the young lady who helped me out of my virginity in high school. She changed her name to Raven after we broke up, but has since changed it back. What was I saying? Oh yeah, need to try this. Anyone still reading care to suggest the missing concentrations for a mixture of
 
-All FLV  
+All FLV
 
-Flavor | %
----|---
-Mild Tobacco | ???
-Red Burley | 0.75
-Kentucky Blend | 0.25
-Smooth Vanilla | ???
-Milk Chocolate| 0.25
-Chocolate Deutsch | ???
-Butterscotch| ???
+| Flavor            | %    |
+| ----------------- | ---- |
+| Mild Tobacco      | ???  |
+| Red Burley        | 0.75 |
+| Kentucky Blend    | 0.25 |
+| Smooth Vanilla    | ???  |
+| Milk Chocolate    | 0.25 |
+| Chocolate Deutsch | ???  |
+| Butterscotch      | ???  |
 
 Mixing those together is my **TASK 4**.
 
 I might not do the tasks in order.
 
- DJ Mills' [Campfire Bananas](https://alltheflavors.com/recipes/58287#campfire_bananas_by_deejay_mills)
+DJ Mills' [Campfire Bananas](https://alltheflavors.com/recipes/58287#campfire_bananas_by_deejay_mills)
 
 I thoroughly enjoyed that recipe, and even though I can already feel myself getting burned out on chocolate after those previous two tasks, I’m tempted to mix some for the nostalgia. Then I realized, if I’m going to mix a DJ Mills recipe for auld lang syne, there are even better options. Matter of fact, despite the supply of Holy Vanilla soon to be gone forever, I’m making mixing some [Golden Oreo Pudding](https://alltheflavors.com/recipes/37647#golden_oreo_pudding_by_deejay_mills), my **TASK 5**, just because I want to.
 
@@ -91,7 +91,7 @@ I want to try some of that, too, so that’s **TASK 6**. I just love FLV Creme d
 
 **Cream Charlotte**
 
-Picked this up from that German (I think?) site because someone, I don’t know who but I’m pretty sure it was not charles manson, told me to. Never got around to trying it, as best I can recall, and that bottle looks full. I see it being used at 0.5 to 1%, looks like I need to mix some samples. **TASK 7**  
+Picked this up from that German (I think?) site because someone, I don’t know who but I’m pretty sure it was not charles manson, told me to. Never got around to trying it, as best I can recall, and that bottle looks full. I see it being used at 0.5 to 1%, looks like I need to mix some samples. **TASK 7**
 
 **Eis Waffel**
 
@@ -99,13 +99,13 @@ I was too intrigued not to buy this and then too scared to try it. I was sure it
 
 **Mango Mix**
 
-It was pretty harsh. It tasted a like a little mango drenched in pineapple-flavored battery acid. Just extremely harsh and acidic, but not like lemon acidic, very distinctly pineapple. Also just a tish floral. Did have a really nice sweet mango finish though. I thought I might see if that harshness steeped out after more than a few days, give it another try. But I swear like half these 2,900+ flavors are mangos that are otherwise pretty good but have something fairly serious wrong with them. **TRASH 6**  
+It was pretty harsh. It tasted a like a little mango drenched in pineapple-flavored battery acid. Just extremely harsh and acidic, but not like lemon acidic, very distinctly pineapple. Also just a tish floral. Did have a really nice sweet mango finish though. I thought I might see if that harshness steeped out after more than a few days, give it another try. But I swear like half these 2,900+ flavors are mangos that are otherwise pretty good but have something fairly serious wrong with them. **TRASH 6**
 
 **Pure Tarragon**
 
 What the fuck am I doing with my life that I own a Tarrgon flavor to make vapes. Seriously. **TRASH 7**.
 
-Also it wasn’t very good. There’s tarragon in there, but also lots of lemon, and it’s sweet, so it’s like tarragon lemonade, and there’s a hint of anise, so the whole thing is really damn weird, and, on top of that, it’s a little harsh, in the way that got  worse the more I vaped, so it was hard to even finish a small sample. Sometimes curiosity gets the better of you and you buy weird shit, but don’t let BF Pure Tarragon be that thing, it is not good.  
+Also it wasn’t very good. There’s tarragon in there, but also lots of lemon, and it’s sweet, so it’s like tarragon lemonade, and there’s a hint of anise, so the whole thing is really damn weird, and, on top of that, it’s a little harsh, in the way that got worse the more I vaped, so it was hard to even finish a small sample. Sometimes curiosity gets the better of you and you buy weird shit, but don’t let BF Pure Tarragon be that thing, it is not good.
 
 **Vanilla Sponge Cake**
 
@@ -125,4 +125,4 @@ That’s a bunch of work just to get rid of 7 flavors. I’m sure I’ll have mo
 
 To be continued, after I at least start on these tasks...
 
-New flavor count:  2,969
+New flavor count: 2,969

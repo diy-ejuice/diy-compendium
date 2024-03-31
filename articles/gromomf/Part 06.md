@@ -9,17 +9,17 @@ Starting Flavor Count: 2,904 (Down from 2,975 Originally)
 
 TASK OR TRASH is the name of the game.
 
-# TFA
+## TFA
 
 **Honey**
 
 Skipping ahead to this one by [unselfish request](https://www.reddit.com/r/DIY_eJuice/comments/xb48n7/getting_rid_of_most_of_my_flavors_part_4/iny8hkq/)
 
-Totally unusable even at 0.025%.Skiddlz said it best when he described it as tasting like "growing up in Ohio" and "dumpster flowers." Even as low as 0.025% (0.25% of a 10% dilution), it’s terrible. The honey sweetness tastes rotten and the primary flavor tastes like grandma’s cat pissed in her potpourri. It’s easily one of the worst flavors I have ever tried.  
+Totally unusable even at 0.025%.Skiddlz said it best when he described it as tasting like "growing up in Ohio" and "dumpster flowers." Even as low as 0.025% (0.25% of a 10% dilution), it’s terrible. The honey sweetness tastes rotten and the primary flavor tastes like grandma’s cat pissed in her potpourri. It’s easily one of the worst flavors I have ever tried.
 
 **TRASH 1**.
 
-# CAPELLA
+## CAPELLA
 
 **27 Bears**
 
@@ -29,7 +29,7 @@ I would like to find another one.
 
 Can I give **YOU** a TASK? Yes, you. The one actual person reading this (I know the rest are just bots). Help me decide which of these to try next in the comments, please.
 
-[Kiwi Forrest Bears]( https://alltheflavors.com/recipes/174962#kiwi_forrest_bears_3_2_1_by_vishousvapez)
+[Kiwi Forrest Bears](https://alltheflavors.com/recipes/174962#kiwi_forrest_bears_3_2_1_by_vishousvapez)
 
 [Jazz’s Gummy Bears](https://alltheflavors.com/recipes/83831#jazzy_s_gummy_bears_by_jazzy_girl)
 
@@ -39,31 +39,31 @@ Can I give **YOU** a TASK? Yes, you. The one actual person reading this (I know 
 
 [1,2,3 Gummer](https://alltheflavors.com/recipes/88794#1_2_3_gummer_by_deweysuds)
 
-[Peach Mango Gummy Candy]( https://alltheflavors.com/recipes/199490#peach_mango_gummy_candy_by_rug_ly)  
-  
+[Peach Mango Gummy Candy](https://alltheflavors.com/recipes/199490#peach_mango_gummy_candy_by_rug_ly)
+
 **Acai**
 
-Going back to part 3, I gave a recipe called [The Matrix](https://alltheflavors.com/recipes/124000#the_matrix_by_8062282) a try. Not bad at all. I give it a solid 4/5 stars. But “keeping a flavor just to be able to make this again is 6/5. **TRASH 2**  
+Going back to part 3, I gave a recipe called [The Matrix](https://alltheflavors.com/recipes/124000#the_matrix_by_8062282) a try. Not bad at all. I give it a solid 4/5 stars. But “keeping a flavor just to be able to make this again is 6/5. **TRASH 2**
 
 **Anise**
 
 I told you I was very likely going to throw CAP Anise away, but first I wanted to try an old recipe for [Papaya Chai Tea](https://alltheflavors.com/recipes/44225) because I saw it and developed a little crush on the idea of mixing papaya with chai spice, tea, and cream. Now I will make my own version of this, and when I do, the reward for completing the TASK will be getting to throw away CAP Anise.
 
-This might be awhile. I know I want to use one of the better Chai flavors and not bother with trying to assemble one out of individual spice notes. But I’m not even sure which one. FLV Thai Chai, VSO Chai, and FLV Chai Spice all seem like excellent options. If the FLV Thai Chai worked, it could even wind up being a 2-banger recipe with less than 5% total flavor. Wouldn’t that be neat? But I think I’ll start with VSO simply because of how impressed I was with this [French V Chai Tea](https://alltheflavors.com/recipes/219192#french_v_chai_tea_by_chasing84) recipe that used it, and for that I’ll need to add a little vanilla cream.  
+This might be awhile. I know I want to use one of the better Chai flavors and not bother with trying to assemble one out of individual spice notes. But I’m not even sure which one. FLV Thai Chai, VSO Chai, and FLV Chai Spice all seem like excellent options. If the FLV Thai Chai worked, it could even wind up being a 2-banger recipe with less than 5% total flavor. Wouldn’t that be neat? But I think I’ll start with VSO simply because of how impressed I was with this [French V Chai Tea](https://alltheflavors.com/recipes/219192#french_v_chai_tea_by_chasing84) recipe that used it, and for that I’ll need to add a little vanilla cream.
 
 The Ashton V1 **TASK 2**
 
-Co. | Flavor | %
----|---|----
-VSO | Chai Tea | 5
-WF | Papaya | 2
-WF | Vanilla Cream Extra | 1.5
+| Co. | Flavor              | %   |
+| --- | ------------------- | --- |
+| VSO | Chai Tea            | 5   |
+| WF  | Papaya              | 2   |
+| WF  | Vanilla Cream Extra | 1.5 |
 
 I might wind up replacing all three of these ingredients with different ones. This is just a starting place.
 
 **Chocolate Fudge Brownie V2**
 
-I found this bottle unopened during Part 3. Mixed samples at 1% and 2%. I will not even be trying the 2%. 1% is... well, yes, there’s a chocolate fudge brownie or chocolate cake or cookie in there for sure, but it tastes slightly tootsie roll-ish and on top of that, a bit pukey. The pukey part is why it’s going in the **TRASH 3**. Apparently this is one of *those* types of V2s.
+I found this bottle unopened during Part 3. Mixed samples at 1% and 2%. I will not even be trying the 2%. 1% is... well, yes, there’s a chocolate fudge brownie or chocolate cake or cookie in there for sure, but it tastes slightly tootsie roll-ish and on top of that, a bit pukey. The pukey part is why it’s going in the **TRASH 3**. Apparently this is one of _those_ types of V2s.
 
 **Irish Cream**
 
@@ -71,7 +71,7 @@ Sweet slightly fluffy vanilla cream like a brighter vanilla pastry cream, with a
 
 **Italian Lemon Sicily**
 
-Fairly soft, sweet lemon, not a real punchy flavor. I didn’t find it to be harsh, especially compared to other lemons, but some people have, so YYMV. It’s not as natural and full as fresh FA Lemon Sicily but it has one big upside compared to it, not fading nearly as bad, though it does fade, like a lot of lemons. Goes into bakeries well unlike a lot of other lemons that will just sit on top of them. Works very well as an accent.  3% is more filled out than 2% but still not a very forward flavor. I don’t want to don’t throw it away yet just on principle. Just because I’m going in alphabetical order doesn’t mean CAP’s Lemon Sicily should be thrown out before FA’s, which is very much the lesser of the two Sicilys IMO, unless you’re doing strictly shake and vape/short steepers because FA is gonna virtually disappear.  Also, while it might not be one of the best lemons by itself, it turns up in a ton of recipes and now seems like a good time to check some of those out.
+Fairly soft, sweet lemon, not a real punchy flavor. I didn’t find it to be harsh, especially compared to other lemons, but some people have, so YYMV. It’s not as natural and full as fresh FA Lemon Sicily but it has one big upside compared to it, not fading nearly as bad, though it does fade, like a lot of lemons. Goes into bakeries well unlike a lot of other lemons that will just sit on top of them. Works very well as an accent. 3% is more filled out than 2% but still not a very forward flavor. I don’t want to don’t throw it away yet just on principle. Just because I’m going in alphabetical order doesn’t mean CAP’s Lemon Sicily should be thrown out before FA’s, which is very much the lesser of the two Sicilys IMO, unless you’re doing strictly shake and vape/short steepers because FA is gonna virtually disappear. Also, while it might not be one of the best lemons by itself, it turns up in a ton of recipes and now seems like a good time to check some of those out.
 
 [A Real Orange Juice? Finally?](https://alltheflavors.com/recipes/157915#a_real_orange_juice_finally_by_motherpunker) **TASK 3**
 
@@ -85,33 +85,33 @@ My first thought on considering dumping Jelly Candy is, “but then I couldn’t
 
 Mango 2 Tango v1 **TASK 5**
 
-Co. | Flavor | %
----|---|----
-CAP | Jelly Candy | 3
-FLV | Red Cinnamon | 0.25 |  
-FA | Indian Mango | 3
-CAP | Super Sweet | 0.50
-WF | Cotton Candy Jelly Bean | 1
-FLV | Sweet Mango | 1
+| Co. | Flavor                  | %    |
+| --- | ----------------------- | ---- |
+| CAP | Jelly Candy             | 3    |
+| FLV | Red Cinnamon            | 0.25 |
+| FA  | Indian Mango            | 3    |
+| CAP | Super Sweet             | 0.50 |
+| WF  | Cotton Candy Jelly Bean | 1    |
+| FLV | Sweet Mango             | 1    |
 
 I also need to remake [Spicy Icy](https://alltheflavors.com/recipes/116249#spicy_icy_chamoyada_mangonada_by_id10_t) but I plan to leave the Jelly Candy in that one as well, for now I’m just trying to upgrade the mango part.
 
 Spicy Icy Chamoyada Mangonada 2 v1 **TASK 6**
 
-Foo | Bar | text
----|---|----
-FLV | Apple Filling | 1.25
-FLV | Heat | 1.5
-FLV | Sweet Mango | 2
-FLV | Mango | 2
-FA | Indian Mango | 2
-CAP | Jelly Candy | 1
-CAP | Super Sweet | 0.5
-FA | Polar Blast | 1.25
-BCF | WS-23 (30%) | 1.75
-TFA | Sweet & Tart | 0.5
+| Foo | Bar           | text |
+| --- | ------------- | ---- |
+| FLV | Apple Filling | 1.25 |
+| FLV | Heat          | 1.5  |
+| FLV | Sweet Mango   | 2    |
+| FLV | Mango         | 2    |
+| FA  | Indian Mango  | 2    |
+| CAP | Jelly Candy   | 1    |
+| CAP | Super Sweet   | 0.5  |
+| FA  | Polar Blast   | 1.25 |
+| BCF | WS-23 (30%)   | 1.75 |
+| TFA | Sweet & Tart  | 0.5  |
 
-And there are a few recipes by others I feel like I need to try, for one reason or another.  
+And there are a few recipes by others I feel like I need to try, for one reason or another.
 
 [Peach Ring Gummy](https://alltheflavors.com/recipes/205599#peach_ring_gummy_by_sublimeice) **TASK 7** in case I want to steal that Sour Ball Candy trick later.
 
@@ -139,11 +139,11 @@ I need it to make [Titanic](https://alltheflavors.com/recipes/48608#titanic_by_i
 
 I will try this [Unicorn Blood](https://alltheflavors.com/recipes/157438#unicorn_blood_by_outofhand), looks interesting **TASK 12**
 
-And this [Kiss My Peach](https://alltheflavors.com/recipes/110929#kiss_my_peach_by_diydownunderpippa). Looks Juicy.  **TASK 13**
+And this [Kiss My Peach](https://alltheflavors.com/recipes/110929#kiss_my_peach_by_diydownunderpippa). Looks Juicy. **TASK 13**
 
 **Kiwi**
 
-Be careful with this one, or don’t use it all. At 2%, I just got a soft and very sweet but dry flavor that didn’t taste anything like a kiwi and was more like some kind of pear. Tried doubling it and the result was no good at all. It tasted like this flavor might have actually gone bad since the last time I had it out, it might not have anything to do with the concentration. Because it literally tastes rotten at 4%. It’s a little tart, but also very vegetal, and again rotten, so it sorta tastes like rotten rhubarb. **TRASH 6**  
+Be careful with this one, or don’t use it all. At 2%, I just got a soft and very sweet but dry flavor that didn’t taste anything like a kiwi and was more like some kind of pear. Tried doubling it and the result was no good at all. It tasted like this flavor might have actually gone bad since the last time I had it out, it might not have anything to do with the concentration. Because it literally tastes rotten at 4%. It’s a little tart, but also very vegetal, and again rotten, so it sorta tastes like rotten rhubarb. **TRASH 6**
 
 **Kiwi Strawberry**
 
@@ -157,7 +157,7 @@ Another staple that isn’t going anywhere anytime soon. I need it to make [1 2 
 
 And might as well give [1 2 3 Peach Breeze](https://alltheflavors.com/recipes/183788#1_2_3_peach_breeze_by_novitec) a shake while I’m at it **TASK 15**
 
-It’s also key to  [Bert’s Soda Base](https://alltheflavors.com/recipes/156816#berts_soda_base_by_staybert), which means it’s key to Staybert’s soda recipes, begs the question, why haven’t I tried [Rainforest Soda](https://alltheflavors.com/recipes/157923#rainforest_soda_remix_by_staybert) yet? **TASK 16**
+It’s also key to [Bert’s Soda Base](https://alltheflavors.com/recipes/156816#berts_soda_base_by_staybert), which means it’s key to Staybert’s soda recipes, begs the question, why haven’t I tried [Rainforest Soda](https://alltheflavors.com/recipes/157923#rainforest_soda_remix_by_staybert) yet? **TASK 16**
 
 Or [Grapefruit Pineapple Soda](https://alltheflavors.com/recipes/190467#grapefruit_pineapple_soda_by_staybert), which I literally asked for **TASK 17**
 
@@ -171,21 +171,21 @@ Looks like Lemon Fried Pie and Lemon Moon Pie are things I’ll have to come up 
 
 Lemon Fried Pie Attempt V1 **TASK 19**
 
-Co. | Flavor | %
----|---|----
-WF | Glazed Donut | 2
-TFA | Pie Crust | 0.75
-CAP | Lemon Meringue Pie | 5
-FE | Lemon | 1
+| Co. | Flavor             | %    |
+| --- | ------------------ | ---- |
+| WF  | Glazed Donut       | 2    |
+| TFA | Pie Crust          | 0.75 |
+| CAP | Lemon Meringue Pie | 5    |
+| FE  | Lemon              | 1    |
 
 Lemon Moon Pie Attempt V1 **TASK 20**
 
-Co. | Flavor | %
----|---|----
-FW | Graham Cracker | 3
-CAP | Sugar Cookie | 2
-CAP | Lemon Meringue Pie | 5
-OoO | Marshmallow Vanilla | 2
+| Co. | Flavor              | %   |
+| --- | ------------------- | --- |
+| FW  | Graham Cracker      | 3   |
+| CAP | Sugar Cookie        | 2   |
+| CAP | Lemon Meringue Pie  | 5   |
+| OoO | Marshmallow Vanilla | 2   |
 
 If anyone has, or thinks they might have, a better idea for how to take a first crack at these profiles, I would love to hear it!
 
@@ -221,7 +221,7 @@ Better limes out there, no recipes I want to try. **TRASH 9**
 
 **Marshmallow**
 
-Yep, the OG CAP Marshmallow. Why do I still have this? It was discontinued like 35 years ago (in vape years). Flavor hoarding is a special type of mental illness and I’m trying to recover here. It’s probably not even any good anymore anyway.  **TRASH 10**
+Yep, the OG CAP Marshmallow. Why do I still have this? It was discontinued like 35 years ago (in vape years). Flavor hoarding is a special type of mental illness and I’m trying to recover here. It’s probably not even any good anymore anyway. **TRASH 10**
 
 **Menthol**
 
@@ -229,9 +229,9 @@ I’m pretty sure it’s just menthol, and there are other places to get menthol
 
 **Meringue**
 
-Very sweet, creamy and full but airy and fluffy at the same time, like meringue should be. Slight egg-white note. Not a crisp toastiness, like the inside of a meringue topping with the top layer peeled off, but some darker caramelized business, just a touch.  Mostly tastes like meringue but there’s a weird off note in there, like a nondescript berry-like fruit with some tartness.
+Very sweet, creamy and full but airy and fluffy at the same time, like meringue should be. Slight egg-white note. Not a crisp toastiness, like the inside of a meringue topping with the top layer peeled off, but some darker caramelized business, just a touch. Mostly tastes like meringue but there’s a weird off note in there, like a nondescript berry-like fruit with some tartness.
 
-CAP Meringue might be fine for pairing with any kind of tart fruit like berries and kiwi, not sure I would use it for any other meringue thing. Not even lemon, because that tartness really tastes more like raspberry or under ripe strawberry than a citrus tartness. It might be a good ingredient for a sugary berry cereal recipe, though.  
+CAP Meringue might be fine for pairing with any kind of tart fruit like berries and kiwi, not sure I would use it for any other meringue thing. Not even lemon, because that tartness really tastes more like raspberry or under ripe strawberry than a citrus tartness. It might be a good ingredient for a sugary berry cereal recipe, though.
 
 CAP Meringue is notably more potent than a lot of other CAP Silverline flavors. I tried it at 2.5%, and it seemed like 2% should be plenty, which is very different from many of the Silverlines that need to be pushed up pretty high to work.
 
@@ -239,19 +239,19 @@ Nothing made with it caught my eye. But it seems excellent for pavlova so I will
 
 Quick Little Pavlova V1 **TASK 26**
 
-Co. | Flavor | %
----|---|----
-CAP | Meringue | 2
-OoO | Whipped Cream | 2
-FA | Kiwi | 2
-FA | Juicy Strawberry | 2
-FA | Meringue | 1
+| Co. | Flavor           | %   |
+| --- | ---------------- | --- |
+| CAP | Meringue         | 2   |
+| OoO | Whipped Cream    | 2   |
+| FA  | Kiwi             | 2   |
+| FA  | Juicy Strawberry | 2   |
+| FA  | Meringue         | 1   |
 
 **Milkshake**
 
- It’s not a full milkshake flavor in one concentrate, I think you still need a nice thick, rich ice cream flavor at least, but it certainly tastes like some pieces of a milkshake, specifically the milk and added malty sweetness. Definitely would use this over most milk or cream flavors for an authentic milkshake. Maybe over all milk or cream flavors. You know how people will add a small amount of a cookie or other bakery flavor to finish a milkshake? I think the malty sweetness here has both that and the milk covered. Just bring your own ice cream and whatever other flavor, like chocolate or strawberry, that you want.
+It’s not a full milkshake flavor in one concentrate, I think you still need a nice thick, rich ice cream flavor at least, but it certainly tastes like some pieces of a milkshake, specifically the milk and added malty sweetness. Definitely would use this over most milk or cream flavors for an authentic milkshake. Maybe over all milk or cream flavors. You know how people will add a small amount of a cookie or other bakery flavor to finish a milkshake? I think the malty sweetness here has both that and the milk covered. Just bring your own ice cream and whatever other flavor, like chocolate or strawberry, that you want.
 
-There are already some really great looking recipes created with this fairly new flavor, but I haven’t had any chance to play with it on my own, so I’ll start by just taking my [1-2-3 VIC](https://alltheflavors.com/recipes/215957#1_2_3_vic_by_id10_t) vanilla ice cream base and throwing 4% CAP Milkshake at it to see what happens. **TASK 27**  
+There are already some really great looking recipes created with this fairly new flavor, but I haven’t had any chance to play with it on my own, so I’ll start by just taking my [1-2-3 VIC](https://alltheflavors.com/recipes/215957#1_2_3_vic_by_id10_t) vanilla ice cream base and throwing 4% CAP Milkshake at it to see what happens. **TASK 27**
 
 **Mixed Berry**
 
@@ -269,7 +269,7 @@ Another super staple, and one that turns up in tons of recipes, often recipes th
 
 Decent, thick, nearly crustless cheesecake. Often seen used at 6%ish because you need that much for a full-fledged cheesecake, but I get a fake-butter off-note that high. At lower concentrations it can add an interesting tangy note and thick, smooth mouthfeel to custards and creams, so it can be a very useful flavor.
 
-If I want a cheesecake, there are other flavors I’m more inclined  to use. INW, PUR, JF, FLV. I mostly need this in case I want my [Custard NOW](https://alltheflavors.com/recipes/73934#custard_now_by_ediblemalfunction).
+If I want a cheesecake, there are other flavors I’m more inclined to use. INW, PUR, JF, FLV. I mostly need this in case I want my [Custard NOW](https://alltheflavors.com/recipes/73934#custard_now_by_ediblemalfunction).
 
 I’m going to try some new things this time, since I’m not currently experiencing a custard emergency.
 
@@ -281,7 +281,7 @@ I’m going to try some new things this time, since I’m not currently experien
 
 **New York Cheesecake V2**
 
-Thankfully not barfy. Tastes like they took out the good stuff without replacing it with the barf stuff. Not anywhere near as rich as the OG, but also doesn’t have that hint of fake butter off note I get from V1. Pretty much tastes like crustless cheesecake but not as robust. Fairly thick body, some tanginess, does have a creamy feel, needs to be a little sweeter. Has a hint of vanilla. Obviously I prefer the richness and depth of the V1, but this is not a bad replacement if you’re scared of the diketones or just want to avoid excess butter taste in your cheesecake. Could be a good, versatile addition to all kinds of creams and custards as well.  
+Thankfully not barfy. Tastes like they took out the good stuff without replacing it with the barf stuff. Not anywhere near as rich as the OG, but also doesn’t have that hint of fake butter off note I get from V1. Pretty much tastes like crustless cheesecake but not as robust. Fairly thick body, some tanginess, does have a creamy feel, needs to be a little sweeter. Has a hint of vanilla. Obviously I prefer the richness and depth of the V1, but this is not a bad replacement if you’re scared of the diketones or just want to avoid excess butter taste in your cheesecake. Could be a good, versatile addition to all kinds of creams and custards as well.
 
 Off the top of my head, my only reason for hanging on to this would be if I wanted to sell or try to clone a commercial recipe that uses it. That would make it an excellent candidate for the trash, but not until after I try that [McD’s Guava Creme Pi](https://alltheflavors.com/recipes/277657#mcd_s_guava_creme_pi_by_rekohms) recipe that’s still on my to-do list from Part 3.
 
@@ -303,9 +303,9 @@ The orange tastes mostly like a creamsicle orange but also tastes a little bitte
 
 **Orange Mango**
 
-Oddly bottom-heavy flavor that tastes like orange kool aid powder with CAP Sweet Mango in it. Exhale starts out flavorless and dry, then the flavor builds, starting with an candied, not at all zesty, orange kool aid flavor, then an increasing amount of mango, with an overripe cloying sweetness borderline on rotten, rich even oddly little buttery down real low in the base, but dry, neither juicy nor creamy.  I guess it’s better than single-flavor CAP Sweet Mango because that artificial orange covers up part of it. If I look for it, the stevia is apparent in this one at 5%, there’s a different sweetness to finish, some sugar lips, and a bit of bitter edge to it that lingers in the aftertaste.  
+Oddly bottom-heavy flavor that tastes like orange kool aid powder with CAP Sweet Mango in it. Exhale starts out flavorless and dry, then the flavor builds, starting with an candied, not at all zesty, orange kool aid flavor, then an increasing amount of mango, with an overripe cloying sweetness borderline on rotten, rich even oddly little buttery down real low in the base, but dry, neither juicy nor creamy. I guess it’s better than single-flavor CAP Sweet Mango because that artificial orange covers up part of it. If I look for it, the stevia is apparent in this one at 5%, there’s a different sweetness to finish, some sugar lips, and a bit of bitter edge to it that lingers in the aftertaste.
 
-I had  to revise my starting number of flavors, this was accidentally listed twice. Also will be subtracting one from my current number of flavors because this is going in the **TRASH 15**  
+I had to revise my starting number of flavors, this was accidentally listed twice. Also will be subtracting one from my current number of flavors because this is going in the **TRASH 15**
 
 **Pancake Syrup**
 
@@ -313,7 +313,7 @@ This one is tricky, and not very good, IMO, but someone with a palate in which I
 
 **Passion Fruit**
 
-Juicy passion fruit wrapped in a dirty vegetable peel. Definitely identifiable as a passionfruit and I think the juiciest one out of all I have tried, but it has issues. It’s weak up front, not really having that tart bite. Where it should have a deep sweet tropical funk along with the general passion fruit flavor, it has a deep earthy almost dirty - like literally dirt - along with its very syrupy sweetness. Finally, there’s a prominent green vegetal-type finish just out of nowhere. Although the juiciness is nice, the flavor isn’t otherwise super bold. Even when you crank it up, it’s like a soft background flavor.  Nothing I’m dying to make with this, and at least 10 other passion fruit flavors I’d rather play with? **TRASH 17**
+Juicy passion fruit wrapped in a dirty vegetable peel. Definitely identifiable as a passionfruit and I think the juiciest one out of all I have tried, but it has issues. It’s weak up front, not really having that tart bite. Where it should have a deep sweet tropical funk along with the general passion fruit flavor, it has a deep earthy almost dirty - like literally dirt - along with its very syrupy sweetness. Finally, there’s a prominent green vegetal-type finish just out of nowhere. Although the juiciness is nice, the flavor isn’t otherwise super bold. Even when you crank it up, it’s like a soft background flavor. Nothing I’m dying to make with this, and at least 10 other passion fruit flavors I’d rather play with? **TRASH 17**
 
 **Peaches & Cream**
 
@@ -333,12 +333,12 @@ Got plenty of pears. I’m good. Don’t need this one. **TRASH 19**
 
 A way better candy cane than FW Candy Cane. Pretty basic, off-note free simple candy flavor, but really sugary sweet with a creamish kinda syrupy candy base. Pretty much what I would have expected from a Capella Peppermint. What I didn’t expect was for it to be so weak, concentration wise, I really had to crank it up to 10% to get a full flavor out of it and trying it at 12% still wasn’t too much. It’s like one of those SilverLine CAP flavors in concentration. But once you crank it up there it’s not a weak, soft flavor, it’s got an appropriate peppermint bite to it. Again, pretty perfect Candy Cane flavor, but that sugary sweetness might make it a little less versatile than some other peppermint flavors. It’s just so blatantly candy.
 
-I have a slight personal preference for more icy peppermint flavors, but this is certainly a good one. Went looking for stuff to mix with it and came back with some weird new shit for me to try.  
+I have a slight personal preference for more icy peppermint flavors, but this is certainly a good one. Went looking for stuff to mix with it and came back with some weird new shit for me to try.
 
 [Shore Slime](https://alltheflavors.com/recipes/256435#shore_slime_vanilla_mint_custard_mix_1_of_the_trilogy_by_chasing84) so many yummy things in one bottle **TASK 34**
 
 [The Dormant Cactus](https://alltheflavors.com/recipes/253910#the_dormant_cactus_by_philosaphucker) TASK. WTF, but also **TASK 35**
 
-Oof. I have not done a good job of getting rid of flavors this time.  
+Oof. I have not done a good job of getting rid of flavors this time.
 
 New Flavor Count: 2,885

@@ -9,17 +9,17 @@ Starting flavor count: 2,790 (down from 2,975 originally)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-# Molinberry
+## Molinberry
 
 **Classic Cornflakes**
 
-I’m skipping ahead to this one because I can and will do that from time to time.  
+I’m skipping ahead to this one because I can and will do that from time to time.
 
-*I’ll even do it on request, if you have something you want to see potentially trashed in the near future instead of waiting for it to come up as I work down my alphabetized spreadsheet of flavors, just leave a comment.*  
+_I’ll even do it on request, if you have something you want to see potentially trashed in the near future instead of waiting for it to come up as I work down my alphabetized spreadsheet of flavors, just leave a comment._
 
 Basically I just can’t wait to throw MB Classic Cornflakes away, because it’s that terrible. MB Classic Cornflakes is a dumpster fire. It’s clearly supposed to be a corn-based cereal flavor, but that corny cereal is partially hidden behind a strange, strong, and very floral honey flavor, like honey infused with rose petals. And cat pee. It doesn’t really taste super strongly of cat piss, but it did give my room and my clothes some of that feline urine/meth lab lingering room note. **TRASH 1**
 
-# Reka
+## Reka
 
 **Sexy Mango**
 
@@ -27,31 +27,31 @@ Skipping ahead again. I encountered this looking at a recipe last week and I jus
 
 I can guarantee you 100% that Reka Sexy Mango is the main ingredient in Cushman by Nasty Juice. If you like that stuff, you definitely want to pick this up. I will judge you as a disgusting person who’d probably pick up rotten mango off the ground and eat it, but who cares what I think, life's too short not to taste what you love. Personally, I hated that Cushman juice, it actually made me feel nauseated because of the excessive sucralose sweetness and over-ripeness. I thought jeez, Nasty Juice was probably very aptly named (I haven’t tried any of their other juices. After Cushman, I did not want to).
 
-Sexy Mango is just not sexy to me at all. It tastes like it should be used for attracting flies, not vaping. All the mango elements are there but the funky muskiness that should be part of any mango flavor is turned up to like 15 out of 10 when it should be at around 5. It tastes beyond overripe, to me, even full-on rancid.  It also comes with a very small amount of WS-23-type coolant in there, which is fine I guess, unless you don’t want it, and with a good bit of sucralose too, which, combined with the rotten overripeness, I found extra sickening.  **TRASH 2**
+Sexy Mango is just not sexy to me at all. It tastes like it should be used for attracting flies, not vaping. All the mango elements are there but the funky muskiness that should be part of any mango flavor is turned up to like 15 out of 10 when it should be at around 5. It tastes beyond overripe, to me, even full-on rancid. It also comes with a very small amount of WS-23-type coolant in there, which is fine I guess, unless you don’t want it, and with a good bit of sucralose too, which, combined with the rotten overripeness, I found extra sickening. **TRASH 2**
 
-# Capella
+## Capella
 
 **Blue Raspberry Cotton Candy**
 
-Update. To help me decide whether I needed to keep CAP Blue Raspberry Cotton Candy, I chose two recipes that used it less conventionally.  
+Update. To help me decide whether I needed to keep CAP Blue Raspberry Cotton Candy, I chose two recipes that used it less conventionally.
 
-The first one should have you questioning my intelligence and/or sanity. [Daki](https://alltheflavors.com/recipes/270433#daki_upper_6_by_wolfwheeler). Why in the world would I mix a recipe that its own creator described as “seriously spot on but also *so gross.* [emphasis mine]?” The assertions on both sides of that “but” are completely true, by the way.
+The first one should have you questioning my intelligence and/or sanity. [Daki](https://alltheflavors.com/recipes/270433#daki_upper_6_by_wolfwheeler). Why in the world would I mix a recipe that its own creator described as “seriously spot on but also _so gross._ [emphasis mine]?” The assertions on both sides of that “but” are completely true, by the way.
 
 But why is it so gross? I think bubblegum and bakery flavors just fundamentally do not coexist in a way that's tasty to me. A bubblegum ice cream vape doesn’t sound terrible to me at all, but then you put it in a waffle cone and just... yuck. Apparently he did this just to prove it could be done. That’s mental. I would not hesitate at all to try the waffle cone aspect of this with a different ice cream, or even the bubblegum ice cream part of this without any kind of cone. But together, it’s a masterful bit of craftsmanship that tastes vaguely yet seriously yucky.
 
-The other one was this [Guava Creme Pi](https://alltheflavors.com/recipes/277657#mcd_s_guava_creme_pi_by_rekohms). Well, not exactly. I did have to sub original Sugar Cookie for the V2 because I got a bit ahead of myself when I threw away the V2. It didn’t nail the McD’s pie crust or the guava goo inside, but was still extremely vapable. I’ll very happily finish the bottle. On the other hand, when it comes to this sort of profile, I definitely prefer Emily’s [Guava Empanada](https://alltheflavors.com/recipes/64495#guava_empanada_by_mlnikon), as it has a much better pastry shell and you really get that warm, cooked down guava filling, as well as a touch of spice and more present cream cheese note.  
+The other one was this [Guava Creme Pi](https://alltheflavors.com/recipes/277657#mcd_s_guava_creme_pi_by_rekohms). Well, not exactly. I did have to sub original Sugar Cookie for the V2 because I got a bit ahead of myself when I threw away the V2. It didn’t nail the McD’s pie crust or the guava goo inside, but was still extremely vapable. I’ll very happily finish the bottle. On the other hand, when it comes to this sort of profile, I definitely prefer Emily’s [Guava Empanada](https://alltheflavors.com/recipes/64495#guava_empanada_by_mlnikon), as it has a much better pastry shell and you really get that warm, cooked down guava filling, as well as a touch of spice and more present cream cheese note.
 
-So based on all that, you’d very reasonably expect me to toss Blue Razz Cotton Candy now... but I just can’t yet. Previously I said [Blue Frost Revisited](https://alltheflavors.com/recipes/54784#blue_frost_revisited_by_apexified) *almost* makes BRCC worth keeping but *it’s not like I’ll never enjoy another blue raspberry recipe if I can’t have that specific one.*
+So based on all that, you’d very reasonably expect me to toss Blue Razz Cotton Candy now... but I just can’t yet. Previously I said [Blue Frost Revisited](https://alltheflavors.com/recipes/54784#blue_frost_revisited_by_apexified) _almost_ makes BRCC worth keeping but _it’s not like I’ll never enjoy another blue raspberry recipe if I can’t have that specific one._
 
-I may have spoken out of turn. Oops. Because when I think about throwing away BRCC, I feel a little panicky. What if Blue Frost Revisited *is* the best blue razz recipe for me? I certainly can’t think of another off the top of my head. So, I should probably mix a batch of that to have a fresh taste of the bar that I would need another blue razz recipe to clear before I can say goodbye to BRCC. **TASK 1** I’ll also try to prioritize mixing blue razz recipes going forward, maybe I’ll find one I like even more than the sequel to Blue Frost and I can finally be free of CAP BRCC.
+I may have spoken out of turn. Oops. Because when I think about throwing away BRCC, I feel a little panicky. What if Blue Frost Revisited _is_ the best blue razz recipe for me? I certainly can’t think of another off the top of my head. So, I should probably mix a batch of that to have a fresh taste of the bar that I would need another blue razz recipe to clear before I can say goodbye to BRCC. **TASK 1** I’ll also try to prioritize mixing blue razz recipes going forward, maybe I’ll find one I like even more than the sequel to Blue Frost and I can finally be free of CAP BRCC.
 
-# Decadent Vapours
+## Decadent Vapours
 
 **Mango**
 
 I got a slight hairspray type chemical off note from it that I’m pretty sure was just overflavoring at 4% or understeeping at a couple of days, so I’m going to have to try it again after steeping or maybe at 2 to 3%. **TASK 2**
 
-It was an extremely sweet, somewhat candyish mango. Top note sweetness tastes like cotton candy, like there’s a ton of EM in there. It might mute a mix, and it tangling up with the little bit of piney top note here is where that weird note is coming out at 4%. DV Mango has a thick, deep body that tastes like candy mango under that, and a lingering sweet finish.  
+It was an extremely sweet, somewhat candyish mango. Top note sweetness tastes like cotton candy, like there’s a ton of EM in there. It might mute a mix, and it tangling up with the little bit of piney top note here is where that weird note is coming out at 4%. DV Mango has a thick, deep body that tastes like candy mango under that, and a lingering sweet finish.
 
 **Parma Violet**
 
@@ -61,7 +61,7 @@ I haven’t tried this. I don’t really want to right now, maybe later. I bough
 
 My sample at 4% tasted like a a Raspberry Creme Saver and a flower petal in my mouth at the same time, but again, could be overflavoring. 4% is a lot higher than what I’m seeing it used at and I’m not sure where I got that number from. I’ll try it again at 2%. **TASK 4**
 
-What I got from 4% was a weirdly rich, creamy-bodied raspberry with a satisfying saturation of flavor but unfortunately some moderately floral high notes. Beyond that it tasted like a candy raspberry, and specifically like a raspberry creme saver with that cream-tasting and rich-feeling body.  It didn’t really necessarily taste perfumey, but it’s tart upfront and there’s some floralness all tangled up with that tartness. This level of floral wouldn’t be weird in a raspberry that otherwise tastes natural, but it doesn’t work as well with a more candy raspberry. Maybe if you wanted a floral note, like you were trying to make a raspberry-violet cream or raspberry-lavender cream or even raspberry-hibiscus cream, Decadent Vapours Raspberry would be exactly the right thing for the job. You could add a floral flavor and just lean in to the floralness, and another cream to the cream that’s already there, and be good to go. Otherwise, I’d pass on it based on the 4% sample, but we’ll see what happens at half that much.
+What I got from 4% was a weirdly rich, creamy-bodied raspberry with a satisfying saturation of flavor but unfortunately some moderately floral high notes. Beyond that it tasted like a candy raspberry, and specifically like a raspberry creme saver with that cream-tasting and rich-feeling body. It didn’t really necessarily taste perfumey, but it’s tart upfront and there’s some floralness all tangled up with that tartness. This level of floral wouldn’t be weird in a raspberry that otherwise tastes natural, but it doesn’t work as well with a more candy raspberry. Maybe if you wanted a floral note, like you were trying to make a raspberry-violet cream or raspberry-lavender cream or even raspberry-hibiscus cream, Decadent Vapours Raspberry would be exactly the right thing for the job. You could add a floral flavor and just lean in to the floralness, and another cream to the cream that’s already there, and be good to go. Otherwise, I’d pass on it based on the 4% sample, but we’ll see what happens at half that much.
 
 **Raspberry Dripple**
 
@@ -71,7 +71,7 @@ Another creamy raspberry from Decadent Vapours, but this one is supposed to be c
 
 This one worked just fine at 4%, though. Not a straight rhubarb, rhubarb mixed with cream. Very nearly a one-shot. I think it even has some sucralose sweetener in there, it definitely leaves a little sugar lips. The rhubarb part tastes a lot like INW Rhubarb and it makes me wish it tasted a little more like a different rhubarb that’s less forceful and astringent than INW, but the cream is extremely nice. Rich and satisfying, heavy, slightly buttery, non-vanilla, almost custard but not quite. If I wanted to do anything that involved both Rhubarb and Cream, this might be my go-to.
 
-If anyone can convince me to keep Rhubarb Cuddle in my quiver full of flavors, it will probably be TamVapes. I’ll give this one a try, [Love Like Rye](https://alltheflavors.com/recipes/178378#love_like_rye_a_rhubarb_strawberry_cream_by_tamvapes). **TASK 6**  
+If anyone can convince me to keep Rhubarb Cuddle in my quiver full of flavors, it will probably be TamVapes. I’ll give this one a try, [Love Like Rye](https://alltheflavors.com/recipes/178378#love_like_rye_a_rhubarb_strawberry_cream_by_tamvapes). **TASK 6**
 
 **Sherbert Lemon**
 
@@ -81,15 +81,15 @@ Apparently DV recommends 20% for their Sherbert Lemon, I tried it at only 10% be
 
 Also it’s spelled “Sherbert” with an extra R near the end instead of “sherbet” and I think that’s very annoying and a good enough reason to toss it. Well, that and the fact that I have plenty of other candy lemon flavors. **TRASH 3**
 
-# Delosi
+## Delosi
 
 **Black Licorice**
 
-4%, I got expired Black Twizzlers. It doesn’t have any weird notes that shouldn’t be there, but it tastes dull and flat compared to more vibrant licorices. It’s mild, slightly sweet, and smooth and might be a good flavor in the background of something but doesn’t taste like it has the oomph to be the centerpiece of a recipe. I tried 6% since 4% was such a soft flavor, and it gets a little plastic-ish chemical taste that starts to come out. Maybe there’s a sweet spot between 4 and 6 where it doesn't taste washed out but doesn’t have off notes either, but I was pretty unimpressed with Delosi Black Licorice. **TRASH 4**  
+4%, I got expired Black Twizzlers. It doesn’t have any weird notes that shouldn’t be there, but it tastes dull and flat compared to more vibrant licorices. It’s mild, slightly sweet, and smooth and might be a good flavor in the background of something but doesn’t taste like it has the oomph to be the centerpiece of a recipe. I tried 6% since 4% was such a soft flavor, and it gets a little plastic-ish chemical taste that starts to come out. Maybe there’s a sweet spot between 4 and 6 where it doesn't taste washed out but doesn’t have off notes either, but I was pretty unimpressed with Delosi Black Licorice. **TRASH 4**
 
 **Blackberry**
 
-Solidly mediocre compared to other blackberry flavors. It doesn’t have the darkness to come across as a blackberry. It tastes more like a boysenberry, or raspberry mixed with just enough blueberry to turn it purple. But not black. Other than not really tasting like a blackberry, there’s nothing really wrong with it, but it’s a soft flavor, dull, not bold and vibrant. It does seem like it would work more like a nonspecific berry background thing if you were in the market for that, but not a strong berry main note that you’d want to build a recipe around.  **TRASH 5**
+Solidly mediocre compared to other blackberry flavors. It doesn’t have the darkness to come across as a blackberry. It tastes more like a boysenberry, or raspberry mixed with just enough blueberry to turn it purple. But not black. Other than not really tasting like a blackberry, there’s nothing really wrong with it, but it’s a soft flavor, dull, not bold and vibrant. It does seem like it would work more like a nonspecific berry background thing if you were in the market for that, but not a strong berry main note that you’d want to build a recipe around. **TRASH 5**
 
 **Burley Tobacco**
 
@@ -141,11 +141,11 @@ There’s nothing blatantly wrong with it, it just has a soft, flat, sweet flavo
 
 **Peppermint**
 
-Mostly tastes ok, like a plain basic no-frills candy cane peppermint, but it’s a fairly soft, light flavor that’s also a little harsh. Not like unvapeably harsh, but like a typical level of throatyness that a citrus flavor would have. It’s not a bad flavor, but so many other plain peppermint flavors just vape better.  **TRASH 13**
+Mostly tastes ok, like a plain basic no-frills candy cane peppermint, but it’s a fairly soft, light flavor that’s also a little harsh. Not like unvapeably harsh, but like a typical level of throatyness that a citrus flavor would have. It’s not a bad flavor, but so many other plain peppermint flavors just vape better. **TRASH 13**
 
 **Red Bull Type**
 
-Also sold as “Red Energy Type.” Emphasis on the Red here. It doesn’t taste like red bull or even energy drink at all. It tastes like cherry-berry candy, very sweet, with a slight medicinal off note that might be a nod to the bit of bitterness you get from an energy drink. It’s distinctly cherry but with some unidentifiable red candy berry behind it. Slight medicinal off note tastes more like actual cough syrup than the new vinyl shower curtain off note that folks sometimes describe as “medicinal.” But it’s very slight, and overlayed on top of something extremely sweet. It doesn’t do sugar lips quite the way that a bunch of sucralose does but I would not be surprised to find there’s a little sucralose in this flavor. Or maybe Stevia, which would explain that kind of bitter medicine edge. Whatever is going on there, it’s very sweet and very “red” tasting with a syrupy texture. Bringing it down from 5% might take some of that edge off, and if it did, I might use this to sweeten some kind of cherry mix, like maybe a cherry soda recipe. It doesn’t taste anything like an energy drink though, and there are other ways to sweeten a cherry soda recipe  **TRASH 14**
+Also sold as “Red Energy Type.” Emphasis on the Red here. It doesn’t taste like red bull or even energy drink at all. It tastes like cherry-berry candy, very sweet, with a slight medicinal off note that might be a nod to the bit of bitterness you get from an energy drink. It’s distinctly cherry but with some unidentifiable red candy berry behind it. Slight medicinal off note tastes more like actual cough syrup than the new vinyl shower curtain off note that folks sometimes describe as “medicinal.” But it’s very slight, and overlayed on top of something extremely sweet. It doesn’t do sugar lips quite the way that a bunch of sucralose does but I would not be surprised to find there’s a little sucralose in this flavor. Or maybe Stevia, which would explain that kind of bitter medicine edge. Whatever is going on there, it’s very sweet and very “red” tasting with a syrupy texture. Bringing it down from 5% might take some of that edge off, and if it did, I might use this to sweeten some kind of cherry mix, like maybe a cherry soda recipe. It doesn’t taste anything like an energy drink though, and there are other ways to sweeten a cherry soda recipe **TRASH 14**
 
 **Strawberry**
 
@@ -161,11 +161,11 @@ Blends together a fake but not aggressive strawberry and a light dairy cream, li
 
 1-2-3 Strawberry Milk V1 **TASK 12**
 
-Co.  | Flavor | %
----|---|----
-DF | Strawberry Milk| 3
-FA | Milk | 2
-JF | Strawberry Sweet | 1
+| Co. | Flavor           | %   |
+| --- | ---------------- | --- |
+| DF  | Strawberry Milk  | 3   |
+| FA  | Milk             | 2   |
+| JF  | Strawberry Sweet | 1   |
 
 **Sweet Cream**
 
@@ -177,17 +177,17 @@ Great vanilla cream. I can’t find anything wrong with it. The vanilla in it ta
 
 Cherry Vanilla Milk V1 **TASK 13**
 
-Co. | Flavor | %
----|---|----
-DF | Vanilla Cream| 4
-TFA | Cherry Extract | 5
-FA | Milk | 2
-INW | Marzipan | 0.25
-WF | Blackcherry Jelly Bean | 0.25
+| Co. | Flavor                 | %    |
+| --- | ---------------------- | ---- |
+| DF  | Vanilla Cream          | 4    |
+| TFA | Cherry Extract         | 5    |
+| FA  | Milk                   | 2    |
+| INW | Marzipan               | 0.25 |
+| WF  | Blackcherry Jelly Bean | 0.25 |
 
 **Whipped Cream**
 
-Pretty skimpy flavor at 2%, I should have pushed it higher. But what flavor is there, I can’t find anything super wrong with it. Its fluffy whippedness seems like it might come across as a little chalky, maybe, but it’s not glaringly off in any way. Very light vanilla. It tastes like Cool Whip. I don’t know what it will do in a mix, but it tastes so much like some of the other whipped creams that blend in rather than having a separate whipped cream layer that I think it’s reasonable to assume that’s what it would do. I’m good on whipped cream, thanks anyway. **TRASH 18**  
+Pretty skimpy flavor at 2%, I should have pushed it higher. But what flavor is there, I can’t find anything super wrong with it. Its fluffy whippedness seems like it might come across as a little chalky, maybe, but it’s not glaringly off in any way. Very light vanilla. It tastes like Cool Whip. I don’t know what it will do in a mix, but it tastes so much like some of the other whipped creams that blend in rather than having a separate whipped cream layer that I think it’s reasonable to assume that’s what it would do. I’m good on whipped cream, thanks anyway. **TRASH 18**
 
 That’s it for now. I’ll burn down my collection of DIY Flavor Shack flavors next time.
 

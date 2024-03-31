@@ -9,7 +9,7 @@ Starting flavor count: 2,571 (down from 2,972)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-# FLAVORAH
+## FLAVORAH
 
 **Macaroon**
 
@@ -43,15 +43,15 @@ And yet another, (not my recipe): [1-2-3 ID10-T](https://alltheflavors.com/recip
 
 Paradise Cream ‘23, V1 **TASK 9**
 
-Co.| Flavor | %
----|---|----
-FLV | Mango | 3
-FLV | Sweet Mango | 0.5
-FA | Violet | 2
-FLV | Cream | 1
-WF | Vanilla Ice Cream | 3
-TFA | Vanilla Swirl | 2
-SSA |Ice Cream Vanilla | 1
+| Co. | Flavor            | %   |
+| --- | ----------------- | --- |
+| FLV | Mango             | 3   |
+| FLV | Sweet Mango       | 0.5 |
+| FA  | Violet            | 2   |
+| FLV | Cream             | 1   |
+| WF  | Vanilla Ice Cream | 3   |
+| TFA | Vanilla Swirl     | 2   |
+| SSA | Ice Cream Vanilla | 1   |
 
 Ok, so that’s purple mango and purple mango ice cream. Better try [Blue Mango](https://alltheflavors.com/recipes/271992#blue_dream_blue_mango_by_danielthevapeman) while I’m at it. Gonna steep it for 7 days, not 420. Silly Daniel. **TASK 10**
 
@@ -75,7 +75,7 @@ This is tasty and really tastes like all three of the things, in a very balanced
 
 FLV Mango Passion Pineapple has a quite present mango that’s not too piney or funky, pineapple that’s sweet and not too sharp. Passionfruit tastes is present but a little on the lemony side and the tartness is present, but not really getting that nectary depth of like sweet passionfruit nectar or syrup. Overall it’s fairly juicy, not really fleshy or super thick, like mixing the juice of each of these fruits together. It’s a little top heavy. Like an orangey yellow fruit punch.
 
-It really doesn’t inspire a ton of creativity for me, since it’s already got so much going on it tastes kind of one-shotty. I don’t know what to do with this other than maybe add another of whatever I’d like to highlight, or add another tropical flavor to it like Guanabana, Banana, Coconut. Something with some base. Or maybe throw some cream at it and make a tropical smoothie, or some rum and make it like a Caribbean vacation vape.  
+It really doesn’t inspire a ton of creativity for me, since it’s already got so much going on it tastes kind of one-shotty. I don’t know what to do with this other than maybe add another of whatever I’d like to highlight, or add another tropical flavor to it like Guanabana, Banana, Coconut. Something with some base. Or maybe throw some cream at it and make a tropical smoothie, or some rum and make it like a Caribbean vacation vape.
 
 Here’s one where someone accentuated the mango and passionfruit and kinda hung pineapple out to dry, and it looks like something I’d love to vape: [Mango Passion](https://alltheflavors.com/recipes/233176#mango_passion_by_yummykevin98) **TASK 18**
 
@@ -85,40 +85,40 @@ I’m missing the Sugar Daddy for this [1-2-3 VIC with Mango and Passionfruit To
 
 **Maple Bar**
 
-It definitely tastes like the frosting on a maple bar donut. There isn’t much bar there. It’s there, but it’s a light flavor that doesn’t have a lot of body, just slight donutty bakery notes. This seems like a job for WF Sweet Bread to me. Maybe a touch of that WF Glazed Donut as well. The donut part is light enough that it does give it some versatility though, I think it could do for a maple glaze on top of anything baked, not just a maple bar donut. Like if you loaded it up with cookie flavors you could get a good maple glaze for a maple glazed cookie out of it... and now that’s a thing I want. A maple-frosted sugar cookie vape.  
+It definitely tastes like the frosting on a maple bar donut. There isn’t much bar there. It’s there, but it’s a light flavor that doesn’t have a lot of body, just slight donutty bakery notes. This seems like a job for WF Sweet Bread to me. Maybe a touch of that WF Glazed Donut as well. The donut part is light enough that it does give it some versatility though, I think it could do for a maple glaze on top of anything baked, not just a maple bar donut. Like if you loaded it up with cookie flavors you could get a good maple glaze for a maple glazed cookie out of it... and now that’s a thing I want. A maple-frosted sugar cookie vape.
 
 I took a good look at 3 recipes, [Maple Nut Goodies](https://alltheflavors.com/recipes/103512#maple_nut_goodies_by_mlnikon), [mlNikon’s Maple Bar](https://alltheflavors.com/recipes/164417#mlnikon_s_maple_bar_by_mixinvixens), and [Cookie Maple Bar Sundae](https://alltheflavors.com/recipes/179814#cookie_maple_bar_sundae_by_besejuiced) and while all three look pretty good, I think I can do them better. Hubris? Maybe. We’ll see.
 
 My Maple Nut Goodies, V1 **TASK 21**
 
-Co. | Flavor| %
----|---|----
-WF | Honey Roasted Peanuts | 1
-FLV | Maple Bar | 2
-WF | Maple Syrup Candy | 1.5
-TFA | Brown Sugar Extra | 0.5
-VT | English Toffee | 2
-FW | Sweetener | 1
+| Co. | Flavor                | %   |
+| --- | --------------------- | --- |
+| WF  | Honey Roasted Peanuts | 1   |
+| FLV | Maple Bar             | 2   |
+| WF  | Maple Syrup Candy     | 1.5 |
+| TFA | Brown Sugar Extra     | 0.5 |
+| VT  | English Toffee        | 2   |
+| FW  | Sweetener             | 1   |
 
 My Maple Bar, V1 **TASK 22**
 
-Co.| Flavor| %
----|---|----
-FLV | Maple Bar | 3
-WF | Glazed Donut | 2
-WF | Sweet Bread | 3
-FA | Maple Syrup | 1
-TFA | Bavarian Cream | 1
+| Co. | Flavor         | %   |
+| --- | -------------- | --- |
+| FLV | Maple Bar      | 3   |
+| WF  | Glazed Donut   | 2   |
+| WF  | Sweet Bread    | 3   |
+| FA  | Maple Syrup    | 1   |
+| TFA | Bavarian Cream | 1   |
 
 Maple-Glazed Sugar Cookie, V1 **TASK 23**
 
-Co.| Flavor| %
----|---|----
-FLV | Maple Bar | 3
-CAP | Sugar Cookie | 4
-JF | Cookie | 2
-WF | Cookie Butter | 1
-VT | Pudding Base | 2
+| Co. | Flavor        | %   |
+| --- | ------------- | --- |
+| FLV | Maple Bar     | 3   |
+| CAP | Sugar Cookie  | 4   |
+| JF  | Cookie        | 2   |
+| WF  | Cookie Butter | 1   |
+| VT  | Pudding Base  | 2   |
 
 **Marshmallow**
 
@@ -160,17 +160,17 @@ So, I’m tempted to toss it, but I used to make a drink (because the girls love
 
 Poison Ivy, V1 **TASK 33**
 
-Co.| Flavor | %
----|---|----
-FLV | Honeydew | 2
-FLV | Melon Rind | 0.75
-FLV | Wild Melon | 1.5
-CAP | Lemon Lime | 3
-VT | Fizzy Sherbet | 2
-FLV| Citrus Soda| 1.5
-WF | Coconut Rum | 3
-VT | Light Rum | 1
-FA| Polar Blast| 0.5
+| Co. | Flavor        | %    |
+| --- | ------------- | ---- |
+| FLV | Honeydew      | 2    |
+| FLV | Melon Rind    | 0.75 |
+| FLV | Wild Melon    | 1.5  |
+| CAP | Lemon Lime    | 3    |
+| VT  | Fizzy Sherbet | 2    |
+| FLV | Citrus Soda   | 1.5  |
+| WF  | Coconut Rum   | 3    |
+| VT  | Light Rum     | 1    |
+| FA  | Polar Blast   | 0.5  |
 
 I'm going to try using Polar Blast for cooling instead of WS-23 because WS-23 can get weird with VT Light Rum.
 
@@ -178,11 +178,11 @@ I tried this once, long, long, long ago, when I only had FA, TFA, and CAP flavor
 
 **Mild Tobacco**
 
-I found this flavor to need a steep of between 1 and 2 weeks.  Otherwise, at 2% I get an odd chemical note which I don’t like even at 1 week. Hard to describe but somewhat similar to ammonia. I get the same thing from most Inawera tobaccos before they steep.
+I found this flavor to need a steep of between 1 and 2 weeks. Otherwise, at 2% I get an odd chemical note which I don’t like even at 1 week. Hard to describe but somewhat similar to ammonia. I get the same thing from most Inawera tobaccos before they steep.
 
 Bummer since I’m used to being spoiled by FLV shake and vapeable tobaccos and only get that weird taste from a couple of the cigarette-styled ones when they aren't steeped. But never from the darker ones like Red Burley and Kentucky.
 
-At two weeks, I got a really prominent sweetness, like a brown sugary almost maple sweetness. I know some tobacco heads will balk “too sweet” but I love it, just a wonderful dark brown sugary maple-ish flavor on top of a mild and light but true tobacco. Very nice.  
+At two weeks, I got a really prominent sweetness, like a brown sugary almost maple sweetness. I know some tobacco heads will balk “too sweet” but I love it, just a wonderful dark brown sugary maple-ish flavor on top of a mild and light but true tobacco. Very nice.
 
 Already planning to try [A Dirty Cookie](https://alltheflavors.com/recipes/229393#no_you_re_a_dirty_cookie_by_eyemsam), but there are more great-looking recipes that use this.
 
@@ -202,7 +202,7 @@ I freakin love the stuff. But am I the only one who doesn’t think it tastes li
 
 I’m not sure it is even supposed to actually taste like honey and milk. I think the name is just a reference to a Bible phrase about the “land of milk and honey,” which is a metaphoric way of describing a place of unimaginable richness. At least I hope it’s a metaphor. Otherwise it would be a pretty sticky and smelly place.
 
-That seems to make more sense than literal milk and honey for the flavor, too.  It tastes like richness. It’s like some kind of sweetened extra heavy cream or egg-free pudding, with a dark caramel-like sweetness, with a bit of sweet toasted bakery in there that kind of reminds me of a bit of an eggo waffle or maybe a waffle cone, and a very light hint of something a little chocolately. Would be extremely similar to a dulce de leche if it weren’t for the little toasty bakery edge. Beautiful mouthfeel and great addition to all kinds of stuff.  
+That seems to make more sense than literal milk and honey for the flavor, too. It tastes like richness. It’s like some kind of sweetened extra heavy cream or egg-free pudding, with a dark caramel-like sweetness, with a bit of sweet toasted bakery in there that kind of reminds me of a bit of an eggo waffle or maybe a waffle cone, and a very light hint of something a little chocolately. Would be extremely similar to a dulce de leche if it weren’t for the little toasty bakery edge. Beautiful mouthfeel and great addition to all kinds of stuff.
 
 I need it for [Golden Snozzberry Custard](https://alltheflavors.com/recipes/155578#golden_snozzberry_custard_by_diy_discord). I still can’t believe this was created by a group of people in like 30 minutes. It tastes like it was crafted carefully over many failed versions to get it right. **TASK 36**
 
@@ -222,7 +222,7 @@ FLV M&H is a flavor I also need for a bunch of recipes on the really long list o
 
 Very potent, such that 0.25% can be enough to overtake a mix. I don’t understand what people are doing using it over 1%, unless maybe Frankenstiening. It mostly tastes like Hershey’s syrup, which is like, definitely not the same as good milk chocolate, but not quite a tootsie roll, either. The best luck I’ve had with this one is using it like a chocolaty coating. Like a dipped cone from DQ? Where the ice cream cone is dipped in that warm liquid chocolatey stuff that hardens into a chocolate shell over the ice cream? Like that.
 
-Still planning to probably use it when I finish my update of my chocolate RY4 recipe, still need it for my Brookside Blues’ brother recipe, also need it for the So-Ho-Ho-Ho on the list. Must add to that: [Samoas](https://alltheflavors.com/recipes/233937#samoas_by_spdrjrslm). Former Girl Scout approved, says the review by hesherette.  **TASK 42**
+Still planning to probably use it when I finish my update of my chocolate RY4 recipe, still need it for my Brookside Blues’ brother recipe, also need it for the So-Ho-Ho-Ho on the list. Must add to that: [Samoas](https://alltheflavors.com/recipes/233937#samoas_by_spdrjrslm). Former Girl Scout approved, says the review by hesherette. **TASK 42**
 
 **Mint Candy**
 
@@ -250,29 +250,29 @@ I really liked this [1-2-3 Poinsettia](https://alltheflavors.com/recipes/124973#
 
 Poinsettia Spritzer, V1 **TASK 46**
 
-Co. | Flavor | %
----|---|----
-FLV | Morning Mimosa | 3
-FW | Pink Bubbly | 2
-FLV | Cranberry | 1
-FLV | Citrus Soda | 1.25
-CAP | Lemon Lime | 1
-BCF | WS=23 (30%) | 0.5
+| Co. | Flavor         | %    |
+| --- | -------------- | ---- |
+| FLV | Morning Mimosa | 3    |
+| FW  | Pink Bubbly    | 2    |
+| FLV | Cranberry      | 1    |
+| FLV | Citrus Soda    | 1.25 |
+| CAP | Lemon Lime     | 1    |
+| BCF | WS=23 (30%)    | 0.5  |
 
 Mimosa Spritzer, V1 **TASK 47**
 
-Co. | Flavor | %
----|---|----
-FLV | Morning Mimosa | 1
-VT| Blood Orange Champagne | 3
-WF| Orange Juice | 2
-FLV | Citrus Soda | 1.25
-CAP | Lemon Lime | 1
-BCF | WS=23 (30%) | 0.5
+| Co. | Flavor                 | %    |
+| --- | ---------------------- | ---- |
+| FLV | Morning Mimosa         | 1    |
+| VT  | Blood Orange Champagne | 3    |
+| WF  | Orange Juice           | 2    |
+| FLV | Citrus Soda            | 1.25 |
+| CAP | Lemon Lime             | 1    |
+| BCF | WS=23 (30%)            | 0.5  |
 
 **Moscoto**
 
-Very sweet, thick, deep white grape, but a tish floral. Sticky sweet, but natural, not candy white grape. Better white grape than the white grape flavors I’ve tried. Not really wine, not boozy. Tastes a little like lychee or peach in the background, or at least has that same kind of floral lurking in there. Be careful with it. Use too much and that floral really comes out to the point it tastes like you filtered your juice through dryer sheets.  
+Very sweet, thick, deep white grape, but a tish floral. Sticky sweet, but natural, not candy white grape. Better white grape than the white grape flavors I’ve tried. Not really wine, not boozy. Tastes a little like lychee or peach in the background, or at least has that same kind of floral lurking in there. Be careful with it. Use too much and that floral really comes out to the point it tastes like you filtered your juice through dryer sheets.
 
 If you have FLV Moscoto and want to find a use for it, I highly recommend [Layerz - Moscato Nectar](https://alltheflavors.com/recipes/141094#layerz_moscato_nectar_by_deetzz). But, there isn’t anything else I want to mix with it, and I want to end a week of mostly failing to get rid of flavors by actually getting rid of a flavor. Instead of keeping it just to make more of that, I’m going to let Moscoto go. **TRASH 5**
 

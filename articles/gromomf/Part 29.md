@@ -9,11 +9,11 @@ Starting flavor count: 2,589 (down from 2,972)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-# FLAVORAH
+## FLAVORAH
 
 **Connecticut Shade**
 
-People say it tastes like cigar wrapper leaf and based on recipes I’ve tried, I can definitely see that. As a single flavor I get dark tobacco with a strong but good coffee note and hints of cocoa and anise.  
+People say it tastes like cigar wrapper leaf and based on recipes I’ve tried, I can definitely see that. As a single flavor I get dark tobacco with a strong but good coffee note and hints of cocoa and anise.
 
 I need it for [Abuela](https://alltheflavors.com/recipes/47894#abuela_by_fear). Mango cigar. A classic, created by a legend. **TASK 1**
 
@@ -51,9 +51,9 @@ I want to try this [Gilded Oreo](https://alltheflavors.com/recipes/232314#gilded
 
 **Cranberry**
 
-Tastes like straight up Ocean Spray Cranberry Juice to me. A little tart, but also quite sweet, like cranberry juice drink with other unidentifiable fruit juices behind it rather than pure cranberry juice or fresh cranberry, which would be extremely tart and even a bit bitter. Smooth and juicy. Not top heavy at all, has a juicy base and some body. Some people talk about an unpleasant earthy or dirty off note with this so I looked for it and really can’t find it, though it tastes like it could go that way if cranked up really high, like beyond 3%.  
+Tastes like straight up Ocean Spray Cranberry Juice to me. A little tart, but also quite sweet, like cranberry juice drink with other unidentifiable fruit juices behind it rather than pure cranberry juice or fresh cranberry, which would be extremely tart and even a bit bitter. Smooth and juicy. Not top heavy at all, has a juicy base and some body. Some people talk about an unpleasant earthy or dirty off note with this so I looked for it and really can’t find it, though it tastes like it could go that way if cranked up really high, like beyond 3%.
 
-I need it for a couple of long-time favorites: [1-2-3 Cranberry Sprite](https://alltheflavors.com/recipes/86917#1_2_3_cranberry_sprite_by_id10_t) **TASK 9** And the Crazberry Crack that I’m already planning to mix again soon.  It’s also in a few recipes already on my must-try list, [Cranberry Thumbprint Cookies](https://alltheflavors.com/recipes/208509#cranberry_thumbprint_developed_by_developed), for example.
+I need it for a couple of long-time favorites: [1-2-3 Cranberry Sprite](https://alltheflavors.com/recipes/86917#1_2_3_cranberry_sprite_by_id10_t) **TASK 9** And the Crazberry Crack that I’m already planning to mix again soon. It’s also in a few recipes already on my must-try list, [Cranberry Thumbprint Cookies](https://alltheflavors.com/recipes/208509#cranberry_thumbprint_developed_by_developed), for example.
 
 And I just found three more irresistible-looking mixes:
 
@@ -71,14 +71,14 @@ There was a time when I wanted to use this like Franks Red Hot - put that shit i
 
 Longing ‘23 - V1 **TASK 13**
 
-Co. | Flavor | %
----|---|----
-FLV | Cream | 1
-FA | Cream Fresh | 1
-INW | Shisha Vanilla | 1
-TFA | Honeysuckle | 3
-WF | Vanilla Ice Cream | 1
-SSA | Ice Cream Vanilla | 0.5
+| Co. | Flavor            | %   |
+| --- | ----------------- | --- |
+| FLV | Cream             | 1   |
+| FA  | Cream Fresh       | 1   |
+| INW | Shisha Vanilla    | 1   |
+| TFA | Honeysuckle       | 3   |
+| WF  | Vanilla Ice Cream | 1   |
+| SSA | Ice Cream Vanilla | 0.5 |
 
 Original Recipe: <https://alltheflavors.com/recipes/31323#longing_by_id10_t>
 
@@ -86,15 +86,15 @@ Just hoping those small amounts of WF Vanilla Ice Cream and SSA Ice Cream Vanill
 
 Cherry Belonging ‘23 **TASK 14**
 
-Co. | Flavor | %
----|---|----
-FLV| Cream | 1
-TFA | Cherry Blossom | 4
-LB | Pink Lemonade | 1.5
-CAP | Lemon Lime | 0.5
-WF | Vanilla Ice Cream | 3
-TFA | Vanilla Swirl| 2
-SSA | Ice Cream Vanilla | 1
+| Co. | Flavor            | %   |
+| --- | ----------------- | --- |
+| FLV | Cream             | 1   |
+| TFA | Cherry Blossom    | 4   |
+| LB  | Pink Lemonade     | 1.5 |
+| CAP | Lemon Lime        | 0.5 |
+| WF  | Vanilla Ice Cream | 3   |
+| TFA | Vanilla Swirl     | 2   |
+| SSA | Ice Cream Vanilla | 1   |
 
 Original Recipe: <https://alltheflavors.com/recipes/54852#cherry_belonging_by_id10_t>
 
@@ -124,11 +124,11 @@ A couple more to try:
 
 **Crunch Cereal**
 
-**TRASH 1**  Very emphatically, unequivocally, TRASH. It tastes like breaded & fried mushrooms, sprinkled with a little brown sugar and then left out overnight to get extra gross. The mushrooms being breaded in a corn-based cereal is closest to accuracy as it gets, but it’s overwhelmingly mushroomy and having “crunch” in the name when it’s clearly mushrooms that have been left out overnight to get all soggy and have no crunch left at all just makes it worse, and the little bit of brown-sugary sweetness just makes it even worse than that.
+**TRASH 1** Very emphatically, unequivocally, TRASH. It tastes like breaded & fried mushrooms, sprinkled with a little brown sugar and then left out overnight to get extra gross. The mushrooms being breaded in a corn-based cereal is closest to accuracy as it gets, but it’s overwhelmingly mushroomy and having “crunch” in the name when it’s clearly mushrooms that have been left out overnight to get all soggy and have no crunch left at all just makes it worse, and the little bit of brown-sugary sweetness just makes it even worse than that.
 
 **Cucumber**
 
-Am I crazy or is this flavor salty? I mean, it’s not like super salty, but it’s just as salty as FLV Beer Nuts. Seems like the perfect cucumber for like one of those cucumber-flavored Gatorade or energy drink situations, which have a lot of sodium in them. All the electrolytes. Also seems like it might be the cucumber for savory type situations, like if you wanted to mimic cucumber with greek yogurt because you’re a wonderfully weird individual.  Aside from the saltiness, it’s pretty middle of the road compared to other cucumbers I’ve tried, which is actually a good thing, like the best of a number of worlds. Vividly authentic with a little peel note but not too much peel. It’s a little mushy and not quite as clean, crisp, and bright as I’d like but it’s not nearly as mushy as TFA. Maybe a little sweet in a melon rindy way because of the VG, not a bunch of weird sweetness. It’s got some body, too. Some depth. A little dry, in comparison to other cucumber flavors, probably owing to that lingering saltiness, but not dry compared to non-cucumber flavors. It’s actually a pretty neat flavor, but I’m not really feeling motivated to create something out of it and as far as things others have made, these tasks are getting out of hand. So, goodbye FLV Cucumber. **TRASH 2**
+Am I crazy or is this flavor salty? I mean, it’s not like super salty, but it’s just as salty as FLV Beer Nuts. Seems like the perfect cucumber for like one of those cucumber-flavored Gatorade or energy drink situations, which have a lot of sodium in them. All the electrolytes. Also seems like it might be the cucumber for savory type situations, like if you wanted to mimic cucumber with greek yogurt because you’re a wonderfully weird individual. Aside from the saltiness, it’s pretty middle of the road compared to other cucumbers I’ve tried, which is actually a good thing, like the best of a number of worlds. Vividly authentic with a little peel note but not too much peel. It’s a little mushy and not quite as clean, crisp, and bright as I’d like but it’s not nearly as mushy as TFA. Maybe a little sweet in a melon rindy way because of the VG, not a bunch of weird sweetness. It’s got some body, too. Some depth. A little dry, in comparison to other cucumber flavors, probably owing to that lingering saltiness, but not dry compared to non-cucumber flavors. It’s actually a pretty neat flavor, but I’m not really feeling motivated to create something out of it and as far as things others have made, these tasks are getting out of hand. So, goodbye FLV Cucumber. **TRASH 2**
 
 **Cupcake Batter**
 

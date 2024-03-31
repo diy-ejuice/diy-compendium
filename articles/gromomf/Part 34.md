@@ -9,7 +9,7 @@ Starting flavor count: 2,564 (down from 2,972)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-# FLAVORAH
+## FLAVORAH
 
 **Papaya Punch**
 
@@ -19,13 +19,13 @@ No one has used this the way I wanted them to so I’ll try mixing up something 
 
 Mango Gummy V1 **TASK 1**
 
-Co. | Flavor | %
----|---|----
-FA | Indian Mango| 2
-FLV | Sweet Mango | 1
-FLV | Papaya Punch | 1.5
-WF | Peach Gummy | 2
-CAP | Super Sweet | 0.5
+| Co. | Flavor       | %   |
+| --- | ------------ | --- |
+| FA  | Indian Mango | 2   |
+| FLV | Sweet Mango  | 1   |
+| FLV | Papaya Punch | 1.5 |
+| WF  | Peach Gummy  | 2   |
+| CAP | Super Sweet  | 0.5 |
 
 Will also try a couple of Slushy’s recipes:
 
@@ -63,7 +63,7 @@ I don’t know what the 1% each of two strawberry flavors are doing in there but
 
 **Peach Gummy**
 
-When it comes to peach gummies, I prefer WF Frog Gummy and WF Peach Gummy - but the peach in those is wrong for any peach gummy I’ve ever eaten. And I feel like if you’re buying a flavor called “Peach Gummy,” you’re probably looking for peach rings like me when I’m high, and the FLV version is pretty much peach rings. It does have the right peach top note for that, and it also has some nice gummy candy body.  Just throw some sweetener in with it and be good to go. If I have to nitpick, it could maybe use a more punchy peach - probably adding some INW Peach or FA White Peach or just about any peach ought to do it. It could also stand to be a little thicker or chewier but some marshmallow or vanilla swirl might provide that. Basically whatever you think it needs, it doesn’t need much of it if you want peach O’s. Does have some mild throat hit for me, maybe 3 or 4 out of 10 on a throat scale.
+When it comes to peach gummies, I prefer WF Frog Gummy and WF Peach Gummy - but the peach in those is wrong for any peach gummy I’ve ever eaten. And I feel like if you’re buying a flavor called “Peach Gummy,” you’re probably looking for peach rings like me when I’m high, and the FLV version is pretty much peach rings. It does have the right peach top note for that, and it also has some nice gummy candy body. Just throw some sweetener in with it and be good to go. If I have to nitpick, it could maybe use a more punchy peach - probably adding some INW Peach or FA White Peach or just about any peach ought to do it. It could also stand to be a little thicker or chewier but some marshmallow or vanilla swirl might provide that. Basically whatever you think it needs, it doesn’t need much of it if you want peach O’s. Does have some mild throat hit for me, maybe 3 or 4 out of 10 on a throat scale.
 
 [The Ringer](https://alltheflavors.com/recipes/68857#the_ringer_by_mrburgundy) looks like the perfect peach rings recipe from where I sit. **TASK 9**
 
@@ -72,7 +72,7 @@ When it comes to peach gummies, I prefer WF Frog Gummy and WF Peach Gummy - but 
 **Peanut Butter**
 
 I like this one better by itself than in a mix after even dozens of tries to make it work as either a primary peanut butter or support for TFA’s Peanut Butter. First of all, it tastes more like skin-on roasted redskin peanuts than peanut butter. It’s not sweet or smooth enough for PB. And that slightly bitter, dark roasted skin has so far stood out more in a mix for me versus single flavor tests that make it seem like it would be easy enough to cover up. Nice body, accurate flavor for roasted peanuts, just not really a peanut butter flavor, and all the tricks tried to make it creamier and sweeter, such as adding some marshmallow etc, just seem to make that roasted peanut skin note stick out even further. Seems like it would be good for something like a Cracker Jacks recipe, or, because of the way it stays separate from a mix, peanut topping for something like a sundae, but there are better ingredients for both of those. I’m tired of messing with FLV Peanut Butter. **TRASH 2**
-  
+
 **Pear**
 
 This one is fairly unique and could be extremely useful, but is also a little gross. It mostly just tastes like a pear with just a little bit of a regurgitated pear note, like burping mid-way through eating a pear. It has un-pear-alleled texture when it comes to that kind of gritty mouthfeel that pears and apples have. It’s sweet and natural and not quite juicy but at least moist. As a single flavor the burpy off note in FLV Pear is pretty off putting at 1%, less so at 0.75%, and missing at 0.5%, but there’s not a lot of flavor at 0.5% either. So, it might not be great for a solo pear flavor, but if you drop to down to 0.5% or less you can get it to impart that unique texture without getting the actual pear flavor or the burpy off-note. That texture doesn’t have to be used for a pear, either. I’ve had a “Mango Sorbet” recipe both with and without FLV Pear at 0.5% and it really made a huge difference as far as that body and texture of a sorbet. I’d classify this not as a good pear flavor, but as a great sort of “advanced mixing” tool. I’m good without burpy pear and it’s mealy body, though, since I lack the DF Pear to mix [this pear recipe](https://alltheflavors.com/recipes/191773#ap_pear_antly_by_cinn). I’m pre-pear-ed to let this one go. **TRASH 3**
@@ -87,7 +87,7 @@ And hoping the weird spice notes from FA Zeppola are buried in this [Pastry with
 
 **Peppermint**
 
-It’s a fairly intense, extra-mentholated icy peppermint that leaves my mouth feeling freezing cold. That first inhale of fresh air after vaping this at 1% is getting into brain freeze territory. It’s a candy peppermint and not a peppermint leaf, but it’s much more like popping an Altoid than sucking on a candy cane. Curiously strong! It does have some sweet body under the strong mentholated peppermint hit; it’s not thin, but it’s not heavily sweet, either.  
+It’s a fairly intense, extra-mentholated icy peppermint that leaves my mouth feeling freezing cold. That first inhale of fresh air after vaping this at 1% is getting into brain freeze territory. It’s a candy peppermint and not a peppermint leaf, but it’s much more like popping an Altoid than sucking on a candy cane. Curiously strong! It does have some sweet body under the strong mentholated peppermint hit; it’s not thin, but it’s not heavily sweet, either.
 
 It’s in three or four things I already plan to mix. Adding:
 
@@ -123,7 +123,7 @@ Pretty forgettable flavor but I’m too interested in this [braaains](https://al
 
 Grapefruit or Guava? One of my favorite flavors of all time, but it tastes more like a grapefruit than a guava… or does it? Some people have said it tastes just like guava to them. I’ve never had fresh guava, is this what fresh guava tastes like? I’ve had lots of guava nectar and some guava jelly and guava candy, but no fresh guava. It tastes specifically (mostly) like a Rio Star ruby red grapefruit from South Texas to me, but not at all like a white or even an ordinary pink grapefruit. Maybe those red grapefruits taste more like guava than other grapefruits? Or there are different kinds of guava and FLV Pink Guava tastes like one of them but not others? There’s a good bit of tartness and just a little bitterness in the top, just enough bitterness to make it mouthwatering and give it a juicy feel. It does have a real deep and a little funky tropical fruit syrupy sweetness to it, but when they’re fully ripe, so do those ruby red grapefruits. I think it’s that bit of wonderful funk that caused Cheeba to once say “it tastes like good pussy.” I can’t disagree. Thicc for such a citrusy flavor. Some citrus-type throat hit, but easily smoothed out with other flavors.
 
-Oh, god. What *don’t* I need it for or want to try with it?
+Oh, god. What _don’t_ I need it for or want to try with it?
 
 Needed for many favorites already on the list, plus some that haven’t been added yet or haven’t been added recently, such as:
 
@@ -145,22 +145,22 @@ Needed for many things already listed to try, here’s more:
 
 **Pistachio**
 
-FLV Pistachio 2% - Unlike other pistachio flavors, this is not at all sweet, which helps with the authenticity.  It’s got a solidly realistic roasted nut up front that really tastes like a pistachio, or at least closer to a pistachio than any other nut. It’s so accurate to a dry roasted nut you can almost taste the salt on it. With the dryness it has, it kinda feels salty. The salt isn’t really there in the flavor, but my brain wants to fill in that blank. The roasted part dies off over the course of the exhale and is replaced by something thick and almost creamy, but more like having a mouthful of thoroughly chewed up nuts is a kind of creamy than like you dipped your roasted nuts into some kind of cream. As far as off-notes go, every so often, I can pick up the slightest hint of cherry in this one at 2% and above, but it’s extremely faint as well as intermittent, and 2% is too high.
+FLV Pistachio 2% - Unlike other pistachio flavors, this is not at all sweet, which helps with the authenticity. It’s got a solidly realistic roasted nut up front that really tastes like a pistachio, or at least closer to a pistachio than any other nut. It’s so accurate to a dry roasted nut you can almost taste the salt on it. With the dryness it has, it kinda feels salty. The salt isn’t really there in the flavor, but my brain wants to fill in that blank. The roasted part dies off over the course of the exhale and is replaced by something thick and almost creamy, but more like having a mouthful of thoroughly chewed up nuts is a kind of creamy than like you dipped your roasted nuts into some kind of cream. As far as off-notes go, every so often, I can pick up the slightest hint of cherry in this one at 2% and above, but it’s extremely faint as well as intermittent, and 2% is too high.
 
-FLV Pistachio is used in a couple of things I’m already planning try. I’ll add my own [1-2-3 Pistachio Lime](https://alltheflavors.com/recipes/87984#1_2_3_pistachio_lime_by_id10_t)  **TASK 26** but this time, really thinking about how to take it to another level.
+FLV Pistachio is used in a couple of things I’m already planning try. I’ll add my own [1-2-3 Pistachio Lime](https://alltheflavors.com/recipes/87984#1_2_3_pistachio_lime_by_id10_t) **TASK 26** but this time, really thinking about how to take it to another level.
 
 Might already have an idea, will go ahead and give this a mix while I’ve got the Pistachio out.
 
 Pistachio Slime V1 **TASK 27**
 
-Co.| Flavor | %
----|---|----
-TFA| Pistachio | 3
-VT | Persian Lime | 2
-FLV | Pistachio | 1
-FLV| Lime | 0.25
-WF | Frozen Yogurt | 2
-CAP | Vanilla Whipped Cream | 2
+| Co. | Flavor                | %    |
+| --- | --------------------- | ---- |
+| TFA | Pistachio             | 3    |
+| VT  | Persian Lime          | 2    |
+| FLV | Pistachio             | 1    |
+| FLV | Lime                  | 0.25 |
+| WF  | Frozen Yogurt         | 2    |
+| CAP | Vanilla Whipped Cream | 2    |
 
 **Popcorn**
 
@@ -192,22 +192,22 @@ After my experience this week with the lemon pound cake, I have trust issues wit
 
 **Pralines**
 
-**TRASH 6** Gnarly! Same weird mushroom taste as in FLV Crunch Cereal, just not as much as in Crunch Cereal. It’s sweet but has a creamy rather than sugary feel to it, brown caramely creamy sweetness, and a little nutty, like caramel sauce with nuts and bits of shrooms.  
+**TRASH 6** Gnarly! Same weird mushroom taste as in FLV Crunch Cereal, just not as much as in Crunch Cereal. It’s sweet but has a creamy rather than sugary feel to it, brown caramely creamy sweetness, and a little nutty, like caramel sauce with nuts and bits of shrooms.
 
 **Pucker**
 
-It tastes kind of tart with a weird smokey tobacco note in it. I’m still not personally sure how it works but it worked in [IPA Smoke](https://alltheflavors.com/recipes/98302#ipa_smoke_by_matthewkocanda). I’m already going to try [American Slang](https://alltheflavors.com/recipes/66864#american_slang_by_chemicalburnvictim). Might as well add one more, [Pucker up, Moya Cheri](https://alltheflavors.com/recipes/247548#pucker_up_moya_cheri_by_nowar). **TASK 35**  
+It tastes kind of tart with a weird smokey tobacco note in it. I’m still not personally sure how it works but it worked in [IPA Smoke](https://alltheflavors.com/recipes/98302#ipa_smoke_by_matthewkocanda). I’m already going to try [American Slang](https://alltheflavors.com/recipes/66864#american_slang_by_chemicalburnvictim). Might as well add one more, [Pucker up, Moya Cheri](https://alltheflavors.com/recipes/247548#pucker_up_moya_cheri_by_nowar). **TASK 35**
 
 **Pumpkin Bread**
 
-Previously tried it at 2 and 3% and thought it was almost like they got pumpkin bread and pumpernickel bread a little confused, and maybe even a little rye bread in there.  I make pumpkin bread and this is not MY pumpkin bread, though it might be someone’s pumpkin bread. My pumpkin bread is more like cake, very sweet. Like really good banana bread, but with pumpkin instead of banana. I’m aware that Pumpkin Bread can be made much breadier and healthier, or more savory and less dessert, but this is not that. This is more like a full, thick, dark, yeasty bread, with something a little rye-like. There’s some sweetness, but not much, and light nutmeg-forward pumpkin spice flavors and maybe a little actual pumpkin on the back end. It would need to be much sweeter, more moist, and less dark, but I could see it being used to make pumpkin bread, maybe, with a lot of work. And there might be other fun uses for it. I also got some slight puky butyric-ish type off-note at 3%, that I didn’t get at all at 2% after steeping for a week, though that yeasty business did come across a little fermented.  I made myself a note to try this again at 0.5% and haven’t done it yet, but there isn’t anything I really want to mix with it, so **TRASH 6**
+Previously tried it at 2 and 3% and thought it was almost like they got pumpkin bread and pumpernickel bread a little confused, and maybe even a little rye bread in there. I make pumpkin bread and this is not MY pumpkin bread, though it might be someone’s pumpkin bread. My pumpkin bread is more like cake, very sweet. Like really good banana bread, but with pumpkin instead of banana. I’m aware that Pumpkin Bread can be made much breadier and healthier, or more savory and less dessert, but this is not that. This is more like a full, thick, dark, yeasty bread, with something a little rye-like. There’s some sweetness, but not much, and light nutmeg-forward pumpkin spice flavors and maybe a little actual pumpkin on the back end. It would need to be much sweeter, more moist, and less dark, but I could see it being used to make pumpkin bread, maybe, with a lot of work. And there might be other fun uses for it. I also got some slight puky butyric-ish type off-note at 3%, that I didn’t get at all at 2% after steeping for a week, though that yeasty business did come across a little fermented. I made myself a note to try this again at 0.5% and haven’t done it yet, but there isn’t anything I really want to mix with it, so **TRASH 6**
 
 **Pumpkin Spice**
 
 Very rare to find any flavor that is actually perfect but as best I can tell FLV Pumpkin Spice is the perfect pumpkin spice flavor. It has a nice balance of all four parts of a pumpkin spice blend, and if I focus I can pick them out, but if I don’t it just tastes like “pumpkin spice.” Rich and deep flavor. A bit dry and harsh at 1%, but not out of line for a spice flavor. Plenty of flavor and less harsh at 0.75%. It really should not come as a surprise that this is so good because FLV does all the individual spices in pumpkin spice so well (see Eggnog for the nutmeg), but there are so many ways this could go wrong or at least be unbalanced and FLV Pumpkin Spice is just.. Perfect.
 
 I need it for some favorites such as [Gourd is Dead](https://alltheflavors.com/recipes/236620#gourd_is_dead_by_wolfwheeler) that have already been listed, and new ones I already plan to try, such as [The Fall Waits For No One](https://alltheflavors.com/recipes/117190#the_fall_waits_for_no_one_fried_sweet_pumpkin_donuts_by_mech_mod_rn). Not stopping there.
-  
+
 I deeply enjoyed [Carrot Cake RY4 Deluxe Version](https://alltheflavors.com/recipes/220109#carrot_cake_ry4_deluxe_version_by_lonesomerhodestn) but that is just so many flavors go dig out. I’ll try the shorter, [non-deluxe version](https://alltheflavors.com/recipes/219753) now. **TASK 36**
 
 [Sorteal’s Holiday Custard](https://alltheflavors.com/recipes/297368#sorteal_s_holiday_custard_by_sorteal). Really interested in that custard base of CAP Vanilla Custard, TFA Vanilla Custard 2, and WF French Vanilla (Thick), not to mention the caramel, pumpkin spice, and white chocolate toppings. **TASK 37**

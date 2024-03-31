@@ -9,9 +9,9 @@ Starting Flavor Count: 2,825 (Down from 2,975 originally)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-# Chefs Super Concentrates
+## Chefs Super Concentrates
 
-Picking right back up where I left off because Part 10 was too long for reddit.  
+Picking right back up where I left off because Part 10 was too long for reddit.
 
 **Puffed Rice**
 
@@ -69,19 +69,19 @@ Don’t believe me? Fine, I’ll prove it.
 
 Sweet Peach Tea V1 **TASK 9**
 
-Co. | Flavor | %
----|---|----
-CSC | Peach Apricot | 0.75
-FA | White Peach | 0.75
-CSC | Tobacco American Mild | 1
-TFA | Sweet Tea | 3
-TFA | Honeysuckle | 0.5
-CAP | Super Sweet | 0.25
-BCF | WS-23 (30%) | 0.1
+| Co. | Flavor                | %    |
+| --- | --------------------- | ---- |
+| CSC | Peach Apricot         | 0.75 |
+| FA  | White Peach           | 0.75 |
+| CSC | Tobacco American Mild | 1    |
+| TFA | Sweet Tea             | 3    |
+| TFA | Honeysuckle           | 0.5  |
+| CAP | Super Sweet           | 0.25 |
+| BCF | WS-23 (30%)           | 0.1  |
 
 Edit: Thanks Sugarchoc for suggesting different concentrations, I was going to start with 1.25% CSC Peach Apricot and 1% White Peach but instead I'm going to start with both at 0.75%.
 
-I’m using TFA Sweet Tea to try to reinforce that this is a sweet iced tea, since Tobacco American Mild leans a little more hot black tea. Normally TFA Sweet Tea requires a much higher concentration, like three times this much, and even then could still use some backup at times. Accurate but super weak flavor. But with Tobacco American Mild, I don’t think a high concentration will be necessary. I’m just using a touch of it to bend the American Mild a bit. The WS-23 is used very very low because I don’t want it to interfere much with the flavor, but do want it to be just a little more refreshing than it would be without any at all. We’ll see how this plays out.  
+I’m using TFA Sweet Tea to try to reinforce that this is a sweet iced tea, since Tobacco American Mild leans a little more hot black tea. Normally TFA Sweet Tea requires a much higher concentration, like three times this much, and even then could still use some backup at times. Accurate but super weak flavor. But with Tobacco American Mild, I don’t think a high concentration will be necessary. I’m just using a touch of it to bend the American Mild a bit. The WS-23 is used very very low because I don’t want it to interfere much with the flavor, but do want it to be just a little more refreshing than it would be without any at all. We’ll see how this plays out.
 
 **Tobacco Blend**
 
@@ -103,20 +103,20 @@ I don’t get a full, rich, goopy RY4 out of it at 0.5%. But that might be the c
 
 **Tobacco Toasted Pop**
 
-This is what their Toasted Tobacco would taste like mixed with a mild, nutty tobacco. Super toasty, but also lots of tobacco. It’s light at 0.5% but really, really promising for higher concentrations to be yummy, especially if mixed with a more robust tobacco. Already planning to do something with this (see French Vanilla above). Saw a recipe I don’t have all the flavors for [Salty Butter Bacca Variations](https://e-liquid-recipes.com/recipe/4135440/Salty%20Butter%20Bacca%20Variations), which contains Tobacco Toasted Pop, but the way that recipe uses WF Salted Caramel and VT Butter Base caught my attention. I also saw Daniel’s [Snap, Toast, and Bacco](https://e-liquid-recipes.com/recipe/4223712/Snap,%20Toast%20and%20Bacco). I don’t know that I want to wait for those Inawera tobaccos to steep or to mix frickin Rice Crunchies with tobacco, but there are elements of that recipe that interest me, too. I’m going to squash parts of them together and add two of my favorite tobaccos. Of course I could be horribly, horribly wrong, and create a nauseating mess, but I really believe the result is going to be nothing short of epic.  
+This is what their Toasted Tobacco would taste like mixed with a mild, nutty tobacco. Super toasty, but also lots of tobacco. It’s light at 0.5% but really, really promising for higher concentrations to be yummy, especially if mixed with a more robust tobacco. Already planning to do something with this (see French Vanilla above). Saw a recipe I don’t have all the flavors for [Salty Butter Bacca Variations](https://e-liquid-recipes.com/recipe/4135440/Salty%20Butter%20Bacca%20Variations), which contains Tobacco Toasted Pop, but the way that recipe uses WF Salted Caramel and VT Butter Base caught my attention. I also saw Daniel’s [Snap, Toast, and Bacco](https://e-liquid-recipes.com/recipe/4223712/Snap,%20Toast%20and%20Bacco). I don’t know that I want to wait for those Inawera tobaccos to steep or to mix frickin Rice Crunchies with tobacco, but there are elements of that recipe that interest me, too. I’m going to squash parts of them together and add two of my favorite tobaccos. Of course I could be horribly, horribly wrong, and create a nauseating mess, but I really believe the result is going to be nothing short of epic.
 
 Bacco Butta Caramel Custard V1 **TASK 11**
 
-Co. | Flavor | %
----|---|----
-WF | Salted Caramel | 2
-CSC | Tobacco Toasted Pop | 1.5
-CSC | Toffee Butter | 0.75
-VT | Butter Base | 0.5
-FLV | Vanilla Custard | 2.5
-WF | Vanilla Ruyan Custard | 3
-FLV | Native Tobacco | 1
-FLV | Red Burley | 0.75
+| Co. | Flavor                | %    |
+| --- | --------------------- | ---- |
+| WF  | Salted Caramel        | 2    |
+| CSC | Tobacco Toasted Pop   | 1.5  |
+| CSC | Toffee Butter         | 0.75 |
+| VT  | Butter Base           | 0.5  |
+| FLV | Vanilla Custard       | 2.5  |
+| WF  | Vanilla Ruyan Custard | 3    |
+| FLV | Native Tobacco        | 1    |
+| FLV | Red Burley            | 0.75 |
 
 **Tobacco Traditional**
 
@@ -150,32 +150,32 @@ As it happens, [Le Crossiant Mytrielle and Citron](https://alltheflavors.com/rec
 
 Yuzu Custard V1 **TASK 13**
 
-Co. | Flavor | %
----|---|----
-CSC| Yuzu| 0.75
-CSC | Lemon Custard | 2
-FA | Custard Premium | 1
+| Co. | Flavor          | %    |
+| --- | --------------- | ---- |
+| CSC | Yuzu            | 0.75 |
+| CSC | Lemon Custard   | 2    |
+| FA  | Custard Premium | 1    |
 
 In fact, why not make it two?
 
 Yuzu Tropical V1 **TASK 14**
 
-Co. | Flavor | %
----|---|----
-CSC| Yuzu| 0.75
-TFA | Coconut Candy | 1.5
-FLV | Mango | 1
+| Co. | Flavor        | %    |
+| --- | ------------- | ---- |
+| CSC | Yuzu          | 0.75 |
+| TFA | Coconut Candy | 1.5  |
+| FLV | Mango         | 1    |
 
-Or three, for that matter.  
+Or three, for that matter.
 
 Arnold Plumber V1 **TASK 15**
 
-Co. | Flavor | %
----|---|----
-CSC | Yuzu | 0.75
-CSC | Tobacco American Mild | 1.25
-CSC | Plum | 0.5
-CAP | Super Sweet| 0.25
+| Co. | Flavor                | %    |
+| --- | --------------------- | ---- |
+| CSC | Yuzu                  | 0.75 |
+| CSC | Tobacco American Mild | 1.25 |
+| CSC | Plum                  | 0.5  |
+| CAP | Super Sweet           | 0.25 |
 
 That's it for now, hopefully Part 12 will start with some updates after I try some things I've mixed and steeped already, then move on to the small collection of Chemnovatic flavors I have and maybe Club der Dampfer flavors as well.
 

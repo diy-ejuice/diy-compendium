@@ -9,7 +9,7 @@ Starting Flavor Count: 2,448 (down from 2,972)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-# CAPELLA
+## CAPELLA
 
 **Green Apple Hard Candy**
 
@@ -25,15 +25,15 @@ Update. I said I was going to give CAP Harvest Berry one more recipe to justify 
 
 **Hibiscus**
 
-Update. This one was never in danger of being tossed out, but I wanted to find something else to do with it besides [Pank Milk](https://alltheflavors.com/recipes/184392#pank_milk_by_id10_t) **TASK 3** and [Blue Frost Revisited](https://alltheflavors.com/recipes/54784#blue_frost_revisited_by_apexified) **TASK 4**.  
+Update. This one was never in danger of being tossed out, but I wanted to find something else to do with it besides [Pank Milk](https://alltheflavors.com/recipes/184392#pank_milk_by_id10_t) **TASK 3** and [Blue Frost Revisited](https://alltheflavors.com/recipes/54784#blue_frost_revisited_by_apexified) **TASK 4**.
 
 I tried three recipes and found one new favorite, [Malonee](https://alltheflavors.com/recipes/283658). It’s a very nice sweet blend of melons (cantaloupe and watermelon primarily, some honeydew in the back) with a hint of tropical floral from the high concentration of Hibiscus. CAP Hibiscus is usually “hidden” in mixes at around 1% for the sticky sweet syrupy but not artificial sweet taste it lends. But it sticks out here just a bit. I’m not complaining. I like it very much. I feel like a designated driver at a pool party where the pool is near a fragrant tropical flower garden with this thing. When the breeze blows just right, you can smell them, and they’re lovely. This is not a boldly-flavored mix. It’s relaxing, great for “sipping” - although when I mix it again - and I will - I’ll probably drop the Super Sweet down to 0.25% from 0.5% and make it even more all-day-vapable. It’s supposed to be sweet but not candy sweet and I think it will get closer to the mark that way. **TASK 5**
 
-# FLAVOUR ART
+## FLAVOUR ART
 
 **New York Cheesecake**
 
-Who is this flavor playin with? It’s not gross at all, actually pretty tasty, but it’s a shit cheesecake, just very underwhelming. Not really cheesy, not rich and thick, mostly just a bright vanilla with a bit of sweet dairy cream that’s fairly light and thin, with a crust note behind it that tastes undercooked, without butteriness. Basically like spreading some vanilla frosting on a very blonde, unspiced graham cracker. I guess you could use it to build a cheesecake, but you’re going to want some actual cream cheese and more crust, both, just more everything. It doesn’t seem to have much to offer. Apparently some people also get strawberries from this? But I do not get even a fruity sweetness.  
+Who is this flavor playin with? It’s not gross at all, actually pretty tasty, but it’s a shit cheesecake, just very underwhelming. Not really cheesy, not rich and thick, mostly just a bright vanilla with a bit of sweet dairy cream that’s fairly light and thin, with a crust note behind it that tastes undercooked, without butteriness. Basically like spreading some vanilla frosting on a very blonde, unspiced graham cracker. I guess you could use it to build a cheesecake, but you’re going to want some actual cream cheese and more crust, both, just more everything. It doesn’t seem to have much to offer. Apparently some people also get strawberries from this? But I do not get even a fruity sweetness.
 
 I would not be keeping it if it weren’t for this [Pistachio Lime Cannoli](https://alltheflavors.com/recipes/163737#pistachio_lime_cannoli_by_r2me2) I want to try. Love the combination of pistachio and lime in general. **TASK 6**
 
@@ -57,7 +57,7 @@ I’ll add one more, [barbossa](https://alltheflavors.com/recipes/292032#barboss
 
 **Oba Oba**
 
-Mild vanilla candy flavor. I think it was Jen Jarvis who said it tastes like “sucking on an M&M” - like the candy shell around the M&M, not the chocolate inside. I think that’s as good a description as any. It’s a soft flavor but it has deep, sugary sweet body to it, very relaxing to just vape standalone. Not exactly a marshmallow flavor, but sort of in that vein. Not exactly vanilla cream soda either, but also along that line. FA says it has “has a light, fruity taste, something similar to a mixture of  citrus and vanilla. Some even think it tastes like candy and eggnog.” Which is bizarre since I don’t get any citrus from it - it’s like the only thing FA didn’t put lemon in. Nor any eggnog spice or eggnog taste. Freaking FA, weird. But it’s extremely pleasant and tastes like you could put 1% of it just about anywhere.
+Mild vanilla candy flavor. I think it was Jen Jarvis who said it tastes like “sucking on an M&M” - like the candy shell around the M&M, not the chocolate inside. I think that’s as good a description as any. It’s a soft flavor but it has deep, sugary sweet body to it, very relaxing to just vape standalone. Not exactly a marshmallow flavor, but sort of in that vein. Not exactly vanilla cream soda either, but also along that line. FA says it has “has a light, fruity taste, something similar to a mixture of citrus and vanilla. Some even think it tastes like candy and eggnog.” Which is bizarre since I don’t get any citrus from it - it’s like the only thing FA didn’t put lemon in. Nor any eggnog spice or eggnog taste. Freaking FA, weird. But it’s extremely pleasant and tastes like you could put 1% of it just about anywhere.
 
 I’m planning to create and share a vanilla-lime candy recipe that will almost definitely use it.
 
@@ -79,7 +79,7 @@ This is a perfectly fine lemon butter cake flavor, but there’s just not anythi
 
 **Papaya**
 
-At 2%, it tastes like a sugary-sweet cross between cantaloupe, mango, pineapple, and fig, just like a papaya does. It’s cantaloupe-y enough that it makes a really neat addition to a cantaloupe vape, it ripens and sweetens cantaloupes and makes them a lot more interesting. It starts to get a little soapy and have some issues with dryness and unpleasant floral perfume at 3%, but I know from working with it that 1 to 2% is an effective dose in a recipe with other fruit flavors. Very little is needed to have a fairly authentic-tasting papaya-forward mix, but it’s not as full-bodied and saturated as others. This can be a good thing if you need room for other fruits: Other options like TFA Papaya can be bullies.. It’s missing the bit of creaminess and richness of a perfectly ripened papaya. It’s not juicy either, but it’s not thin. It has some pulpy flesh body to it and starts to get a little more candy-ish at higher concentrations, like a gummy candy.  It’s a bit funky but less funky than others, which can be a good thing. It’s un-funked enough to work in a candy. It is not harsh whatsoever, it’s very smooth, seems like it might even be used to smooth out other flavors.  It also has a tiny bit of a very interesting sort of warm spice note t, that I can't quite put a name on, but only very little and only at the very end of the exhale, at 2% but not at 1%.
+At 2%, it tastes like a sugary-sweet cross between cantaloupe, mango, pineapple, and fig, just like a papaya does. It’s cantaloupe-y enough that it makes a really neat addition to a cantaloupe vape, it ripens and sweetens cantaloupes and makes them a lot more interesting. It starts to get a little soapy and have some issues with dryness and unpleasant floral perfume at 3%, but I know from working with it that 1 to 2% is an effective dose in a recipe with other fruit flavors. Very little is needed to have a fairly authentic-tasting papaya-forward mix, but it’s not as full-bodied and saturated as others. This can be a good thing if you need room for other fruits: Other options like TFA Papaya can be bullies.. It’s missing the bit of creaminess and richness of a perfectly ripened papaya. It’s not juicy either, but it’s not thin. It has some pulpy flesh body to it and starts to get a little more candy-ish at higher concentrations, like a gummy candy. It’s a bit funky but less funky than others, which can be a good thing. It’s un-funked enough to work in a candy. It is not harsh whatsoever, it’s very smooth, seems like it might even be used to smooth out other flavors. It also has a tiny bit of a very interesting sort of warm spice note t, that I can't quite put a name on, but only very little and only at the very end of the exhale, at 2% but not at 1%.
 
 I’ve used it in a recipe [1-2-3 YachtCocaineProstitutes](https://alltheflavors.com/recipes/146571#1_2_3_yachtcocaineprostitutes_by_id10_t) that I should mix again and think about improving it. **TASK 11**
 
@@ -89,13 +89,13 @@ I will have to try this higher. I was conservative with the concentration becaus
 
 **Passion Fruit**
 
-I don’t know what they put in this thing, but I can hardly vape it at all. It hurts. I know whatever it is, it doesn’t affect everyone the same way, and I’m kind of jealous of those who can and do enjoy it, because underneath the oppressive harshness, it’s a pretty good little passionfruit. It mostly tastes like a white peach, especially FA White Peach, with that white peach sweetness and body, but also some citrus tartness and a fair amount of tropical funky goodness. Whatever that thing is that makes a passion fruit taste like  passion fruit, it’s solidly in there. It’s not especially juicy, but it’s not not-juicy either. If I could vape it, I might punch up the tartness and juiciness with a little bit of juicier lemon flavor.  
+I don’t know what they put in this thing, but I can hardly vape it at all. It hurts. I know whatever it is, it doesn’t affect everyone the same way, and I’m kind of jealous of those who can and do enjoy it, because underneath the oppressive harshness, it’s a pretty good little passionfruit. It mostly tastes like a white peach, especially FA White Peach, with that white peach sweetness and body, but also some citrus tartness and a fair amount of tropical funky goodness. Whatever that thing is that makes a passion fruit taste like passion fruit, it’s solidly in there. It’s not especially juicy, but it’s not not-juicy either. If I could vape it, I might punch up the tartness and juiciness with a little bit of juicier lemon flavor.
 
 No more FA Throat Razors for me. **TRASH 5**
 
 **Pazzo Jack**
 
-The ad copy says “Jack is a bold and sweet strawberry flavor that will put you in mind of your Grandmother’s candy dish with a sweet crunchy outside and gooey center. It will satisfy your sweet tooth all day long” I found that to be about four-fifths true. If you crank it up to 6% it is indeed very bold, extremely sweet, and it’s the sweet crunchy outside of those strawberry hard candies all day long. However, I’m not finding any of the gooey center here. In fact, the whole thing feels a little dry, but not in quite the same way as a lot of other flavors feel dry. This is like, so sweet it dries your mouth out. Like eating sugar. Also that gooey center tastes a little different and although this is very bold and saturated flavor, it doesn’t have a lot of complexity to it, it’s just that one sweet candy strawberry note turned up really loud. It would be better if it actually did have a gooey center. Lingering strawberry candy flavor and a little bit of sugar lips sensation.  
+The ad copy says “Jack is a bold and sweet strawberry flavor that will put you in mind of your Grandmother’s candy dish with a sweet crunchy outside and gooey center. It will satisfy your sweet tooth all day long” I found that to be about four-fifths true. If you crank it up to 6% it is indeed very bold, extremely sweet, and it’s the sweet crunchy outside of those strawberry hard candies all day long. However, I’m not finding any of the gooey center here. In fact, the whole thing feels a little dry, but not in quite the same way as a lot of other flavors feel dry. This is like, so sweet it dries your mouth out. Like eating sugar. Also that gooey center tastes a little different and although this is very bold and saturated flavor, it doesn’t have a lot of complexity to it, it’s just that one sweet candy strawberry note turned up really loud. It would be better if it actually did have a gooey center. Lingering strawberry candy flavor and a little bit of sugar lips sensation.
 
 I’ll try two simple strawberry candy recipes that use it, [Dead Inside](https://alltheflavors.com/recipes/93341#dead_inside_by_digitaldrops) combines it with a little FA Forest Fruit, a little TFA Strawberry, and some CAP Super Sweet. **TASK 13**
 
@@ -131,7 +131,7 @@ I’m not impressed (I like my peppermints on the icier side) but not repulsed, 
 
 [Earthquake Weather](https://alltheflavors.com/recipes/270961#earthquake_weather_1_2_3_snv_by_buriedalive). CAP Sweet Guava and peppermint? Guava and peppermint are two things I’ve never thought about combining before and I need to know what this tastes like. There’s also some FA Watermelon in there, but I’m sure that mostly hides behind the Guava. And PUR Super Sweet (I’ll sub in FW Sweetener because I don’t have that). **TASK 22**
 
- **Pina Colada Brazilian Special**
+**Pina Colada Brazilian Special**
 
 Not a bad-tasting pina colada at all. It’s very clearly pineapple, coconut, and rum. Bonus points for actually having a rum taste, several of the other pina colada flavors you can buy have no rum at all. But I do have a couple of issues with FA Pina Colada. One, it’s very heavily unbalanced in favor of the pineapple, two, it tastes thin, not thick and creamy. Like if you tried to make a pinacolada out of coconut water instead of coconut cream, this is what you’d get. You’d need to add a nice creamy coconut for this to be a decent pina colada.
 
@@ -141,19 +141,19 @@ I was just about to let it go when I remembered ConcreteRiver’s [Feint](https:
 
 Lunge V1 **TASK 23**
 
-Co.| Flavor | %
----|---|----
-FA | Pina Colada | 4
-FLV | Red Burley | 1.5
-TFA| Coconut Candy | 0.75
-TFA | Brown Sugar | 0.25
-FA | Black Fire| 0.5
+| Co. | Flavor        | %    |
+| --- | ------------- | ---- |
+| FA  | Pina Colada   | 4    |
+| FLV | Red Burley    | 1.5  |
+| TFA | Coconut Candy | 0.75 |
+| TFA | Brown Sugar   | 0.25 |
+| FA  | Black Fire    | 0.5  |
 
 **Pineapple**
 
 Not to be confused with the next two flavors, FA’s newer pineapples. This is the old one. It’s fucking disgusting. **TRASH 7**
 
-This was one of my earliest experiences with a truly horrible flavor, and still to this day one of the worst flavors I have ever tried, an abomination of almost biblical proportions. Tastes like rotten pineapple, green onions, and burnt tires.  
+This was one of my earliest experiences with a truly horrible flavor, and still to this day one of the worst flavors I have ever tried, an abomination of almost biblical proportions. Tastes like rotten pineapple, green onions, and burnt tires.
 
 This flavor is so garbage they needed two new pineapple flavors to replace it.
 
@@ -165,20 +165,20 @@ Seems like a perfectly fine pineapple to me so far. 1% is a little soft but that
 
 I have reason to be concerned because that same mixer has another otherwise delicious-looking Pineapple Costa Rica mix, [Nine’s Tropical Punch](https://alltheflavors.com/recipes/269021#nine_s_tropical_punch_by_ninedimensions) that I know I will not be able to vape because of the FA Passionfruit/Throat Razors in there. But if 1.5% FA Costa Rica Pineapple is all it takes to make a Hawaiian Punch-type vape, it might be worth exploring as an alternative to the INW Pineapple in [Counter Punch](https://alltheflavors.com/recipes/154364#counter_punch_by_id10_t). Then I got another idea. Back when I participated in the Mixer’s Club juice exchange, my favorite month was always February, which is when we had the theme “duets.” It involved mashing two recipes together into one. Not usually all the ingredients from each, but key parts that could harmonize together. I’m going to play duets again. A duet with punches.
 
-Ike & Tina V1 **TASK 25**  
+Ike & Tina V1 **TASK 25**
 
-Co. | Flavor | %
----|---|----
-FA | Apricot | 1.75
-VT | Yellow Passion | 1.5
-FA | Pineapple Costa Rica | 1.5
-TFA | Smooth | 0.25
-FW | Sweetener | 0.75
-CAP | Sweet Guava | 2.5
-INW | Cherries | 2
-CAP | Sweet Tangerine | 2
+| Co. | Flavor               | %    |
+| --- | -------------------- | ---- |
+| FA  | Apricot              | 1.75 |
+| VT  | Yellow Passion       | 1.5  |
+| FA  | Pineapple Costa Rica | 1.5  |
+| TFA | Smooth               | 0.25 |
+| FW  | Sweetener            | 0.75 |
+| CAP | Sweet Guava          | 2.5  |
+| INW | Cherries             | 2    |
+| CAP | Sweet Tangerine      | 2    |
 
-Both recipes have FA Apricot, Nine’s at 2% and Counter at 1.5%. I’ll meet in the middle and try 1.75% for round one. Nine’s has FA Passion which I’m throwing away, but it also has VT Yellow Passion which is lovely at 1.5%. I’ll copy that. Nine’s has FA Pineapple Costa Rica at 1.5% and I’ll copy that over, leaving out the INW Pineapple used in Counter. Both recipes use TFA Smooth 0.25% and while I’d usually wait to see what it tastes like without it before adding that, I’ll make an exception this time because I’m sure I’m going to want that blendy-blendy plus mouthfeel. Nine’s uses PUR Super Sweet which I don’t have at 0.3% and Counter has FW Sweetener at 1%. Since I don’t know the difference between those two and I have an enormous bottle of FW Sweetener, I’ll just go with that, but drop it down a hair. Both recipes have CAP Sweet Guava, which, honestly, how do you make a tropical punch without it? Nine’s at 2.75% and Counter at 2.5%. A negligible difference, I’ll err on the side of using less of my precious CAP Sweet Guava for this silliness.  Finally, Nine’s has CAP Sweet Tangerine at 4% and Counter has INW Cherries at 4% (and CAP Yellow Peach at 1.5%). Tangerine and cherries, extremely different things, that’s how you know these are two very different recipes despite the similarities. I’m going to ditch the Yellow Peach (I think VT Yellow Passion has the Yellow part covered) but really try to make these disparate recipes sing together by using both Tangerine and Cherries at half-strength.  
+Both recipes have FA Apricot, Nine’s at 2% and Counter at 1.5%. I’ll meet in the middle and try 1.75% for round one. Nine’s has FA Passion which I’m throwing away, but it also has VT Yellow Passion which is lovely at 1.5%. I’ll copy that. Nine’s has FA Pineapple Costa Rica at 1.5% and I’ll copy that over, leaving out the INW Pineapple used in Counter. Both recipes use TFA Smooth 0.25% and while I’d usually wait to see what it tastes like without it before adding that, I’ll make an exception this time because I’m sure I’m going to want that blendy-blendy plus mouthfeel. Nine’s uses PUR Super Sweet which I don’t have at 0.3% and Counter has FW Sweetener at 1%. Since I don’t know the difference between those two and I have an enormous bottle of FW Sweetener, I’ll just go with that, but drop it down a hair. Both recipes have CAP Sweet Guava, which, honestly, how do you make a tropical punch without it? Nine’s at 2.75% and Counter at 2.5%. A negligible difference, I’ll err on the side of using less of my precious CAP Sweet Guava for this silliness. Finally, Nine’s has CAP Sweet Tangerine at 4% and Counter has INW Cherries at 4% (and CAP Yellow Peach at 1.5%). Tangerine and cherries, extremely different things, that’s how you know these are two very different recipes despite the similarities. I’m going to ditch the Yellow Peach (I think VT Yellow Passion has the Yellow part covered) but really try to make these disparate recipes sing together by using both Tangerine and Cherries at half-strength.
 
 **Pineapple Kenya**
 
@@ -190,13 +190,13 @@ Mindfloodz’s [Lava Dam](https://alltheflavors.com/recipes/252173#lava_dam_by_m
 
 Dam Volcano Remix V1 **TASK 26**
 
-Co. | Flavor | %
----|---|----
-FA | Pina Colada Brazilian| 1.5
-FA | Pineapple Kenyan | 1.5
-FA | Strawberry Green | 1.5
-CAP | Super Sweet | 0.5
-WF | Coconut Custard | 3
+| Co. | Flavor                | %   |
+| --- | --------------------- | --- |
+| FA  | Pina Colada Brazilian | 1.5 |
+| FA  | Pineapple Kenyan      | 1.5 |
+| FA  | Strawberry Green      | 1.5 |
+| CAP | Super Sweet           | 0.5 |
+| WF  | Coconut Custard       | 3   |
 
 The first four elements are taken directly from Lava Dam. The parts of Lava Dam that I don’t want are FA Cheesecake Olympic, FA Custard Extra 1, and FA Ice Cream Italian. But I can kinda see where he was going with that. It needs a cream element. Also from looking at it, I’m definitely going to want more coconut that FA Pina Colada provides. EZ-PZ, WF Coconut Custard. Should give it everything I want, without any nonsense. Remember this is just Version 1. It’ll probably need some tweaking.
 
@@ -208,7 +208,7 @@ I feel like my pistachio needs are pretty well covered by TFA and FLV. I’m onl
 
 **Polar Blast**
 
-The way this works is very similar to TFA Koolada, but different.  That’s because TFA Koolada is 10% WS-3 and Polar Blast is 7% WS-3 with 3% Menthyl lactate (Frescolat ML). The Menthyl lactate seems to alter most people's perception of the cooling effect a bit and mitigate the cardboardy, chemically off-notes associated with Koolada.
+The way this works is very similar to TFA Koolada, but different. That’s because TFA Koolada is 10% WS-3 and Polar Blast is 7% WS-3 with 3% Menthyl lactate (Frescolat ML). The Menthyl lactate seems to alter most people's perception of the cooling effect a bit and mitigate the cardboardy, chemically off-notes associated with Koolada.
 
 It’s in a few recipes I’m going to try, and I already know I need it for [The Back Nine](https://alltheflavors.com/recipes/122659#the_back_nine_by_id10_t) - an Arnold Palmer spiked with Bourbon. **TASK 29**
 
@@ -218,7 +218,7 @@ I also need it for my [Spicy Icy Chamoyada Mangonada](https://alltheflavors.com/
 
 **Pomegranate**
 
-Thick and tart! Not quite as tart as real pom juice, but I’ll take it. It has some issues. It’s very lightly floral, has a touch of camphorous warmth to it, and has this little woody thing going on that can be a real problem, depending on what it’s mixed with and how much of it is used. I would keep it below 2% most of the time. Below 2%, very natural tasting, like the actual fruit.  I think despite its difficulties it is probably the best overall pom flavor I’ve tried (some are really bad).
+Thick and tart! Not quite as tart as real pom juice, but I’ll take it. It has some issues. It’s very lightly floral, has a touch of camphorous warmth to it, and has this little woody thing going on that can be a real problem, depending on what it’s mixed with and how much of it is used. I would keep it below 2% most of the time. Below 2%, very natural tasting, like the actual fruit. I think despite its difficulties it is probably the best overall pom flavor I’ve tried (some are really bad).
 
 This was used beautifully in [In a Godda Da Vida](https://alltheflavors.com/recipes/26946#in_a_godda_da_vida_by_mlnikon) **TASK 31**
 
@@ -226,7 +226,7 @@ And in [Goddaron](https://alltheflavors.com/recipes/95356), if I do say so mysel
 
 I also need it for [Crazberry Crack](https://alltheflavors.com/recipes/32359#crazberry_crack_by_jbird). **TASK 33**
 
-It’s in a couple of things I’ve already decided to try, and I just found four more irresistible.  
+It’s in a couple of things I’ve already decided to try, and I just found four more irresistible.
 
 [Bishop V2](https://alltheflavors.com/recipes/265163#bishop_v2_by_tugnil) - white peach, pomegranate, and green tea. **TASK 34**
 
@@ -266,7 +266,7 @@ Not saying you can’t make something great out of it, but I’m done fucking ar
 
 **Red Wine**
 
-Had to to order this one from Italy. Not worth it to me, but if you really, really want to vape red wine, it might be worth it to you. Very much a wine flavor Dry like a dry wine, not dry as in mouth-drying. Tannic. Think cabernet, not as sweet and fruity as a merlot. Slight sharp booziness. Rich like some wines are kinda rich, I guess the DAAP does that. Lingering oakyness. Tastes like it could go nail polishy if pushed too high but not any off notes at 1.5%, they nailed it. I personally rather vape a less realistic wine flavor but if this is what you want, if that’s truly what you want to do with your life, go to FlavourArt Italy and pick some up. I would have kept this for a good-looking recipe but seeing none, **TRASH 11**  
+Had to to order this one from Italy. Not worth it to me, but if you really, really want to vape red wine, it might be worth it to you. Very much a wine flavor Dry like a dry wine, not dry as in mouth-drying. Tannic. Think cabernet, not as sweet and fruity as a merlot. Slight sharp booziness. Rich like some wines are kinda rich, I guess the DAAP does that. Lingering oakyness. Tastes like it could go nail polishy if pushed too high but not any off notes at 1.5%, they nailed it. I personally rather vape a less realistic wine flavor but if this is what you want, if that’s truly what you want to do with your life, go to FlavourArt Italy and pick some up. I would have kept this for a good-looking recipe but seeing none, **TRASH 11**
 
 **Reggae Night**
 
@@ -282,11 +282,11 @@ I’m going to try it at 2% plus 10% TFA Sweet Tea and see if it might work to b
 
 **Rose**
 
-Kinda nasty.  It’s rose that’s slightly sharp on top with some slightly bitter and tart leafy green citrusy stuff, a little harsh, but not quite grandma’s perfume, with a powerfully chalky, powdery sweetness and something rotten lurking in there. I don’t know what that rotten thing is, but it kinda tastes earthy like moldy old flowers and is nauseating. I would try to make this work if FLV Rose Essence didn’t exist, but it does. **TRASH 13**  
+Kinda nasty. It’s rose that’s slightly sharp on top with some slightly bitter and tart leafy green citrusy stuff, a little harsh, but not quite grandma’s perfume, with a powerfully chalky, powdery sweetness and something rotten lurking in there. I don’t know what that rotten thing is, but it kinda tastes earthy like moldy old flowers and is nauseating. I would try to make this work if FLV Rose Essence didn’t exist, but it does. **TRASH 13**
 
 **Royal Orange**
 
-Similar to FA Orange, but much improved. Pretty much a basic natural orange flavor. It’s not harsh at all, it’s actually rather smooth, it has some bright, tart and zesty notes.  Some sweetness but not a lot of it. It unfortunately vapes kind of warm like some other oranges do, and it’s dry, not super dry, but definitely not juicy. It’s got more body than FA Orange (but still not a lot of it) but that base is a bit waxy. Probably not a lone orange for an orange juice or orange-forward vape, but could definitely be helpful for adding some realistic orange flavor to one of those or to some other citrus mix.
+Similar to FA Orange, but much improved. Pretty much a basic natural orange flavor. It’s not harsh at all, it’s actually rather smooth, it has some bright, tart and zesty notes. Some sweetness but not a lot of it. It unfortunately vapes kind of warm like some other oranges do, and it’s dry, not super dry, but definitely not juicy. It’s got more body than FA Orange (but still not a lot of it) but that base is a bit waxy. Probably not a lone orange for an orange juice or orange-forward vape, but could definitely be helpful for adding some realistic orange flavor to one of those or to some other citrus mix.
 
 I need it for a Fruity Pebbles recipe, either [Manson and The Pebbles](https://alltheflavors.com/recipes/227657#manson_and_the_pebbles_developed_by_developed) or potentially a slight improvement to that. And because I want to try Hurricane.
 
@@ -294,9 +294,9 @@ And this [Mango Champagne](https://alltheflavors.com/recipes/179573#2020_a_mango
 
 **RY4**
 
-There’s some sweet brown-sugary caramel-type flavor underneath and a lot of tobacco that’s a little spicy and a little hay-like. It definitely needs at least a short steep. Freshly mixed at 4%, it had a horridly acrid nail polish off note on top; I could barely vape it. At 6 days that drops off into a very faint slightly bitter or vinegary edge, a bit odd, but no longer unpleasant. The caramel flavor is there and there’s the slightest of vanilla in it, but no thick creamy richness like you expect with a caramel.  It finishes very dry but I’m fine with tobacco doing that. Pretty sure I’ll survive without this flavor. I’ve tried one good recipe that used it and already tossed the FA Irish Cream that I would’ve needed to make that one again. **TRASH 14**
+There’s some sweet brown-sugary caramel-type flavor underneath and a lot of tobacco that’s a little spicy and a little hay-like. It definitely needs at least a short steep. Freshly mixed at 4%, it had a horridly acrid nail polish off note on top; I could barely vape it. At 6 days that drops off into a very faint slightly bitter or vinegary edge, a bit odd, but no longer unpleasant. The caramel flavor is there and there’s the slightest of vanilla in it, but no thick creamy richness like you expect with a caramel. It finishes very dry but I’m fine with tobacco doing that. Pretty sure I’ll survive without this flavor. I’ve tried one good recipe that used it and already tossed the FA Irish Cream that I would’ve needed to make that one again. **TRASH 14**
 
-New Flavor Count: 2,434  
+New Flavor Count: 2,434
 
 **Note**
 

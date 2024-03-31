@@ -9,7 +9,7 @@ Starting flavor count: 2,585 (down from 2,972)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-# CAPELLA
+## CAPELLA
 
 **Custard Cake**
 
@@ -19,13 +19,13 @@ Update. My first thought on trying CAP Custard Cake for the first time was “so
 
 Update. Tastes like good ingredient, juicy and refreshing. I couldn’t think of a recipe I needed it for, but I tried one that stood out and was not disappointed. [Punched Guava](https://alltheflavors.com/recipes/226992) goes on the list of favorites. Awesome stuff, really hit the profile. It gave me a reason to keep CAP Cucumber and removed some lingering doubts I had about FLV Energy Drink. Although, if it ever comes down to choosing between this a pretty similar recipe, [Zenitsu](https://alltheflavors.com/recipes/197324#zenitsu_by_wolfwheeler), Zenitsu is going to win, just a personal preference for Jarritos Guava over Monster Guava.
 
-Looking for more potential reasons to keep CAP’s Cuke, I found nothing that grabbed me, but I have an idea: Adding 0.5% CAP Cucumber to Zenitsu to see if I can make it even more juicy-feeling and refreshing than it already is, without messing it up. **TASK 2**  
+Looking for more potential reasons to keep CAP’s Cuke, I found nothing that grabbed me, but I have an idea: Adding 0.5% CAP Cucumber to Zenitsu to see if I can make it even more juicy-feeling and refreshing than it already is, without messing it up. **TASK 2**
 
 **Creamy Yogurt**
 
 Update. I misplaced and could not relocate my bottle of TFA Key Lime Pie that I needed to try one recipe using Creamy Yogurt, but TFA Key Lime Pie sucks anyway and I didn’t have super high hopes for the recipe. The other recipe I picked out that used CAP Creamy Yogurt, [Pina Papayaloupe](https://alltheflavors.com/recipes/148934#pina_papayaloupe_aka_not_a_mango_by_brewdog_kilo) was very neat and I’ll enjoy it down to the last drop, but I don’t feel like it’s something I just have to have a second time. Any one of a handful of good single-flavor mangoes would be just as enjoyable to me. Conclusion, I can do without CAP Creamy Yogurt in my life. **TRASH 1**
 
-# FLAVORAH
+## FLAVORAH
 
 **Donuts**
 
@@ -35,7 +35,7 @@ Extremely potent. Extra yeasty sweet dark brown bread. If you like the brown bre
 
 The only dragon fruit I’ve ever tried tasted very much like this, but I’ve heard that’s because it was picked before it was fully ripe and transported and that I’d have a very different sense of dragon fruit tastes like if I got it fresh picked from an Asian market in Asia. Anyway, the dragonfruit I had tasted like a very light, somewhat floral pineapple, but it did not have a lot of flavor. Sweet, but not a ton of sweetness either.
 
-FLV’s take on it is quite floral and less white gummy bearish than others, but with some of that not-quite-pineapple base. The top note is very hibiscus-like, floral but not at all perfumy. But not the syrupy CAP hibiscus but more like unsweetened hibiscus tea, with a little bitterness to it. Very much like the slight floral note in a real USA supermarket dragon fruit. Oddly thin overall, yet saturated and sweet. Gives it a nearly beverage-type feel, if only it were a little wetter. Some noticeable throat something, but not the standalone harshness of some other dragon fruits. This is definitely the dragon fruit I would use for something like a dragonfruit tea, but that would need something juicier in the mix.  I don’t dislike it, but I’m not tempted by anything others have made out of it and don’t feel like creating something with it, so... **TRASH 3**
+FLV’s take on it is quite floral and less white gummy bearish than others, but with some of that not-quite-pineapple base. The top note is very hibiscus-like, floral but not at all perfumy. But not the syrupy CAP hibiscus but more like unsweetened hibiscus tea, with a little bitterness to it. Very much like the slight floral note in a real USA supermarket dragon fruit. Oddly thin overall, yet saturated and sweet. Gives it a nearly beverage-type feel, if only it were a little wetter. Some noticeable throat something, but not the standalone harshness of some other dragon fruits. This is definitely the dragon fruit I would use for something like a dragonfruit tea, but that would need something juicier in the mix. I don’t dislike it, but I’m not tempted by anything others have made out of it and don’t feel like creating something with it, so... **TRASH 3**
 
 **Eggnog**
 
@@ -53,9 +53,9 @@ Also want to try:
 
 And Daniel’s [Pumpkin Pudding Remix](https://alltheflavors.com/recipes/213178#pumpkin_pudding_remix_by_danielthevapeman). **TASK 7**
 
- **Eisai Tea**
+**Eisai Tea**
 
-Is it just me or is FLV Eisai Tea  the only green tea that doesn’t have something very wrong with it? It’s very clearly green tea, slightly earthy and musky in a way that green tea should be, full-bodied and while not as in your face as matcha green tea, tastes a bit like that. It has almost a creamy density and feel to it. It’s not floral, or grassy, or anything like that, it pairs well with just about anything. It’s basically everything I want in a green tea flavor, especially if I’m using it as something other than a beverage, because it does lack that sort of wet beverage feel to it.
+Is it just me or is FLV Eisai Tea the only green tea that doesn’t have something very wrong with it? It’s very clearly green tea, slightly earthy and musky in a way that green tea should be, full-bodied and while not as in your face as matcha green tea, tastes a bit like that. It has almost a creamy density and feel to it. It’s not floral, or grassy, or anything like that, it pairs well with just about anything. It’s basically everything I want in a green tea flavor, especially if I’m using it as something other than a beverage, because it does lack that sort of wet beverage feel to it.
 
 I need it for my [GTKK 2019](https://alltheflavors.com/recipes/136863#gtkk_2019_by_id10_t) and hopefully soon an improved version of that. In the meantime, I can hardly wait to try [Matcha Yoghurt Drink](https://alltheflavors.com/recipes/162528#matcha_yoghurt_drink_by_kittybit), it looks ridiculously good. **TASK 8**
 
@@ -63,7 +63,7 @@ And this: [Mango Iced Tea](https://alltheflavors.com/recipes/307829#mango_iced_t
 
 **Elderflower**
 
-Complex and unique but rose-ish flavor, somewhat darker and more earthy and herbaceous than rose, less perfumey than rose, very similar to the rose-ish floral part of lychee, with a touch of citrus-like tartness, and an oddly but wonderfully creamy-feeling light and slightly fruity body. Nice depth here. Strange because I know it’s a white flower, but it tastes almost purple. Slightly sweet, but with an oddly bitter finish that might be off-putting to some people.  Doesn’t taste alcoholic or quite like St-Germain, but similar.
+Complex and unique but rose-ish flavor, somewhat darker and more earthy and herbaceous than rose, less perfumey than rose, very similar to the rose-ish floral part of lychee, with a touch of citrus-like tartness, and an oddly but wonderfully creamy-feeling light and slightly fruity body. Nice depth here. Strange because I know it’s a white flower, but it tastes almost purple. Slightly sweet, but with an oddly bitter finish that might be off-putting to some people. Doesn’t taste alcoholic or quite like St-Germain, but similar.
 
 I need it to make [Yoda Soda](https://alltheflavors.com/recipes/158275#yoda_soda_by_staybert), and so do you, even if you don’t know it yet. Such an awesome recipe. But I just added it to the to-mix list last week. I only wanted to find one other potential reason to keep it, but I think I might have found two:
 
@@ -83,13 +83,13 @@ Tastes like a whole pack of sweet tarts dissolved in battery acid, with a bubble
 
 **Fig**
 
-Sweet, dark, musky, nearly fermented, nowhere near as bright and fruity as some other figs. Very deep and thick. Instead of bright fruitiness, there’s a bit of “almost cinnamon but not quite spice” to the top notes. Kind of like a date. Not quite a raisin, but closer to that “raisiny” note that some tobaccos have than raisin. That’s primarily what I’d use it for, to give tobaccos that special raisiny type of taste they have.  
+Sweet, dark, musky, nearly fermented, nowhere near as bright and fruity as some other figs. Very deep and thick. Instead of bright fruitiness, there’s a bit of “almost cinnamon but not quite spice” to the top notes. Kind of like a date. Not quite a raisin, but closer to that “raisiny” note that some tobaccos have than raisin. That’s primarily what I’d use it for, to give tobaccos that special raisiny type of taste they have.
 
 I need it for one of my absolute most favorite ever recipes, [Giant Swan](https://alltheflavors.com/recipes/247312#giant_swan_by_concreteriver). **TASK 15**
 
 And another old favorite that I recently added to my to-mix list [Wild Horses](https://alltheflavors.com/recipes/131078#wild_horses_by_tamvapes). Since Wild Horses has me feeling like I can trust Tam with both FLV Fig and tobacco, I should probably mix up another FLV Fig and tobacco recipe Tam has created and shared. That’s just common sense. [Ride with Me](https://alltheflavors.com/recipes/141663#ride_with_me_by_tamvapes). **TASK 16**
 
-Sebastien has a couple recipes with Fig and tobacco, too. I’ll the one that looks best to me first, and if I like it, maybe the other one later: [Drunk Cardinal](https://alltheflavors.com/recipes/283834#drunk_cardinal_by_sebastien)  **TASK 17**
+Sebastien has a couple recipes with Fig and tobacco, too. I’ll the one that looks best to me first, and if I like it, maybe the other one later: [Drunk Cardinal](https://alltheflavors.com/recipes/283834#drunk_cardinal_by_sebastien) **TASK 17**
 
 **Fire Cinnamon**
 
@@ -101,7 +101,7 @@ Extremely potent. Has a definite “fried” or at least greasy flavor but it’
 
 **Frosting**
 
-Vanilla buttercream-type frosting or cake icing. Sweet and accurate frosting flavor. Accurate powdered sugar taste but creamier, not excessively dry, actually pretty smooth. Dense, fluffy. Great, fairly prominent, not too bright vanilla. Needs a steep to fill out, I also get some TH from it until it has steeped for a week. After it steeps, has some depth and richness to it, but not a custardy richess, just a bit of buttery-ness that is more a feeling than a taste.  
+Vanilla buttercream-type frosting or cake icing. Sweet and accurate frosting flavor. Accurate powdered sugar taste but creamier, not excessively dry, actually pretty smooth. Dense, fluffy. Great, fairly prominent, not too bright vanilla. Needs a steep to fill out, I also get some TH from it until it has steeped for a week. After it steeps, has some depth and richness to it, but not a custardy richess, just a bit of buttery-ness that is more a feeling than a taste.
 
 Pretty much tastes like store-bought icing, but also reminds me of how little difference there is between a marshmallow and a frosting flavor, unless the frosting has a fair amount of dairy cream. FLV Frosting does taste more like frosting than marshmallow to me, but if you told me it was supposed to be a marshmallow, I wouldn’t have any reason to disbelieve you.
 
@@ -113,7 +113,7 @@ And [Deeznuts](https://alltheflavors.com/recipes/232719#deeznuts_by_eyemsam) bec
 
 **Ginger**
 
-I love this. It tastes like ginger syrup with a tiny bit of pleasantly floral and citrusy complexity. It’s not like sharp fresh ginger or spicier dry ginger spice, it’s thick, sweet, and syrupy, like something you’d use to make homemade ginger ale - just add carbonated water. Doesn’t seem very suited for bakeries at all, but seems perfect for ginger ale, ginger candies, and adding a ginger note to fruit mixes. Check out the Canada Dry website, great-looking ideas for cocktails on there. I want to make them all to drink and also vapeable versions of every last one of them. For those vapeable versions I would probably start with FLV Ginger.  
+I love this. It tastes like ginger syrup with a tiny bit of pleasantly floral and citrusy complexity. It’s not like sharp fresh ginger or spicier dry ginger spice, it’s thick, sweet, and syrupy, like something you’d use to make homemade ginger ale - just add carbonated water. Doesn’t seem very suited for bakeries at all, but seems perfect for ginger ale, ginger candies, and adding a ginger note to fruit mixes. Check out the Canada Dry website, great-looking ideas for cocktails on there. I want to make them all to drink and also vapeable versions of every last one of them. For those vapeable versions I would probably start with FLV Ginger.
 
 I loved [Ardent](https://alltheflavors.com/recipes/71551#ardent_by_loonicorn) before I was no longer able to enjoy TFA VBIC, so once I nail down a Longing remix, I’ll definitely be trying it again with the addition of FLV Ginger.
 
@@ -121,7 +121,7 @@ In the meantime, I’ll just have another glass of Kopel’s [Ginger Beer](https
 
 **Ginger Peach**
 
-Why? Why is this needed? If we wanted a ginger peach, couldn’t we just add ginger to a peach flavor? That’s weird right? But the weirdest thing is, it mostly tastes like cream soda. More than half of this vape is clearly cream soda flavor, with just enough vanilla for a cream soda, then  just a hint of white peach, with little kick of ginger spice on top. Ginger is mostly in the top and in the finish. Full bodied, not thin at all, almost a marshmallow like thickness to it. Smooth and mellow, not harsh at all, which is interesting for peach and ginger, but overall just odd. I like the taste of it, it’s pleasant, but what the hell, man? I’d like to the hear the story behind this one, like was it a failed attempt at cream soda or ginger ale, and they just decided to call it ginger peach, or what is the deal?
+Why? Why is this needed? If we wanted a ginger peach, couldn’t we just add ginger to a peach flavor? That’s weird right? But the weirdest thing is, it mostly tastes like cream soda. More than half of this vape is clearly cream soda flavor, with just enough vanilla for a cream soda, then just a hint of white peach, with little kick of ginger spice on top. Ginger is mostly in the top and in the finish. Full bodied, not thin at all, almost a marshmallow like thickness to it. Smooth and mellow, not harsh at all, which is interesting for peach and ginger, but overall just odd. I like the taste of it, it’s pleasant, but what the hell, man? I’d like to the hear the story behind this one, like was it a failed attempt at cream soda or ginger ale, and they just decided to call it ginger peach, or what is the deal?
 
 [Gringo](https://alltheflavors.com/recipes/119328#gringo_by_sheckjuarez) is a strange little recipe that’s already on my list. [Beach Vibes](https://alltheflavors.com/recipes/189314#beach_vibes_by_novitec) can join it there, but I’m going to chop that CAP Super Sweet % in half. **TASK 21**
 
@@ -129,7 +129,7 @@ Why? Why is this needed? If we wanted a ginger peach, couldn’t we just add gin
 
 **TRASH 6** Some coil-gunking flavors are worth the gunk, to me, this one just isn't. The concentrate itself is thick as hell and if you let it sit for long it starts to have sediment settle in it, and it’s hard to shake back into the solution. I’ll accept that from some of the finest tobaccos, but not from a gingersnap. Just a small sample of it ruined by cotton fairly quick and left some gunk on the coils too.
 
-But if you ignore that, leads with dark molasses and some soft sweet cookie notes, and just a touch of ginger bakery spice. Pretty much hits the profile, though it’s missing a little texturally, doesn’t quite have the “snap” you’d expect from gingersnaps, it’s more like the soft center of a fresh homemade gingersnap rather than one of the crunchy cookies from a bag off the grocery store shelf.  
+But if you ignore that, leads with dark molasses and some soft sweet cookie notes, and just a touch of ginger bakery spice. Pretty much hits the profile, though it’s missing a little texturally, doesn’t quite have the “snap” you’d expect from gingersnaps, it’s more like the soft center of a fresh homemade gingersnap rather than one of the crunchy cookies from a bag off the grocery store shelf.
 
 **Graham Cracker**
 
@@ -145,7 +145,7 @@ Crisp and sweet mostly natural green apple, with slight grassy nail polish remov
 
 **Granola**
 
-Concrete called it “homemade hippie-grade granola”  and that pretty much sums it up, but after trying this again and re-reading his review I have to say I have a somewhat different impression of it. It’s definitely a darker granola top note - but Rick called out “some light fruitiness” and he went on to describes as an “almond/cherry note” but the fruit sticks out a bit more to me and tastes more raisiny than cherry, with some very light generic nuttiness behind it.  It does have a toasted or maybe roasted oat flavor as the main note though. The sweetness level is fairly low and the sweetness is very dark, like dark karo syrup dark. It doesn’t taste like honey, it’s like brown sugar syrup or something.
+Concrete called it “homemade hippie-grade granola” and that pretty much sums it up, but after trying this again and re-reading his review I have to say I have a somewhat different impression of it. It’s definitely a darker granola top note - but Rick called out “some light fruitiness” and he went on to describes as an “almond/cherry note” but the fruit sticks out a bit more to me and tastes more raisiny than cherry, with some very light generic nuttiness behind it. It does have a toasted or maybe roasted oat flavor as the main note though. The sweetness level is fairly low and the sweetness is very dark, like dark karo syrup dark. It doesn’t taste like honey, it’s like brown sugar syrup or something.
 
 Although it tastes like granola, it’s lacking the main thing you probably want in a granola vape unless you’re after a chewy granola bar thing; it’s got no crunch to it. It’s odd to have something that tastes overcooked like it should also be overly crunchy, but isn’t crunchy at all.
 
@@ -155,7 +155,7 @@ I need it for [Shiro](https://alltheflavors.com/recipes/207414#shiro_by_wolfwhee
 
 **Grape**
 
-Purple. Reasonably assertive, at least for a grape, not as “meh” as most other grapes. Tastes very much like a fresh piece of grape bubblegum. Has some tartness and a significantly more oomph to it than some of the other blatantly artificial purple flavors. Syrupy sweet base and a fuller mouthfeel than most of the other grapes, not quite as full as the grape gum that it tastes like, but full. Other than the fact that it’s clearly an artificial grape flavor and contains nothing resembling anything found in nature, I don’t get any off notes from this.  
+Purple. Reasonably assertive, at least for a grape, not as “meh” as most other grapes. Tastes very much like a fresh piece of grape bubblegum. Has some tartness and a significantly more oomph to it than some of the other blatantly artificial purple flavors. Syrupy sweet base and a fuller mouthfeel than most of the other grapes, not quite as full as the grape gum that it tastes like, but full. Other than the fact that it’s clearly an artificial grape flavor and contains nothing resembling anything found in nature, I don’t get any off notes from this.
 
 I don’t have anything I feel like I have to have it for, but there are multiple recipes I already plan to try that use it. The one I’m gonna add to that isn’t even a grape recipe, it’s a [Blue Raz Slushie](https://alltheflavors.com/recipes/269447#fairy_dust_blue_raz_slushie_mwc_best_recipe_by_diyejuices). **TASK 26**
 
@@ -167,11 +167,11 @@ Thick like a Lane Bryant model thick, great for texture, even just 0.1% does goo
 
 **Green Apple**
 
-Mostly natural green apple up front, but leans a bit candy overall, sort of like two flavors in one, natural and candy. Not quite nail polish remover but grassy and a bit astringent or bitter - lots of sharp peel here upfront. Some juiciness with a sweet and thick base that goes candish and flat - quite a bit of separation between the green apple skin and green apple candy. As much TH as a very tart flavor but not really that tart, just feels acidic. Seems like a small amount of it might turn a fuji apple into more of a green - not sure about using it as the main or only green apple flavor. Not a bad flavor, just has an identity issue where it seems too natural for candy and too candy for natural by itself.  No one has done anything with it that I want to try, so **TRASH 7**
+Mostly natural green apple up front, but leans a bit candy overall, sort of like two flavors in one, natural and candy. Not quite nail polish remover but grassy and a bit astringent or bitter - lots of sharp peel here upfront. Some juiciness with a sweet and thick base that goes candish and flat - quite a bit of separation between the green apple skin and green apple candy. As much TH as a very tart flavor but not really that tart, just feels acidic. Seems like a small amount of it might turn a fuji apple into more of a green - not sure about using it as the main or only green apple flavor. Not a bad flavor, just has an identity issue where it seems too natural for candy and too candy for natural by itself. No one has done anything with it that I want to try, so **TRASH 7**
 
 **Green Tea**
 
- Ok, that one mostly tastes like green tea, but why is it so minty? Green tea with mint is a thing and it would definitely need a little more mint to nail that, but it should still be labeled as such because it’s minty enough to be useless as a straight-up green tea. Doesn’t have a distinctive mint flavor, tastes just a little minty, and has a very slight cooling sensation. Also a little grassy, but nothing like TFA Green Tea-level lawn clippings.
+Ok, that one mostly tastes like green tea, but why is it so minty? Green tea with mint is a thing and it would definitely need a little more mint to nail that, but it should still be labeled as such because it’s minty enough to be useless as a straight-up green tea. Doesn’t have a distinctive mint flavor, tastes just a little minty, and has a very slight cooling sensation. Also a little grassy, but nothing like TFA Green Tea-level lawn clippings.
 
 I’ll try [mlNikon’s Fabulous Asian Dude Mix](https://alltheflavors.com/recipes/124774#mlnikon_s_fabulous_asian_dude_mix_by_mixinvixens) **TASK 28**
 
@@ -181,7 +181,7 @@ Saw a couple more I might add later if either of those make FLV Green Tea keeper
 
 **Guanabana**
 
-I get a nice balance of fruit notes that are mostly pineapple and banana, along with some strawberry or kiwi and coconut. Tart top notes like a blend of pineapple and something else, maybe strawberry or kiwi, with a thick, sweet creamy thick base similar to a combination of coconut cream and banana but not really tasting exactly like either, with the slightest bit of tropical funkiness in there. ConcreteRiver has said the overall effect is like a tart, ripe banana, and that’s about what I get from it. Which is weird, as a ripe banana would be anything but tart, but also kinda wonderful.  There is a little something green in that pineapple/strawberry top, like under-ripe banana or strawberry stems, a bit of a bitter, rindy type flavor, that lingers a bit, that might get weird with some things, like bakeries and really eggy custards, but seems like it goes well with anything that accents what’s already there.
+I get a nice balance of fruit notes that are mostly pineapple and banana, along with some strawberry or kiwi and coconut. Tart top notes like a blend of pineapple and something else, maybe strawberry or kiwi, with a thick, sweet creamy thick base similar to a combination of coconut cream and banana but not really tasting exactly like either, with the slightest bit of tropical funkiness in there. ConcreteRiver has said the overall effect is like a tart, ripe banana, and that’s about what I get from it. Which is weird, as a ripe banana would be anything but tart, but also kinda wonderful. There is a little something green in that pineapple/strawberry top, like under-ripe banana or strawberry stems, a bit of a bitter, rindy type flavor, that lingers a bit, that might get weird with some things, like bakeries and really eggy custards, but seems like it goes well with anything that accents what’s already there.
 
 I love what some people have already done with this flavor and want to try more things.
 
@@ -214,7 +214,7 @@ Still on the subject of Danel, [Safari Zone](https://alltheflavors.com/recipes/1
 
 **TRASH 8** This is either a beyond super-concentrated flavor that requires dilution or it is an absolute dumpster fire. There’s a hazelnut in there somewhere but even at one-quarter of a percent, it also tastes like GASOLINE. WTF, Flavorah?
 
-I gave this another chance at 0.13% and was considerably more vapeable, but still not right. The gasoline disappeared or at least calmed down into something like a green unripe nut skin kind of thing, astringent and weird. The hazelnut is quite recognizable but that off-note on top is off-putting. The base was sweeter than I recalled it being at 0.25% and it had a thick, creamy feel, but it’s at best a raw hazelnut with that nut skin flavor, and it would be difficult to work with if half of a quarter of a percent is the difference between raw hazelnut and raw hazelnut dipped in 87 octane.  
+I gave this another chance at 0.13% and was considerably more vapeable, but still not right. The gasoline disappeared or at least calmed down into something like a green unripe nut skin kind of thing, astringent and weird. The hazelnut is quite recognizable but that off-note on top is off-putting. The base was sweeter than I recalled it being at 0.25% and it had a thick, creamy feel, but it’s at best a raw hazelnut with that nut skin flavor, and it would be difficult to work with if half of a quarter of a percent is the difference between raw hazelnut and raw hazelnut dipped in 87 octane.
 
 **Heat**
 
@@ -227,7 +227,7 @@ And I’ll mix [Old Man Cobb](https://alltheflavors.com/recipes/286197#old_man_c
 **Hibiscus**
 
 Nothing at all like sweet, syrupy CAP Hibiscus. This thing is FLORAL. Lighter and brighter than rose and not perfumy, just very in your face fresh flowers flavor. There’s even a little bit of green stem and leaves in there. Also very dry. I can do without all that. **TRASH 9**
-  
+
 **Honey Bee**
 
 Speaking of floral. FLV Honey Bee is super potent super floral honey. It’s sweet like honey but also very floral. Room note is more honey-like than the actual vape, which just punches you in the face with flowers before getting to the darker sweetness underneath. As far as which flower, it kinda tastes honey-suckle-ish, but not exactly honeysuckle. No gross pee notes and I actually enjoyed this flavor, but I feel like the flowery business will limit this. Vapes smooth, feels thick. When diluted to about 0.13%, it loses a little more of the floralness than it loses honey sweetness, so I’m thinking less than a quarter percent is going to be a good starting place for this, but it’s still not going to be very versatile. I’m going to toss it in favor of less floral, more versatile honey flavors. **TRASH 10**
@@ -244,17 +244,17 @@ Eating powdered Horchata mix without adding water first? It’s not actually so 
 
 It’s used in [something I already plan to mix](https://alltheflavors.com/recipes/278386#1312_acab_by_wolfwheeler) and I want to try this [Chalet](https://alltheflavors.com/recipes/287374#chalet_by_t_a_r_a_x) recipe as well. **TASK 43**
 
-When I tried it for the first time, I wanted  to see what happens if I mix it with one of the more realistic plain graham cracker flavors and see if I get a cinnamon graham cracker  like CAP Graham Cracker but with a better, richer bakery cinnamon. So I’ll give that a go now.
+When I tried it for the first time, I wanted to see what happens if I mix it with one of the more realistic plain graham cracker flavors and see if I get a cinnamon graham cracker like CAP Graham Cracker but with a better, richer bakery cinnamon. So I’ll give that a go now.
 
 Cinna Graham Experiment, V1 **TASK 44**
 
-Flavor | Co. | %
----|---|----
-FLV| Horchata| 1
-FW | Graham Cracker | 3
-VT | Honeycomb | 1
+| Flavor | Co.            | %   |
+| ------ | -------------- | --- |
+| FLV    | Horchata       | 1   |
+| FW     | Graham Cracker | 3   |
+| VT     | Honeycomb      | 1   |
 
-*Graham Cracker and Horchata looked lonely and my gut told me VT Honeycomb would be a tasty edition. Call it an attempt at a “gourmet” cinnamon graham cracker. If you’ve got a better idea for something different to mix with FW Graham Cracker and FLV Horchata to make it more interesting and tasty without throwing it too far off the profile of “just a cinnamon graham cracker” I would love to hear it and will very likely mix it instead of, or alongside, this one.*
+_Graham Cracker and Horchata looked lonely and my gut told me VT Honeycomb would be a tasty edition. Call it an attempt at a “gourmet” cinnamon graham cracker. If you’ve got a better idea for something different to mix with FW Graham Cracker and FLV Horchata to make it more interesting and tasty without throwing it too far off the profile of “just a cinnamon graham cracker” I would love to hear it and will very likely mix it instead of, or alongside, this one._
 
 **Ice**
 
@@ -272,13 +272,13 @@ I wish there were more recipes using FLV Irish Cream so fuck it, I’ll try to m
 
 Cappuccino Chocolate Chunk Ice Cream, V1 **TASK 47**
 
-Co.| Flavor | %
----|---|----
-FLV| Irish Cream | 1.25
-SSA | Ice Cream Vanilla | 2.5
-WF | Chocolate Chunks | 1
-CAP | Super Sweet | 0.25
-FA | Almond | 0.5
+| Co. | Flavor            | %    |
+| --- | ----------------- | ---- |
+| FLV | Irish Cream       | 1.25 |
+| SSA | Ice Cream Vanilla | 2.5  |
+| WF  | Chocolate Chunks  | 1    |
+| CAP | Super Sweet       | 0.25 |
+| FA  | Almond            | 0.5  |
 
 Don’t ask me why the little touch of FA Almond, I can’t explain it, but my instinct is telling me that is what’s gonna tie it all together.
 

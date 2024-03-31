@@ -9,7 +9,7 @@ Starting flavor count: 2,772 (down from 2,975 originally)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-# Capella
+## Capella
 
 **Blueberry Jam**
 
@@ -17,7 +17,7 @@ Update: I tried [Le Croissant Mytrille and Citron](https://alltheflavors.com/rec
 
 I also made [Bang-a-Meringue](https://alltheflavors.com/recipes/43714) to that same end. I thought it tasted good and did what it was supposed to do, but the best part of it was drowned in blueberry. Worth noting that my thoughts of this might be impacted by some lingering blueberry fatigue from all the blueberry things I tried near the end of my time on Noted. But the bottom line is that I tried two of the best-looking recipes I could find that used CAP Blueberry Jam and was not impressed enough to keep it around. **TRASH 1**
 
-# DIY Flavor Shack
+## DIY Flavor Shack
 
 **Angel Food Cake**
 
@@ -41,16 +41,16 @@ There’s a recipe on ATF, [BIG RED’S BLUEBERRY FLAPJACKS](https://alltheflavo
 
 BB (Pan)cakes V1 **TASK 3**
 
-Co. | Flavor | %
----|---|----
-DFS | Blueberry Muffin | 4.5
-VT | Bilberry Ripe | 1.5
-CAP | Cake Batter | 1.5
-VT | Golden Syrup | 1
-FA | Custard Premium | 1
-WF | Angel Cake | 1
+| Co. | Flavor           | %   |
+| --- | ---------------- | --- |
+| DFS | Blueberry Muffin | 4.5 |
+| VT  | Bilberry Ripe    | 1.5 |
+| CAP | Cake Batter      | 1.5 |
+| VT  | Golden Syrup     | 1   |
+| FA  | Custard Premium  | 1   |
+| WF  | Angel Cake       | 1   |
 
-That should do it!  
+That should do it!
 
 **Cafe Coffee**
 
@@ -58,13 +58,13 @@ I think they discontinued this and never replaced it. Which really, really sucks
 
 **Cafe Napoleon**
 
-This one got V2’ed and that is a huge shame. It was in my top five out of like 40 coffees. Yeah, this is not going to be one I just throw away because I can’t get more. It’s more like a “use it til every last drop is gone and then break out the sackcloth and ashes” flavor.  Tastes like a fresh cup of medium roast coffee very very overloaded with something like International Delight caramel-flavored coffee creamer. Coffee note is just plain no-frills coffee in the top notes, nothing anything off about it. Cream is not as heavy as real cream, kind of has that coffee creamer thing going on, not especially milky either, just flat cream that’s heavily infused with caramel flavor, and lots and lots of that cream. Coffee comes back in the finish as just an accurately bitter coffee taste, then there’s a lingering sweet caramel flavor. Other than needing some more coffee to be better balanced into something any normal human would actually drink, I can’t find anything wrong with this or think of any reason not to use it anywhere where you want coffee, cream, and caramel.
+This one got V2’ed and that is a huge shame. It was in my top five out of like 40 coffees. Yeah, this is not going to be one I just throw away because I can’t get more. It’s more like a “use it til every last drop is gone and then break out the sackcloth and ashes” flavor. Tastes like a fresh cup of medium roast coffee very very overloaded with something like International Delight caramel-flavored coffee creamer. Coffee note is just plain no-frills coffee in the top notes, nothing anything off about it. Cream is not as heavy as real cream, kind of has that coffee creamer thing going on, not especially milky either, just flat cream that’s heavily infused with caramel flavor, and lots and lots of that cream. Coffee comes back in the finish as just an accurately bitter coffee taste, then there’s a lingering sweet caramel flavor. Other than needing some more coffee to be better balanced into something any normal human would actually drink, I can’t find anything wrong with this or think of any reason not to use it anywhere where you want coffee, cream, and caramel.
 
 Well, let’s get to using it up, then.
 
 [Holy Grail RY4](https://alltheflavors.com/recipes/30652#holy_grail_ry4_by_dodgerfog33). This might have been the formula for the original Holy Holy Grail RY4, but few would ever know because the original Cafe Napoleon is no more. But, I still have some, so I’m about to be one of the few. **TASK 4**
 
-[Gods Nectar](https://alltheflavors.com/recipes/42138#gods_nectar_by_dodgerfog33). I’m pretty sure Cafe Napoleon *was* a major part of the original Holy Holy Grail RY4. I just want to hold on to that magic as long as I can. **TASK 5**
+[Gods Nectar](https://alltheflavors.com/recipes/42138#gods_nectar_by_dodgerfog33). I’m pretty sure Cafe Napoleon _was_ a major part of the original Holy Holy Grail RY4. I just want to hold on to that magic as long as I can. **TASK 5**
 
 [Morning Glory](https://alltheflavors.com/recipes/84671#morning_glory_by_ruderudi). Some of this guy’s recipes look really good and this one is definitely one of those. **TASK 6**
 
@@ -72,7 +72,7 @@ Well, let’s get to using it up, then.
 
 **Choco Milkshake**
 
-Have not tried, but apparently they no longer offer this, so I’m just going to **TRASH 3** it.  
+Have not tried, but apparently they no longer offer this, so I’m just going to **TRASH 3** it.
 
 **Coconut Pound Cake**
 
@@ -138,19 +138,19 @@ But, it tastes like burnt, weird buttery vanilla bakery. It tastes like you trie
 
 **Red Passionfruit**
 
-Dirty tropical hairspray at 2%. Pure hairspray inhale, I wanted to spit it  out but of course it’s vapor so there’s not really anything to spit. Exhale has some earthy, musky tropical fruit notes along with the hairspray, but I couldn’t tell you whether it’s passionfruit, guava, mango, it’s just like this vaguely tropical ripe fruit aroma added to hairspray. Could be over-flavoring making it taste like hairspray but the underlying vagueness does not make me feel motivated to dilute and try again. **TRASH 13**  
+Dirty tropical hairspray at 2%. Pure hairspray inhale, I wanted to spit it out but of course it’s vapor so there’s not really anything to spit. Exhale has some earthy, musky tropical fruit notes along with the hairspray, but I couldn’t tell you whether it’s passionfruit, guava, mango, it’s just like this vaguely tropical ripe fruit aroma added to hairspray. Could be over-flavoring making it taste like hairspray but the underlying vagueness does not make me feel motivated to dilute and try again. **TRASH 13**
 
 **Yellow Mango**
 
 It is not good at all. Cleaning product off note on a dry, sort of dirty or dusty mango flavor that otherwise tastes a bit like a Mango La Croix. Combination of chemical and dirty notes, yum! **TRASH 14**
 
-# DuoMei
+## DuoMei
 
 I only have a few of these in very small bottles and it’s too much of a pain to obtain more, so it won’t be long before they’re all in the trash. But will I throw out mostly full bottles now or empty bottles later? That depends on the flavor.
 
 **Luzon Mango**
 
-I just threw away Reka Sexy mango for tasting like this last week. This tastes so much like Sexy Mango that I think Recka might just be some guys in a basement in Malaysia taking DouMei concentrates, diluting them down, and adding sucralose and WS-23 to them. So yeah, rancidly overripe mango, but it’s a little less gross to me without the added sweetener that Sexy Mango has. Again, this could be some people’s favorite mango, but I think it’s disgusting.  **TRASH 15**
+I just threw away Reka Sexy mango for tasting like this last week. This tastes so much like Sexy Mango that I think Recka might just be some guys in a basement in Malaysia taking DouMei concentrates, diluting them down, and adding sucralose and WS-23 to them. So yeah, rancidly overripe mango, but it’s a little less gross to me without the added sweetener that Sexy Mango has. Again, this could be some people’s favorite mango, but I think it’s disgusting. **TRASH 15**
 
 **Mochi**
 
@@ -160,8 +160,8 @@ It does taste like mochi, not a plain neutral mochi base, which would be a lot c
 
 Difficult to source, not a great passion fruit, not barely a mango at all. Need to say more? **TRASH 17**
 
-Okish passionfruit, a little more musky earthy side and not nearly as tart and acidic as it should be, smells like passionfruit in the bottle but doesn’t vape as tart and acidic as passionfruit should be. At the same time, nowhere near as sweet as you’d expect if it were supposed to be something like a passionfruit syrup. Even bigger problem is it having mango in the name and I’m not really finding the mango in here aside from a little more funk in the finish than a passionfruit should have and a bit of a peachy aftertaste.  
-  
+Okish passionfruit, a little more musky earthy side and not nearly as tart and acidic as it should be, smells like passionfruit in the bottle but doesn’t vape as tart and acidic as passionfruit should be. At the same time, nowhere near as sweet as you’d expect if it were supposed to be something like a passionfruit syrup. Even bigger problem is it having mango in the name and I’m not really finding the mango in here aside from a little more funk in the finish than a passionfruit should have and a bit of a peachy aftertaste.
+
 **Paw Paw**
 
 Tastes almost identical to VT Paw Paw, but many times more potent. Same underripe cantaloupe kinda floral top note, same creamy banana like feel with some banana taste. Main difference is this is both sweeter and a little more funky and ripe, and a little less floral. It makes it a little more mango-y. If it were easier to obtain than VT Paw Paw I’d buy it instead, both for the slight differences and for the potency, but because it’s so similar I’m not sure it’s worth the effort to track it down. I’ll just stick to VT if I want to vape Paw Paw flavor. **TRASH 18**
@@ -176,39 +176,39 @@ Super tasty. Tastes somewhere between an actual mango and peach nectar. Bright, 
 
 Mangummy V1 **TASK 16**
 
-Co. | Flavor | %
----|---|----
-DouMei| Philippine Mango| 0.5
-TFA | Banana Cream | 1
-WF | Frog Gummy | 3.5
-CAP | Super Sweet | 0.25
+| Co.    | Flavor           | %    |
+| ------ | ---------------- | ---- |
+| DouMei | Philippine Mango | 0.5  |
+| TFA    | Banana Cream     | 1    |
+| WF     | Frog Gummy       | 3.5  |
+| CAP    | Super Sweet      | 0.25 |
 
 Mangorita Candy V1 **TASK 17**
 
-Co. | Flavor | %
----|---|----
-DouMei| Philippine Mango| 0.5
-WF | Margarita Candy | 3
-FLV | Tequila Agave | 1
-CAP | Super Sweet | 0.25
+| Co.    | Flavor           | %    |
+| ------ | ---------------- | ---- |
+| DouMei | Philippine Mango | 0.5  |
+| WF     | Margarita Candy  | 3    |
+| FLV    | Tequila Agave    | 1    |
+| CAP    | Super Sweet      | 0.25 |
 
 0.5% is full flavored for DouMei Philippine Mango.
 
 **Yellow Mango**
 
-Pretty sure this is the best single-flavor mango I have ever tried. Makes me want to stop mixing and just vape this all day because it’s literally perfect. Bright and really sweet, yet with a little musky funky ripeness at the same time, without going overboard into overripe. Really comes the closest to a full-on, full flavored, super-natural, perfectly ripe Champagne Mango as I’ve tasted. Comes across as thick, almost chewy, sweet, and sticky.  You can almost see the gnats landing on it - when these extra sweet hyper-flavored mangoes are ripe they really attract gnats. Once again, I can mix different mangoes together and with other flavors and make my own mango goodness just fine without it. I’ll be ok when it’s gone, but it would be nuts to toss it while there’s still some left.
+Pretty sure this is the best single-flavor mango I have ever tried. Makes me want to stop mixing and just vape this all day because it’s literally perfect. Bright and really sweet, yet with a little musky funky ripeness at the same time, without going overboard into overripe. Really comes the closest to a full-on, full flavored, super-natural, perfectly ripe Champagne Mango as I’ve tasted. Comes across as thick, almost chewy, sweet, and sticky. You can almost see the gnats landing on it - when these extra sweet hyper-flavored mangoes are ripe they really attract gnats. Once again, I can mix different mangoes together and with other flavors and make my own mango goodness just fine without it. I’ll be ok when it’s gone, but it would be nuts to toss it while there’s still some left.
 
 Do Me Mango V1 **TASK 18**
 
-Co. | Flavor | %
----|---|----
-DouMei| Yellow Mango| 0.6
-TFA | French Vanilla Deluxe | 2.25
-WF | Cotton Candy Jelly Bean | 0.75
+| Co.    | Flavor                  | %    |
+| ------ | ----------------------- | ---- |
+| DouMei | Yellow Mango            | 0.6  |
+| TFA    | French Vanilla Deluxe   | 2.25 |
+| WF     | Cotton Candy Jelly Bean | 0.75 |
 
 0.5% is full flavored for this mango as well, but I want to try pushing it just a little.
 
-# Eisaromen
+## Eisaromen
 
 Felix sent it to me.
 
@@ -220,12 +220,12 @@ I’m just going to try it with some FA Milk and see what happens.
 
 Choco Milk Experiment V1 **TASK 19**
 
-Co. | Flavor | %
----|---|----
-ASM| Kakoa| 2
-FA | Milk | 2
-TFA | Whipped Cream | 1
-CAP | Super Sweet | 0.13
+| Co. | Flavor        | %    |
+| --- | ------------- | ---- |
+| ASM | Kakoa         | 2    |
+| FA  | Milk          | 2    |
+| TFA | Whipped Cream | 1    |
+| CAP | Super Sweet   | 0.13 |
 
 I’m fairly skeptical about this really working but hopefully with the TFA Whipped Cream in there doing a little emulsification it just might.
 

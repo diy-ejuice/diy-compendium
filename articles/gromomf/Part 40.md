@@ -9,13 +9,15 @@ Starting flavor count: 2,497 (down from 2,972)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-# CAPELLA FROSTING
+## CAPELLA
+
+**Frosting**
 
 Update. I tried to make a cookie with heavy frosting (Like those Lofthouse cookies you can buy at the grocery store) out of CAP Frosting to see if it was worth hanging on to. As a single flavor, it really appealed to my inner child. But after tasting the recipe, I realized that while it did capture that mass-produced sugar bomb frosting that kids love pretty well, the recipe would have simply tasted better to me if I’d just used WF or VT buttercream frostings, or OoO Vanilla Frosting, or FLV frosting. Or even OoO Vanilla Custard Cheesecake, which makes a damn good cream cheese icing. I guess this is growing up. **TRASH 1**
 
-I had hoped to push out multiple updates this week (8 recipes are mixed and steeped and just waiting for me to try them). But, another little temporary side project (more on that at a later date, perhaps) has kept my wicks wet all week.  
+I had hoped to push out multiple updates this week (8 recipes are mixed and steeped and just waiting for me to try them). But, another little temporary side project (more on that at a later date, perhaps) has kept my wicks wet all week.
 
-# FLAVOUR ART
+## FLAVOUR ART
 
 **Bavarian Cream**
 
@@ -29,7 +31,7 @@ It kinda tastes like flat Bud Light after it has been sitting out overnight, but
 
 **Bell Pepper**
 
-This flavor 100% tastes like bell pepper. It’s also ridiculously potent - I think a few drops would be enough to make an Olympic sized swimming pool taste like bell pepper. And it lingers, terribly. All over the room for days, and I thought I might have to throw away an RDA (but was eventually able to get the aroma out after multiple tries). I don’t know why I haven’t already disposed of this, other than flavor hoarding is a real sickness.  **TRASH 3**
+This flavor 100% tastes like bell pepper. It’s also ridiculously potent - I think a few drops would be enough to make an Olympic sized swimming pool taste like bell pepper. And it lingers, terribly. All over the room for days, and I thought I might have to throw away an RDA (but was eventually able to get the aroma out after multiple tries). I don’t know why I haven’t already disposed of this, other than flavor hoarding is a real sickness. **TRASH 3**
 
 **Bergamot**
 
@@ -38,12 +40,12 @@ Very strong. Bittersweet, fragrant, floral, green, a little spicy, orange rindy.
 I already have [Shameless](https://alltheflavors.com/recipes/12733#shameless_another_fruit_cereal_by_jbird) and [A Real Orange Juice](https://alltheflavors.com/recipes/157915#a_real_orange_juice_finally_by_motherpunker) on my to-try list.
 
 I’m really interested in an aspect of this [Nightsicle](https://alltheflavors.com/recipes/200954#nightsicle_by_rug_ly) recipe - using Bergamot to enhance a lime, but I can’t do TFA VBIC or even the LB VIC suggested as a sub, so I’m going to mix it with my [1-2-3 VIC](https://alltheflavors.com/recipes/215957#1_2_3_vic_by_id10_t) as a substitute for the 3% TFA VBIC. **TASK 2**
-  
+
 **Bilberry**
 
-FA Bilberry  is often used to add a level of natural-ness or fullness to more artificial blueberries and make them more well-rounded and realistic. It is a thick, full-bodied natural blueberry. FA Bilberry gets pretty gnarly over 1% or so with this sweaty sock off-note thing it has going on. On the other hand, it can be made to work higher. See [Blue Eyes White Dragon](https://alltheflavors.com/recipes/124392#blue_eyes_white_dragon_by_foment_life). Terrific recipe, has FA Bilberry at a whopping 2.7% and doesn’t taste at all like socks to me, I think there’s some magic going on there with the peaches and INW Dragon Fruit. **TASK 3**
+FA Bilberry is often used to add a level of natural-ness or fullness to more artificial blueberries and make them more well-rounded and realistic. It is a thick, full-bodied natural blueberry. FA Bilberry gets pretty gnarly over 1% or so with this sweaty sock off-note thing it has going on. On the other hand, it can be made to work higher. See [Blue Eyes White Dragon](https://alltheflavors.com/recipes/124392#blue_eyes_white_dragon_by_foment_life). Terrific recipe, has FA Bilberry at a whopping 2.7% and doesn’t taste at all like socks to me, I think there’s some magic going on there with the peaches and INW Dragon Fruit. **TASK 3**
 
-I need FA Bilberry for the aforementioned, but most of the time I think a similar flavor - Jungle Flavors Blueberry - would be an improvement over FA Bilberry (at about twice the concentration).  
+I need FA Bilberry for the aforementioned, but most of the time I think a similar flavor - Jungle Flavors Blueberry - would be an improvement over FA Bilberry (at about twice the concentration).
 
 It gets used in several recipes I’m already planning to mix. Even though [Black N Blue Suckle](https://alltheflavors.com/recipes/9437#black_n_blue_suckle_by_philosaphucker) is more than six years old, it looks terrific to me and I can’t wait to try it. **TASK 4**
 
@@ -59,7 +61,7 @@ I screwed up twice but the second screw up canceled out the first. First, I plan
 
 **Black Cherry**
 
-Tastes like black cherry soda syrup with some cough medicine and a little hint of that awful new vinyl shower curtain off-note. Sweet, but not as sweet as the very-similar-tasting FW Black Cherry. Certainly not the worst cherry flavor out there, but not good enough for me to even bother looking at recipes that use it. **TRASH 4**  
+Tastes like black cherry soda syrup with some cough medicine and a little hint of that awful new vinyl shower curtain off-note. Sweet, but not as sweet as the very-similar-tasting FW Black Cherry. Certainly not the worst cherry flavor out there, but not good enough for me to even bother looking at recipes that use it. **TRASH 4**
 
 **Black Fire**
 
@@ -91,17 +93,17 @@ Very molasses-y, warm, spicy licorice. Licorice is usually made with molasses bu
 
 Already planning to mix Black Drums of War, Licorice Berry Much, Shoggoth, Blackstrap, and Black Soda - all recipes that use both CAP Licorice and FA Black Touch.
 
-I also need it for one of my favorite recipes, [Black Custard](https://alltheflavors.com/recipes/158168#black_custard_by_staybert). Licorice custard? WTF. I couldn’t resist trying this weird little 1-2-3 recipe. I really don’t get licorice from it. It’s a very sweet custard (man, that FA Marshmallow really goes well with that FA Custard Premium, should see those paired more often). The Black Touch just kind of melts into it and leaves it a dark, mysterious spice note and molasses sweetness. I love it. I also think this is a perfect recipe for people who don’t know why they own FA Black Touch because they don’t even like licorice.  **TASK 12**
+I also need it for one of my favorite recipes, [Black Custard](https://alltheflavors.com/recipes/158168#black_custard_by_staybert). Licorice custard? WTF. I couldn’t resist trying this weird little 1-2-3 recipe. I really don’t get licorice from it. It’s a very sweet custard (man, that FA Marshmallow really goes well with that FA Custard Premium, should see those paired more often). The Black Touch just kind of melts into it and leaves it a dark, mysterious spice note and molasses sweetness. I love it. I also think this is a perfect recipe for people who don’t know why they own FA Black Touch because they don’t even like licorice. **TASK 12**
 
 **Blackberry**
 
-Super **TRASH 6**! Completely unvapeable. I think Concrete’s video that shows him burning a bottle of it with a torch should be required viewing for anyone thinking about buying this, holy shit it’s bad. It tastes like perfume like grandma would wear, also harsh and just nasty. More of a chemical weapon than a flavor.  
+Super **TRASH 6**! Completely unvapeable. I think Concrete’s video that shows him burning a bottle of it with a torch should be required viewing for anyone thinking about buying this, holy shit it’s bad. It tastes like perfume like grandma would wear, also harsh and just nasty. More of a chemical weapon than a flavor.
 
 **Blackcurrant**
 
-It tastes like dark sweet grape, mostly, mixed with some bright tart raspberry-ish flavor on top, and a bit of funky ripeness to it . Maybe slightly on the dry side of things, but nothing that seems like a terrible off note to me, and not thin, has a good volume of syrupy candy body. Seems too syrupy to be super accurate, more of a really interesting candy flavor, like a partially chewed gummy candy. Can come across “jammy” in a mix. I see it used in a lot of different fruit mixes to add tarter top notes and darker sweet depth and that seems about right. Mix with blueberries, blackberries, raspberries, all kinds of stuff. Backup cherries with it, maybe. Probably the most useful blackcurrant flavor, if not the most delicious or interesting.  
+It tastes like dark sweet grape, mostly, mixed with some bright tart raspberry-ish flavor on top, and a bit of funky ripeness to it . Maybe slightly on the dry side of things, but nothing that seems like a terrible off note to me, and not thin, has a good volume of syrupy candy body. Seems too syrupy to be super accurate, more of a really interesting candy flavor, like a partially chewed gummy candy. Can come across “jammy” in a mix. I see it used in a lot of different fruit mixes to add tarter top notes and darker sweet depth and that seems about right. Mix with blueberries, blackberries, raspberries, all kinds of stuff. Backup cherries with it, maybe. Probably the most useful blackcurrant flavor, if not the most delicious or interesting.
 
-It’s a couple of my of my new favorite recipes: [French Mornings](https://alltheflavors.com/recipes/145323#french_mornings_by_kittybit)  and [Deez Dragon Nuts](https://alltheflavors.com/recipes/261981#deez_dragon_nuts_by_mixnjuice)  It’s also in at least a dozen things I already plan to try, including one that’s already mixed and just waiting for me to get around to trying it.
+It’s a couple of my of my new favorite recipes: [French Mornings](https://alltheflavors.com/recipes/145323#french_mornings_by_kittybit) and [Deez Dragon Nuts](https://alltheflavors.com/recipes/261981#deez_dragon_nuts_by_mixnjuice) It’s also in at least a dozen things I already plan to try, including one that’s already mixed and just waiting for me to get around to trying it.
 
 But wait there’s more.
 
@@ -115,7 +117,7 @@ But wait there’s more.
 
 **Blood Orange**
 
-Seems like a solid option for a tasty natural not candy but plenty sweet blood orange type citrus, but I feel like I’m getting something between a blood orange and a tangerine that actually leans a little closer to tangerine than blood orange, though there is a hint of red sort of lurking in there.  Mild hint of zest on top and lingering, medium body/base that can pass for fruit flesh, not really juicy, maybe juicy for FA in general but not juicy juicy. Throat hit mild for a citrus, so moderate overall.
+Seems like a solid option for a tasty natural not candy but plenty sweet blood orange type citrus, but I feel like I’m getting something between a blood orange and a tangerine that actually leans a little closer to tangerine than blood orange, though there is a hint of red sort of lurking in there. Mild hint of zest on top and lingering, medium body/base that can pass for fruit flesh, not really juicy, maybe juicy for FA in general but not juicy juicy. Throat hit mild for a citrus, so moderate overall.
 
 I need it for [All Day](https://alltheflavors.com/recipes/78350#all_day_by_maxsavage), Deez Dragon Nuts, and [1-2-3 Coco Sang](https://alltheflavors.com/recipes/137033#1_2_3_coco_sang_by_nikosd). **TASK 17** for mixing Coco Sang, haven’t had that in a long time.
 
@@ -143,7 +145,7 @@ It tastes like puppies. No bread, just puppies. Not dogs, distinctly puppies. Li
 
 **Breakfast Cereals**
 
-I’m aware that not everyone agrees, and maybe I’m broken, but I get mostly coconut cereal. It’s not gross to me, but it is very strange. Dry toasted honey oat cereal with a bunch of coconut flakes, or in coconut milk, maybe. It’s not unpleasant at all but not something I generally look for in a cereal. However, I think if you’re mixing a cereal with milk, that coconut might disappear into the milk or cream flavor. There might be a bit of corn flake in there as well but I get more oat and coconut than corn or wheat flakes. There’s a bit of malt and some sweetness that tastes kinda like honey, more like baked-in honey rather than an added-on honey. FA Description is very weird.  Flavourart calls this "the flavour of chocolate milk combined with red fruits and hazelnuts."  I am getting literally none of that at 2% or 3%. I had to push it to 5% to get anything like chocolate or nuts out of it at all, at that point it starts to taste like a little bit of Nutella mixed with toasted coconut honey oat cereal. The “red fruits” thing never made any kind of appearance at all.
+I’m aware that not everyone agrees, and maybe I’m broken, but I get mostly coconut cereal. It’s not gross to me, but it is very strange. Dry toasted honey oat cereal with a bunch of coconut flakes, or in coconut milk, maybe. It’s not unpleasant at all but not something I generally look for in a cereal. However, I think if you’re mixing a cereal with milk, that coconut might disappear into the milk or cream flavor. There might be a bit of corn flake in there as well but I get more oat and coconut than corn or wheat flakes. There’s a bit of malt and some sweetness that tastes kinda like honey, more like baked-in honey rather than an added-on honey. FA Description is very weird. Flavourart calls this "the flavour of chocolate milk combined with red fruits and hazelnuts." I am getting literally none of that at 2% or 3%. I had to push it to 5% to get anything like chocolate or nuts out of it at all, at that point it starts to taste like a little bit of Nutella mixed with toasted coconut honey oat cereal. The “red fruits” thing never made any kind of appearance at all.
 
 I’m tempted by [Lemon Cake with Coconut Butter Cream](https://alltheflavors.com/recipes/127968#lemon_cake_with_coconut_butter_cream_diydownundernovemberchallenge_by_joe_roots) and by [Euler - Chocolate Coconut Pie](https://alltheflavors.com/recipes/86249#euler_chocolate_coconut_pie_by_mophead) but also feeling like I’ve been doing such a poor job of getting rid of flavors, I need to push my FOMO down deep and let this one go. **TRASH 8**
 
@@ -175,7 +177,7 @@ I don’t have any favorite recipes that use it, but I probably will after I try
 
 **Jammy/Candy Wizard**
 
-Has a clear jammy sweetness and seems like it might actually work to turn fruits jammy. Very concentrated additive, perfumy at 1%, recommend 0.5% or so only.. Tastes like it has a bunch of maltol in it but isn’t just that. Also has a tart, indistinct, passionfruit juice-like, citrusy aspect with a little juicy, mouthwatering quality. Not sure if it also tastes a little strawberry-like or if I’ve just come to associate that maltol taste with strawberry flavors.  
+Has a clear jammy sweetness and seems like it might actually work to turn fruits jammy. Very concentrated additive, perfumy at 1%, recommend 0.5% or so only.. Tastes like it has a bunch of maltol in it but isn’t just that. Also has a tart, indistinct, passionfruit juice-like, citrusy aspect with a little juicy, mouthwatering quality. Not sure if it also tastes a little strawberry-like or if I’ve just come to associate that maltol taste with strawberry flavors.
 
 Couple of things I want to try that use it: [Laces Out](https://alltheflavors.com/recipes/246751#laces_out_by_sensory_overload) strawberry red laces, to see if it tops [LIc Her..Ish](https://alltheflavors.com/recipes/69073#lic_her_ish_by_digitaldrops) as my favorite red licorice recipe. **TASK 29**
 
@@ -183,7 +185,7 @@ And [Berry Gummies](https://alltheflavors.com/recipes/221257#berry_gummies_by_88
 
 **Cantaloupe**
 
-Super authentic under ripe cantaloupe - kind of rindy - stacked on top of a sweet, thick melon ring candy. Overall effect of this is not exactly unpleasant, but is kinda weird. It tastes like if that under ripe flavor can be covered up, the base would go really well in lots of melony places, especially candy.  
+Super authentic under ripe cantaloupe - kind of rindy - stacked on top of a sweet, thick melon ring candy. Overall effect of this is not exactly unpleasant, but is kinda weird. It tastes like if that under ripe flavor can be covered up, the base would go really well in lots of melony places, especially candy.
 
 [Mango Melon Chew](https://alltheflavors.com/recipes/97864#mango_melon_chew_mixin_vixens_juicefairy_mix_by_juicefairy) is a great recipe that uses it at 1% and just barely misses the mark for me to count it as something I just have to mix again. I’m already planning to try [Stuck on an Island](https://alltheflavors.com/recipes/229837#stuck_on_an_island_by_yourmainmatt) that uses it at 0.5%, but mostly mixing that for the interesting Wild Melon/Coconut pairing. Speaking of Wild Melon, I’ll give this [Melon Mania II](https://alltheflavors.com/recipes/242358#melon_mania_ii_by_cam9535) recipe a try as well. It’s got a very nice-looking combination of ingredients there along with with the Wild Melon and a little bit of FA Melon Cantaloupe -- FA Indian Mango, TFA Papaya, INW Prickly Pear. **TASK 31**
 

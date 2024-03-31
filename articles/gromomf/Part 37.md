@@ -9,22 +9,22 @@ Starting flavor count: 2,548 (down from 2,972)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-# FLAVORAH
+## FLAVORAH
 
 **Tangerine**
 
-Lemony tangerine that tastes a lot like Tang, but not quite as much like Tang as VT Orange Tang. Rather than going full Tang with with the artificiality, there’s some depth and earthiness in the bottom notes and some more natural tangy lemon juice notes up higher. I enjoy the flavor, but the overall effect is kind of odd, like orange powder drink mix with added natural tangerine and lemon juices, and that’s just a strange thing to do. Typical citrus TH.  Not a bad flavor, but there’s nothing I want to make with it, so it can go. **TRASH 1**
+Lemony tangerine that tastes a lot like Tang, but not quite as much like Tang as VT Orange Tang. Rather than going full Tang with with the artificiality, there’s some depth and earthiness in the bottom notes and some more natural tangy lemon juice notes up higher. I enjoy the flavor, but the overall effect is kind of odd, like orange powder drink mix with added natural tangerine and lemon juices, and that’s just a strange thing to do. Typical citrus TH. Not a bad flavor, but there’s nothing I want to make with it, so it can go. **TRASH 1**
 
 **Tatanka Tobacco**
 
 If you like chewing tobacco, this is the flavor for you. I don’t mind a little of it in a mix, but if you use too much, I think around 1.5%, it really really tastes like Red Man, which is something I can’t deal with because of how sick I got the first time I tried that.
 
-It’s used in a few recipes I already plan to try at 0.75%, 1%, 1.25%, and one I really feel like I’m taking a risk on at 1.5%.  
+It’s used in a few recipes I already plan to try at 0.75%, 1%, 1.25%, and one I really feel like I’m taking a risk on at 1.5%.
 
 I also need it for [Black Forest Bacco](https://alltheflavors.com/recipes/87014#black_forest_bacco_by_shyndo), a tobacco with cherry and chocolate accents. **TASK 1**
 
 And want to try this [Chocomint Bacco](https://alltheflavors.com/recipes/217671#chocomint_bacco_by_tesladelmar) that had me at FLV Creme de Menthe. **TASK 2**
-  
+
 **Tequila Agave**
 
 It does not really bring the booze, but it definitely tastes like tequila otherwise, besides being a little too sweet. So kinda like a very well done tequila candy, sweetened with agave syrup rather and sugar. I wish it did have that warm boozy top note that made it seem truly alcoholic, but I don’t know of a better tequila flavor. I also get a very slight orange-ish citrus off-note from it, but since the main uses for a tequila flavor are going to involve citrus anyway, I’m not mad about that.
@@ -35,11 +35,11 @@ I need to make more [Grapefruit Rose Paloma](https://alltheflavors.com/recipes/1
 
 1-2-3 Mango Marg V1 **TASK 3**
 
-Co. | Flavor| %
----|---|----
-FLV| Tequila Agave| 1
-FLV | Ripe Mango | 2
-VT | Persian Lime | 3
+| Co. | Flavor        | %   |
+| --- | ------------- | --- |
+| FLV | Tequila Agave | 1   |
+| FLV | Ripe Mango    | 2   |
+| VT  | Persian Lime  | 3   |
 
 This is just a starting place, I assume it will need a bunch of work to balance and will not end up being a 1-2-3 or even having just three ingredients. I just want to see if these three flavors are going to work and go from there.
 
@@ -51,14 +51,14 @@ I might wind up using it in one of my projects, a papaya chai tea. The current p
 
 The Ashton V2, **TASK 4**
 
-Co. | Flavor | %
----|---|----
-FLV | Thai Chai | 1.5
-TFA | Papaya | 1
+| Co. | Flavor    | %   |
+| --- | --------- | --- |
+| FLV | Thai Chai | 1.5 |
+| TFA | Papaya    | 1   |
 
 **Toffee**
 
-It’s got issues. It kind of tastes like toffee, you get the sweet caramelized sugar and butter, but It tastes really dark, like molasses dark, complete with that acrid edge you get with molasses that’s a little burnt tasting, as well as some fruity sourness  in the middle that toffee probably shouldn’t have, a little dry, a little harsh. It is sweet and full, and it does have more of a sugary feel to it. That dark molasses toffee is a legit type of toffee so if that’s the type of toffee you want, this should do it, but it still probably shouldn’t have that odd fruity sour aspect.
+It’s got issues. It kind of tastes like toffee, you get the sweet caramelized sugar and butter, but It tastes really dark, like molasses dark, complete with that acrid edge you get with molasses that’s a little burnt tasting, as well as some fruity sourness in the middle that toffee probably shouldn’t have, a little dry, a little harsh. It is sweet and full, and it does have more of a sugary feel to it. That dark molasses toffee is a legit type of toffee so if that’s the type of toffee you want, this should do it, but it still probably shouldn’t have that odd fruity sour aspect.
 
 The only reason I’m definitely keeping this is [Pheasant Ridge](https://alltheflavors.com/recipes/64553#pheasant_ridge_by_fear), so I wonder if I couldn’t get rid of it by replacing the FLV Toffee in that recipe with VT English Toffee. I doubt it will work, there’s some magic going on in there that might be thrown off, but it’s worth a shot. **TASK 5**
 
@@ -102,7 +102,7 @@ And [Southern Comfort](https://alltheflavors.com/recipes/175978#southern_comfort
 
 **Vanilla Bean**
 
-Just a spicy, realistic natural vanilla bean top note, no base. I hadn’t thought of a use for this until very recently, when I wanted a touch of vanilla in a tea and didn’t want any kind of creamy anything in the base. It really reminds you that vanilla is a spice. Pretty unfun as a single flavor but seems like it could uplift and enhance just about any other vanilla without messing with the texture or add just a hint of vanilla bean. It’s not a super strong concentrate, there’s not a lot here at 0.75 or 1%, but I’m not sure how high you could take it without things getting weird.  
+Just a spicy, realistic natural vanilla bean top note, no base. I hadn’t thought of a use for this until very recently, when I wanted a touch of vanilla in a tea and didn’t want any kind of creamy anything in the base. It really reminds you that vanilla is a spice. Pretty unfun as a single flavor but seems like it could uplift and enhance just about any other vanilla without messing with the texture or add just a hint of vanilla bean. It’s not a super strong concentrate, there’s not a lot here at 0.75 or 1%, but I’m not sure how high you could take it without things getting weird.
 
 I need it for Kopel’s Ginger Beer, Jazzy Girl’s Vanilla Rose Custard, and a few recipes I already plan to try, including a couple I’m really excited about. This [Sweet White Vanilla Cake](https://alltheflavors.com/recipes/202026#sweet_vanilla_white_cake_by_badag) recipe looks super yummy, too. **TASK 13**
 
@@ -110,7 +110,7 @@ I need it for Kopel’s Ginger Beer, Jazzy Girl’s Vanilla Rose Custard, and a 
 
 It’s super smooth, thick and creamy, with a bright, forward pudding pop vanilla. It’s not really eggy in that I don’t get that warm fresh custard eggyiness from it. It’s more like a rich vanilla ice cream that does have egg in it, but the eggyiness doesn’t come across the way it does in a custard. There’s not a lot of space between this and FLV Vanilla Pudding. The vanilla is perfectly identical. The difference is in the base, but the difference is so minimal that unless I vape them side by side it’s hard to tell which is which. Like if you gave them to me side by side I could correctly identify it, but if you gave me just one of them and told me to pick which one it is, I can’t be sure that I wouldn’t guess wrong. The Vanilla Pudding is a little more jiggly and authentic to a pudding, while the Vanilla Custard is a little more buttery and has some more weight to it, but it’s a very miniscule difference.
 
-Unless I’m able to work out a remix that removes it, I need FLV Vanilla Custard for [Skinny Mint](https://alltheflavors.com/recipes/6997#skinny_mint_by_jbird), and the very recently mentioned Vanilla Rose Custard, and a few things I’m already planning to try.  Adding [Shamrock Cookie](https://alltheflavors.com/recipes/202382#shamrock_cookie_clone_by_denske) to the list, it has some of my favorite flavors in there and is apparently so good it made someone cry. **TASK 14**
+Unless I’m able to work out a remix that removes it, I need FLV Vanilla Custard for [Skinny Mint](https://alltheflavors.com/recipes/6997#skinny_mint_by_jbird), and the very recently mentioned Vanilla Rose Custard, and a few things I’m already planning to try. Adding [Shamrock Cookie](https://alltheflavors.com/recipes/202382#shamrock_cookie_clone_by_denske) to the list, it has some of my favorite flavors in there and is apparently so good it made someone cry. **TASK 14**
 
 **Vanilla Pudding**
 
@@ -145,13 +145,13 @@ Already planned to mix three or four recipes that use it. I didn’t see another
 
 PB Coffee RY4 V1 **TASK 23**
 
-Co.| Flavor | %
----|---|----
-FLV | RY4 | 1.5
-FLV | Vanilla Tobacco | 1.5
-FLV | Red Burley | 0.5
-WF | Roasted Pecans & Cream | 2
-TFA | DX Peanut Butter | 3
+| Co. | Flavor                 | %   |
+| --- | ---------------------- | --- |
+| FLV | RY4                    | 1.5 |
+| FLV | Vanilla Tobacco        | 1.5 |
+| FLV | Red Burley             | 0.5 |
+| WF  | Roasted Pecans & Cream | 2   |
+| TFA | DX Peanut Butter       | 3   |
 
 The goal is a nice balance of vanilla & caramel in a simple RY4 recipe with very distinct notes of peanut butter and coffee. The plan is to have layers of tobacco from the RY4 and Vanilla Tobacco, but neither of them as deep and dark as I want, so little touch of Red Burley to help with that. Like a counterweight, or the yang to their yin. The RY4 has plenty of caramel and the Vanilla Tobacco has plenty of vanilla, hopefully these %s will result in a good balance of the two. The WF Roasted Pecans & Cream is for pulling out more of the coffee note in the RY4. Have you tasted WF Roasted Pecans & Cream? If you have, you probably agree that this should work. Finally, all four of the aforementioned ingredients have varying degrees of vague nuttiness; I think just a little DX PB is all it will take to pull them in a distinctly PB direction.
 
@@ -163,11 +163,11 @@ I have some concern that the result of V1 will be pretty close to what I’m aim
 
 I don’t love this really bright (what can I say, I have a type and it’s not the lighter ones) leafy/grassy tobacco that I get very slight spice-ish and almost-citus notes from, but I do love some of the things it’s been used to create.
 
-Need it for Abuela, Cabin, and Burly Boiz. It’s in a couple of things I’ve already planned to try. Adding one more:  [Bacco No8 - Peach](https://alltheflavors.com/recipes/279684#bacco_no8_peach_by_saspi). I’ve tried a couple or three of peach tobacco recipes by others, even created one once, but this one looks like the best-ever peach tobacco. That combo of SSA Nectarines and WF Peach Pie and Cream, along with the light, middle, and dark tobaccos? Gimme gimme gimme. **TASK 24**
+Need it for Abuela, Cabin, and Burly Boiz. It’s in a couple of things I’ve already planned to try. Adding one more: [Bacco No8 - Peach](https://alltheflavors.com/recipes/279684#bacco_no8_peach_by_saspi). I’ve tried a couple or three of peach tobacco recipes by others, even created one once, but this one looks like the best-ever peach tobacco. That combo of SSA Nectarines and WF Peach Pie and Cream, along with the light, middle, and dark tobaccos? Gimme gimme gimme. **TASK 24**
 
 **Waffle**
 
-**TRASH 5** Not just bad, a serious, what-in-the-actual-fuck level of awfulness. It tastes like mushrooms. Not just a little mushroom off-note, it tastes like a full-on in-your-face mushroom flavor. Nothing waffle-like about it. Something a little woody, like maybe the mushroom grew under a log.  I have no idea how this could have wound up being labeled “Waffle” and sold to people, but the person responsible for that should be ashamed of themselves.  
+**TRASH 5** Not just bad, a serious, what-in-the-actual-fuck level of awfulness. It tastes like mushrooms. Not just a little mushroom off-note, it tastes like a full-on in-your-face mushroom flavor. Nothing waffle-like about it. Something a little woody, like maybe the mushroom grew under a log. I have no idea how this could have wound up being labeled “Waffle” and sold to people, but the person responsible for that should be ashamed of themselves.
 
 **[Redacted]**
 
@@ -175,7 +175,7 @@ I wound up with a pre-release bottle of a Flavorah flavor that never actually go
 
 **Watermelon**
 
-It’s a great natural watermelon flavor but it’s very soft really has some trouble standing out in a mix, it needs some other watermelon or melon to help push it forward if you want a watermelon vape, which generally is going to pull away from the authenticity but it’s that’s sort of the game you play if you want to mix watermelon juice and not have it be full-on candy. You can’t just crank it up in concentration to make it work, it gets perfumey and rindy and just doesn’t work. It’s dense though, with some body to it, kind of fleshy, juicy, and sweet, like a watermelon.  
+It’s a great natural watermelon flavor but it’s very soft really has some trouble standing out in a mix, it needs some other watermelon or melon to help push it forward if you want a watermelon vape, which generally is going to pull away from the authenticity but it’s that’s sort of the game you play if you want to mix watermelon juice and not have it be full-on candy. You can’t just crank it up in concentration to make it work, it gets perfumey and rindy and just doesn’t work. It’s dense though, with some body to it, kind of fleshy, juicy, and sweet, like a watermelon.
 
 I might want to make some more [Watermalone](https://alltheflavors.com/recipes/53215#water_malone_live_mixing_summertime_recipes_by_enyawreklaw) someday, but the main reason for keeping FLV Watermelon in stock is [HoneyMelon Bubble Gum](https://alltheflavors.com/recipes/35898#honeymelon_bubble_gum_by_jbird) **TASK 26** So yummy.
 
@@ -198,10 +198,10 @@ People say it reminds them of FLV Frosting too, but it’s less sweet than Frost
 Although remixes that leaves it out are likely, I currently use this in my [Lucky’s Charms](https://alltheflavors.com/recipes/99041#lucky_s_charms_by_id10_t) and [Holy Peepus](https://alltheflavors.com/recipes/92939#holy_peepus_yearofmixing_by_id10_t) recipes. I’ll get back to work on those remixes **TASK 28** and **TASK 29**
 
 But I also want to try this [Sunburn](https://alltheflavors.com/recipes/266895#sunburn_by_mixnjuice) recipe. It’s a four-ingredient, crustless coconut cream pie. **TASK 30**
-  
+
 **White Chocolate**
 
-Not especially sweet or flavorful on its own, subtle flavor, but full thickness and mouthfeel start to finish, smooth, slightly milky and coco-buttery.Tastes like halfway between real white chocolate and  just some kind of generic thick cream flavor.
+Not especially sweet or flavorful on its own, subtle flavor, but full thickness and mouthfeel start to finish, smooth, slightly milky and coco-buttery.Tastes like halfway between real white chocolate and just some kind of generic thick cream flavor.
 
 I have other white chocolate flavors that I am told will be better but so far this one is my favorite. I usually mix it with FW White Chocolate but have been told I might have better results just by using a much larger amount of FLV White Chocolate than I previously thought would be prudent. For now, I need it for the current versions of my [GTKK 2019](https://alltheflavors.com/recipes/136863#gtkk_2019_by_id10_t) and J’Bird’s [Crazberry Crack](https://alltheflavors.com/recipes/32359#crazberry_crack_by_jbird), and Holy Peepus, at least until a better white chocolate is ID’ed and those are remixed.
 
@@ -215,13 +215,13 @@ Appears (often alongside FLV Watermelon) in several recipes I love and others I 
 
 **Wood Spice**
 
-Really more of a wood flavor than a spice flavor. It pretty much tastes like sandalwood. Not like burning incense, but just like smelling the wood itself. But it fits in a recipe like a spice. Just a thin little top note, not a lot of depth to it. It’s not perfumy at all but seems like it belongs in a men’s cologne. Such a weird niche flavor.  
+Really more of a wood flavor than a spice flavor. It pretty much tastes like sandalwood. Not like burning incense, but just like smelling the wood itself. But it fits in a recipe like a spice. Just a thin little top note, not a lot of depth to it. It’s not perfumy at all but seems like it belongs in a men’s cologne. Such a weird niche flavor.
 
 I need it for The Politician by Chemical Burn Victim and I want to try Kopel’s Hinterlander. [Ron Burgundy RY4](https://alltheflavors.com/recipes/231515#ron_burgundy_ry4_by_rug_ly) looks good, too. **TASK 33**
 
 **Yakima Hops**
 
-One of the best things ever. It’s bitter, but in the best possible way.. I dunno what to tell you, it tastes like hops. Piney, floral, and a little citrusy.  
+One of the best things ever. It’s bitter, but in the best possible way.. I dunno what to tell you, it tastes like hops. Piney, floral, and a little citrusy.
 
 I need it for [Fiestas & Fiascos](https://alltheflavors.com/recipes/14486#fiestas_and_fiascos_by_concreteriver) and [Deer Lodge](https://alltheflavors.com/recipes/90272#deer_lodge_by_concreteriver), both by the great half-walrus half-man Rick the Concrete River, as well as [All Day](https://alltheflavors.com/recipes/78350#all_day_by_maxsavage).
 
@@ -237,12 +237,12 @@ Also, maybe it’s just me, but that yam skin note is begging to be covered or i
 
 Sweet Pobacco V1 **TASK 36**
 
-Co.| Flavor | %
----|---|----
-FLV | Yam | 1.5
-FLV | Pumpkin Spice | 0.75
-FLV | Native Tobacco | 1.5
-FLV | Turkish Tobacco | 1.5
+| Co. | Flavor          | %    |
+| --- | --------------- | ---- |
+| FLV | Yam             | 1.5  |
+| FLV | Pumpkin Spice   | 0.75 |
+| FLV | Native Tobacco  | 1.5  |
+| FLV | Turkish Tobacco | 1.5  |
 
 No doubt I’ll try that and want to add something to it, but it’s a start. If you’re looking at it and already have an idea what it needs, please let me know!
 
