@@ -9,7 +9,7 @@ Starting Flavor Count: 2,208 (down from 2,972)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-#CAPELLA JELLY CANDY
+# CAPELLA JELLY CANDY
 
 Update after mixing six bottles of different juices in search of a use for CAP Jelly Candy. None of them were stellar, but I'm not giving up. I left 3- or 4-star reviews on ATF for the ones by others I tried.
 
@@ -71,7 +71,7 @@ Spicy Icy 2, V2 **TASK 2**
 | FA  | Polar Blast  | 1.25 |
 | BCF | WS-23 (30%)  | 1.75 |
 
-#LORANN'S FLAVORS
+# LORANN'S FLAVORS
 
 **Apricot**
 

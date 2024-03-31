@@ -9,7 +9,7 @@ Starting Flavor Count: 2,197 (down from 2,972)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-#CAPELLA
+# CAPELLA
 
 **Juicy Peach**
 
@@ -23,7 +23,7 @@ Update. I mixed one recipe looking for something to do with CAP Juicy Lemon and 
 
 Update. Tried a handful of recipes looking for more uses for CAP Lemon Lime, and most were in the “good but not great” or “great but not gotta mix again great” range. But one stood out: [Rainforest - Soda Remix](https://alltheflavors.com/recipe/157923-rainforest_soda_remix/reviews). Awesome and a new favorite for me, but do not mix if you don't like the combination of CAP Sweet Guava and INW Cactus. It clearly tastes of both, but also more. And the citrusy and sweet floral accouterments uplift it beautifully. I want to add a little sweetener to it but want to be careful not to mess it up, so I'll try the addition of just 0.25% FW Sweetener when I make it again. **TASK 3**
 
-#LORANN'S FLAVORS
+# LORANN'S FLAVORS
 
 **Grape**
 

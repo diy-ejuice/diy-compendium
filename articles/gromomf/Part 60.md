@@ -9,11 +9,11 @@ Starting Flavor Count: 2,262 (down from 2,972)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-#Capella Italian Lemon Sicily
+# Capella Italian Lemon Sicily
 
 Update. I tried two recipes to see if I needed to hang on to CAP Italian Lemon Sicily. I gave them both five deserved stars, but neither of them is something I feel I need to mix again. One of them, [A Real Orange Juice](https://alltheflavors.com/recipe/157915-a_real_orange_juice_finally) is definitely worth mentioning, though. It's pretty awesome. Not 100% perfect, but it's closer to a glass of fresh-squeezed OJ than I ever thought would be possible in vape form after trying tons of orange flavors. If that interests you, you should check it out. I'm seriously impressed by it, I'm glad it exists and that I had an opportunity to mix and enjoy it, but it's just not something I see myself craving more of. So, CAP Italian Lemon Sicily, goes in the **TRASH 1**
 
-#Jungle Flavors
+# Jungle Flavors
 
 **Dulce de Leche**
 

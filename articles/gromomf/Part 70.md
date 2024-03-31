@@ -25,7 +25,7 @@ I need it because it's in one of my favorite recipes, [Flawed Vacations in Spain
 
 I'll try this simple [Cactiberry Lush](https://alltheflavors.com/recipe/264447-cactiberry_lush) that mixes it with just two other flavors, FW Blackberry and FW Blueberry. **TASK 1**
 
-#MOM & POP VAPOR SHOP
+# MOM & POP VAPOR SHOP
 
 **Calipitter Chow**
 
@@ -43,7 +43,7 @@ Already have a couple of recipes lined up that use it. Here's three more:
 
 Have not tried, will do a 6% sample. **TASK 5**
 
-#NATURE'S FLAVORS
+# NATURE'S FLAVORS
 
 **Black Currant**
 

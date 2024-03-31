@@ -9,7 +9,7 @@ Starting Flavor Count: 2,381 (down from 2,972)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-#HANGSEN
+# HANGSEN
 
 **Raspberry**
 
@@ -71,7 +71,7 @@ Light and bright, like toasted hay. Sweet, but not way out in sweet land, like h
 
 What the fuck. That does not taste anything at all like a watermelon. It tastes like rose candy. I'm so confused. I literally do not taste any watermelon in this at all. None. It kind of tastes like sweetened rosewater. Fucking ridiculous. I mean, it's fine, for rose candy flavor, I guess, but why does it say watermelon on the bottle? Top note is straight up walking through a rose garden and there's a powdery candy base similar to a sweet-tart or American smartie. **TRASH 11**
 
-#Health Cabin
+# Health Cabin
 
 **Avocado**
 

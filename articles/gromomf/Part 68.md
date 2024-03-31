@@ -9,19 +9,19 @@ Starting Flavor Count: 2,158 (down from 2,971)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-#CAPELLA New York Cheesecake
+# CAPELLA New York Cheesecake
 
 Update. Tried two recipes, one of them was very good, 5 stars, but still not quite so good that I feel like I have to keep CAP NY Cheesecake just to be able to have it again. But the other one is a new favorite for sure. [Cheesecake RY4](https://alltheflavors.com/recipe/138894-cheesecake_ry4), can't wait to make some more! **TASK 1**
 
 If you love RY4 and don't mind coconut or don't get coconut off-notes from INW Yes We Cheesecake and/or TFA Cheesecake Graham Crust, this is a must-mix recipe. Holy crap, it's so good! On the other hand, if you're just looking for a great cheesecake recipe, it's probably a pass. The detectable cheesecake flavor is just barely there on the backend, though the richness and thickness of cheesecake is present throughout. It's a weird idea, cheesecake and tobacco, but it works. Oh boy does it work. This is now one of my most favorite RY4 recipes ever. I get, as promised, a “sweet, robust RY4 tobacco slathered in vanilla-laced caramel, backed up by the velvet-smooth cream of cheesecake.” I also get some coconut taste from the cheesecake, but I don't mind that at all, I was in the market for a coconut RY4 now that Chef's RY4 Castle is no more and now I sort-of have one. This could use a bit more coconut for a coconut RY4, but that's not what it's supposed to be.
 
-#MEDICINE FLOWER
+# MEDICINE FLOWER
 
 **Garden Raspberry**
 
 Corrections. In part 67, I said MF has two raspberries. Turns out they actually have at least three. Also, I said my corrected starting flavor count was 2,970. Turns out, it is 2,971, because I found that I have MF Garden Raspberry, which is not the same as MF plain old Raspberry, which I have thrown out, or MF Wild Raspberry, which I'm excited to try. I'll give Garden Raspberry a sample-sized mix at 0.25%. **TASK 2**
 
-#MOLINBERRY
+# MOLINBERRY
 
 **American Bubble Gum**
 

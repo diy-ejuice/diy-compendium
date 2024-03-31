@@ -9,7 +9,7 @@ Starting Flavor Count: 2,267 (down from 2,972)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-#CAP Anise
+# CAP Anise
 
 Update. I said I would get rid of CAP Anise as soon as I finished stealing the profile from a recipe that uses it to make a better recipe. Not there yet. My first attempt at creating “The Ashton” was 5% VSO Chai Tea, 2% WF Papaya, and 1.5% WF Vanilla Cream Extra. After letting it steep for a week, the only things I'm convinced of are that I still want to pursue this and that Vanilla Cream Extra is the right vanilla cream for the job. The Chai spice was too light and the papaya just a little too prominent. It wasn't bad, it just wasn't perfect. I'll try rebalancing it with less Papaya.
 
@@ -33,7 +33,7 @@ The Ashton V3 **TASK 2**
 
 That's called V3 because I had already made a plan to try mixing a V2 several chapters ago, using just FLV Thai Chai and TFA Papaya.
 
-#INAWERA
+# INAWERA
 
 Thought I was done with Inawera but I overlooked a few of these last week.
 
@@ -59,7 +59,7 @@ It's nice and thick and creamy and smooth, but the vanilla runs a bit floral for
 
 I need it for a couple of recipes I'm going to try, here's one more, a pumpkin spice cream cake thing: [Pumpkin Head](https://alltheflavors.com/recipe/292339-inspired_bymwc_pumpkin_head_). **TASK 6**
 
-#Jungle Flavors
+# Jungle Flavors
 
 **Bavarian Cream**
 

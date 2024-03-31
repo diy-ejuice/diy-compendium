@@ -9,7 +9,7 @@ Starting Flavor Count: 2,251 (down from 2,972)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-#Liquid Barn
+# Liquid Barn
 
 **Baked Cinnamon Roll**
 

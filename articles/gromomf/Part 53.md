@@ -9,13 +9,13 @@ Starting Flavor Count: 2,333 (down from 2,972)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-#Heartland Vapes
+# Heartland Vapes
 
 **Vixen**
 
 Now that they have more competition and are no longer mixing house juice to order, things have gone downhill. But back in 2014-2015, when there were only two vape jobs in town instead of at least half a dozen, one place was by far the busiest. You could not go in there any time of day and not have to stand in line, more than half the people in front of you were always all buying the same thing. This weird watermelon-cinnamon juice. Tasted like cinnamon red hots candy and watermelon hard candy at the same time, with too much sweetener and a little weird chemical off note. I didn't care for it, but so many people were hooked on that stuff, it was bizarre. I began to wonder if they put meth in it. I found a better shop before they stopped making it, so I'm not sure if it ended with a bang or a whimper, but some years later I saw Vixen - watermelon-cinnamon flavoring - for sale at Heartland Vapes and got curious enough to order it. I already knew that vape shop sourced their nicotine base from Heartland. Recognized it instantly. Sure enough, the juice that took the town by storm was just Vixen from Heartland Vapes plus Super Sweet. But again, I never liked it. **TRASH 1**
 
-#Herrlan
+# Herrlan
 
 **Chocoshake**
 
@@ -33,7 +33,7 @@ This is sweet ginger potpourri. It was really hard to choke down to the point wh
 
 It's thick and chocolatey but it also tastes like a fart. It's literally the closest thing to something tasting like actual crap that I've ever vaped, usually when I say something tastes like crap I just mean it's bad, but this is poo. Rich creamy chocolate covered scheisse. The more of it I vaped trying to get my wick dry enough to change it, the less it tasted like chocolate covered feces and the more it tasted more like a chocolate covered really musty chocolate covered fruit like a prune, but still. Nasty. **TRASH 5**
 
-#HiLiQ
+# HiLiQ
 
 **Coffee**
 
@@ -47,7 +47,7 @@ Have not tried this, will do a 1.5% sample. **TASK 1**
 
 Does not taste like a lycee. There's a little bit of fruity tartness in there, but it bizarrely tastes like sweetened rosewater . Nothing offensive, just not what I was expecting at all. In the bottle it smells as much like lychee as any of the other lychee flavors, maybe a little more berry-like, when vaped it's a full-bodied rosy floral with just a bit of sweet-tart fruitiness to it. **TRASH 7**
 
-#Inawera
+# Inawera
 
 **555 Gold**
 

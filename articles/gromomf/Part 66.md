@@ -9,7 +9,7 @@ Starting Flavor Count: 2,181 (down from 2,972)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-#CAPELLA Licorice
+# CAPELLA Licorice
 
 Update. I gave CAP Licorice five chances to convince me I needed to keep restocking it. All five recipes were good. One of them stood out as something I definitely want more of: [Black Drums of War](https://alltheflavors.com/recipe/209901-black_drums_of_war). Does exactly what it says it's going to do, and peppermint is such a fantastically refreshing addition to the licorice. **TASK 1**
 
@@ -29,7 +29,7 @@ Shoggoth Berry Much v1 **TASK 2**
 
 That's the 2% CAP Licorice from Shoggoth rather than the 1.5% in Licorice Berry Much and the 2% FA Black Touch from Licorice Berry Much rather than the 1% in Shoggoth. The berry combo is straight from Shoggoth and the add-ons are straight from Licorice Berry Much. Bet that's gonna be amazeballs.
 
-#MAGICAL FLAVOUR
+# MAGICAL FLAVOUR
 
 These flavors aren't even in the ATF database, and based on the ones I've tried, there is a good reason for that. Lots of them are going in the garbage.
 

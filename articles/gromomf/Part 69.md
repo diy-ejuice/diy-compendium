@@ -9,7 +9,7 @@ Starting Flavor Count: 2,148 (down from 2,970)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-#CAPELLA
+# CAPELLA
 
 **Meringue**
 
@@ -37,7 +37,7 @@ I think it could benefit from the mouthfeel powerhouse that is TFA Whipped Cream
 
 Update. I tried one recipe to see if I needed to keep this and while the strawberry layer was the best strawberry cheesecake strawberry layer I've ever tried, the cheesecake part was just a little too cheesy for my taste. Too sour-milk sour, kinda yucky. And I think that is entirely CAP NY Cheesecake V2's fault, so fuck this shit, it's going in the **TRASH 2**
 
-#MOLINBERRY
+# MOLINBERRY
 
 **Dark Blackberry**
 

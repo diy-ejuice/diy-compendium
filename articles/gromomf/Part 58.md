@@ -9,11 +9,11 @@ Starting Flavor Count: 2,287 (down from 2,972)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-#CAP 27 Bears
+# CAP 27 Bears
 
 Update. This was in no danger of being thrown out because I need it to make [Giant Swan](https://alltheflavors.com/recipes/247312#giant_swan_by_concreteriver). But I mixed four recipes looking for another reason to keep it. Three of them got 4 stars. One got 5 but still didn't stand out as a new favorite recipe. So for now at least, it seems there's nothing else for me to do with 27 Bears except mix even more Giant Swan. And that's okay. **TASK 1**
 
-#INAWERA
+# INAWERA
 
 **Pyramid**
 

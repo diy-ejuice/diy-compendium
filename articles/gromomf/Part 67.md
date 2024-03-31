@@ -9,7 +9,7 @@ Starting Flavor Count: 2,165 (down from 2,970)
 
 TASK OR TRASH - Each flavor gets assigned at least one task or it goes in the trash.
 
-#CAPELLA Lemon Meringue Pie
+# CAPELLA Lemon Meringue Pie
 
 Update. My first attempt to create a lemon fried pie using CAP LMP was disappointing. It's insufficiently lemony, and the pie crust part is both too prominent and leaves an overcooked taste in my mouth. Less of a lemon fried pie and more like someone dropped a lemon cookie in a fryer and left it there too long. What I mixed was 2% WF Glazed Donut (for the fried aspect), 0.75% TFA Pie Crust, 5% CAP LMP, 1% FE Lemon. I'll try again using the same ingredients in different proportions and see if I can get closer.
 
@@ -40,7 +40,7 @@ Lemon Moon Pie Attempt V2 **TASK 2**
 
 Trying to boost the lemon with some FE Lemon, dialing back the bakery, adding sweetener, and adding a frosting to the outside that should also make it seem even sweeter overall.
 
-#MEDICINE FLOWER
+# MEDICINE FLOWER
 
 **Acacia Honey**
 
