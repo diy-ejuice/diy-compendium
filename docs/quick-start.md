@@ -77,7 +77,7 @@ Search the following places for information before posting to the subreddit:
 
 > With well over 1,000 reviews and more being added all the time, if you've got your eye on a flavor or have a flavor on hand and want to learn more about how to use it or where to start, chances are it has been reviewed.
 
-### [**Flavor Facts**](https://link.ejoose.org/Facts000)
+### [**Flavor Facts**](https://docs.google.com/spreadsheets/d/1vK6DAdGSZK9V1Wi85C8HWf3wTN75l0Qe8GDCibhVH8w/edit?gid=0#gid=0)
 
 > Started as a companion to the Flavor of the Week, this spreadsheet has grown into an incredible resource for finding information on flavors. If you're seeking information on all the orange flavors, or pear, or mango, etc. this is a great place to start.
 

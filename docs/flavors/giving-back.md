@@ -25,7 +25,7 @@ The recent Flavor Bans have brought a horde of new mixers into the fold and with
 
 - **You don't have to be an _Expert_ to contribute**
 
-If you're unfamiliar with my contribution - I'm the buffoon that volunteered to create [Flavor Facts](https://link.ejoose.org/Facts000). When I started, I had only been mixing my own juice for a few months. Even now my flavor stash barely exceeds 100 flavors - so I am not even in the same zip code as the experts. But it doesn't mean that I can't contribute something. And now, ID10-T actually ask for MY opinion on things (hahaha). I guess he's really trying to earn his status as an **IDIOT**! (hahaha)
+If you're unfamiliar with my contribution - I'm the buffoon that volunteered to create [Flavor Facts](https://docs.google.com/spreadsheets/d/1vK6DAdGSZK9V1Wi85C8HWf3wTN75l0Qe8GDCibhVH8w/edit?gid=0#gid=0). When I started, I had only been mixing my own juice for a few months. Even now my flavor stash barely exceeds 100 flavors - so I am not even in the same zip code as the experts. But it doesn't mean that I can't contribute something. And now, ID10-T actually ask for MY opinion on things (hahaha). I guess he's really trying to earn his status as an **IDIOT**! (hahaha)
 
 The lovely u/GlassChalice468 (aka Dragon Lady) joined the Mixer Showdown after an incredibly short time mixing and helped create [Golden Snozzberry Custard](https://alltheflavors.com/recipes/155578#golden_snozzberry_custard_by_diy_discord) which u/ID10-T nominated for*"Recipe of the Year"*. And considering his track record at picking winners, don't be surprised if it wins.
 
