@@ -5,7 +5,7 @@ title: 'Supplies - Vendor List'
 
 ### NOTE: Vendors are listed alphabetically, not in order of preference
 
-Inclusion on this list is in no way an endorsement, nor an indication of vendor quality. Do your research, check reviews, and ask in the Weekly discussion thread. Vendor review threads will be posted weekly and updated after 6 months. If you see a vendor without a review thread feel free to request it in the [FAQ thread](http://link.ejoose.org/questions) or by [sending a message to the mods](https://www.reddit.com/message/compose/?to=/r/DIY_eJuice).
+Inclusion on this list is in no way an endorsement, nor an indication of vendor quality. Do your research, check reviews, and ask in the Weekly discussion thread. Vendor review threads will be posted weekly and updated after 6 months. If you see a vendor without a review thread feel free to request it on the subreddit or by [sending a message to the mods](https://www.reddit.com/message/compose/?to=/r/DIY_eJuice).
 
 ## General Vendors
 
@@ -52,7 +52,6 @@ Vendors who sell most or all of the things you need to get started in DIY. Below
 |                 [Vapable](https://vapable.com/)                 |    UK    | ✅  |  ✅   |         ✅          |   ✅    |         ✅          | [Link](https://redd.it/bwolag) |
 |            [VapourEyes](https://vapoureyes.com.au/)             |    AU    |     |  ✅   |         ✅          |   ✅    |                     |                                |
 |             [VapourDepot](https://vapourdepot.com/)             |    UK    |     |  ✅   |         ✅          |   ✅    |         ✅          | [Link](https://redd.it/a7g8c8) |
-|              [Wizard Labs](https://wizardlabs.us/)              |    US    |     |  ✅   |         ✅          |   ✅    |         ✅          | [Link](https://redd.it/b5rni6) |
 
 ## Nicotine Suppliers
 
@@ -64,6 +63,7 @@ While some of these vendors sell more than just nicotine, they're either known p
 |         [Central Vapors](https://www.centralvapors.com/)          |    US    |          |    ✅     |               |
 | [Heartland Vapes](https://wholesale.heartlandvapes.com/)[^pickup] |    US    |          |    ✅     |               |
 |         [Kidney Puncher](https://www.kidneypuncher.com/)          |    US    |          |           |               |
+|                  [NicBase](https://nicbase.com/)                  |    US    |  DeLosi  |    ✅     |               |
 |           [Nicotine UK](https://www.nicotineuk.co.uk/)            |    UK    |          |           |               |
 |         [Nicotine Giant](https://www.nicotinegiant.com/)          |    US    |          |    ✅     |               |
 |            [Nicotine Hub](https://nicotinehub.co.uk/)             |    UK    |          |    ✅     |               |
@@ -72,7 +72,6 @@ While some of these vendors sell more than just nicotine, they're either known p
 |             [The Vape Mall](https://thevapemall.com/)             |    US    |          |    ✅     |               |
 |            [VapeCraft Inc](https://vapecraftinc.com/)             |    US    |          |           |               |
 |            [VapourEyes](https://www.vapoureyes.co.nz/)            |    NZ    |          |    ✅     |               |
-|          [Wizard Labs](https://wizardlabs.us/)[^pickup]           |    US    |          |    ✅     |               |
 
 ## Bases (VG/PG/PEG/PDO)
 
@@ -110,7 +109,6 @@ Oneshots are basically recipes in a bottle. Instead of using all the flavors ind
 | :--------------------------------------------------: | :------: | :-----------: | :--------------------: | :------------------------: | :----------------------------: |
 |         [B-X Flavor](https://bxflavor.com/)          |    US    |      ~16      |                        |                            |                                |
 |  [ChefsFlavours](https://www.chefsflavours.co.uk/)   |    UK    |     400+      |           ✅           |             ✅             | [Link](https://redd.it/advlcf) |
-|  [DIY Flavor Chaser](https://link.ejoose.org/diyfc)  |    CA    |      60       |                        |                            | [Link](https://redd.it/fvyvlh) |
 |       [DripHacks](https://www.driphacks.com/)        |    UK    |      44       |           ✅           |                            | [Link](https://redd.it/c57io0) |
 |      [Flavor Jungle](https://flavorjungle.com/)      |    US    |      80+      |                        |                            | [Link](https://redd.it/g92mvm) |
 |      [FlavourBoss](https://flavour-boss.co.uk/)      |    UK    |      60+      |                        |             ✅             |
@@ -119,7 +117,6 @@ Oneshots are basically recipes in a bottle. Instead of using all the flavors ind
 |          [NomNomz](https://nomnomz.co.uk/)           |    UK    |     140+      |           ✅           |             ✅             | [Link](https://redd.it/bzbvre) |
 | [One Stop DIY Shop](https://www.onestopdiyshop.com/) |    US    |      40+      |                        |                            | [Link](https://redd.it/b2x4hz) |
 |   [RainbowVapes](https://www.rainbowvapes.co.uk/)    |    UK    |     725+      |                        |                            | [Link](https://redd.it/ax8ecz) |
-|         [WizardLabs](https://wizardlabs.us/)         |    US    |      27       |                        |                            | [Link](https://redd.it/b5rni6) |
 
 ## Flavor Manufacturers (Direct)
 
@@ -141,7 +138,7 @@ Oneshots are basically recipes in a bottle. Instead of using all the flavors ind
 | [LorAnn](https://www.lorannoils.com/)                                                                           | US       |
 | [Molinberry](https://molinberryflavours.com/)                                                                   | PL       |
 | [One On One Flavors](https://www.oooflavors.com/)                                                               | US       |
-| [Real Tobacco Extract](http://link.ejoose.org/48)                                                               | US       |
+| [Real Tobacco Extract](https://real-tobacco-extract.com/)                                                       | US       |
 | [SolubArome](https://www.solubarome.fr/boutique/)                                                               | FR       |
 | [StixxMixx](https://www.stixxmixx.com/)                                                                         | US       |
 | [The Flavor Apprentice](https://shop.perfumersapprentice.com/c-108-the-flavor-apprentice-world-of-flavors.aspx) | US       |
