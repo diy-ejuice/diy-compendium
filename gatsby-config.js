@@ -105,11 +105,11 @@ module.exports = {
     },
     'gatsby-plugin-image',
     'gatsby-plugin-offline',
-    'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     'gatsby-plugin-sharp',
     'gatsby-plugin-sitemap',
     'gatsby-transformer-json',
+    'gatsby-transformer-yaml',
     'gatsby-transformer-sharp',
     {
       resolve: 'gatsby-transformer-remark',

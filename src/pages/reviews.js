@@ -1,12 +1,19 @@
 import { Fragment } from 'react';
-import { graphql, Link } from 'gatsby';
 import PropTypes from 'prop-types';
+import { graphql, Link } from 'gatsby';
 import { Container, Row, Col, ListGroup, ListGroupItem } from 'react-bootstrap';
 
-import SEO from 'components/seo';
 import NotFoundPage from 'pages/404';
 import Layout from 'components/layout';
 import { getReviewUrl } from 'utils';
+
+export function Head() {
+  return (
+    <Fragment>
+      <title>Flavor Reviews</title>
+    </Fragment>
+  );
+}
 
 export default function ReviewsPage({ data }) {
   if (!data || !data.allReviewsJson) {
@@ -30,7 +37,6 @@ export default function ReviewsPage({ data }) {
 
   return (
     <Layout>
-      <SEO title="Flavor Reviews" />
       <Container>
         <Row>
           <Col md="12">
