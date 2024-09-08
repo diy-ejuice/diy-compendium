@@ -1,0 +1,6 @@
+items:
+  - name: About
+    href: /about
+  - name: Discord
+    href: /hamsauce
+    external: true
