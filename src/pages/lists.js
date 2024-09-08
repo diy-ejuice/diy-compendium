@@ -1,17 +1,37 @@
-import { graphql, Link } from 'gatsby';
+import { Fragment } from 'react';
 import PropTypes from 'prop-types';
+import { graphql, Link } from 'gatsby';
 import { Container, Table } from 'react-bootstrap';
 
-import SEO from 'components/seo';
 import Layout from 'components/layout';
 import { getListUrl } from 'utils';
 
+const dataProps = {
+  data: PropTypes.shape({
+    lists: PropTypes.arrayOf(
+      PropTypes.shape({
+        name: PropTypes.string,
+        code: PropTypes.string,
+        author: PropTypes.string,
+        dateAdded: PropTypes.string
+      })
+    )
+  })
+};
+
+export function Head() {
+  return (
+    <Fragment>
+      <title>Flavor Lists</title>
+    </Fragment>
+  );
+}
+
 export default function Lists({ data }) {
-  const lists = data.allListsJson.edges.map(({ node }) => node);
+  const lists = data?.lists?.nodes;
 
   return (
     <Layout>
-      <SEO title="Flavor Lists" />
       <Container>
         <h1>Flavor Lists</h1>
         <Table striped hover>
@@ -47,20 +67,16 @@ export default function Lists({ data }) {
   );
 }
 
-Lists.propTypes = {
-  data: PropTypes.object.isRequired
-};
+Lists.propTypes = dataProps;
 
 export const pageQuery = graphql`
   query {
-    allListsJson {
-      edges {
-        node {
-          name
-          code
-          author
-          dateAdded
-        }
+    lists: allListsJson {
+      nodes {
+        name
+        code
+        author
+        dateAdded
       }
     }
   }

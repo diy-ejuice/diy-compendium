@@ -1,11 +1,38 @@
+import { Fragment } from 'react';
 import { graphql } from 'gatsby';
 import PropTypes from 'prop-types';
-import { Container, Row, Col } from 'react-bootstrap';
 import ReactMarkdown from 'react-markdown';
+import { Container, Row, Col } from 'react-bootstrap';
 
-import SEO from 'components/seo';
 import NotFoundPage from 'pages/404';
 import Layout from 'components/layout';
+
+const dataProps = {
+  data: PropTypes.shape({
+    reviewsJson: PropTypes.arrayOf(
+      PropTypes.shape({
+        author: PropTypes.string,
+        markdown: PropTypes.string,
+        title: PropTypes.string,
+        vendor: PropTypes.shape({
+          name: PropTypes.string
+        }),
+        url: PropTypes.string
+      })
+    )
+  })
+};
+
+export function Head({ data }) {
+  return (
+    <Fragment>
+      <title>{data?.reviewsJson?.title}</title>
+      {/* `A review of ${name} ${title} by ${author}` */}
+    </Fragment>
+  );
+}
+
+Head.propTypes = dataProps;
 
 export default function ReviewPage({ data }) {
   if (!data || !data.reviewsJson) {
@@ -13,21 +40,11 @@ export default function ReviewPage({ data }) {
   }
 
   const {
-    reviewsJson: {
-      author,
-      markdown,
-      title,
-      vendor: { name },
-      url
-    }
+    reviewsJson: { author, markdown, title, url }
   } = data;
 
   return (
     <Layout>
-      <SEO
-        title={title}
-        description={`A review of ${name} ${title} by ${author}`}
-      />
       <Container>
         <Row>
           <Col>
@@ -58,11 +75,7 @@ export default function ReviewPage({ data }) {
   );
 }
 
-ReviewPage.propTypes = {
-  data: PropTypes.shape({
-    reviewsJson: PropTypes.arrayOf(PropTypes.object)
-  })
-};
+ReviewPage.propTypes = dataProps;
 
 export const pageQuery = graphql`
   query ($title: String!, $code: String!) {

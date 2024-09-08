@@ -1,16 +1,24 @@
+import { Fragment } from 'react';
+import { graphql } from 'gatsby';
+import PropTypes from 'prop-types';
 import {
   faArrowCircleRight,
   faArrowCircleLeft
 } from '@fortawesome/free-solid-svg-icons';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { graphql } from 'gatsby';
 import { GatsbyImage, getImage } from 'gatsby-plugin-image';
-import PropTypes from 'prop-types';
 import { Container, Row, Col, Carousel } from 'react-bootstrap';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
-import SEO from 'components/seo';
 import Layout from 'components/layout';
 import FeaturedPost from 'components/featuredPost';
+
+export function Head() {
+  return (
+    <Fragment>
+      <title>Recent Articles</title>
+    </Fragment>
+  );
+}
 
 export default function IndexPage({ data }) {
   const {
@@ -28,7 +36,6 @@ export default function IndexPage({ data }) {
 
   return (
     <Layout>
-      <SEO title="Recent Articles" />
       <Container>
         <h4 className="display-4">Recent Articles</h4>
         <Row className="justify-content-center">

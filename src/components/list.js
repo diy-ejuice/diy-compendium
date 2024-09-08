@@ -5,7 +5,44 @@ import { Card, Container, Table } from 'react-bootstrap';
 import { ReactCountryFlag } from 'react-country-flag';
 
 import Layout from 'components/layout';
-import SEO from 'components/seo';
+
+const dataProps = {
+  data: PropTypes.shape({
+    list: PropTypes.shape({
+      name: PropTypes.string,
+      description: PropTypes.string,
+      author: PropTypes.string,
+      flavors: PropTypes.arrayOf(
+        PropTypes.shape({
+          vendorCode: PropTypes.string,
+          flavorName: PropTypes.string,
+          atfAverage: PropTypes.number,
+          note: PropTypes.string
+        })
+      )
+    }),
+    vendors: PropTypes.shape({
+      nodes: PropTypes.arrayOf(
+        PropTypes.shape({
+          code: PropTypes.string,
+          country: PropTypes.string,
+          name: PropTypes.string,
+          url: PropTypes.string
+        })
+      )
+    })
+  })
+};
+
+export function Head({ data }) {
+  return (
+    <Fragment>
+      <title>{data?.list?.name}</title>
+    </Fragment>
+  );
+}
+
+Head.propTypes = dataProps;
 
 export default function ListPage({ data }) {
   const vendors = data.vendors.nodes;
@@ -22,7 +59,6 @@ export default function ListPage({ data }) {
 
   return (
     <Layout>
-      <SEO title={name} />
       <Container>
         <h1>{name}</h1>
         <h3>
@@ -99,9 +135,7 @@ export default function ListPage({ data }) {
   );
 }
 
-ListPage.propTypes = {
-  data: PropTypes.object.isRequired
-};
+ListPage.propTypes = dataProps;
 
 export const pageQuery = graphql`
   query ($code: String) {
