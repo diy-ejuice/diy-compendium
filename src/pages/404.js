@@ -1,12 +1,19 @@
+import { Fragment } from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 
-import SEO from 'components/seo';
 import Layout from 'components/layout';
+
+export function Head() {
+  return (
+    <Fragment>
+      <title>Not Found</title>
+    </Fragment>
+  );
+}
 
 export default function NotFoundPage() {
   return (
     <Layout>
-      <SEO title="Not Found" />
       <Container>
         <Row>
           <Col md="12">

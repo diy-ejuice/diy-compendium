@@ -1,22 +1,20 @@
 import { Link } from 'gatsby';
-import classNames from 'classnames';
-import PropTypes from 'prop-types';
 import { Fragment } from 'react';
-import { Container, Navbar, Nav, Button, NavDropdown } from 'react-bootstrap';
-import {
-  faListOl,
-  faHardHat,
-  faClipboardCheck,
-  faWeight,
-  faVial,
-  faBox,
-  faNewspaper
-} from '@fortawesome/free-solid-svg-icons';
+import { Container, Navbar, Nav } from 'react-bootstrap';
+// import {
+//   faListOl,
+//   faHardHat,
+//   faClipboardCheck,
+//   faWeight,
+//   faVial,
+//   faBox,
+//   faNewspaper
+// } from '@fortawesome/free-solid-svg-icons';
 
-import TitleIcon from 'components/titleIcon';
-import { faYoutube } from '@fortawesome/free-brands-svg-icons';
+// import TitleIcon from 'components/titleIcon';
+// import { faYoutube } from '@fortawesome/free-brands-svg-icons';
 
-const menuData = {
+/*const menuData = {
   faq: {
     icon: faListOl,
     title: 'FAQ',
@@ -105,50 +103,20 @@ const menuData = {
       { to: '/supplies/premixed-bases', title: 'Premixed Bases' }
     ]
   }
-};
+};*/
 
-const Search = (props) => {
-  const baseClass = 'dc-search';
-  const classes = classNames(baseClass, [
-    props.mobile ? 'd-lg-none' : 'd-lg-block'
-  ]);
-
-  return <Nav.Item className={classes} />;
-};
-
-Search.propTypes = {
-  mobile: PropTypes.bool
-};
-
-export default function Header({ siteTitle = '' }) {
+export default function Header() {
   return (
     <Fragment>
-      <Navbar variant="light" bg="light" className="d-none d-sm-flex">
-        <Container>
-          <Navbar.Brand className="ms-4">
-            <Link to="/">{siteTitle}</Link>
-          </Navbar.Brand>
-          <Nav className="justify-content-end w-100">
-            <Nav.Link as={Link} to="/quick-start">
-              <Button variant="secondary">Quick Start</Button>
-            </Nav.Link>
-            <Nav.Link as={Link} to="/about">
-              <Button variant="secondary">About</Button>
-            </Nav.Link>
-          </Nav>
-        </Container>
-      </Navbar>
       <Navbar variant="dark" bg="primary" expand="lg">
         <Container>
-          <Navbar.Brand className="d-flex d-sm-none">
-            <Link to="/" className="text-light">
-              {siteTitle}
-            </Link>
+          <Navbar.Brand>
+            <Link to="/">DIY Compendium</Link>
           </Navbar.Brand>
           <Navbar.Toggle />
           <Navbar.Collapse>
             <Nav className="ms-3">
-              {Object.entries(menuData).map(([key, { icon, title, links }]) => (
+              {/* Object.entries(menuData).map(([key, { icon, title, links }]) => (
                 <NavDropdown
                   title={<TitleIcon icon={icon} title={title} />}
                   key={key}
@@ -170,10 +138,10 @@ export default function Header({ siteTitle = '' }) {
                     )
                   )}
                 </NavDropdown>
-              ))}
+              )) */}
             </Nav>
-            <Nav className="justify-content-end w-100 me-2">
-              <Search />
+            <Nav className="justify-content-end w-100">
+              <Nav.Item className="dc-search" />
             </Nav>
           </Navbar.Collapse>
         </Container>
@@ -181,7 +149,3 @@ export default function Header({ siteTitle = '' }) {
     </Fragment>
   );
 }
-
-Header.propTypes = {
-  siteTitle: PropTypes.string
-};

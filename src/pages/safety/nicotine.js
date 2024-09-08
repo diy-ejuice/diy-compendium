@@ -1,7 +1,7 @@
+import { Fragment } from 'react';
 import PropTypes from 'prop-types';
 import { Container, Row, Col, Table } from 'react-bootstrap';
 
-import SEO from 'components/seo';
 import Layout from 'components/layout';
 
 const Icon = (props) => {
@@ -37,10 +37,17 @@ Icon.propTypes = {
   variant: PropTypes.string.isRequired
 };
 
+export function Head() {
+  return (
+    <Fragment>
+      <title>Nicotine Safety</title>
+    </Fragment>
+  );
+}
+
 export default function NicotineSafetyPage() {
   return (
     <Layout>
-      <SEO title="Safety" />
       <Container className="mt-5">
         <Row>
           <Col md="12">

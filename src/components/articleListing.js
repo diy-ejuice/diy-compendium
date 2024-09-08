@@ -2,25 +2,41 @@ import { Link, graphql } from 'gatsby';
 import PropTypes from 'prop-types';
 import { Container, Row, Col, Table } from 'react-bootstrap';
 
-import SEO from 'components/seo';
 import NotFoundPage from 'pages/404';
 import Layout from 'components/layout';
+import { Fragment } from 'react';
+
+const dataProps = {
+  data: PropTypes.shape({
+    articleList: PropTypes.object,
+    articles: PropTypes.arrayOf(PropTypes.object)
+  })
+};
+
+export function Head({ data }) {
+  return (
+    <Fragment>
+      <title>{data?.articleList?.title}</title>
+    </Fragment>
+  );
+}
+
+Head.propTypes = dataProps;
 
 export default function ArticleListing({ data }) {
-  if (!data || !data.allMarkdownRemark) {
+  if (!data || !data.articles) {
     return <NotFoundPage />;
   }
 
   const {
-    articlesJson,
-    allMarkdownRemark: { nodes }
+    articleList,
+    articles: { nodes }
   } = data;
 
-  const { title, description, author } = articlesJson;
+  const { title, author } = articleList;
 
   return (
     <Layout>
-      <SEO title={title} description={description} />
       <Container>
         <Row>
           <Col md="12">
@@ -53,22 +69,17 @@ export default function ArticleListing({ data }) {
   );
 }
 
-ArticleListing.propTypes = {
-  data: PropTypes.shape({
-    articlesJson: PropTypes.object,
-    allMarkdownRemark: PropTypes.arrayOf(PropTypes.object)
-  })
-};
+ArticleListing.propTypes = dataProps;
 
 export const pageQuery = graphql`
   query ($pathPrefix: String!, $articleName: String!) {
-    articlesJson(name: { eq: $articleName }) {
+    articleList: articlesJson(name: { eq: $articleName }) {
       author
       title
       description
     }
 
-    allMarkdownRemark(
+    articles: allMarkdownRemark(
       filter: { frontmatter: { path: { glob: $pathPrefix } } }
       sort: [{ frontmatter: { date: ASC } }]
     ) {
