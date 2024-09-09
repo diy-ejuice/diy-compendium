@@ -24,7 +24,7 @@ const createListPages = async ({ actions, graphql, reporter }) => {
   result.data.allListsJson.nodes.forEach((node) => {
     const path = getListUrl(node);
 
-    reporter.info(`Created page for ${path}`);
+    reporter.info(`New LIST page @ ${path}`);
     counter++;
     createPage({
       context: node,
@@ -80,6 +80,7 @@ const createArticlePages = async ({ actions, graphql, reporter }) => {
       return;
     }
 
+    reporter.info(`New ARTICLE page @ ${path}`);
     counter++;
     createPage({
       context: {
@@ -122,7 +123,9 @@ const createArticleListings = async ({ actions, graphql, reporter }) => {
 
   result.data.allDirectory.edges.forEach(({ node }) => {
     const { relativePath } = node;
+    const path = `/${relativePath}`;
 
+    reporter.info(`New LISTING page @ ${path}`);
     counter++;
     createPage({
       context: {
@@ -130,7 +133,7 @@ const createArticleListings = async ({ actions, graphql, reporter }) => {
         articleName: relativePath
       },
       component,
-      path: `/${relativePath}`
+      path
     });
   });
 
@@ -169,8 +172,7 @@ const createReviewPages = async ({ actions, graphql, reporter }) => {
     } = node;
     const path = getReviewUrl(node);
 
-    reporter.info(`creating page @ ${path}`);
-
+    reporter.info(`New REVIEW page @ ${path}`);
     counter++;
     createPage({
       context: {

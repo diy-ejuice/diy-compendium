@@ -1,7 +1,19 @@
-items:
-  - name: Intro
-    href: /intro
-  - name: Getting Started
-    items:
-      - name: Why DIY?
-        href: /why-diy
+- name: Introduction
+  href: /introduction
+- name: Getting Started
+  items:
+    - name: Why DIY?
+      href: /why-diy
+    - name: Your First Mix
+      href: /first-mix
+    - name: History
+      href: /history
+- name: Tutorials
+  items: []
+- name: Flavors
+  items: []
+- name: Resources
+  items:
+    - name: Noted Archive
+      href: https://noted.ejoose.org
+      external: true
