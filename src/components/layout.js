@@ -1,6 +1,6 @@
+import { Fragment } from 'react';
 import PropTypes from 'prop-types';
 import { useStaticQuery, graphql } from 'gatsby';
-import { SSRProvider } from 'react-bootstrap';
 
 import Footer from 'components/footer';
 import Header from 'components/header';
@@ -17,11 +17,11 @@ export default function Layout({ children }) {
   `);
 
   return (
-    <SSRProvider>
+    <Fragment>
       <Header siteTitle={data.site.siteMetadata.title} />
       <main className="mt-3">{children}</main>
       <Footer />
-    </SSRProvider>
+    </Fragment>
   );
 }
 
