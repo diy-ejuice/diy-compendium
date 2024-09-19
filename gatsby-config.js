@@ -103,7 +103,6 @@ module.exports = {
       resolve: 'gatsby-plugin-algolia-docsearch-options',
       options: algoliaOptions
     },
-    'gatsby-plugin-eslint',
     'gatsby-plugin-image',
     'gatsby-plugin-offline',
     'gatsby-plugin-react-helmet',
