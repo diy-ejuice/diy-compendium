@@ -21,10 +21,10 @@ export default [
       },
       parser: babelParser,
       parserOptions: {
+        requireConfigFile: false,
         babelOptions: {
           presets: [['@babel/preset-react', { runtime: 'automatic' }]]
-        },
-        requireConfigFile: false
+        }
       }
     },
     rules: {

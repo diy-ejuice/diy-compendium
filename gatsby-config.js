@@ -104,6 +104,13 @@ module.exports = {
       options: algoliaOptions
     },
     'gatsby-plugin-image',
+    {
+      resolve: 'gatsby-plugin-eslint',
+      options: {
+        configType: 'flat',
+        eslintPath: 'eslint/use-at-your-own-risk'
+      }
+    },
     'gatsby-plugin-offline',
     'gatsby-plugin-sass',
     'gatsby-plugin-sharp',
@@ -111,6 +118,7 @@ module.exports = {
     'gatsby-transformer-json',
     'gatsby-transformer-yaml',
     'gatsby-transformer-sharp',
+    '@ayan4m1/gatsby-plugin-root-import',
     {
       resolve: 'gatsby-transformer-remark',
       options: {

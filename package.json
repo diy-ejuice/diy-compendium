@@ -34,6 +34,7 @@
     "dotenv": "^16.4.5",
     "gatsby": "^5.13.7",
     "gatsby-plugin-algolia-docsearch-options": "^1.0.2",
+    "gatsby-plugin-eslint": "^4.0.4",
     "gatsby-plugin-gtag": "^1.0.13",
     "gatsby-plugin-image": "^3.13.1",
     "gatsby-plugin-manifest": "^5.13.1",
@@ -62,6 +63,7 @@
     "sharp": "^0.33.5"
   },
   "devDependencies": {
+    "@ayan4m1/gatsby-plugin-root-import": "^2.0.10",
     "@babel/eslint-parser": "^7.25.1",
     "@babel/preset-env": "^7.25.4",
     "@babel/preset-react": "^7.24.7",
@@ -73,6 +75,7 @@
     "eslint-plugin-prettier": "^5.2.1",
     "eslint-plugin-react": "^7.36.1",
     "eslint-plugin-react-hooks": "^5.1.0-rc-5dcb0097-20240918",
+    "eslint-webpack-plugin": "^4.2.0",
     "globals": "^15.9.0",
     "husky": "^9.1.6",
     "lint-staged": "^15.2.10",
