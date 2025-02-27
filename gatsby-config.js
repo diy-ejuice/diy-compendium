@@ -106,11 +106,18 @@ module.exports = {
     'gatsby-plugin-image',
     'gatsby-plugin-offline',
     'gatsby-plugin-react-helmet',
-    'gatsby-plugin-sass',
     'gatsby-plugin-sharp',
     'gatsby-plugin-sitemap',
     'gatsby-transformer-json',
     'gatsby-transformer-sharp',
+    {
+      resolve: 'gatsby-plugin-sass',
+      options: {
+        sassOptions: {
+          quietDeps: true
+        }
+      }
+    },
     {
       resolve: 'gatsby-transformer-remark',
       options: {
